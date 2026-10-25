@@ -1,5 +1,12 @@
 # ESSAY 0 — output v2 (corrected format per MISTAKES M3: SANSKRIT → TRANSLATION → PLAIN → BÄUMER)
 
+**Voice-layer ruling (analayo precedent):** rows 1–2 are always the card; row 4 may be
+her *explanation* (S1/S2/S3 cells) or her *voicing of commentary* (S4/S5/S6 cells —
+readings of Kṣemarāja/Candrajñāna/stage-gloss) — either way the archive voice carries
+it and never substitutes for the card.
+**PLAIN state:** rows are filter-output at the proposal key (one entry; several are
+honest no-ops) — regenerate + rehash at key sign-off (open thread 6), never hand-edit.
+
 Cell law (vatula MICRO-SESSION head + formula steps 2–5):
 **Q** *(2 breaths)* → **SANSKRIT** (source's own answer, sūtra-level, verified form) →
 **TRANSLATION** (existing exact rendering: lecturer > critical > gloss, never composed) →
@@ -10,9 +17,9 @@ Cell law (vatula MICRO-SESSION head + formula steps 2–5):
 
 > **What is consciousness?** *(2 breaths)*
 >
-> **SANSKRIT:** `caitanyamatma` · Sūtra 1.1
+> **SANSKRIT:** `caitanyamatma` · Sūtra 1.1 · held: Aphorisms l.735 (word) / l.736
 >
-> **TRANSLATION:** "Consciousness is the Self." — *Dyczkowski, The Aphorisms of Śiva (held)*
+> **TRANSLATION:** "Consciousness is the Self." — *Dyczkowski, The Aphorisms of Śiva (held: l.168, l.736)*
 >
 > **PLAIN:** "consciousness is the self" *(card; mechanical no-op at current key)*
 >
@@ -32,8 +39,8 @@ it bare, her voice strips the doing-association. Completes "Consciousness is ___
 ### S1. What is consciousness? — *(= the HEAD above)*
 
 ### S2. What keeps consciousness from being realised?
-> **SANSKRIT:** `jnanambandhah` · Sūtra 1.2
-> **TRANSLATION:** "Knowledge is bondage." — *Dyczkowski (held)*
+> **SANSKRIT:** `jnanambandhah` · Sūtra 1.2 · held: Aphorisms l.769 (word) / l.770
+> **TRANSLATION:** "Knowledge is bondage." — *Dyczkowski (held: Aphorisms l.169, l.770)*
 > **PLAIN:** "knowledge is bondage"
 > **BÄUMER:** *"…they are not inherent in the soul they are superficial… it is an
 > incomplete knowledge."* (ss4-15, [00:33:36]→[00:34:22], Grade A — two verified spans;
@@ -51,31 +58,31 @@ the spontaneous natural state), plus śuddhavidyā as the revealing threshold (s
 2.7's self-knowledge-as-food (ss12-15). One word, two types: partial binds, innate frees.
 
 ### S3. How does realisation happen?
-> **SANSKRIT:** `udyamo bhairavah` · Sūtra 1.5
-> **TRANSLATION:** "Bhairava is upsurge." — *Dyczkowski (held)*
+> **SANSKRIT:** `udyamo bhairavah` · Sūtra 1.5 · held: Aphorisms l.979 (word) / l.980
+> **TRANSLATION:** "Bhairava is upsurge." — *Dyczkowski (held: Aphorisms l.173, l.980)*
 > **PLAIN:** "bhairava is upsurge"
 > **BÄUMER:** *"…it is not made by any human effort, it is not created by any human effort."*
 > (ss12-16, [00:20:18]→[00:20:30], Grade A — the WHY: realisation is grace-born
 > upsurge; TEXT names WHAT it is (udyama), her voice says why it cannot be manufactured)
 
 ### S4. What does realisation do to experience?
-> **SANSKRIT:** `tritayabhokta vtresah` · Sūtra 1.11 *(OCR form from held file — verify against print at render)*
-> **TRANSLATION:** "The enjoyer of the three states is the Lord of the Heroes." — *Dyczkowski (held)*
+> **SANSKRIT:** `tritayabhokta vtresah` · Sūtra 1.11 · held: Aphorisms l.1401 (OCR — verify vs print) / trans l.181+1402
+> **TRANSLATION:** "The enjoyer of the three states is the Lord of the Heroes." — *Dyczkowski (held: Aphorisms l.181, l.1402)*
 > **PLAIN:** "the enjoyer of the three states is the lord of the heroes"
 > **BÄUMER:** *"…when this heroic yogi wanders about in this world with the rays of his
 > knowledge he purifies and fills it with supreme bliss right from hell to shiva."*
 > (ss7-06, [00:22:32]→[00:23:00], Grade A; her reading of this sūtra = ss7-11 for the render pair)
 
 ### S5. What does the mind have to do with consciousness?
-> **SANSKRIT:** `cittam mantrah` · Sūtra 2.1
-> **TRANSLATION:** "The mind is Mantra." — *Dyczkowski (held)*
+> **SANSKRIT:** `cittam mantrah` · Sūtra 2.1 · held: Aphorisms l.2325 (word) / l.2326
+> **TRANSLATION:** "The mind is Mantra." — *Dyczkowski (held: Aphorisms l.223, l.2326)*
 > **PLAIN:** "the mind is mantra"
 > **BÄUMER:** *"…the mind of the devotee … acquires identity with the deity and thus
 > becomes that mantra itself."* (ss11-05, [00:50:23]→[00:50:38], Grade A)
 
 ### S6. What happens after realisation?
-> **SANSKRIT:** `nartaka atma` · Sūtra 3.9
-> **TRANSLATION:** "The Self is the actor." — *Dyczkowski (held)*
+> **SANSKRIT:** `nartaka atma` · Sūtra 3.9 · held: Aphorisms l.3763 (word) / l.3764
+> **TRANSLATION:** "The Self is the actor." — *Dyczkowski (held: Aphorisms l.265, l.3764)*
 > **PLAIN:** "the self is the actor"
 > **BÄUMER:** *"…the place where the self takes delight with the intention of
 > exhibiting the world drama is the stage."* (ss13-09, [01:02:58]→[01:03:09], Grade A)

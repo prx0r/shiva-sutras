@@ -35,7 +35,7 @@ answer-space; none closes the enquiry.
 
 ---
 
-## S1. What is consciousness? — 62 units (24A) · **includes the SECOND VOICE**
+## S1. What is consciousness? — the thing · sūtras 1.1 (+intro/history) · 62 units (24A) · includes SECOND VOICE (dl1)
 **Anchor (her words):** `ss3-10` — "consciousness is definitely not individual
 consciousness … it means universal consciousness … consciousness is not something
 you are doing it is something which is there"
@@ -48,7 +48,7 @@ fluidity closes (ss5-01, ss6-06, ss7-01, ss8-01, ss9-03…05).
 **Note:** ss12-02 (recognition-as-reading) and ss13-01 (ātman-per-level) are verdict-here;
 recognition-thick material belongs to the PH project — keep only as reading-method here.
 
-## S2. What keeps consciousness from being realised? — 19 units (6A)
+## S2. What keeps consciousness from being realised? — the obstacle · sūtras 1.2–1.4 (+kañcuka/mātṛkā exegesis) · 19 units (6A)
 **Anchor:** `ss4-12` (the shock: "jñānam bandhaḥ") · definitional: ss4-14 · Q asks WHAT keeps, not why-it-binds — "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature"
 **Journey:** the bridge-question (ss4-11 "how come we are not all liberated") →
 the shock (ss4-12 jñānam bandhaḥ) → two readings (ss4-13) → mala-map (ss4-14…17:
@@ -57,7 +57,7 @@ kañcuka section (ss5-02…08, ss5-12, ss5-15: kalā-fragment, armor, removal-ru
 malas-speaking) → threshold as māyā (ss9-02) · siddhi-veil strays: ss13-03.
 **A-anchors:** ss4-12, ss4-14, ss4-17, ss5-15, ss5-04.
 
-## S3. How does realisation happen? — 20 units (8A)
+## S3. How does realisation happen? — the arrival · sūtra 1.5 (+1.6-adjacent suddenness, 2.5-svābhāvika echo) · 20 units (8A)
 **Anchor:** `ss6-04` — "ud + yam … it is not a gradual rising step by steps it is a sudden upsurge"
 **Journey:** jīvanmukti-question (ss6-01) → Zen/sudden frame (ss6-02) → viśrānti (ss6-03) →
 the sūtra itself (ss6-04/05 uplifting=divine) → union (ss6-07/08) → "not by any human
@@ -66,7 +66,7 @@ effort" (ss12-03/04 + ss10-05/06 easy-way & result-not-ticket) → thought-free 
 **A-anchors:** ss6-04, ss6-05, ss6-08, ss6-14, ss12-04, **ss12-16 (the WHY-line: not made by any human effort)**, ss10-05.
 **Note:** siddhi-rejection deliberately clustered here (means: not-by-powers), not in S6.
 
-## S4. What does realisation do to experience? — 24 units (10A)
+## S4. What does realisation do to experience? — the change · sūtras 1.7–1.15 (states/turya/heart) · 24 units (10A)
 **Anchor:** `ss7-06` — "the moonlit vīra … with the rays of his knowledge he purifies
 and fills it with supreme bliss right from hell to shiva"
 **Journey:** turya/state-machinery (ss2-02, ss7-04…09: 3×3, sleep-entry, awakening-degrees) →
@@ -75,7 +75,7 @@ body-reading (ss8-02…05 this-universe-my-body, peacock/banyan) → heart-pract
 (ss8-06/07 lotus) → kṣobha/agitation (ss12-13) · program strays: ss3-01 invocation, ss6-19.
 **A-anchors:** ss7-05, ss7-06, ss7-07, ss7-14, ss7-16, ss8-02, ss8-06, ss8-07.
 
-## S5. What does the mind have to do with consciousness? — 36 units (15A)
+## S5. What does the mind have to do with consciousness? — the mechanism · sūtra 2.1 (+2.3 mantra, 2.6 guru) · 36 units (15A)
 **Anchor:** `ss11-05` — "the mind of the devotee … acquires identity with the deity and
 thus becomes that mantra itself"
 **Journey:** MVUT practice-freedom (ss1-10…15: fix awareness, adopt whatever enables) →
@@ -86,7 +86,7 @@ condense-to-source, nyāsa, pause-between-syllables) → attention-rule (ss6-09)
 ss12-08/09/10 → khecari/vitarka (ss12-05, ss10-07) · program: ss11-08 selection-note.
 **A-anchors:** ss11-03/05/06, ss10-01, ss10-08, ss12-08, ss1-11, ss5-11.
 
-## S6. What happens after realisation? — 25 units (8A)
+## S6. What happens after realisation? — the after · sūtras 3.1–3.16 (āṇava yoga, jīvanmukti, actor/stage) · 25 units (8A)
 **Anchor:** `ss3-17` — "they come at the end because you cannot practice any ethics or
 any yama niyama unless you have already reached a certain stage of spiritual experience"
 **Journey:** ethics-after (ss3-17/18) → supportlessness + āsana-redefined (ss10-03/04) →
@@ -112,11 +112,28 @@ S3 says you can't force it → S4 shows what it does once present → S5 shows h
 mind/mantra engages it → S6 shows what it is finally free to do. Same seed,
 six widenings — the essay performs unfoldment; no layer swaps the idea.
 
+## THE FOUR-LAYER GOSPEL (canonical for ALL content — owner law, 2026-10-25)
+
+Every question-cell, every beat, every clip-slot:
+1. **SANSKRIT** — the text's own answer, sūtra-level, form verified in the held
+   Aphorisms (`reference/aphorisms-of-siva-dyczkowski_clean.txt`), never composed.
+2. **LITERAL TRANSLATION** — existing exact rendering, priority lecturer > Dyczkowski >
+   gloss; never repaired (weak line = re-pick, not edit).
+3. **PLAIN ENGLISH** — mechanical output of the key filter over row 2 ONLY; regenerate
+   at pick; edits go in the KEY, never the row.
+4. **ARCHIVE VOICE** — Baumer (ss1–13) or Dyczkowski (dl1) explaining it: Grade A,
+   ≤25s, window in gold, completes the question. Voice may read (commentary it voices)
+   or explain — analayo precedent: the archive voice carries both; rows 1–2 remain the
+   card, row 4 never substitutes for them.
+On screen: rows 1–2 ride together as the card (Sanskrit on top, translation beneath),
+plain under that; in essay-0 the four rows are spoken/scaffolded in order.
+Order is fixed: no plain before translation, no voice before plain, ever.
+
 ## Build rules (next stages, unchanged from process docs)
 Essay-0 lock (draft in build/essay0_lock.json, owner ear pending) → SPINE build:
 A = sections at speed (10–20m) · B = A + depth (hold-up test: deepens the seed,
 B ≈ A×1.6–2) · C = A+B+texture (her order within sections; C-homes stay out) ·
-beats = [TEXT verbatim → PLAIN (key) → AUDIO] with question→2-breath-pause before,
+beats = [SANSKRIT+TRANSLATION card → PLAIN (key) → ARCHIVE VOICE] with question→2-breath-pause before,
 HUMAN voice owns questions · Sanskrit-first cards · quotas never padded (thin is honest).
 
 ## Voices + TEXT law
@@ -147,6 +164,11 @@ awk -F'\t' 'NR>1{c[$4]++} END{for(k in c) print k,c[k]}' excavations/SPINE_ASSIG
 | 4 | What does realisation do to experience? | **strong, 8/10** — enjoyment/radiance/wonder/bliss/body-read = direct answers; wobble: ss8-06/07 (heart-light, lotus-merge) are practice HOW-units — kept, since the heart is where the yogi's experience occurs (domain reading); flag for audio flow-read |
 | 5 | What does the mind have to do with consciousness? | **strong** — mantra-core (ss11 trio, pause, attention, join-not-suppress) is direct; guru cluster rides "the mechanism" via guru-vaktra (transmission-by-word); MVUT units = mind-practices of attention |
 | 6 | What happens after realisation? | **good, 6/8** — ethics-after, vyutthāna-return, sameness, stage, devour-fruit = the life-question; wobble: ss10-03/12-12 (āsana, offering) are path-techniques parked here by TEXT-ORDER (3.x = her sūtra sequence) — fractal law says keep; flag for flow-read |
+
+**Beat feed (unit→sūtra):** section sūtra-range is the default locator for every unit
+inside it; explicit exceptions only where a unit's own sūtra differs (dl1-04 → 1.1,
+ss12-16 → 2.5-commentary, ss6-14 → Spanda-echo). At beat build, each A-unit resolves:
+unit quote (audio window) + Aphorisms rows 1–2 for the section's sūtra + key-plain.
 
 Wobbles are recorded, not patched: units stay in their sūtra-order homes; if the audio
 flow-read shows a section sagging, the levers are (a) promote a B (e.g. S6's dancer

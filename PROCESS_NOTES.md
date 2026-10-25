@@ -215,3 +215,12 @@ stretches, her asides). Consequences:
 8. **Baumer mp3s local** — only KSpk4/r5w local; pull the other 11 from R2 at build/render time.
 9. **S5 collate + B-selection + three-layer beats** (BUILD ORDER: essay0 → A → B hold-up → C walk) — the main build, not started.
 10. **Cross-repo calls:** BHU-Tantraloka ownership (tantraessays vs vatulanatha CUTTING-FORMULA); CATALOGUE/dl1 rows re-audit if sections move; corpus.db "next loads" (essay-corpus wants PH/Spanda/SS units — ours qualify once locked).
+
+## 8f. Four-layer gospel ratified (owner, "for all things")
+Format confirmed canonical across the project: SANSKRIT → LITERAL TRANSLATION →
+PLAIN ENGLISH → ARCHIVE VOICE (Baumer|Dyczkowski). Written as law in SPINE.md
+("THE FOUR-LAYER GOSPEL"); beat = card(sanskrit+translation) → plain → voice;
+essay-0 = the four rows spoken in order. Section sūtra-ranges now in SPINE headers;
+unit→sūtra feed = section-default with explicit exceptions (see SPINE fit table).
+Stale-question sweep: old Q strings exist ONLY in MISTAKES/PROCESS history (allowed)
+and the gate's designated alternate.

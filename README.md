@@ -20,6 +20,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
    pass-1 ledger state (ledger = `excavations/COVERAGE_LEDGER.tsv`, 676 rows).
 9. `HANDOVER-2026-10-25.md` — today's full log: pass-1, structure-pass, M19–M21,
    gotchas, and the exact next moves.
+10. `TODO.md` — **the 20-action queue** (start here for work; NEXT = the longer why).
+11. `FILEMAP.md` — every path: what it is and why (update it the day you add a file).
 
 ## State (handover snapshot)
 - **Grading:** 308 units (81A/219B/8C) across 14 sessions (pass-1: day5_ii +18, day6_ii +21) — `tools/verify_units.py` = 308/0.
@@ -44,6 +46,8 @@ reference/     aphorisms-of-siva (GITIGNORED — never commit, copyright)
 audio/         mp3s (GITIGNORED — local only)     text/  stamped transcripts (14)
 transcripts/   raw VTTs (11)   cf/  CF-whisper JSON (2)   tools/  verifiers & pipelines
 MANIFEST.json  14/14 sessions with transcript sources
+FILEMAP.md     path inventory: what each file is + why (keep current)
+TODO.md        20-action queue for the next agent
 ```
 
 ## Repro

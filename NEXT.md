@@ -1,5 +1,7 @@
 # NEXT — the complete work queue for whoever picks this up
 
+> Operational short version: **`TODO.md`** (20 actions). Paths: **`FILEMAP.md`**.
+
 State at handover: 308 units (81A/219B/8C) verify-green; pass-1 COMPLETE (14/14, ledger 676+ rows) ·
 segmentation 308/308 · 6 open spine questions G0 7/7 · essay-0 four-layer stack built +
 flow-read PASS (lock = DRAFT, owner ear) · HANDOVER-2026-10-25.md = today full log ·

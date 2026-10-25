@@ -16,8 +16,10 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
    with flow verdicts (read for argument coherence).
 7. `build/JOIN_AUDIT.md` — line-by-line join audit: all 65 adjacent pairs verdicted
    (55 OK / 9 SOFT / 0 WEAK), quote-integrity 71/0, cross-section joints.
-8. `excavations/COVERAGE.md` + `tools/coverage_measure.py` — how much of Baumer is in
-   (12.1% span / 16.5% words) and the three-channel plan to include the rest.
+8. `excavations/COVERAGE.md` + `tools/coverage_measure.py` — coverage truth + the
+   pass-1 ledger state (ledger = `excavations/COVERAGE_LEDGER.tsv`, 676 rows).
+9. `HANDOVER-2026-10-25.md` — today's full log: pass-1, structure-pass, M19–M21,
+   gotchas, and the exact next moves.
 
 ## State (handover snapshot)
 - **Grading:** 308 units (81A/219B/8C) across 14 sessions (pass-1: day5_ii +18, day6_ii +21) — `tools/verify_units.py` = 308/0.
@@ -28,8 +30,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
 - **Essay-0:** stack built + flow-read done (text-level) — lock = DRAFT, **owner ear pending**.
 - **Four-layer gospel:** ratified as law (SPINE §GOSPEL); every S/T row carries
   Aphorisms line-refs; plain rows = proposal-key no-ops until sign-off.
-- **Coverage:** units claim 13% of audio-time — **no ledger for the remainder yet**
-  (decision owed, PROCESS §8e-1).
+- **Coverage:** pass-1 COMPLETE — 676 ledger rows disposition every gap (14/14 files);
+  15.9% span / ~23% words quoted; owner decision (§8e-1) now only formalizes the form.
 
 ## Repo map
 ```

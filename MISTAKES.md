@@ -128,3 +128,10 @@
   pass-1 window review of day3_session_i.
   **Rule: before appending a new unit, list the file's existing windows; and a
   duplicate-quote check belongs in verify_units (uid must be unique per quote).**
+- **M20. Cross-file caption duplication: `day_2_session_i.txt` tail (L810-991, [49:54+])
+  reproduces `day_6_session_i.txt` content with identical timestamps** (Jaideva-guru-run,
+  Pañchastavī, vāktra). Either a caption-pipeline append-bug or genuine re-delivery;
+  quotes verify in BOTH files (299/0) so no unit was harmed; units exist in parallel
+  (ss4-21/22 vs ss12-09/10). Caught 2026-10-25 by the pass-1 read.
+  **Rule: ledger such spans as cross-file-dup with pointer; NEVER create parallel units
+  for the same claim twice (double-claim hazard).**

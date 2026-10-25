@@ -81,3 +81,9 @@ brahman-shakti/maya-real/excludes-nothing/mutual-dep); ss2-07 = safety-net C-uni
 8 gaps ledgered: participant question-halves (Veda-comparison, dualistic-tools, safety-net),
 dup-tails (multiplicity, abstract-to-experience = ss7-30-family), thin leads,
 meditation-program logistics. PASS WITH NO UNITS ADDED — ledger-only file.
+
+## Pass-1: day2_session_i (= ss4, 16.8% span) — DONE 2026-10-25
+0 promotes — all 22 doctrinal clips already unitd (ss4-01..22 incl. imagination-real,
+light, consumerism, flower, own-freedom-obstacle, guru-run). M20 logged: file TAIL
+(L810-991) duplicates day6_i content (same stamps) — ledgered as cross-file-dup,
+parallel units (ss4-21/22 vs ss12-09/10) kept, no double-claim created.

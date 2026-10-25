@@ -75,3 +75,12 @@
   Fixed: both regexes accept the optional trailing text-tag; uid pattern covers
   `dl*`. **Rule: any header-format extension must be added to EVERY parser that
   reads headers, in the same commit.**
+- **M13. mp3s swept into git + a deleted ref resurrected via packed-refs.** `git add -A`
+  committed 242MB of audio (a 158MB file would have blocked any future push — GitHub
+  100MB/file). Fix: `.gitignore` gains `audio/`, `git rm -r --cached`, then
+  `filter-branch --index-filter` rewrite of the young unpushed history + aggressive gc.
+  The loose `refs/original` deletion appeared to work but the ref had been *packed* by
+  the intervening `git gc` — only `git update-ref -d refs/original/refs/heads/main`
+  removed it from packed-refs (then .git: 243M → 1.3M, 0 reachable mp3s).
+  **Rules: `audio/` is local-only forever (same as tantraessays); after filter-branch,
+  verify with `git rev-list --objects --all | grep mp3` = 0, not with ls.**

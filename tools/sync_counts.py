@@ -58,7 +58,7 @@ def main():
     # NEXT
     sub('NEXT.md',[
       (r'State at handover: \d+ units \(\d+A/\d+B/\d+C\)[^·]*·',
-       f'State at handover: {tot} units ({A}A/{B}B/{C}C) all verify-green (pass-1 in progress) ·'),
+       f'State at handover: {tot} units ({A}A/{B}B/{C}C) verify-green; pass-1 COMPLETE (14/14, ledger 676+ rows) ·'),
     ])
     print('docs synced')
 

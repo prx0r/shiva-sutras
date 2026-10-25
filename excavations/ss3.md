@@ -170,6 +170,33 @@ ethics-at-end → practical nonduality.
 - context: VB dhāraṇā 100 (same Self in all bodies → conquer becoming); "non-duality is not a philosophical idea it has to be applied in practice."
 - essay_use: the applied-nonduality line; pairs with ss3-17 as principle+fruit
 
+### ss3-19 — nothing exists outside the range of consciousness - absolutely free in all knowledge and activity [B]
+- timestamp: [01:23:04]-->[01:23:30]
+- topics: consciousness,freedom
+- role: quote
+- layer: explain
+- quote: "he begins in the translation in this world nothing exists which is outside the range of consciousness the activity of consciousness is universal throughout sarvasam and europa a conscious being is one who this is a bit artificial language but of which coincides with things who is absolutely free in all knowledge and activity"
+- context: Raja translation read aloud (after ss3-12 identification-clip): in this world nothing exists which is outside the range of consciousness; the activity of consciousness is universal throughout; a conscious being is one who coincides with things, absolutely free in all knowledge and activity. The manifesto-sentence itself.
+- essay_use: S1 depth: the svatantriya-manifesto quote (source of ss3-12 claim)
+
+### ss3-20 — everything full of that consciousness conquers the world of becoming (VB 100) [B]
+- timestamp: [01:42:56]-->[01:43:18]
+- topics: consciousness,realisation
+- role: quote
+- layer: explain
+- quote: "comes this the one which is characterized as consciousness is residing in all the bodies there is no differentiation in anything therefore if a person realizes that everything is full of that very consciousness he conquers the world of becoming bhavajit journalist is very powerful expression"
+- context: Swamiji VB-dharana-100 read: consciousness is residing in all the bodies, there is no differentiation in anything; therefore if a person realizes that everything is full of that very consciousness he conquers the world of becoming (bhavajit). The practice-verse of the consciousness-half.
+- essay_use: S1 depth: conquering-becoming via all-bodies-consciousness (feeds S6 compassion-run)
+
+### ss3-21 — nonduality is not a philosophical idea - it has to be applied in practice [B]
+- timestamp: [01:44:45]-->[01:44:55]
+- topics: realisation,ethics
+- role: claim
+- layer: explain
+- quote: "application of non-duality see non-duality is not a philosophical idea it has to be applied in practice so in his translation"
+- context: The morning’s closing method-creed: and that is the practical application of non-duality - non-duality is not a philosophical idea, it has to be applied in practice (after compassion-from-within, ss3-18).
+- essay_use: S1 depth: nonduality-as-praxis (caps the consciousness-teaching)
+
 ## Reuse clusters
 - **Course program**: ss3-02, ss3-03, ss3-04, ss3-08 (retreat frame, text-as-guru, three ways, editions)
 - **1.1 gloss core**: ss3-09, ss3-10, ss3-11, ss3-12, ss3-14, ss3-16 (samvit → not-individual → innermost-nature → freedom → freedom-mark → non-artificial)

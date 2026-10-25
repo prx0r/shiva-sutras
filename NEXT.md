@@ -1,6 +1,6 @@
 # NEXT — the complete work queue for whoever picks this up
 
-State at handover: 284 units (81A/194B/9C) all verify-green (pass-1 in progress) · segmentation 225/225 ·
+State at handover: 287 units (81A/197B/9C) all verify-green (pass-1 in progress) · segmentation 225/225 ·
 6 open spine questions G0 7/7 · essay-0 four-layer stack built + flow-read PASS ·
 SECTION_ARGUMENTS (Essay A as text) verdicts: 5/6 flow on her words alone, 2 named
 bridges, 2 soft spots · pushed to github.com/prx0r/shiva-sutras (main).

@@ -56,3 +56,13 @@ orientation-table (whole upaya-correspondence scheme), leads into covered units,
 (ss9-02 window ended 1s before its own quote-line "that a threshold"). Compassion-thesis
 L14-20 logged dup-adjacent: inside ss9-01 window (window⊃quote). Q&A half (real-question)
 C as question-half; Sarnath-survey/recaps C thin; covered rows recorded for audit.
+
+## Pass-1: day2_introduction_iii (= ss3, 11.1% span, biggest word-file 10.8k) — DONE 2026-10-25
+3 promotes (ss3-19..21, all B: Raja-manifesto quote, VB-100 conquer-becoming, nonduality-
+applied-creed). Teaching-half was ALREADY well-unitd (18 units); audit caught several
+"planned" clips as inside existing windows (silence, labels, is-not-doing, innermost,
+freedom-distinctive, artificial) — recorded dup-adjacent in ledger, none force-overlapped.
+Integration: intros-block (L134-1102, 4.3k+1.6k words of participant voices) = 2 giant
+C-rows (participant-vote off-unit-policy); book-logistics/editions already covered ss3-08.
+Note: ss3-09 window extends past quote to the integrative-gloss — flagged for future
+quote-extension, not overlapped.

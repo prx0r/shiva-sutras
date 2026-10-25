@@ -127,7 +127,6 @@ ss5-02	ss5	A	5	27	18	verdict
 ss5-03	ss5	B	2	48	46	
 ss5-04	ss5	A	2	42	41	
 ss5-05	ss5	B	2	41	38	
-ss5-06	ss5	B	2	34	25	
 ss5-07	ss5	B	2	33	29	verdict
 ss5-08	ss5	B	2	17	7	
 ss5-09	ss5	A	5	23	13	verdict
@@ -224,3 +223,18 @@ ss13-28	ss13	B	6	22	12	pass1-manual
 ss13-29	ss13	A	6	35	25	pass1-manual
 ss13-30	ss13	B	2	22	12	pass1-manual
 ss13-31	ss13	B	2	22	12	pass1-manual
+ss5-16	ss5	B	3	22	12	pass1-manual
+ss5-17	ss5	B	2	22	12	pass1-manual
+ss5-18	ss5	B	2	22	12	pass1-manual
+ss5-19	ss5	A	2	35	25	pass1-manual
+ss5-20	ss5	B	2	22	12	pass1-manual
+ss5-21	ss5	B	2	22	12	pass1-manual
+ss5-22	ss5	B	3	22	12	pass1-manual
+ss5-23	ss5	B	5	22	12	pass1-manual
+ss5-24	ss5	B	5	22	12	pass1-manual
+ss5-25	ss5	B	2	22	12	pass1-manual
+ss5-26	ss5	B	5	22	12	pass1-manual
+ss5-27	ss5	B	5	22	12	pass1-manual
+ss5-28	ss5	B	5	22	12	pass1-manual
+ss5-29	ss5	B	5	22	12	pass1-manual
+ss5-30	ss5	B	2	22	12	pass1-manual

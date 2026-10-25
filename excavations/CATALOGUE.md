@@ -1,6 +1,6 @@
 # CATALOGUE — topics → units (A-density + convergence)
 
-Built after the full 13-session grading pass; CURRENT totals: **225 units: 78 A / 138 B / 9 C** (pass-1: +18 ss11, +21 ss13); counts below are session-1 snapshots; SPINE_ASSIGN.tsv is authoritative.
+Built after the full 13-session grading pass; CURRENT totals: **239 units: 79 A / 151 B / 9 C** (pass-1); counts below are session-1 snapshots; SPINE_ASSIGN.tsv is authoritative.
 Closed topic list (vatulanatha union + tantraessays 9). Method: keyword spread across
 13 transcripts (measured, not assigned) × A-density per topic (independent dissection).
 
@@ -68,7 +68,7 @@ grace/guru (patchy 8/13 — strong in Day 6 I, but cannot carry the whole arc).
 
 - consciousness: ss1-04 ss1-21 ss2-04 ss3-10 ss3-11 ss3-12 ss4-01 ss4-05 ss4-07 ss4-09 ss9-02 ss9-03 ss11-02
 - mantra: ss1-04 ss1-21 ss3-01 ss4-13 ss4-14 ss5-09 ss5-11 ss5-12 ss8-06 ss8-07 ss11-03 ss11-05 ss11-06 ss11-07 ss12-12 ss13-04
-- praxis: ss1-11 ss1-23 ss2-01 ss2-05 ss3-17 ss4-01 ss4-02 ss4-12 ss4-20 ss5-02 ss5-04 ss5-06 ss5-11 ss6-04 ss6-05 ss6-08 ss6-09 ss6-14 ss6-16 ss7-16 ss8-07 ss9-01 ss10-01 ss10-03 ss10-05 ss10-08 ss11-01 ss12-04 ss12-06 ss12-15 ss13-02
+- praxis: ss1-11 ss1-23 ss2-01 ss2-05 ss3-17 ss4-01 ss4-02 ss4-12 ss4-20 ss5-02 ss5-04 ss5-15 ss5-11 ss6-04 ss6-05 ss6-08 ss6-09 ss6-14 ss6-16 ss7-16 ss8-07 ss9-01 ss10-01 ss10-03 ss10-05 ss10-08 ss11-01 ss12-04 ss12-06 ss12-15 ss13-02
 - doctrine: ss1-10 ss1-25 ss2-03 ss3-08 ss3-12 ss3-13 ss3-14 ss4-08 ss4-10 ss4-12 ss4-14 ss4-15 ss4-17 ss5-04 ss6-09 ss7-05 ss7-09 ss9-02 ss9-03 ss12-10 ss13-01 ss13-09
 - ritual: ss1-13 ss1-14 ss4-08 ss6-17 ss10-03 ss10-12 ss12-06 ss12-12
 - realization: ss1-16 ss3-03 ss4-02 ss4-05 ss4-20 ss6-01 ss6-05

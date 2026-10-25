@@ -123,3 +123,8 @@
   dropped without ellipsis). Caught 2026-10-25 by the 71/0 re-verify pass of the join audit.
   **Rule: after ANY quote is moved into a new document, re-run the verbatim verifier
   against transcripts — pass-verify protects the source file, not the copies.**
+- **M19. Exact duplicate units ss5-06 / ss5-15** (identical quote, windows 30:29–30:46 vs
+  30:31–30:50, grades B vs A) survived the original grading pass. Caught 2026-10-25 by the
+  pass-1 window review of day3_session_i.
+  **Rule: before appending a new unit, list the file's existing windows; and a
+  duplicate-quote check belongs in verify_units (uid must be unique per quote).**

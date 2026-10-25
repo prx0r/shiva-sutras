@@ -53,15 +53,6 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Why kañcukas protect individuality against dissolution into total freedom — losing individuality is the most challenging thing; āṇava mala deepest-rooted.
 - essay_use: the armor paradox; modern psychology bridge ("psychologists can say a lot about this")
 
-### ss5-06 — remove the limitation, the divine quality follows [B]
-- timestamp: [00:30:29]-->[00:30:46]
-- topics: praxis, doctrine
-- role: method
-- layer: explain
-- quote: "because the moment you overcome your individual limitations that omniscience follows as a as a result it's not that you aim at omniscience but you aim at removing that limitation and the moment the limitations are removed the rest follows"
-- context: Kalā→omni-creativity (even Abhinavagupta didn't paint — played vīṇā, musician), vidyā→omniscience, rāga→universal love, kāla→? The transformation rule.
-- essay_use: the method maxim of the whole course; essay-0 candidate line
-
 ### ss5-07 — limits are also parameters; snake casts its skin [B]
 - timestamp: [01:16:46]-->[01:17:31]
 - topics: tattva, praxis
@@ -143,16 +134,150 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Kañcuka-transformation logic (limited knowledge→omniscience, limited agency→universal creativity, etc.); the session's method maxim.
 - essay_use: the removal rule — load-bearing for every "how" beat; essay-0 candidate
 
-## Reuse clusters
+### ss5-16 — anupaya: get it free of cost, no effort - if you are receptive [B]
+- timestamp: [00:12:11]-->[00:12:27]
+- topics: realisation,practice
+- role: method
+- layer: how
+- quote: "so what happens here you get it free of cost you don't have to make any effort you just of course you must be blessed to have the darshan of a sitter but that transference happens automatically if you're receptive of course if you are"
+- context: The pathless means made concrete: with a siddha darshana the transmission happens automatically - free of cost, no effort - you must only be blessed and receptive (the receptacle-caveat follows: full of mala-imagining, it is your fault if you cannot see). Pairs ss11-24 guru and the S3 easy-way.
+- essay_use: S3 depth: effortless-arrival channel (anupaya)
+
+### ss5-17 — the framing question: all is pervaded - how come we are not enlightened? [B]
+- timestamp: [00:13:57]-->[00:14:13]
+- topics: bondage,consciousness
+- role: question
+- layer: explain
+- quote: "he says if everything is pervaded by this pure or divine consciousness and how come that we are not enlightened and that is where he comes to the sutra two three and four which describe the cause of the bondage"
+- context: Raja introduction to sutras 2-4 in one question: if everything is pervaded by pure/divine consciousness, how come we are not enlightened? And that is where the analysis of bondage cause begins. The question BEHIND S2.
+- essay_use: S2 depth: section own opening question (echoes spine Q2)
+
+### ss5-18 — anava-mala: we take ourselves for a fragment, an imperfect being [B]
+- timestamp: [00:14:35]-->[00:15:05]
+- topics: bondage,ignorance
+- role: claim
+- layer: explain
+- quote: "yesterday is the most basic mala or impurity which is the basis for the others is ana mala that is the impurity of individuality that uh and that we consider ourselves just a fragment and a very imperfect being and that imperfection has to be complemented by something or other you know by all kinds of external uh things to complement our imperfection that is ana"
+- context: The root-mala spelled out: the most basic impurity, basis for the others - individuality as fragment: we consider ourselves just a fragment and a very imperfect being, and that imperfection has to be complemented by external things. Bondage as self-completion-seeking.
+- essay_use: S2 depth: root-mala phenomenology (extends ss4-14 and ss13-30)
+
+### ss5-19 — freedom is what we armor against: losing individuality is the most challenging thing [A]
+- timestamp: [00:27:44]-->[00:27:59]
+- topics: bondage,freedom
+- role: claim
+- layer: explain
+- quote: "uh understand that we need something to protect our individuality so that we are not dissolved into that nothingness or into that total freedom of consciousness which is very challenging to lose your individuality is the most challenging thing"
+- context: The kanchuka psychology in her own words: we need armor to protect our individuality so that we are not dissolved into that nothingness - into that TOTAL FREEDOM of consciousness, which is very challenging; to lose your individuality is the most challenging thing. The WHY of self-veiling (the motive behind 1.3).
+- essay_use: S2 essay-critical: fear-of-dissolution = the obstacle engine (essay-0 depth: why freedom hides itself)
+
+### ss5-20 — the journey is from individuality to universality [B]
+- timestamp: [00:33:12]-->[00:33:49]
+- topics: consciousness,realisation
+- role: claim
+- layer: explain
+- quote: "because as i said i quoted swamiji yesterday the journey is from individuality to universality so we know our individual capacities and then we also realize that they are still limited but they have the intrinsic capacity to become unlimited and that is the wonderful thing about this so you become conscious of your limitation and then you try to become more and more one with that universal consciousness which is chaitanya matma"
+- context: Swamiji map, quoted: the journey is from individuality to universality - individual capacities are limited yet have the intrinsic capacity to become unlimited; conscious of limitation, one becomes more and more one with that universal consciousness which is caitanyam atma. The arc between S2 limitation and S1 universal.
+- essay_use: S2 depth: limitation-to-universal bridge (also feeds S1 chaitanya)
+
+### ss5-21 — how much do we really want to be liberated - we still need our limitations [B]
+- timestamp: [00:35:50]-->[00:35:56]
+- topics: bondage,freedom
+- role: claim
+- layer: explain
+- quote: "much do we really want to be liberated from these limitations because we are still living in this world we still need our limitations"
+- context: The immediate-liberation discussion turned on the participant: how much do we really want to be liberated from these limitations? We are still living in this world, we still need our limitations - the paradox of the kanchukas (they have a positive role too, she says after). Pairs ss5-19 fear-clause.
+- essay_use: S2 depth: resistance-as-question (pairs freedom-challenging clip)
+
+### ss5-22 — the moment agitation ceases, the supreme state appears - sudden, no stages [B]
+- timestamp: [00:40:11]-->[00:40:29]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "the moment agitation or this restlessness ceases the supreme state will occur will appear so and this is something sudden also sudden there's no uh are no stages the moment it sees it and how it ceases why it's easier that"
+- context: Spandakarika read: the moment agitation/restlessness ceases, the supreme state will appear - and this is something SUDDEN, there are no stages. Source-confirmation of the S3 thesis (ss6-04 upsurge) via the Spanda verse; agitation-ceases = the mechanism (pairs ss6-14 unmeasure).
+- essay_use: S3 depth: Spanda-source for sudden-arrival
+
+### ss5-23 — silence reverts the outward pull of words [B]
+- timestamp: [00:50:42]-->[00:51:02]
+- topics: mind,practice
+- role: method
+- layer: how
+- quote: "what causes our bondage see why do we keep silence why do we meditate in silence because we know of words when we speak you know we are drawn outside and in silence it can revert that process coming back to that material and then"
+- context: Why meditate in silence: because we know the power of words - when we speak we are drawn outside; silence can REVERT that process, coming back. Speech as outward-flow, silence as return - the practice-rationale behind the pause.
+- essay_use: S5 depth: language-direction law (sets up ss5-11 pause)
+
+### ss5-24 — language may lead to freedom - or re-absorb vikalpa in reflective awareness [B]
+- timestamp: [00:52:03]-->[00:52:30]
+- topics: mind,language
+- role: claim
+- layer: explain
+- quote: "may lead man to freedom or in machine even more in the samsara to remain within the terms of this discourse they may increase the dichotomies of the vikalpa we calpers that the like automating thoughts thought constructs in pure but they may also if correctly polarized gradually re-absorb the vikalpa in pure reflective awareness pure"
+- context: Sanderson-paragraph double-power (ASR fragments in quote - EAR CHECK): the powers of the alphabet may lead man to freedom or further into samsara; they may increase the dichotomies of vikalpa - or, if correctly polarized, gradually RE-ABSORB vikalpa in pure reflective awareness. The ambivalence thesis with its mechanism.
+- essay_use: S5 depth: mind raw material cuts both ways (pairs ss11-15 shuddha-vikalpa)
+
+### ss5-25 — verbalizing = limited knowledge: the moment you fix something in a word [B]
+- timestamp: [00:53:59]-->[00:54:22]
+- topics: bondage,language
+- role: claim
+- layer: explain
+- quote: "language the the powers of language which are the basis of knowledge because knowledge without language is does not exist but as we had the second suta gyana in the sense of limited knowledge because whatever is verbalized the moment you fix something in a word"
+- context: jnanabandha at the linguistic level: knowledge without language does not exist; and as the second sutra has it - jnana in the sense of LIMITED knowledge - because whatever is verbalized, the moment you fix something in a word, it is fixed. Bondage as naming (pairs ss13-31 every-level-bondage).
+- essay_use: S2 depth: 1.2 mechanism at word-level (feeds S5 pause-doctrine)
+
+### ss5-26 — all letters are the Mother: whatever I speak is a praise to you [B]
+- timestamp: [00:57:13]-->[00:57:29]
+- topics: language,devotion
+- role: claim
+- layer: explain
+- quote: "that since all the letters are an aspect of you of you or mother then whatever i speak is a praise to you so that is that when you turn the thing around it's very beautiful this ambika stava"
+- context: The Ambika-stava inversion she calls beautiful: all letters are an aspect of you, O Mother - then whatever I speak is a praise to you. Turning language around: speech as worship instead of distraction.
+- essay_use: S5 depth: the reversal mantra-worldview (pairs ss5-09 condensation)
+
+### ss5-27 — vishvanti: a moment of rest overcomes the binding power of language [B]
+- timestamp: [01:05:00]-->[01:05:57]
+- topics: mind,practice
+- role: claim
+- layer: explain
+- quote: "and all once knowledge is outward turned therefore it is rightly maintained that all such knowledge is the cause of bondage for a moment if we get to that point of rest then we can overcome that binding power of this language so vishwanti is a very important term which hunting is more used than shanti and shanti means something else here but vishwanti is that moment of rest and otherwise if you're continuously in that flow of your thoughts and your words and your language and there is not even a moment of pause"
+- context: The doctrine under the pause-sutra: all outward-turned knowledge is the cause of bondage; but for a moment if we get to that POINT OF REST we can overcome the binding power of language - vishvanti (not shanti) is that moment of rest; continuous flow of thoughts/words with no pause = the binding condition.
+- essay_use: S5 depth: why the pause works (mechanism behind ss5-11)
+
+### ss5-28 — the master speaking: between words, connected to the source [B]
+- timestamp: [01:07:25]-->[01:07:52]
+- topics: guru,language
+- role: example
+- layer: how
+- quote: "quote my master when he was speaking you know the way he was also slow we have that i was announced but he always had the feeling you know that between words he was connecting to that source of language and bringing the word down to the level of iqari and so it was never it was always this connection with that supreme consciousness nothing artificial totally spontaneous"
+- context: Lakshmanjoo example: when he spoke, between words he was connecting to that source of language and bringing the word down to the level of vaikari - always that connection with the supreme consciousness, nothing artificial, totally spontaneous. The living pause (pairs ss5-11 and ss11-24).
+- essay_use: S5 depth: guru as the walk of the doctrine
+
+### ss5-29 — just wait - experience before giving it a name [B]
+- timestamp: [01:10:15]-->[01:10:35]
+- topics: mind,recognition
+- role: method
+- layer: how
+- quote: "name to something but just wait experience before giving a name that criteria is so uh binding they're so opinionated you know people immediately we say oh this is this just wait you just observe just experience before giving it a name that's why this"
+- context: The vikalpa-critique as practice: fixed opinions cannot arise without words - immediately you give a name to something, but JUST WAIT: experience before giving a name; just observe, just experience. Suspending the naming-mind.
+- essay_use: S5 depth: mind discipline (feeds S1 recognition and S3 gap-logic)
+
+### ss5-30 — bound to the lord, the pashu is liberated; bound to individuality, bound [B]
+- timestamp: [01:21:30]-->[01:21:43]
+- topics: bondage,freedom
+- role: claim
+- layer: explain
+- quote: "so which can again be positive or negative because when the pashu gets bound to the lord then it becomes liberated or when he gets bound to his or her individuality then he is a bound soul"
+- context: The pasha-double-edge in Q&A: the bond can be positive or negative - when the pashu gets bound to the Lord then it becomes liberated; when bound to his/her individuality, then he is a bound soul. Bondage as the DIRECTION of binding, not binding as such.
+- essay_use: S2 depth: bondage-relational (pairs ss5-19 armor + freedom-direction)
 
 ## Reuse clusters
+- **Pass-1 (day3_i read-through)**: ss5-19, ss5-17, ss5-18, ss5-21, ss5-25, ss5-30, ss5-20 (S2 obstacle-run) / ss5-16, ss5-22 (S3 arrival) / ss5-23, ss5-24, ss5-26, ss5-27, ss5-28, ss5-29 (S5 language-mind)
 - **Language engine**: ss5-09, ss5-10, ss5-12, ss5-13 (mantra, Mālinī, malas-speaking, honesty)
-- **Practice micro**: ss5-11, ss5-06 (pause, remove-limitation)
+- **Practice micro**: ss5-11, ss5-15 (pause, remove-limitation)
 - **1.3 doctrine**: ss5-03, ss5-04, ss5-05, ss5-07
 - **Transmission**: ss5-02, ss5-14 (siddha-darśana, Lakshmanjoo archive)
 
 ## Cross-links
 - ss3-02/03 (retreat/text-as-guru) → ss5-02 (guru's body as pure consciousness)
-- ss4-14/15 (mala) → ss5-12 (malas speaking) → ss5-06 (removal rule)
+- ss4-14/15 (mala) → ss5-12 (malas speaking) → ss5-15 (removal rule)
 - ss1-20/21 (study method) → ss5 Q&A style ("no logical explanation" honesty)
 - Dyczkowski: Aphorisms of Śiva named in-session (ss3-08) — our [V] 1.1/2.1/3.1 meets this text here

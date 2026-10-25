@@ -26,3 +26,11 @@ verify 225/0). Session = the 3.x drama exposition; previously 10 units at unit-m
 C-reasons: commentarial (section-structure, rasa-background), technical (prāṇa-anatomy,
 drama-terms, karaṇa-temple, puryaṣṭaka), repetitive (samādhi/ranga/veil reprises), dup
 (two-levels verse), thin lead-ins, logistics (time-over, temple pointer), noise.
+
+## Pass-1: day3_session_i (= ss5, 8.4% span, biggest word-gap 7k) — DONE 2026-10-25
+15 promotes (ss5-16..30; 1 A: freedom-is-challenging/armor-psychology) + 1 duplicate fix
+(M19: ss5-06 was an EXACT re-entry of ss5-15 — removed, clusters/CATALOGUE re-pointed) +
+1 heading dedup (double "## Reuse clusters"). Session = kañchūka/mala analysis + language-
+mātṛkā half; C-reasons: commentarial (verses/catalogues), technical (tatwa/śakti-taxonomy),
+dup (transform-law/mandala/four-levels reprises), thin leads, logistics (Q&A/walk/DVD).
+Cross-session ledger note: mandala nothing-left-out here = ss13-12 (same teaching, 2 voices).

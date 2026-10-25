@@ -74,21 +74,88 @@ shiva_sutras_day_2_session_i.txt	748-755	00:43:02	00:44:29	126
 shiva_sutras_day_2_session_i.txt	760-772	00:45:18	00:46:24	44			
 shiva_sutras_day_2_session_i.txt	794-898	00:47:22	00:52:34	557			
 shiva_sutras_day_2_session_i.txt	983-984	00:54:07	00:54:07	2			
-shiva_sutras_day_3_session_i.txt	1-49	00:00:03	00:07:32	306			
-shiva_sutras_day_3_session_i.txt	67-133	00:08:25	00:12:49	412			
-shiva_sutras_day_3_session_i.txt	149-242	00:13:30	00:18:41	553			
-shiva_sutras_day_3_session_i.txt	249-282	00:19:01	00:21:11	176			
-shiva_sutras_day_3_session_i.txt	298-338	00:22:03	00:26:38	231			
-shiva_sutras_day_3_session_i.txt	345-406	00:27:04	00:30:26	366			
-shiva_sutras_day_3_session_i.txt	415-674	00:30:53	00:47:01	1533			
-shiva_sutras_day_3_session_i.txt	687-840	00:47:41	00:57:42	899			
-shiva_sutras_day_3_session_i.txt	847-864	00:58:37	00:59:31	94			
-shiva_sutras_day_3_session_i.txt	872-956	00:59:59	01:06:20	516			
-shiva_sutras_day_3_session_i.txt	967-1039	01:07:00	01:12:29	448			
-shiva_sutras_day_3_session_i.txt	1055-1119	01:13:15	01:16:43	392			
-shiva_sutras_day_3_session_i.txt	1133-1146	01:17:32	01:18:27	94			
-shiva_sutras_day_3_session_i.txt	1161-1313	01:19:16	01:29:32	921			
-shiva_sutras_day_3_session_i.txt	1327-1335	01:30:29	01:30:47	58			
+shiva_sutras_day_3_session_i.txt	1-7	00:00:03	00:04:12	20	C		music/mangala opening
+shiva_sutras_day_3_session_i.txt	8-25	00:05:06	00:05:56	121	C		logistics: timetable/welcome announcements
+shiva_sutras_day_3_session_i.txt	26-35	00:06:09	00:06:35	70	C		logistics: selectivity note (77 sūtras, be selective)
+shiva_sutras_day_3_session_i.txt	36-49	00:06:38	00:07:32	95	C		thin: translation-difficulty lead into canvas
+shiva_sutras_day_3_session_i.txt	67-89	00:08:25	00:09:29	150	C		thin: canvas-lineage extensions (Paṭanārāyaṇa, Ramana cinema-screen)
+shiva_sutras_day_3_session_i.txt	90-100	00:09:38	00:10:10	63	C		thin: anupāya intro + board-write
+shiva_sutras_day_3_session_i.txt	101-118	00:11:08	00:12:08	97	C		lead-in: pathless-path doctrine setup (ss5-16 carries the claim)
+shiva_sutras_day_3_session_i.txt	119-124	00:12:11	00:12:27	45	promote	ss5-16	free of cost, no effort
+shiva_sutras_day_3_session_i.txt	125-131	00:12:28	00:12:43	42	C		thin: receptacle-caveat continuation
+shiva_sutras_day_3_session_i.txt	132-133	00:12:46	00:12:49	15	C		lead into covered ss5-02
+shiva_sutras_day_3_session_i.txt	149-152	00:13:30	00:13:37	23	C		thin: meditation-room tie
+shiva_sutras_day_3_session_i.txt	153-155	00:13:49	00:13:55	10	C		lead: Rāja-intro
+shiva_sutras_day_3_session_i.txt	156-162	00:13:57	00:14:13	40	promote	ss5-17	how come we are not enlightened
+shiva_sutras_day_3_session_i.txt	163-169	00:14:15	00:14:31	43	C		thin: cause-of-bondage variation note
+shiva_sutras_day_3_session_i.txt	170-181	00:14:35	00:15:05	66	promote	ss5-18	āṇava-mala fragment-being
+shiva_sutras_day_3_session_i.txt	182-195	00:15:08	00:15:55	89	C		dup-adjacent: māyā-mala analysis (ss4-14 carries mala-core)
+shiva_sutras_day_3_session_i.txt	196-208	00:15:58	00:16:22	76	C		dup-adjacent: karma-mala analysis
+shiva_sutras_day_3_session_i.txt	209-239	00:16:36	00:18:28	187	C		commentarial: sūtra-3 intro, paraphrase-difficulty, kala-roots
+shiva_sutras_day_3_session_i.txt	240-242	00:18:35	00:18:41	19	C		lead into covered ss5-03
+shiva_sutras_day_3_session_i.txt	249-266	00:19:01	00:20:20	85	C		technical: tatwa-groups exposition
+shiva_sutras_day_3_session_i.txt	267-279	00:20:25	00:21:02	70	C		technical: elements/organs up to māyā
+shiva_sutras_day_3_session_i.txt	280-282	00:21:05	00:21:11	21	C		lead into covered ss5-04 (duality-realm)
+shiva_sutras_day_3_session_i.txt	298-301	00:22:03	00:22:12	25	C		repetitive: śuddha-vidyā ascent continuation
+shiva_sutras_day_3_session_i.txt	302-318	00:22:16	00:24:18	103	C		commentarial: 1.3 compounds (yoni/kalāśarīra)
+shiva_sutras_day_3_session_i.txt	319-338	00:24:47	00:26:38	103	C		thin: world-dividing recap into covered units
+shiva_sutras_day_3_session_i.txt	345-359	00:27:04	00:27:40	81	C		thin: kañchūka-armor intro
+shiva_sutras_day_3_session_i.txt	360-366	00:27:44	00:27:59	39	promote	ss5-19	freedom is challenging — armor [A]
+shiva_sutras_day_3_session_i.txt	367-379	00:28:03	00:28:59	88	C		thin: individuality-rooted + āṇava comparison
+shiva_sutras_day_3_session_i.txt	380-401	00:29:07	00:30:13	133	C		dup-adjacent: transform-to-divine-qualities (ss5-15 pre-statement)
+shiva_sutras_day_3_session_i.txt	402-406	00:30:17	00:30:26	25	C		thin: kala/vidya-limitation walk into covered units
+shiva_sutras_day_3_session_i.txt	415-422	00:30:53	00:31:12	49	C		dup: rāgā→universal love (transform-law restated)
+shiva_sutras_day_3_session_i.txt	423-436	00:31:16	00:31:51	87	C		thin: time/space-limits + siddhi two-places
+shiva_sutras_day_3_session_i.txt	437-455	00:31:55	00:32:42	111	C		commentarial: tattvas-as-levels passage
+shiva_sutras_day_3_session_i.txt	456-461	00:32:44	00:32:54	37	C		dup cross-session: mandala nothing-left-out (= ss13-12)
+shiva_sutras_day_3_session_i.txt	462-463	00:33:01	00:33:10	6	C		lead-in
+shiva_sutras_day_3_session_i.txt	464-475	00:33:12	00:33:49	73	promote	ss5-20	journey individuality→universality
+shiva_sutras_day_3_session_i.txt	476-479	00:33:52	00:34:04	25	C		thin: limitations-to-fullness tail
+shiva_sutras_day_3_session_i.txt	480-509	00:34:19	00:35:48	177	C		thin: immediate-liberation ritual detail (agama-dikṣā)
+shiva_sutras_day_3_session_i.txt	510-513	00:35:50	00:35:56	24	promote	ss5-21	how much do we want liberation
+shiva_sutras_day_3_session_i.txt	514-523	00:35:58	00:36:32	69	C		thin: club-simile + paradox
+shiva_sutras_day_3_session_i.txt	524-543	00:36:34	00:37:24	102	C		thin: positive-role + widen-practice setup
+shiva_sutras_day_3_session_i.txt	544-549	00:37:26	00:37:41	37	C		thin: knowledge-widen tail
+shiva_sutras_day_3_session_i.txt	550-566	00:37:57	00:38:39	106	C		technical: kala-anu bond
+shiva_sutras_day_3_session_i.txt	567-591	00:38:47	00:40:01	136	C		lead: Spanda-verse setup (verse itself = text-reading)
+shiva_sutras_day_3_session_i.txt	592-597	00:40:11	00:40:29	41	promote	ss5-22	agitation ceases, sudden supreme
+shiva_sutras_day_3_session_i.txt	598-610	00:40:31	00:41:15	84	C		dup-adjacent: siddha-darśana reprise
+shiva_sutras_day_3_session_i.txt	611-648	00:41:37	00:44:31	223	C		commentarial: limitation-catalogue verses
+shiva_sutras_day_3_session_i.txt	649-656	00:44:43	00:45:33	45	C		lead: sūtra-4 intro
+shiva_sutras_day_3_session_i.txt	657-674	00:46:00	00:47:01	101	C		thin: language-3-levels + mātṛkā setup into covered ss5-09
+shiva_sutras_day_3_session_i.txt	687-740	00:47:41	00:50:26	313	C		repetitive: four-levels-of-word retold (ss1-04 ladder carries)
+shiva_sutras_day_3_session_i.txt	741-741	00:50:38	00:50:38	9	C		lead-in
+shiva_sutras_day_3_session_i.txt	742-748	00:50:42	00:51:02	45	promote	ss5-23	silence reverts outward pull
+shiva_sutras_day_3_session_i.txt	749-753	00:51:03	00:51:13	25	C		thin: paśyantī-control aside
+shiva_sutras_day_3_session_i.txt	754-767	00:51:21	00:51:59	79	C		thin: mātṛkā-little-mothers re-setup
+shiva_sutras_day_3_session_i.txt	768-776	00:52:03	00:52:30	56	promote	ss5-24	language double-power, re-absorb vikalpa
+shiva_sutras_day_3_session_i.txt	777-796	00:52:48	00:53:56	120	C		technical: vikalpa-definition + mālīnī-alphabet
+shiva_sutras_day_3_session_i.txt	797-805	00:53:59	00:54:22	46	promote	ss5-25	verbalizing = limited knowledge
+shiva_sutras_day_3_session_i.txt	806-831	00:54:53	00:57:09	146	C		dup: three-mala summary restatement
+shiva_sutras_day_3_session_i.txt	832-837	00:57:13	00:57:29	39	promote	ss5-26	letters = Mother, speech = praise
+shiva_sutras_day_3_session_i.txt	838-840	00:57:33	00:57:42	21	C		page-marker into covered
+shiva_sutras_day_3_session_i.txt	847-864	00:58:37	00:59:31	94	C		dup: mala-expressions/language-reaction into covered ss5-12/08
+shiva_sutras_day_3_session_i.txt	872-881	00:59:59	01:00:31	54	C		repetitive: words-power reprise into covered
+shiva_sutras_day_3_session_i.txt	882-928	01:00:41	01:03:44	279	C		technical: three-śakti-groups taxonomy (aughora etc.)
+shiva_sutras_day_3_session_i.txt	929-936	01:03:55	01:04:54	55	C		thin: outward-knowledge setup
+shiva_sutras_day_3_session_i.txt	937-951	01:05:00	01:05:57	95	promote	ss5-27	viśvānti point-of-rest
+shiva_sutras_day_3_session_i.txt	952-956	01:06:01	01:06:20	33	C		thin: turn-inward tail into covered ss5-11
+shiva_sutras_day_3_session_i.txt	967-975	01:07:00	01:07:23	61	C		thin: gossip-outward
+shiva_sutras_day_3_session_i.txt	976-986	01:07:25	01:07:52	68	promote	ss5-28	master between-words source
+shiva_sutras_day_3_session_i.txt	987-1003	01:08:25	01:10:12	102	C		thin: ideas-need-words setup
+shiva_sutras_day_3_session_i.txt	1004-1010	01:10:15	01:10:35	45	promote	ss5-29	experience before name
+shiva_sutras_day_3_session_i.txt	1011-1039	01:10:36	01:12:29	172	C		logistics: session-flexibility + question start
+shiva_sutras_day_3_session_i.txt	1055-1072	01:13:15	01:14:02	112	C		dup: mātṛkā-tradition Q&A continuation
+shiva_sutras_day_3_session_i.txt	1073-1098	01:14:23	01:15:31	158	C		thin: participant parameters-question
+shiva_sutras_day_3_session_i.txt	1099-1119	01:15:34	01:16:43	122	C		dup-adjacent: borderline-thesis answer (ss5-07 carries)
+shiva_sutras_day_3_session_i.txt	1133-1146	01:17:32	01:18:27	94	C		lead: mālīnī question into covered ss5-10
+shiva_sutras_day_3_session_i.txt	1161-1174	01:19:16	01:19:55	80	C		dup: nyāsa-mālīnī continuation
+shiva_sutras_day_3_session_i.txt	1175-1200	01:20:11	01:21:28	166	C		thin: paśu-question setup + triad-explanation
+shiva_sutras_day_3_session_i.txt	1201-1205	01:21:30	01:21:43	37	promote	ss5-30	bound to lord = liberated
+shiva_sutras_day_3_session_i.txt	1206-1227	01:21:46	01:23:00	127	C		thin: paśu/nara-terminology discussion
+shiva_sutras_day_3_session_i.txt	1228-1255	01:23:30	01:25:08	162	C		dup: yoni-kala recap + separation recap
+shiva_sutras_day_3_session_i.txt	1256-1313	01:25:28	01:29:32	349	C		logistics/thin: meditation-walk request, kala-opposite Q&A, political aside
+shiva_sutras_day_3_session_i.txt	1327-1335	01:30:29	01:30:47	58	C		logistics: dinner/DVD (dup-adjacent ss5-14)
 shiva_sutras_day_3_session_ii.txt	1-35	00:00:03	00:07:09	166			
 shiva_sutras_day_3_session_ii.txt	56-60	00:08:07	00:08:24	23			
 shiva_sutras_day_3_session_ii.txt	75-77	00:09:13	00:09:39	12			

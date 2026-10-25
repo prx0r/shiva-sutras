@@ -22,13 +22,13 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 ## The questions (all G0 PASS — tools/validate_questions.py, 7/7 incl. essay-0)
 
 1. **What is consciousness?** (master — S1)
-2. **What hides consciousness?** (bondage — S2)
+2. **Why does knowledge bind consciousness?** (bondage — S2)
 3. **Why can't consciousness be forced?** (the upsurge — S3)
 4. **What does consciousness do to experience?** (the yogi's states — S4)
 5. **How does the mind shape consciousness?** (mantra — S5)
 6. **What is consciousness free to do?** (life-in-the-world — S6)
 
-Fundamental progression: is → what hides it → why unforceable → what it does →
+Fundamental progression: is → why knowing binds → why unforceable → what it does →
 how mind engages it → what it's finally free to do. Each follows the previous
 answer-space; none closes the enquiry.
 
@@ -47,8 +47,8 @@ fluidity closes (ss5-01, ss6-06, ss7-01, ss8-01, ss9-03…05).
 **Note:** ss12-02 (recognition-as-reading) and ss13-01 (ātman-per-level) are verdict-here;
 recognition-thick material belongs to the PH project — keep only as reading-method here.
 
-## S2. What hides consciousness? — 20 units (7A)
-**Anchor:** `ss4-14` — "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature"
+## S2. Why does knowledge bind consciousness? — 20 units (7A)
+**Anchor:** `ss4-12` (the shock: "jñānam bandhaḥ") · definitional: ss4-14 — "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature"
 **Journey:** the bridge-question (ss4-11 "how come we are not all liberated") →
 the shock (ss4-12 jñānam bandhaḥ) → two readings (ss4-13) → mala-map (ss4-14…17:
 not-knowing, incomplete, consumerism, veiling=freedom) → five acts (ss4-18/19) →

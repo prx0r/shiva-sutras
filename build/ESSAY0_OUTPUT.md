@@ -31,12 +31,13 @@ it bare, her voice strips the doing-association. Completes "Consciousness is ___
 
 ### S1. What is consciousness? — *(= the HEAD above)*
 
-### S2. What hides consciousness?
+### S2. Why does knowledge bind consciousness?
 > **SANSKRIT:** `jnanambandhah` · Sūtra 1.2
 > **TRANSLATION:** "Knowledge is bondage." — *Dyczkowski (held)*
 > **PLAIN:** "knowledge is bondage"
-> **BÄUMER:** *"Mala, it is said, is nothing but Vajjana or ignorance of one's real nature."*
-> (ss4-14, [00:32:25]→[00:32:39], Grade A)
+> **BÄUMER:** *"…they are not inherent in the soul they are superficial… it is an
+> incomplete knowledge."* (ss4-15, [00:33:36]→[00:34:22], Grade A — two verified spans;
+> the WHY: knowing binds because it is partial, not because it is deep)
 
 ### S3. Why can't consciousness be forced?
 > **SANSKRIT:** `udyamo bhairavah` · Sūtra 1.5
@@ -67,7 +68,7 @@ it bare, her voice strips the doing-association. Completes "Consciousness is ___
 > **BÄUMER:** *"…the place where the self takes delight with the intention of
 > exhibiting the world drama is the stage."* (ss13-09, [01:02:58]→[01:03:09], Grade A)
 
-**Enquiry chain:** IS → HIDDEN BY → can't be FORCED → what it DOES → how mind SHAPES it →
+**Enquiry chain:** IS → KNOWLEDGE BINDS → can't be FORCED → what it DOES → how mind SHAPES it →
 what it's FREE TO DO. Master opens every version; each cell widens the same seed (UNFOLDING).
 
 **Alternates kept (per their audit):** sharpened opener "Why isn't consciousness something

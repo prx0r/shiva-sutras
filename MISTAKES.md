@@ -50,3 +50,13 @@
   profile term against the corpus, before the final assign. Profiles rewritten to
   distinctive doctrine terms; **48 content-verdict overrides** logged in
   `tools/s2_cluster.py` (metric flags candidates, reading gives the verdict).
+
+- **M10. Question bent to fit, not grown from the text (owner-caught).** S2 cell was
+  "What hides consciousness?" + "Knowledge is bondage." — needed a bridge; the stack
+  must read as ONE thought (formula step-6 stack-read). Root cause: I fixed the
+  anchor-compliant question first and bent the answer to it, instead of letting the
+  sūtra's answer shape the question (step-1 order: content-grounded from the TEXT).
+  Fix: **"Why does knowledge bind consciousness?"** — 1.2 answers directly, and her
+  ss4-15 line supplies the WHY (not-inherent-in-soul, incomplete knowledge).
+  **Rule: run the completion test (does T read as the answer to Q, cold?) on every
+  cell BEFORE locking any question.**

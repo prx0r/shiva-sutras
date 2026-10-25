@@ -46,13 +46,40 @@ the tantraessays registry (`[text:ss:…]` = grounded in Śivasūtras).
 - essay_use: SECOND-VOICE thesis line for S1 — the other genius stating the HEAD's sūtra in his own words; pair with Baumer's ss3-10 as cross-voice A/A on the same claim
 
 ### dl1-05 — Dakṣiṇa Kāpālika sādhana [C] [text:kapalika:method]
-- timestamp: [00:11:53]-->[00:17:50]
+- timestamp: [00:10:57]-->[00:10:57]
 - topics: history, ritual
 - role: history
 - layer: explain
 - quote: "But the Dakshina ones are also quite full of all this Kapalika, Sadhana."
 - context: Dualist/nondualist pure-impure split; Upaniṣadic brahman-vision oneness; Spanda/Kallāta gloss — C as a unit (broad span, ASR-mixed), kapalika-topic cross-links to Roots/shivasutra-05 registry unit.
 - essay_use: C-home; Kapalika roots pointer only
+
+### dl1-06 — Buddhist and Hindu lineages revealed the same basic vision of Oneness [B] [text:ss:root]
+- timestamp: [00:07:10]-->[00:07:23]
+- topics: consciousness,method
+- role: claim
+- layer: explain
+- quote: "And you have the equivalent on the Buddhist side, the Yoga and Anuttara Yoga Tantras, also revealed and transmitted through lineages of Siddhas and Yogini. And they all involved the same kind of basic vision of Oneness."
+- context: Lineage-equivalence claim: the Yoga/Anuttara Yoga Tantras on the Buddhist side are also revealed and transmitted through lineages of Siddhas and Yoginis - and they all involved the same kind of basic vision of Oneness (after the Kaula/Vama/Dakshina classification).
+- essay_use: S1 depth: oneness-vision shared across the tantric Buddhist/Hindu lineages (Dyczkowski voice)
+
+### dl1-07 — the supreme grace is to receive that insight - unfolded by Paramashiva in the dream [B] [text:ss:method]
+- timestamp: [00:08:21]-->[00:08:36]
+- topics: realisation,grace
+- role: claim
+- layer: explain
+- quote: "He was unmiṣat, was unfolded, was opened up by Paramashiva himself in a dream, having graced him. You remember you did one or two lessons of grace and we discovered the supreme grace is to receive this kind of intelligence, this wisdom, this insight, this creative imagination, this divine intuition."
+- context: Pratibha-verse gloss: Vasugupta was unmisat - unfolded, opened up - by Paramashiva himself in a dream, having graced him; and we discovered the SUPREME GRACE is to receive this kind of intelligence, wisdom, insight, creative imagination, divine intuition. Grace as insight-unfolding (distinct from shaktipata-register).
+- essay_use: S3 depth: grace = receiving the insight itself (pairs ss5-16 free-of-cost, ss6-20 devotion-condition)
+
+### dl1-08 — one universal consciousness shines as all things - even the abominable, the transgressive [B] [text:ss:root]
+- timestamp: [00:11:28]-->[00:11:47]
+- topics: consciousness
+- role: claim
+- layer: explain
+- quote: "And then internalizing them. And then discovering that what induces this kind of activity is the realization that there is only one universal consciousness, which is Shiva, that shines as all things, even in the most abominable, even in the most terrifying, in the most powerful, in the most transgressive, because Lord Shiva, that one consciousness, is all that there is. Therefore, these Kapalikas will not be the same."
+- context: The internalization-doctrine at its claim: what induces the Kapalika activity is the realization that there is only ONE universal consciousness, which is Shiva, that shines as all things - even in the most abominable, terrifying, powerful, transgressive - because that one consciousness is all that there is.
+- essay_use: S1 depth: all-is-one-consciousness-even-transgressive (the extreme-case for pervasion)
 
 ## Reuse clusters
 - **Revelation**: dl1-01/02/03 (+ Baumer ss1-16/17/18) — S1 transmission story, two voices

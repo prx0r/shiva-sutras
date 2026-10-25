@@ -96,3 +96,13 @@ UNRELATED content while its quote lived at 1:07:00 — corrected to [1:07:00-1:0
 (exposes the 13-min region honestly into the ledger). C-runs: bhairava-etymology,
 ut/yam-roots, spatial-symbolism, MVUT-setup, krama-background, metaphors-recap,
 devours-verse-dup (ss12-14), kala-devour.
+
+## Pass-1: dl1 (Dyczkowski introduction, 19 min — NON-BAUMER second voice) — DONE 2026-10-25
+3 promotes (dl1-06..08, all B: same-vision-of-Oneness, supreme-grace=that-insight,
+one-consciousness-even-transgressive) + 1 window FIX (dl1-05 quote at [10:57] vs window
+[11:53-17:50] — narrowed to the quote line). gap_report tool fixed to SESS-map (dl1.md
+Source-line points at audio/, not text/ — tool silently skipped dl1 before).
+NOTE: commit 0db32e7 landed with a premature message (script crash after gap_report-fix)
+— the actual units/ledger landed in the follow-up commit. C-runs: legend-retelling,
+sutra-thread dup, Sanskrit-verse walks, Spanda-relation, ASR-noise (L44-46/50-51/69-72),
+logistics. 100% of 99 cues ledgered.

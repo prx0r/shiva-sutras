@@ -43,3 +43,10 @@ S4 home (tṛtayabhokta/States/Wonder/Icchā) + icchā-spontaneity block. C-reas
 (vikalpa/moon/sambhava restatements), thin leads, technical (yogic-taxonomy, dream-runs,
 will-translation), off-spine (Kālī-verse, mythology), logistics (notes/wrap).
 Ledger note: Uma-Kālidāsa myth whole-block C (narration depth, off the six questions).
+
+## Pass-1: day4_session_ii_part_1 (= ss8, 9.9% span) — DONE 2026-10-25
+8 promotes (ss8-08..15, all B: compassion-descent, individual-void, identification-
+hindrance, spontaneous-vs-practice, open-eyes samadhi, ananya-citta, senses-included,
+god-to-universal transformation). Session = drik-sharira/heart-sutra block. C-reasons:
+orientation-table (whole upaya-correspondence scheme), leads into covered units, dup
+(heart-glosses/bhavanā), ASR-broken all-bodies list noted for EAR, logistics (walk-plan).

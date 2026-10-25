@@ -71,6 +71,78 @@ Session shape: map-table orientation (upāyas×states×śaktis×trika×vāk) →
 - essay_use: the most practicable dhāraṇā in the corpus; essay-0 closing-practice candidate
 
 
+### ss8-08 — the mahayogi descends out of compassion - not bound by the ritual [B]
+- timestamp: [00:09:49]-->[00:10:10]
+- topics: play,realisation
+- role: claim
+- layer: explain
+- quote: "they do not perform any rituals they do not do any maybe social action but they do it from their level of consciousness so they are not bound by that ritual or by that action but they do it out of compassion and out of participation and what the others need and what the others are doing"
+- context: Upaya-table run: the great yogis DO perform rituals and social action, but they do it from their level of consciousness - so they are not bound by that ritual or action; they do it out of compassion and participation, what others need. The descent-reading of after-life action (pairs ss13-24 ordinary-life + ss13-20 play).
+- essay_use: S6 depth: acts-from-level, compassion not bondage
+
+### ss8-09 — individual emptiness is not the universal void [B]
+- timestamp: [00:19:54]-->[00:20:20]
+- topics: consciousness
+- role: claim
+- layer: explain
+- quote: "now as i said before shunya is here not the mahashunya but it is the experience of the individuality in a state of either deep sleep or unconsciousness or at the moment of death so this is that kind of sonya individual sonya experiences of emptiness or whiteness in the individual not the universal uh"
+- context: The sunya-precision: shunya here is NOT maha-shunya but the experience of individuality in deep sleep, unconsciousness, or at the moment of death - experiences of emptiness in the INDIVIDUAL, not the universal. Guards the void/consciousness distinction (head-off ghat-statements).
+- essay_use: S1 depth: what the void is NOT (precision-unit for S1/S5 void-talk)
+
+### ss8-10 — the only hindrance: considering ourselves identified with body or mind [B]
+- timestamp: [00:26:05]-->[00:26:20]
+- topics: bondage,realisation
+- role: claim
+- layer: explain
+- quote: "as the same sutras is considering ourselves identified with our body or with our mind or whatever so because that is the hindrance for any universal uh experience and the moment you overcome that limitation of the identification with"
+- context: VB-quotations-as-practice run: the hindering factor is considering ourselves identified with our body or our mind - THAT is the hindrance for any universal experience (pairs ss5-19 armor/freedom-challenging: identification is the mechanism the armor protects).
+- essay_use: S2 depth: identification stated as THE obstacle (mechanism-line)
+
+### ss8-11 — either spontaneous enlightenment or the end of practice - he favors the first here [B]
+- timestamp: [00:29:27]-->[00:30:04]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "so either it comes from an ecstatic or spontaneous enlightenment or it is the end result of practice or tarana that i am not this body i am not this mind i am not this balance on a child but here of course he favors the first because we are in shambhava so the spontaneous experience of that universal oneness that makes you drop this whole limitation of being bound by this body and mind etc"
+- context: The de-identification-order question answered: either it comes from ecstatic/spontaneous enlightenment, or it is the end result of practice (aham-vavasthitva: not-body, not-mind), and body-consciousness simply drops off; but here he FAVORS the first, because we are in shambhava - the spontaneous experience of universal oneness makes the limitation drop.
+- essay_use: S3 depth: both-paths answer, shambhava ranks spontaneous
+
+### ss8-12 — open-eyes samadhi: suddenly one with the universe in nature [B]
+- timestamp: [00:30:11]-->[00:30:34]
+- topics: realisation
+- role: example
+- layer: how
+- quote: "can happen of course swamiji says with open eyes named samadhi which when you meditate outside in nature you are somewhere on the mountain or on the seashore and this can happen that is suddenly you have this experience of oneness with the universe"
+- context: Swamiji note: such kind of experience can happen WITH OPEN EYES - named samadhi; meditating outside in nature, on the mountain or the seashore, suddenly you have this experience of oneness with the universe. Arrival in the open, not on the cushion.
+- essay_use: S3 depth: open-eyes arrival register (nature-setting examples)
+
+### ss8-13 — ananya-citta: a mind not directed to anything else - do not wander to the market [B]
+- timestamp: [00:40:56]-->[00:41:18]
+- topics: mind,practice
+- role: method
+- layer: how
+- quote: "necessity is to have this ananya cheetah a mind which is not directed to anything else and on your chat you don't wander with your mind in the market or in delhi or somewhere somewhere when you're sitting in the meditation mode but ananya and then you will attain the supreme blessedness"
+- context: The concentration-necessity: basic necessity is ananya-citta, a mind not directed to anything else - you do not wander with your mind in the market or in Delhi when you are sitting in meditation. Undivided-attention in her plain register (pairs ss6-09 attentive-awareness).
+- essay_use: S5 depth: undivided-mind requirement (plain style)
+
+### ss8-14 — the senses are not to be left out - they have to take part [B]
+- timestamp: [00:43:21]-->[00:43:41]
+- topics: practice,senses
+- role: claim
+- layer: explain
+- quote: "but it is so significant because the senses are not to be left out you know that you just concentrate on something and leave out the senses no they have to be included they have to be they have to take part in that otherwise you just leave them out"
+- context: Sense-merging comment: it is significant because the senses are NOT to be left out - you do not just concentrate on something and leave out the senses; they have to be included, they have to take part. Inclusive-practice law (pairs ss13-12 nothing-left-out + ss13-04 pratyahara-uses-senses).
+- essay_use: S6 depth: include-don-t-exclude (totality applied to means)
+
+### ss8-15 — his god-consciousness is transformed into universal consciousness [B]
+- timestamp: [00:46:01]-->[00:46:06]
+- topics: consciousness,realisation
+- role: claim
+- layer: explain
+- quote: "objects his consciousness is not called god consciousness but rather his god consciousness is transformed into universal consciousness"
+- context: Swamiji-gloss climax of the heart-sutra: his consciousness is not called god consciousness but rather his god consciousness is TRANSFORMED INTO universal consciousness - there is a difference (the change-word: god-local to universal).
+- essay_use: S4 depth: transformation-word for what realization does
+
 ## Reuse clusters
 - **Map**: ss8-01 (table) → everything below locates on it
 - **1.14**: ss8-02/03 (two readings) + ss8-04/05 (images/voice)

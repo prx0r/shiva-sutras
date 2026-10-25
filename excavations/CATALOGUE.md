@@ -1,6 +1,6 @@
 # CATALOGUE — topics → units (A-density + convergence)
 
-Built after the full 13-session grading pass; CURRENT totals: **260 units: 81 A / 170 B / 9 C** (pass-1); counts below are session-1 snapshots; SPINE_ASSIGN.tsv is authoritative.
+Built after the full 13-session grading pass; CURRENT totals: **268 units: 81 A / 178 B / 9 C** (pass-1); counts below are session-1 snapshots; SPINE_ASSIGN.tsv is authoritative.
 Closed topic list (vatulanatha union + tantraessays 9). Method: keyword spread across
 13 transcripts (measured, not assigned) × A-density per topic (independent dissection).
 

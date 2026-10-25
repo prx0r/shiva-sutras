@@ -284,8 +284,8 @@ All 13 Baumer transcripts read line-by-line; every gap dispositioned in COVERAGE
 net A = 81). Six window-vs-quote fixes (ss13-03/05, ss7-05/16, ss9-02, ss6-18), M19
 dup-removal, M20 cross-file-caption-dup. Coverage: span 12.3→15.9% (honest, one bogus
 window removed), words 16.9→23.2%, anchors 13-26% → 26-35%. Files with 0 promotes
-(ss2, ss4): original units already complete — pass CONFIRMED their coverage. Gates:
-306/0 · G0 7/7 · plain MATCH. dl1 (non-Baumer) + coverage-standard decision remain.
+(ss2, ss4): original units already complete — pass CONFIRMED their coverage. dl1 (second
+voice) same day: +3, 1 fix. Gates: 309/0 · G0 7/7 · plain MATCH. dl1 (non-Baumer) + coverage-standard decision remain.
 
 ### OPEN THREADS — final list (§8e items still live; closed ones noted)
 1. Coverage-standard decision (ledger vs line-pass vs build-time ingestion) — **LIVE, blocks "full walk" claims**.

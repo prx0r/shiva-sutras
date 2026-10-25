@@ -277,6 +277,16 @@ no cuts proposed at text level. SECTION_ARGUMENTS gained 5 audit-notes (2 bridge
 known, 2 accept-deictics, 1 criteria-glue, 1 pivot, 1 closure-test) and its whole-doc
 verdict now cites the audit numbers.
 
+### PASS-1 COMPLETE (2026-10-25) — the full Baumer read-through
+All 13 Baumer transcripts read line-by-line; every gap dispositioned in COVERAGE_LEDGER.tsv
+(584 rows); +121 promotes → **306 units (81A/138B→216B/9C)**; A-pools unchanged at 75+6
+(S5-3 + S3-1 + S6-3 from pass were A? NO — pass-1 promoted ALL-B except day4_i's 2A:
+net A = 81). Six window-vs-quote fixes (ss13-03/05, ss7-05/16, ss9-02, ss6-18), M19
+dup-removal, M20 cross-file-caption-dup. Coverage: span 12.3→15.9% (honest, one bogus
+window removed), words 16.9→23.2%, anchors 13-26% → 26-35%. Files with 0 promotes
+(ss2, ss4): original units already complete — pass CONFIRMED their coverage. Gates:
+306/0 · G0 7/7 · plain MATCH. dl1 (non-Baumer) + coverage-standard decision remain.
+
 ### OPEN THREADS — final list (§8e items still live; closed ones noted)
 1. Coverage-standard decision (ledger vs line-pass vs build-time ingestion) — **LIVE, blocks "full walk" claims**.
 2. dl1 end-to-end read (imported via units only) — LIVE.

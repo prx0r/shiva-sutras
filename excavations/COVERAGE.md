@@ -37,7 +37,23 @@ Material can enter the project through exactly three channels:
    builds (beats, full book) can pull any span by sūtra-range or anchor without
    re-walking.
 
-## THE PASS (one pass serves all three §8e-1 options)
+## PASS-1 COMPLETE (2026-10-25) — all 13 Baumer files read line-by-line
+
+| metric | before | after |
+|---|---|---|
+| units | 186 (71A/106B/9C) | **306 (81A/216B/9C)** |
+| span | 12.3% | 15.9% (honest — ss6-18's bogus 13-min window removed) |
+| lines | 17.9% | ~24% |
+| words | 16.9% | 23.2% |
+| anchor-lines (per section) | 13-26% | **S1 34 · S2 27 · S3 35 · S4 26 · S5 30 · S6 35** |
+| ledger | skeleton | **584 dispositioned rows, 100% of gaps, every file** |
+
++121 promotes, 5 window-vs-quote fixes (ss13-03/05, ss7-05/16, ss9-02, ss6-18 = 6 actually),
+1 duplicate removed (M19), M20 cross-file-dup logged (day2_i tail = day6_i content).
+Remaining: dl1 (Dyczkowski, 19 min — different voice, next candidate) + coverage-standard
+decision (§8e-1 owner call for whether C-marks become full span-ledger rows).
+
+## THE PLAN (original, for the remaining channels)
 
 Read the transcripts session-by-session (TEXT, not audio — 75k words ≈ a long day),
 in the worst-served-first order above, dispositioning EVERY uncovered line:

@@ -41,12 +41,12 @@ def check(q):
 
 ESSAY0_SET = [
  "What is consciousness?",
+ "What hides consciousness?",
+ "Why can't consciousness be forced?",
+ "What does consciousness do to experience?",
+ "How does the mind shape consciousness?",
+ "What is consciousness free to do?",
  "Why isn't consciousness something you do?",
- "Why can't you think your way to consciousness?",
- "What is consciousness beyond thought?",
- "What does the mind have to do with consciousness?",
- "Where do you end?",
- "What happens to the senses?",
 ]
 
 if __name__ == '__main__':

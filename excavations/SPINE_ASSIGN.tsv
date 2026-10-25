@@ -1,0 +1,181 @@
+uid	file	grade	section	score	margin	fallback
+ss1-01	ss1	C	1	0	1	thin->primary
+ss1-02	ss1	B	1	0	1	thin->primary
+ss1-03	ss1	B	1	0	1	thin->primary
+ss1-04	ss1	A	1	0	1	thin->primary
+ss1-05	ss1	B	1	0	0	tie-primary
+ss1-06	ss1	B	1	4	1	thin->primary
+ss1-07	ss1	B	5	11	5	
+ss1-08	ss1	B	1	20	13	verdict
+ss1-09	ss1	B	1	25	17	verdict
+ss1-10	ss1	A	5	39	25	
+ss1-11	ss1	A	5	39	23	
+ss1-12	ss1	B	5	40	24	
+ss1-13	ss1	A	5	44	20	
+ss1-14	ss1	B	5	42	17	
+ss1-15	ss1	B	5	39	17	
+ss1-16	ss1	A	1	36	30	
+ss1-17	ss1	B	1	34	28	
+ss1-18	ss1	B	1	34	29	
+ss1-19	ss1	B	1	17	13	
+ss1-20	ss1	B	1	14	11	
+ss1-21	ss1	A	1	12	8	
+ss1-22	ss1	B	1	10	4	
+ss1-23	ss1	A	1	10	5	
+ss1-24	ss1	C	1	8	0	tie-primary
+ss1-25	ss1	A	1	10	0	verdict
+ss1-26	ss1	B	1	10	3	verdict
+ss10-01	ss10	A	5	6	3	verdict
+ss10-03	ss10	A	6	1	2	verdict
+ss10-04	ss10	B	6	3	1	thin->primary
+ss10-05	ss10	A	3	2	2	verdict
+ss10-06	ss10	B	3	9	4	verdict
+ss10-07	ss10	B	5	5	3	verdict
+ss10-08	ss10	A	5	11	7	
+ss10-09	ss10	B	6	9	3	verdict
+ss10-10	ss10	B	3	13	5	
+ss10-11	ss10	B	6	1	1	verdict
+ss10-12	ss10	B	6	0	1	thin->primary
+ss11-01	ss11	B	5	8	3	verdict
+ss11-02	ss11	B	5	1	2	thin->primary
+ss11-03	ss11	A	5	16	12	
+ss11-04	ss11	B	5	26	22	
+ss11-05	ss11	A	5	19	19	
+ss11-06	ss11	A	5	16	16	
+ss11-07	ss11	B	5	29	28	
+ss11-08	ss11	C	5	12	8	
+ss12-01	ss12	B	6	6	4	
+ss12-02	ss12	A	1	0	0	verdict
+ss12-03	ss12	B	3	27	19	
+ss12-04	ss12	A	3	35	32	
+ss12-05	ss12	B	5	9	3	verdict
+ss12-06	ss12	B	5	4	2	thin->primary
+ss12-07	ss12	A	6	8	6	
+ss12-08	ss12	A	5	12	8	
+ss12-09	ss12	A	5	14	6	verdict
+ss12-10	ss12	B	5	18	7	verdict
+ss12-11	ss12	B	6	25	19	verdict
+ss12-12	ss12	A	6	41	36	
+ss12-13	ss12	B	6	10	6	
+ss12-14	ss12	A	6	10	6	verdict
+ss12-15	ss12	B	6	0	0	verdict
+ss13-01	ss13	A	1	2	0	verdict
+ss13-02	ss13	B	6	16	8	
+ss13-03	ss13	A	3	16	2	verdict
+ss13-04	ss13	B	6	15	14	
+ss13-05	ss13	A	6	19	19	
+ss13-06	ss13	B	6	22	22	
+ss13-07	ss13	B	6	20	14	
+ss13-08	ss13	B	6	12	7	
+ss13-09	ss13	A	6	12	11	
+ss13-10	ss13	B	6	20	19	
+ss2-01	ss2	A	1	3	1	verdict
+ss2-02	ss2	B	4	8	5	
+ss2-03	ss2	A	1	4	0	verdict
+ss2-04	ss2	A	1	4	0	verdict
+ss2-05	ss2	B	1	3	1	thin->primary
+ss2-06	ss2	B	1	2	0	tie-primary
+ss2-07	ss2	C	1	1	0	tie-primary
+ss3-01	ss3	B	4	6	5	
+ss3-02	ss3	B	1	0	2	thin->primary
+ss3-03	ss3	A	5	0	2	verdict
+ss3-04	ss3	B	5	0	2	verdict
+ss3-05	ss3	C	1	0	0	tie-primary
+ss3-06	ss3	B	1	0	1	thin->primary
+ss3-07	ss3	B	1	0	1	thin->primary
+ss3-08	ss3	B	1	2	1	thin->primary
+ss3-09	ss3	A	1	27	26	
+ss3-10	ss3	A	1	37	36	
+ss3-11	ss3	B	1	36	35	
+ss3-12	ss3	A	1	36	36	
+ss3-13	ss3	A	1	26	20	
+ss3-14	ss3	B	1	18	14	
+ss3-15	ss3	B	1	17	15	
+ss3-16	ss3	B	1	13	3	
+ss3-17	ss3	A	6	18	2	verdict
+ss3-18	ss3	B	6	18	10	
+ss4-01	ss4	A	1	12	4	
+ss4-02	ss4	A	1	14	4	
+ss4-03	ss4	B	1	21	13	
+ss4-04	ss4	B	1	21	13	
+ss4-05	ss4	A	1	22	14	
+ss4-06	ss4	B	1	19	14	
+ss4-07	ss4	B	1	20	15	
+ss4-08	ss4	A	1	16	15	
+ss4-09	ss4	A	1	14	13	
+ss4-10	ss4	A	1	12	10	
+ss4-11	ss4	B	2	42	34	
+ss4-12	ss4	A	2	73	65	
+ss4-13	ss4	B	2	91	86	
+ss4-14	ss4	A	2	107	102	
+ss4-15	ss4	B	2	102	97	
+ss4-16	ss4	B	2	101	94	
+ss4-17	ss4	A	2	56	48	
+ss4-18	ss4	B	2	29	21	
+ss4-19	ss4	B	2	12	1	verdict
+ss4-20	ss4	B	5	13	3	
+ss4-21	ss4	B	5	9	4	verdict
+ss4-22	ss4	B	5	8	3	verdict
+ss5-01	ss5	A	1	13	10	
+ss5-02	ss5	A	2	27	18	
+ss5-03	ss5	B	2	48	46	
+ss5-04	ss5	A	2	42	41	
+ss5-05	ss5	B	2	41	38	
+ss5-06	ss5	B	2	34	25	
+ss5-07	ss5	B	2	33	29	verdict
+ss5-08	ss5	B	2	17	7	
+ss5-09	ss5	A	5	23	13	verdict
+ss5-10	ss5	B	5	33	24	
+ss5-11	ss5	A	5	6	4	
+ss5-12	ss5	B	2	28	8	verdict
+ss5-13	ss5	B	5	8	3	
+ss5-14	ss5	C	2	4	2	thin->primary
+ss5-15	ss5	A	2	33	24	
+ss6-01	ss6	B	3	10	7	
+ss6-02	ss6	B	3	18	15	
+ss6-03	ss6	B	3	24	21	
+ss6-04	ss6	A	3	55	51	
+ss6-05	ss6	A	3	51	42	
+ss6-06	ss6	B	1	49	34	verdict
+ss6-07	ss6	B	3	35	26	
+ss6-08	ss6	A	3	15	8	
+ss6-09	ss6	A	5	5	2	verdict
+ss6-10	ss6	B	3	5	2	thin->primary
+ss6-11	ss6	B	5	9	7	verdict
+ss6-12	ss6	B	3	11	8	
+ss6-13	ss6	B	3	9	7	
+ss6-14	ss6	A	3	8	7	
+ss6-15	ss6	B	3	6	4	
+ss6-16	ss6	A	6	12	10	verdict
+ss6-17	ss6	B	6	14	11	verdict
+ss6-18	ss6	B	5	14	11	verdict
+ss6-19	ss6	C	4	13	11	
+ss7-01	ss7	B	1	0	0	verdict
+ss7-02	ss7	B	4	18	14	
+ss7-03	ss7	B	4	24	14	
+ss7-04	ss7	B	4	28	18	
+ss7-05	ss7	A	4	27	13	
+ss7-06	ss7	A	4	14	8	
+ss7-07	ss7	A	4	16	14	
+ss7-08	ss7	B	4	49	47	
+ss7-09	ss7	B	4	41	39	
+ss7-10	ss7	C	4	30	28	
+ss7-11	ss7	B	4	19	18	
+ss7-14	ss7	A	4	13	8	verdict
+ss7-15	ss7	B	4	15	12	
+ss7-16	ss7	A	4	18	15	verdict
+ss7-17	ss7	B	4	0	1	thin->primary
+ss7-18	ss7	B	3	10	6	verdict
+ss7-19	ss7	A	4	10	5	
+ss8-01	ss8	B	1	4	0	verdict
+ss8-02	ss8	A	4	4	2	thin->primary
+ss8-03	ss8	A	4	4	2	thin->primary
+ss8-04	ss8	B	4	4	3	verdict
+ss8-05	ss8	B	4	1	2	thin->primary
+ss8-06	ss8	A	4	38	30	
+ss8-07	ss8	A	4	26	19	
+ss9-01	ss9	B	6	17	7	verdict
+ss9-02	ss9	A	2	19	11	verdict
+ss9-03	ss9	A	1	12	1	verdict
+ss9-04	ss9	B	1	11	10	
+ss9-05	ss9	B	1	11	9	

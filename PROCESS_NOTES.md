@@ -101,3 +101,36 @@ Pulled vatulanatha's latest (`ESSAY0-FORMULA.md` 7 tests + UNFOLDING law + G0 ga
 - Borrowed rules now local: BUILD ORDER (essay-0 first, B = built x1.6–2, no supersets
   ship); Sanskrit-first cards (source language on screen, English gloss beneath);
   beat grammar question→pause→plain→clip; human voice owns questions.
+
+## 6. S2/S3 correction (2026-10-25) — the missed step, then done properly
+
+Owner caught it: I ran essay-0 BEFORE segmentation. Analayo 02 ("every span gets
+exactly one home") and vatula 17 (clustering → convergence → SPINE → then essay-0)
+both put the partition first. A CATALOGUE of tags is not a partition; without
+sections there is no enquiry to open, no A⊂B⊂C to collate under, and the essay-0
+flow test had nothing real to seed.
+
+**What was done (in order):**
+1. Re-read the full process chain (analayo 00-08 + MISTAKES/SKILLS; vatula 12/17;
+   their S2 attempt-log: blind agglomerative = blobs/dust — profiles-first is the method).
+2. Preview spine: 6 sections as questions, from the sūtra arc + measured threads
+   (SPINE_PREVIEW.md).
+3. `tools/s2_cluster.py` — designed keyword profiles per section; scored every unit's
+   ±5min transcript window + own quote; ties/zeroes/thin (margin≤2, score<12) → session
+   primary; **48 content-verdict overrides** (human reading beats metric — their M6:
+   "metric flags candidates, reading gives verdicts"). Glue-terms killed en route
+   (tradition/means/word/will/body/sense/mantra-bare at pan-corpus counts = the
+   vatula "nonduality glues → one blob" failure, caught early this time).
+4. Totals reconcile: 180/180 units, one home each (`SPINE_ASSIGN.tsv`).
+5. Convergence: unit distribution and independent A-buckets both rank S1 first,
+   S5 second, S3 thinnest — two dissections, one elephant; mid-table S2/S4/S6
+   disagreement logged as cosmetic.
+6. Six section questions + essay-0 question: **7/7 G0 PASS**.
+7. Essay-0 flow re-tested against the REAL sections (seed: consciousness-is-not-doing →
+   S1 name → S2 hide → S3 unforceable → S4 does → S5 mind-engages → S6 free-to-do) — passes.
+8. `excavations/SPINE.md` written: anchors are her words (not ours), journeys per
+   cluster with her sūtra order inside, C-homes listed, build rules restated.
+
+**Also fixed:** duplicate uid (bliss unit was second ss7-17 → ss7-19).
+**State now:** grading ✓ · catalogue ✓ · segmentation ✓ · convergence ✓ · SPINE ✓ ·
+essay-0 draft-lock ✓ (owner ear pending) → next = S5 collate A/B/C under the spine.

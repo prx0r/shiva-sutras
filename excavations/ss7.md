@@ -154,7 +154,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Īśvara-aspect: icchā > jñāna > kriyā (icchopadeśa?); Devi-sūkta/Candra(?) verse (one Devī in all names, hidden in yogamāyā, kumārī fulfills all desires); śiva-śakti metaphors (fire-heat, sun-rays, ocean-waves).
 - essay_use: siddhi-mechanics without sensationalism; will-energy identity
 
-### ss7-17 — bliss first, then duality dissolves by itself [A]
+### ss7-19 — bliss first, then duality dissolves by itself [A]
 - timestamp: [00:51:27]-->[00:51:53]
 - topics: praxis, realization
 - role: method

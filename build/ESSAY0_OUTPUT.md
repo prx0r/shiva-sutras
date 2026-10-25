@@ -31,7 +31,7 @@ it bare, her voice strips the doing-association. Completes "Consciousness is ___
 
 ### S1. What is consciousness? — *(= the HEAD above)*
 
-### S2. Why does knowledge bind consciousness?
+### S2. What keeps consciousness from being realised?
 > **SANSKRIT:** `jnanambandhah` · Sūtra 1.2
 > **TRANSLATION:** "Knowledge is bondage." — *Dyczkowski (held)*
 > **PLAIN:** "knowledge is bondage"
@@ -50,7 +50,7 @@ state"** — innate-arising, not acquired (her clip ss12-04: sahaja-saṃmajjane
 the spontaneous natural state), plus śuddhavidyā as the revealing threshold (ss9-02) and
 2.7's self-knowledge-as-food (ss12-15). One word, two types: partial binds, innate frees.
 
-### S3. Why can't you force realisation?
+### S3. How does realisation happen?
 > **SANSKRIT:** `udyamo bhairavah` · Sūtra 1.5
 > **TRANSLATION:** "Bhairava is upsurge." — *Dyczkowski (held)*
 > **PLAIN:** "bhairava is upsurge"
@@ -58,7 +58,7 @@ the spontaneous natural state), plus śuddhavidyā as the revealing threshold (s
 > (ss12-16, [00:20:18]→[00:20:30], Grade A — the WHY: realisation is grace-born
 > upsurge; TEXT names WHAT it is (udyama), her voice says why it cannot be manufactured)
 
-### S4. What does consciousness do to experience?
+### S4. What does realisation do to experience?
 > **SANSKRIT:** `tritayabhokta vtresah` · Sūtra 1.11 *(OCR form from held file — verify against print at render)*
 > **TRANSLATION:** "The enjoyer of the three states is the Lord of the Heroes." — *Dyczkowski (held)*
 > **PLAIN:** "the enjoyer of the three states is the lord of the heroes"
@@ -66,14 +66,14 @@ the spontaneous natural state), plus śuddhavidyā as the revealing threshold (s
 > knowledge he purifies and fills it with supreme bliss right from hell to shiva."*
 > (ss7-06, [00:22:32]→[00:23:00], Grade A; her reading of this sūtra = ss7-11 for the render pair)
 
-### S5. How does the mind shape consciousness?
+### S5. What does the mind have to do with consciousness?
 > **SANSKRIT:** `cittam mantrah` · Sūtra 2.1
 > **TRANSLATION:** "The mind is Mantra." — *Dyczkowski (held)*
 > **PLAIN:** "the mind is mantra"
 > **BÄUMER:** *"…the mind of the devotee … acquires identity with the deity and thus
 > becomes that mantra itself."* (ss11-05, [00:50:23]→[00:50:38], Grade A)
 
-### S6. What is consciousness free to do?
+### S6. What happens after realisation?
 > **SANSKRIT:** `nartaka atma` · Sūtra 3.9
 > **TRANSLATION:** "The Self is the actor." — *Dyczkowski (held)*
 > **PLAIN:** "the self is the actor"

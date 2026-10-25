@@ -12,7 +12,7 @@ PLAIN: consciousness is the self.
 **BÄUMER:** "…it means universal consciousness… consciousness is not something
 you are doing — it is something which is there."
 
-**Q: Why does knowledge bind consciousness?**
+**Q: What keeps consciousness from being realised?**
 (pause)
 SANSKRIT: *jñānam bandhaḥ.*
 TRANSLATION: "Knowledge is bondage."
@@ -20,14 +20,14 @@ PLAIN: knowledge is bondage.
 **BÄUMER:** "…they are not inherent in the soul they are superficial… it is an
 incomplete knowledge."
 
-**Q: Why can't you force realisation?**
+**Q: How does realisation happen?**
 (pause)
 SANSKRIT: *udyamo bhairavaḥ.*
 TRANSLATION: "Bhairava is upsurge."
 PLAIN: bhairava is upsurge.
 **BÄUMER:** "…it is not made by any human effort, it is not created by any human effort."
 
-**Q: What does consciousness do to experience?**
+**Q: What does realisation do to experience?**
 (pause)
 SANSKRIT: *tṛtayabhoktā viteśaḥ.*
 TRANSLATION: "The enjoyer of the three states is the Lord of the Heroes."
@@ -35,7 +35,7 @@ PLAIN: the enjoyer of the three states is the lord of the heroes.
 **BÄUMER:** "…when this heroic yogi wanders about in this world with the rays of
 his knowledge he purifies and fills it with supreme bliss — right from hell to Śiva."
 
-**Q: How does the mind shape consciousness?**
+**Q: What does the mind have to do with consciousness?**
 (pause)
 SANSKRIT: *cittam mantraḥ.*
 TRANSLATION: "The mind is Mantra."
@@ -43,7 +43,7 @@ PLAIN: the mind is mantra.
 **BÄUMER:** "…the mind of the devotee … acquires identity with the deity and thus
 becomes that mantra itself."
 
-**Q: What is consciousness free to do?**
+**Q: What happens after realisation?**
 (pause)
 SANSKRIT: *nartakātmā.*
 TRANSLATION: "The Self is the actor."

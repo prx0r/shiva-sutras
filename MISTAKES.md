@@ -103,3 +103,12 @@
   metric-filed under S2 but belongs to S5's guru-means cluster — moved (OVER).
   **Rule: gate-passing is not speakability; spoken questions ≤6-7 words, and prefer
   already-owner-tested forms over inventing longer ones.**
+
+- **M16. Questions leaked their answers (owner, via the analayo Nibbāna set).** Mine
+  confirmed ("Why does KNOWLEDGE bind…" pre-names the cause; "can't be FORCED"
+  pre-states the verdict) where theirs WITHHOLD ("What perpetuates the process?").
+  Opened all six: the thing → the obstacle → the arrival → the change → the mechanism
+  → the after. Re-passed: G0 6/6, every completion-test still lands (TEXT answers what
+  the question leaves open).
+  **Rule: a spine question may name the ASK, never the answer's content-word — read it,
+  then read the answer: if the question already contained the answer, re-ask.**

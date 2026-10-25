@@ -42,12 +42,12 @@ def check(q):
 
 ESSAY0_SET = [
  "What is consciousness?",
- "Why does knowledge bind consciousness?",
- "Why can't you force realisation?",
- "What does consciousness do to experience?",
- "How does the mind shape consciousness?",
- "What is consciousness free to do?",
- "Why isn't consciousness something you do?",
+ "What keeps consciousness from being realised?",
+ "How does realisation happen?",
+ "What does realisation do to experience?",
+ "What does the mind have to do with consciousness?",
+ "What happens after realisation?",
+ "Why isn't consciousness something you do?",  # sharpened essay-0 alternate
 ]
 
 if __name__ == '__main__':

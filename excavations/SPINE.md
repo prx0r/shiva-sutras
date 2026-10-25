@@ -21,15 +21,16 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 
 ## The questions (all G0 PASS — tools/validate_questions.py, 7/7 incl. essay-0)
 
-1. **What is consciousness?** (master — S1)
-2. **Why does knowledge bind consciousness?** (bondage — S2)
-3. **Why can't you force realisation?** (the upsurge — S3)
-4. **What does consciousness do to experience?** (the yogi's states — S4)
-5. **How does the mind shape consciousness?** (mantra — S5)
-6. **What is consciousness free to do?** (life-in-the-world — S6)
+1. **What is consciousness?** — the thing (master — S1)
+2. **What keeps consciousness from being realised?** — the obstacle (bondage — S2)
+3. **How does realisation happen?** — the arrival (the upsurge — S3)
+4. **What does realisation do to experience?** — the change (the yogi's states — S4)
+5. **What does the mind have to do with consciousness?** — the mechanism (mantra — S5)
+6. **What happens after realisation?** — the after (life-in-the-world — S6)
 
-Fundamental progression: is → why knowing binds → why unforceable → what it does →
-how mind engages it → what it's finally free to do. Each follows the previous
+Fundamental progression (open questions, answers withheld): is → what keeps it from
+being realised → how it happens → what it does to experience → how mind engages →
+what happens after. Each question names the ASK, never the answer. Each follows the previous
 answer-space; none closes the enquiry.
 
 ---
@@ -47,8 +48,8 @@ fluidity closes (ss5-01, ss6-06, ss7-01, ss8-01, ss9-03…05).
 **Note:** ss12-02 (recognition-as-reading) and ss13-01 (ātman-per-level) are verdict-here;
 recognition-thick material belongs to the PH project — keep only as reading-method here.
 
-## S2. Why does knowledge bind consciousness? — 19 units (6A)
-**Anchor:** `ss4-12` (the shock: "jñānam bandhaḥ") · definitional: ss4-14 — "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature"
+## S2. What keeps consciousness from being realised? — 19 units (6A)
+**Anchor:** `ss4-12` (the shock: "jñānam bandhaḥ") · definitional: ss4-14 · Q asks WHAT keeps, not why-it-binds — "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature"
 **Journey:** the bridge-question (ss4-11 "how come we are not all liberated") →
 the shock (ss4-12 jñānam bandhaḥ) → two readings (ss4-13) → mala-map (ss4-14…17:
 not-knowing, incomplete, consumerism, veiling=freedom) → five acts (ss4-18/19) →
@@ -56,7 +57,7 @@ kañcuka section (ss5-02…08, ss5-12, ss5-15: kalā-fragment, armor, removal-ru
 malas-speaking) → threshold as māyā (ss9-02) · siddhi-veil strays: ss13-03.
 **A-anchors:** ss4-12, ss4-14, ss4-17, ss5-15, ss5-04.
 
-## S3. Why can't you force realisation? — 20 units (8A)
+## S3. How does realisation happen? — 20 units (8A)
 **Anchor:** `ss6-04` — "ud + yam … it is not a gradual rising step by steps it is a sudden upsurge"
 **Journey:** jīvanmukti-question (ss6-01) → Zen/sudden frame (ss6-02) → viśrānti (ss6-03) →
 the sūtra itself (ss6-04/05 uplifting=divine) → union (ss6-07/08) → "not by any human
@@ -65,7 +66,7 @@ effort" (ss12-03/04 + ss10-05/06 easy-way & result-not-ticket) → thought-free 
 **A-anchors:** ss6-04, ss6-05, ss6-08, ss6-14, ss12-04, **ss12-16 (the WHY-line: not made by any human effort)**, ss10-05.
 **Note:** siddhi-rejection deliberately clustered here (means: not-by-powers), not in S6.
 
-## S4. What does consciousness do to experience? — 24 units (10A)
+## S4. What does realisation do to experience? — 24 units (10A)
 **Anchor:** `ss7-06` — "the moonlit vīra … with the rays of his knowledge he purifies
 and fills it with supreme bliss right from hell to shiva"
 **Journey:** turya/state-machinery (ss2-02, ss7-04…09: 3×3, sleep-entry, awakening-degrees) →
@@ -74,7 +75,7 @@ body-reading (ss8-02…05 this-universe-my-body, peacock/banyan) → heart-pract
 (ss8-06/07 lotus) → kṣobha/agitation (ss12-13) · program strays: ss3-01 invocation, ss6-19.
 **A-anchors:** ss7-05, ss7-06, ss7-07, ss7-14, ss7-16, ss8-02, ss8-06, ss8-07.
 
-## S5. How does the mind shape consciousness? — 36 units (15A)
+## S5. What does the mind have to do with consciousness? — 36 units (15A)
 **Anchor:** `ss11-05` — "the mind of the devotee … acquires identity with the deity and
 thus becomes that mantra itself"
 **Journey:** MVUT practice-freedom (ss1-10…15: fix awareness, adopt whatever enables) →
@@ -85,7 +86,7 @@ condense-to-source, nyāsa, pause-between-syllables) → attention-rule (ss6-09)
 ss12-08/09/10 → khecari/vitarka (ss12-05, ss10-07) · program: ss11-08 selection-note.
 **A-anchors:** ss11-03/05/06, ss10-01, ss10-08, ss12-08, ss1-11, ss5-11.
 
-## S6. What is consciousness free to do? — 25 units (8A)
+## S6. What happens after realisation? — 25 units (8A)
 **Anchor:** `ss3-17` — "they come at the end because you cannot practice any ethics or
 any yama niyama unless you have already reached a certain stage of spiritual experience"
 **Journey:** ethics-after (ss3-17/18) → supportlessness + āsana-redefined (ss10-03/04) →

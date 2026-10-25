@@ -87,8 +87,8 @@ the spontaneous natural state), plus śuddhavidyā as the revealing threshold (s
 > **BÄUMER:** *"…the place where the self takes delight with the intention of
 > exhibiting the world drama is the stage."* (ss13-09, [01:02:58]→[01:03:09], Grade A)
 
-**Enquiry chain:** IS → KNOWLEDGE BINDS → REALISATION NOT FORCED → what it DOES → how mind SHAPES it →
-what it's FREE TO DO. Master opens every version; each cell widens the same seed (UNFOLDING).
+**Enquiry chain:** the thing → the obstacle → the arrival → the change → the mechanism →
+the after. Master opens every version; each cell widens the same seed (UNFOLDING).
 
 **Alternates kept (per their audit):** sharpened opener "Why isn't consciousness something
 you do?" (titles/forms only — stack stays master-paired) · "What is consciousness beyond

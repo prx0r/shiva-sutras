@@ -6,7 +6,7 @@ Read straight through. No analysis — flow only. Bells elided. Pauses = 2 breat
 
 **Q: What is consciousness?**
 (pause)
-SANSKRIT: *caitanyamatmane.*
+SANSKRIT: *caitanyamatma* (held form — diacritic restoration at print-verify)
 TRANSLATION: "Consciousness is the Self."
 PLAIN: consciousness is the self.
 **BÄUMER:** "…it means universal consciousness… consciousness is not something
@@ -14,7 +14,7 @@ you are doing — it is something which is there."
 
 **Q: What keeps consciousness from being realised?**
 (pause)
-SANSKRIT: *jñānam bandhaḥ.*
+SANSKRIT: *jnanambandhah*
 TRANSLATION: "Knowledge is bondage."
 PLAIN: knowledge is bondage.
 **BÄUMER:** "…they are not inherent in the soul they are superficial… it is an
@@ -29,7 +29,7 @@ PLAIN: bhairava is upsurge.
 
 **Q: What does realisation do to experience?**
 (pause)
-SANSKRIT: *tṛtayabhoktā viteśaḥ.*
+SANSKRIT: *tritayabhokta vtresah*
 TRANSLATION: "The enjoyer of the three states is the Lord of the Heroes."
 PLAIN: the enjoyer of the three states is the lord of the heroes.
 **BÄUMER:** "…when this heroic yogi wanders about in this world with the rays of
@@ -37,7 +37,7 @@ his knowledge he purifies and fills it with supreme bliss — right from hell to
 
 **Q: What does the mind have to do with consciousness?**
 (pause)
-SANSKRIT: *cittam mantraḥ.*
+SANSKRIT: *cittam mantrah*
 TRANSLATION: "The mind is Mantra."
 PLAIN: the mind is mantra.
 **BÄUMER:** "…the mind of the devotee … acquires identity with the deity and thus
@@ -45,7 +45,7 @@ becomes that mantra itself."
 
 **Q: What happens after realisation?**
 (pause)
-SANSKRIT: *nartakātmā.*
+SANSKRIT: *nartaka atma*
 TRANSLATION: "The Self is the actor."
 PLAIN: the self is the actor.
 **BÄUMER:** "…the place where the self takes delight with the intention of exhibiting
@@ -55,11 +55,12 @@ the world drama — is the stage."
 
 ## What carries the flow (the honest analysis)
 
-1. **Each answer plants the next question.** It's the Self, always there → *then why
-   don't we see it?* (binds) → *can we think our way out?* (no — it is not manufactured) → *when it
-   lands, what changes?* (experience) → *not always in upsurge — then how, in daily
-   life?* (mind/mantra) → *with that, what's left?* (life — the actor). Remove any
-   link and the next question stops making sense. That's the definition of not-random.
+1. **Each answer plants the next question.** It's the Self, always there → *then what
+   keeps it from being realised?* (divided knowing) → *how does realisation happen?*
+   (not manufactured — grace-born) → *what does it do to experience?* (bliss fills
+   everything) → *what does the mind have to do?* (it becomes mantra) → *what happens
+   after?* (it acts — the stage). Remove any link and the next question stops making
+   sense. That's the definition of not-random.
 
 2. **One hidden argument runs underneath** (the through-line): **nothing is being done**
    at any stage — it's not *done* (1) · it's bound by *incomplete* knowing, not by sin (2) ·
@@ -73,8 +74,9 @@ the world drama — is the stage."
    will not — the questions + her clips are the connective tissue, exactly as their
    beat grammar specifies (question → pause → clip).
 
-4. **The questions repeat "consciousness"** — deliberate, same as their spine repeats
-   "realisation" 4×: the recurrence is what makes five sections read as ONE
+4. **The questions alternate two words, 3+3** — consciousness (Q1, Q2, Q5) and
+   realisation (Q3, Q4, Q6) — deliberate, same trick as their spine repeating
+   "realisation" 4×: the recurrence is what makes six sections read as ONE
    investigation (distributed-practice "wearing a robe", §12).
 
 Weakest link, named: **4 → 5** (states → mantra) — it survives ("in daily life, how?")

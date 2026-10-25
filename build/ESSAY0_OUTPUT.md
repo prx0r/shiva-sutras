@@ -39,6 +39,17 @@ it bare, her voice strips the doing-association. Completes "Consciousness is ___
 > incomplete knowledge."* (ss4-15, [00:33:36]→[00:34:22], Grade A — two verified spans;
 > the WHY: knowing binds because it is partial, not because it is deep)
 
+**S2 resolution note (preempt the counter):** *isn't knowledge what frees?* — yes, the
+OTHER knowledge. Three loci, all held/verified: (a) the sūtra permits both splits — her
+ss4-13: "you can divide the sutras in both ways knowledge is bondage or ignorance is
+bondage" (and the mainstream reads ajñāna — "nothing new"); (b) Dyczkowski's own 3.2
+rendering carries the qualifier: **"(Empirical) knowledge is bondage"** (held file) —
+the binder is I/mine-divided knowing; (c) the freeing knowledge is named at 2.5 (held):
+**"When the knowledge innately inherent in one's own nature arises, (that is) Siva's
+state"** — innate-arising, not acquired (her clip ss12-04: sahaja-saṃmajjane, arising of
+the spontaneous natural state), plus śuddhavidyā as the revealing threshold (ss9-02) and
+2.7's self-knowledge-as-food (ss12-15). One word, two types: partial binds, innate frees.
+
 ### S3. Why can't consciousness be forced?
 > **SANSKRIT:** `udyamo bhairavah` · Sūtra 1.5
 > **TRANSLATION:** "Bhairava is upsurge." — *Dyczkowski (held)*

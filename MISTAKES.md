@@ -60,3 +60,11 @@
   ss4-15 line supplies the WHY (not-inherent-in-soul, incomplete knowledge).
   **Rule: run the completion test (does T read as the answer to Q, cold?) on every
   cell BEFORE locking any question.**
+
+- **M11. Cell must meet the obvious counter (owner-caught).** After M10's fix the user
+  still hit the wall: "isn't knowledge what frees?" A cell whose TRANSLATION invites the
+  natural counter must meet it IN the cell (their step-1b: open-lean-in works both ways —
+  the listener's counter is part of the enquiry). Fix: S2 resolution note with the three
+  held loci (both-splits ss4-13 · 3.2 "(Empirical)" · 2.5 innate-arising).
+  **Rule: before any cell ships, voice the strongest objection a cold listener has and
+  check the cell answers it (or flag it for the section's B-depth).**

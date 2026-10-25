@@ -1,7 +1,6 @@
 # NEXT — the complete work queue for whoever picks this up
 
-State at handover: 309 units (81A/219B/9C) verify-green; PASS-1 complete (14/14 transcripts
-ledgered — 13 Baumer + dl1; +124 promotes, 7 window-fixes, M19/M20) · segmentation 225/225 ·
+State at handover: 308 units (81A/219B/8C) all verify-green (pass-1 in progress) · segmentation 225/225 ·
 6 open spine questions G0 7/7 · essay-0 four-layer stack built + flow-read PASS ·
 SECTION_ARGUMENTS (Essay A as text) verdicts: 5/6 flow on her words alone, 2 named
 bridges, 2 soft spots · pushed to github.com/prx0r/shiva-sutras (main).
@@ -53,7 +52,7 @@ Read first: README → PROCESS_NOTES (esp. §8b coverage-truth + §8g) → MISTA
 9. **A-collate manifests** — per section: ordered clip list (uid, mp3, in/out, question
    line, card rows, plain) → `build/manifest_sN_A.json` = "Essay A at speed" (~10–20m
    target total). Append-only verified: every quote re-checked against units.
-10. **B-selection protocol** — for each section: B-pool raw minutes exist (71m total);
+10. **B-selection protocol** — sweep instrument: `build/HOLDUP_SHEET.md` (219 rows; 114 provisional-B start first). — for each section: B-pool raw minutes exist (71m total);
     select to B ≈ A×1.6–2 per hold-up test (*does this deepen essay-0's answer?*) with a
     one-line reason per kept clip; NO superset ever ships (M-record + vatula 86m lesson).
 11. **C-walk** — definition depends on A3 (coverage decision): A+B in her order with

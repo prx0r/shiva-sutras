@@ -116,15 +116,6 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Answering why ka-varga belongs to Brahmī etc.; eight mātṛkās in early temples; honesty-as-method: tradition-given, pandit may know more.
 - essay_use: the epistemic-honesty line — log it as our corresponding rule (no invented loci)
 
-### ss5-14 — Lakshmanjoo's Śiva Sūtra teaching is audio-only; Parātrīśikā on DVD [C]
-- timestamp: [01:29:41]-->[01:30:25]
-- topics: lineage, history
-- role: story
-- layer: explain
-- quote: "his shiva sutra teaching is there on audio but not video"
-- context: Evening-screening logistics: Lakshmanjoo DVDs (mostly Parātrīśikā); Jaideva Singh vs Silburn vs Dyczkowski editions mapped (ss3-08).
-- essay_use: archive pointer for the project (audio worth pulling later)
-
 ### ss5-15 — remove the limitation, the divine quality follows [A]
 - timestamp: [00:30:31]-->[00:30:50]
 - topics: praxis, doctrine

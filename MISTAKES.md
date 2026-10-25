@@ -135,3 +135,10 @@
   (ss4-21/22 vs ss12-09/10). Caught 2026-10-25 by the pass-1 read.
   **Rule: ledger such spans as cross-file-dup with pointer; NEVER create parallel units
   for the same claim twice (double-claim hazard).**
+- **M21. C-grade used for a note, not a texture-clip (ss5-14 "archive pointer").**
+  FORMULA rule: grades are ESSAY-LAYER membership — C = worth keeping as TEXTURE in the
+  walk (anecdotes/asides/Q&A), not a storage-note. ss5-14's quote is pure logistics info
+  (Lakshmanjoo SS audio-only, DVD) → demoted to ledger 2026-10-25; the other 8 C-units
+  audited and retained (they play as texture). Caught by the structure review.
+  **Rule: before grading C, ask "does this CLIP PLAY in the walk?" — if its reason to
+  exist is a note, it belongs in C-MARKS/ledger, never in the units.**

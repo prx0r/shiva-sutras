@@ -20,8 +20,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
    (12.1% span / 16.5% words) and the three-channel plan to include the rest.
 
 ## State (handover snapshot)
-- **Grading:** 309 units (81A/219B/9C) across 14 sessions (pass-1: day5_ii +18, day6_ii +21) — `tools/verify_units.py` = 309/0.
-- **Segmentation:** 309/309 one section each — `excavations/SPINE_ASSIGN.tsv`
+- **Grading:** 308 units (81A/219B/8C) across 14 sessions (pass-1: day5_ii +18, day6_ii +21) — `tools/verify_units.py` = 308/0.
+- **Segmentation:** 308/308 one section each — `excavations/SPINE_ASSIGN.tsv`
   (48+ content-verdict overrides logged in `tools/s2_cluster.py`).
 - **Spine:** 6 open questions (G0 gate `tools/validate_questions.py` = 7/7 incl. alternate),
   sūtra-ranged, fit-checked vs actual A-pools.
@@ -46,7 +46,7 @@ MANIFEST.json  14/14 sessions with transcript sources
 
 ## Repro
 ```bash
-python3 tools/verify_units.py      # 309/0
+python3 tools/verify_units.py      # 308/0
 python3 tools/validate_questions.py  # 7/7 (6 spine + alternate)
 python3 tools/s2_cluster.py --apply  # segmentation, totals reconcile (see SPINE_ASSIGN)
 python3 tools/plain_filter.py --check  # hash MATCH
@@ -58,5 +58,5 @@ python3 tools/plain_filter.py --check  # hash MATCH
    ss13-06 or re-ask.
 3. Coverage-standard decision (PROCESS §8e-1) before any "full walk" claim.
 4. key sign-off → plain regenerate → Sanskrit print-verify (OCR forms).
-5. Build: essay0 → A-collate per section → B hold-up selection → C walk → beats → render.
+5. Build: essay0 → A-collate per section → B hold-up selection (`build/HOLDUP_SHEET.md`) → C walk → beats → render — shapes per vatula `process/FORMULA.md` (A⊂B⊂C append-only; UNFOLDING: seed recurs 4×, layer-bells).
 Audio on demand: pull the other 11 Baumer mp3s from R2 (`longform-audio/bettina-baumer-shiva-sutras/`).

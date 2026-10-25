@@ -201,8 +201,8 @@ stretches, her asides). Consequences:
   scar) copied to `dyczkowski/tools/`; its PROCESS_NOTES §14d repro-path note updated.
 
 ### 8d. STATE NOW (one screen)
-- **Grading:** 186 units (71A/106B/9C), verify 186/0 → pass-1: 309 (81A/219B/9C), 309/0.
-- **Segmentation:** 186/186 → pass-1 309/309 one-home (manual pass-1 rows in SPINE_ASSIGN), 48+ overrides in s2_cluster.
+- **Grading:** 186 units (71A/106B/9C), verify 186/0 → pass-1: 308 (81A/219B/8C), 308/0.
+- **Segmentation:** 186/186 → pass-1 308/308 one-home (manual pass-1 rows in SPINE_ASSIGN), 48+ overrides in s2_cluster.
 - **Convergence:** units × A-buckets agree (S1 top, S5 second, S3-thinnest-accepted).
 - **SPINE:** 6 open questions, role labels, fit-check table, per-section anchors = her words.
 - **Essay-0:** stack SANSKRIT→TRANSLATION→PLAIN→BÄUMER built (build/ESSAY0_OUTPUT.md),
@@ -220,6 +220,12 @@ stretches, her asides). Consequences:
 7. **Sanskrit OCR-verify** — tritayabhokta vtresah, nartaka atma (dl sūtra forms) vs print before any card render.
 8. **Baumer mp3s local** — only KSpk4/r5w local; pull the other 11 from R2 at build/render time.
 9. **S5 collate + B-selection + three-layer beats** (BUILD ORDER: essay0 → A → B hold-up → C walk) — the main build, not started.
+   B-sweep instrument: `build/HOLDUP_SHEET.md` (219 B-rows, 114 provisional from pass-1 —
+   verdict KEEP-B / DEMOTE-C / LEDGER per row at lock). Shapes per vatula `process/FORMULA.md`:
+   **A ⊂ B ⊂ C, append-only** (A plays inside B unchanged; C = texture minus chant/mic/filler;
+   grades = essay-layer membership — C-grade means texture-clip, never a note: M21).
+   UNFOLDING law (vatula FORMULA §THE UNFOLDING): the same seed expands at every layer,
+   essay0 recurs 4× (heads of 0/A/B/C), layer-bells 880Hz sections / 220Hz crossings.
 10. **Cross-repo calls:** BHU-Tantraloka ownership (tantraessays vs vatulanatha CUTTING-FORMULA); CATALOGUE/dl1 rows re-audit if sections move; corpus.db "next loads" (essay-corpus wants PH/Spanda/SS units — ours qualify once locked).
 
 ## 8f. Four-layer gospel ratified (owner, "for all things")
@@ -253,7 +259,7 @@ and the gate's designated alternate.
   content survive — assert-or-die on every scripted doc edit.
 
 ### FINAL STATE
-- 309 units (81A/219B/9C) · verify 309/0 · segmentation 309/309 · G0 7/7 ·
+- 308 units (81A/219B/8C) · verify 308/0 · segmentation 308/308 · G0 7/7 ·
   plain hash MATCH · manifest 14/14 · gates green · tree clean.
 - Six open questions (fit-checked vs A-pools: S2/S3 textbook, S4/S6 wobbles recorded).
 - Essay-0: four-layer cells + flow-read artifact — **text-level passes; lock DRAFT**.
@@ -297,5 +303,7 @@ voice) same day: +3, 1 fix. Gates: 309/0 · G0 7/7 · plain MATCH. dl1 (non-Baum
 7. OCR/print-verify of Sanskrit forms (tritayabhokta vtresah, nartaka atma, caitanyamatma diacritics) — LIVE (card-build time).
 8. Baumer mp3s: pull other 11 from R2 at render — LIVE (build-time).
 9. **Main build** (essay0 → A → B hold-up → C walk → beats → render) — not started.
+   Run `build/HOLDUP_SHEET.md` for the B-sweep; A⊂B⊂C append-only + 4× seed-recurrence
+   per vatula FORMULA/UNFOLDING (M21: C = texture, not notes).
 10. Cross-repo: BHU-Tantraloka ownership; essay-corpus corpus.db load — LIVE (external).
 CLOSED this session: format law, sūtra map, question set, stale strings, manifest/catalogue/pycache, /tmp-scripts (tantraessays).

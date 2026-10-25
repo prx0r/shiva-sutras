@@ -14,8 +14,8 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 (never reorders across) · thin sections stay thin · A ⊂ B ⊂ C collated under these.
 
 ## Convergence (two dissections, one elephant)
-- Unit distribution: S1 62 · S5 36 · S6 25 · S4 24 · S3 20 · S2 19 (total 186; ss5-02 moved to S5 guru-means).
-- Independent A-buckets:  S1 24 · S5 15 · S4 10 · S6 8 · S3 8 · S2 6 (total 71).
+- Unit distribution: S1 63 · S5 50 · S6 26 · S4 25 · S3 21 · S2 19 (total 204 after pass-1; ss5-02 moved to S5 guru-means).
+- Independent A-buckets:  S1 24 · S5 18 · S4 10 · S6 8 · S3 9 · S2 6 (total 75; pass-1 +4: ss11-14/16/18 → S5, ss11-23 → S3).
 - Both rank S1 first and S5 second; S3 is thinnest in both — accepted, not padded.
   S6 vs S2/S4 swap mid-table is the only disagreement (cosmetic).
 
@@ -160,9 +160,9 @@ awk -F'\t' 'NR>1{c[$4]++} END{for(k in c) print k,c[k]}' excavations/SPINE_ASSIG
 |---|---|---|
 | 1 | What is consciousness? | **strong** — every definition/what-it's-not/how-known clip answers it; only 2 frame units sit wide (ss1-21 text-mode, dl1-03 stakes) and both are section-frame by design |
 | 2 | What keeps consciousness from being realised? | **textbook** — all 6 are obstacle-explanations (divided knowing, mala=not-knowing, veiling, māyā-threshold, reversal, removal-rule) |
-| 3 | How does realisation happen? | **textbook** — all 8 answer HOW (upsurge, uplift, union, gap, easy way, unmade, not-manufactured) + 1 boundary (siddhis-hidden = what it's NOT) |
+| 3 | How does realisation happen? | **textbook** — all 9 answer HOW (upsurge, uplift, union, gap, easy way, unmade, not-manufactured, + pass-1 card-gloss ss11-23 "it just happens and takes hold of us without our doings") + 1 boundary (siddhis-hidden = what it's NOT) |
 | 4 | What does realisation do to experience? | **strong, 8/10** — enjoyment/radiance/wonder/bliss/body-read = direct answers; wobble: ss8-06/07 (heart-light, lotus-merge) are practice HOW-units — kept, since the heart is where the yogi's experience occurs (domain reading); flag for audio flow-read |
-| 5 | What does the mind have to do with consciousness? | **strong** — mantra-core (ss11 trio, pause, attention, join-not-suppress) is direct; guru cluster rides "the mechanism" via guru-vaktra (transmission-by-word); MVUT units = mind-practices of attention |
+| 5 | What does the mind have to do with consciousness? | **strong (deepened pass-1)** — mantra-core + the 2.1 exposition itself now in-pool: card double-gloss (ss11-16), autumn-clouds mind-needs-consciousness (ss11-14), citta = organ of consciousness (ss11-18), mind becomes mantra-origin (ss11-17/25/26); guru cluster via guru-vaktra + guru-word-as-pure-thought (ss11-24); MVUT = mind-practices of attention |
 | 6 | What happens after realisation? | **good, 6/8** — ethics-after, vyutthāna-return, sameness, stage, devour-fruit = the life-question; wobble: ss10-03/12-12 (āsana, offering) are path-techniques parked here by TEXT-ORDER (3.x = her sūtra sequence) — fractal law says keep; flag for flow-read |
 
 **Beat feed (unit→sūtra):** section sūtra-range is the default locator for every unit

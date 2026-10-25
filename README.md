@@ -20,8 +20,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
    (12.1% span / 16.5% words) and the three-channel plan to include the rest.
 
 ## State (handover snapshot)
-- **Grading:** 186 units (71A/106B/9C) across 14 sessions — `tools/verify_units.py` = 186/0.
-- **Segmentation:** 186/186 one section each — `excavations/SPINE_ASSIGN.tsv`
+- **Grading:** 204 units (75A/120B/9C) across 14 sessions (pass-1: day5_ii +18) — `tools/verify_units.py` = 204/0.
+- **Segmentation:** 204/204 one section each — `excavations/SPINE_ASSIGN.tsv`
   (48+ content-verdict overrides logged in `tools/s2_cluster.py`).
 - **Spine:** 6 open questions (G0 gate `tools/validate_questions.py` = 7/7 incl. alternate),
   sūtra-ranged, fit-checked vs actual A-pools.
@@ -46,9 +46,9 @@ MANIFEST.json  14/14 sessions with transcript sources
 
 ## Repro
 ```bash
-python3 tools/verify_units.py      # 186/0
+python3 tools/verify_units.py      # 204/0
 python3 tools/validate_questions.py  # 7/7 (6 spine + alternate)
-python3 tools/s2_cluster.py --apply  # segmentation, totals reconcile 186
+python3 tools/s2_cluster.py --apply  # segmentation, totals reconcile (see SPINE_ASSIGN)
 python3 tools/plain_filter.py --check  # hash MATCH
 ```
 

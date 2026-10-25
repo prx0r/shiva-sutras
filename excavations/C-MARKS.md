@@ -74,3 +74,10 @@ transcend-then-expand kula-model, fourth-state-must-pervade). 26 existing units 
 the doctrinal spine; C-run: institution-welcome, Kashmir-history surveys, Vasugupta/rock
 LEGEND narrative (doctrine kept in ss1-16/17), lineage bios, Sanderson-77 scholarly,
 brevity-implications catalogue, kārikā-form, upaya-caveats.
+
+## Pass-1: day1_introduction_ii (= ss2, 14.9% span) — DONE 2026-10-25
+0 promotes — every doctrinal clip already unit'd (ss2-01..06 = bhairavaita/turyatita/
+brahman-shakti/maya-real/excludes-nothing/mutual-dep); ss2-07 = safety-net C-unit.
+8 gaps ledgered: participant question-halves (Veda-comparison, dualistic-tools, safety-net),
+dup-tails (multiplicity, abstract-to-experience = ss7-30-family), thin leads,
+meditation-program logistics. PASS WITH NO UNITS ADDED — ledger-only file.

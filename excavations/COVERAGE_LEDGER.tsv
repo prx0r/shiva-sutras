@@ -59,14 +59,21 @@ shiva_sutras_day_1_introduction_i.txt	1246-1267	01:05:04	01:06:04	123	C		thin: s
 shiva_sutras_day_1_introduction_i.txt	1268-1275	01:06:22	01:06:39	49	C		lead: permeation-sutras lead
 shiva_sutras_day_1_introduction_i.txt	1276-1280	01:06:42	01:06:54	30	promote	ss1-31	fourth state must pervade, nothing outside
 shiva_sutras_day_1_introduction_i.txt	1281-1282	01:06:59	01:07:00	9	C		fragment: path-from-introspection tail
-shiva_sutras_day_1_introduction_ii.txt	1-32	00:00:02	00:02:53	190			
-shiva_sutras_day_1_introduction_ii.txt	46-51	00:03:32	00:03:44	33			
-shiva_sutras_day_1_introduction_ii.txt	60-86	00:04:05	00:05:20	150			
-shiva_sutras_day_1_introduction_ii.txt	92-99	00:05:39	00:06:23	56			
-shiva_sutras_day_1_introduction_ii.txt	112-149	00:07:01	00:09:51	219			
-shiva_sutras_day_1_introduction_ii.txt	155-165	00:10:13	00:10:42	67			
-shiva_sutras_day_1_introduction_ii.txt	173-189	00:11:05	00:12:23	114			
-shiva_sutras_day_1_introduction_ii.txt	197-237	00:12:59	00:14:51	252			
+shiva_sutras_day_1_introduction_ii.txt	1-32	00:00:02	00:02:53	190	C		question-half: participant Veda-SS-comparison (Mandukya Upanishad ask)
+shiva_sutras_day_1_introduction_ii.txt	33-45	00:02:55	00:03:30	66	covered	ss2-01	bhairavaita-window
+shiva_sutras_day_1_introduction_ii.txt	46-51	00:03:32	00:03:44	33	C		dup: multiplicity-not-excluded tail (ss2-01/05 family)
+shiva_sutras_day_1_introduction_ii.txt	52-59	00:03:46	00:04:02	44	covered	ss2-02	turyatita-window
+shiva_sutras_day_1_introduction_ii.txt	60-86	00:04:05	00:05:20	150	C		thin: bhagavata-lead + philosophical-differences + upanishad-quotation-note
+shiva_sutras_day_1_introduction_ii.txt	87-91	00:05:24	00:05:35	34	covered	ss2-03	brahman-shakti-window
+shiva_sutras_day_1_introduction_ii.txt	92-99	00:05:39	00:06:23	56	C		lead: controversy-lead into covered
+shiva_sutras_day_1_introduction_ii.txt	100-111	00:06:26	00:06:54	65	covered	ss2-04	maya-real-window
+shiva_sutras_day_1_introduction_ii.txt	112-149	00:07:01	00:09:51	219	C		question-half: dualistic-tools question (mic-issues inside)
+shiva_sutras_day_1_introduction_ii.txt	150-154	00:09:54	00:10:08	27	covered	ss2-05	excludes-nothing window
+shiva_sutras_day_1_introduction_ii.txt	155-165	00:10:13	00:10:42	67	C		dup: abstract-to-experience tail (= ss7-30 family, day4 promoted)
+shiva_sutras_day_1_introduction_ii.txt	166-172	00:10:47	00:11:02	41	covered	ss2-06	mutual-dependence window
+shiva_sutras_day_1_introduction_ii.txt	173-189	00:11:05	00:12:23	114	C		question-half: Buddhist safety-net ask
+shiva_sutras_day_1_introduction_ii.txt	190-196	00:12:26	00:12:40	48	covered	ss2-07	yes-very-much window
+shiva_sutras_day_1_introduction_ii.txt	197-237	00:12:59	00:14:51	252	C		logistics: meditation-program, schedule, seating-discipline
 shiva_sutras_day_2_introduction_iii.txt	1-11	00:00:03	00:03:45	52	C		music/mangala-lead
 shiva_sutras_day_2_introduction_iii.txt	12-21	00:03:48	00:04:24	51	covered	ss3-01	invocation window
 shiva_sutras_day_2_introduction_iii.txt	22-41	00:04:29	00:05:48	117	C		thin: cave=heart gloss tail

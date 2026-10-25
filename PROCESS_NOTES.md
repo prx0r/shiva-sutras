@@ -168,8 +168,13 @@ S1/S5 strong, S4 (heart-lotus practice) and S6 (āsana/offering path-techniques)
 as wobbles — recorded, NOT patched (text-order homes stay; flow-read decides).
 
 ### 8b. COVERAGE TRUTH (owner question: "are we using all the content?")
-Measured: units claim **114m of 878m total audio = 13% time-coverage**; quoted words
-5,824 of ~95k corpus (~6%). 186 units = idea-dense extraction (compare vatula 96 units);
+Precise measurement (2026-10-25, `tools/coverage_measure.py` → `excavations/COVERAGE.md`):
+**span-union 106m of 878m = 12.1%; words-on-covered-lines 12,418 of 75,278 = 16.5%**
+(17.9% of lines). Uncovered spine-anchor lines: S1 421 · S2 238 · S3 135 · S4 148 ·
+S5 491 · S6 149 — the missing 88% is materially ON-SPINE (anchor coverage 13–26%;
+S4 thinnest). Inclusion plan = three channels + one read-pass in COVERAGE.md (worst-
+served-first: day5-ii 5%, day6-ii 7.2%, dl1 5/99). 186 units = idea-dense extraction
+(compare vatula 96 units);
 **but there is NO coverage ledger for the remainder** — no C-MARKS equivalent, so we
 cannot yet say what the un-unit'd 87% IS (logistics, participant Q&A, technical
 stretches, her asides). Consequences:

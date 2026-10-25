@@ -16,6 +16,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
    with flow verdicts (read for argument coherence).
 7. `build/JOIN_AUDIT.md` — line-by-line join audit: all 65 adjacent pairs verdicted
    (55 OK / 9 SOFT / 0 WEAK), quote-integrity 71/0, cross-section joints.
+8. `excavations/COVERAGE.md` + `tools/coverage_measure.py` — how much of Baumer is in
+   (12.1% span / 16.5% words) and the three-channel plan to include the rest.
 
 ## State (handover snapshot)
 - **Grading:** 186 units (71A/106B/9C) across 14 sessions — `tools/verify_units.py` = 186/0.

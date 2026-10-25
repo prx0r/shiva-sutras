@@ -87,3 +87,12 @@ meditation-program logistics. PASS WITH NO UNITS ADDED — ledger-only file.
 light, consumerism, flower, own-freedom-obstacle, guru-run). M20 logged: file TAIL
 (L810-991) duplicates day6_i content (same stamps) — ledgered as cross-file-dup,
 parallel units (ss4-21/22 vs ss12-09/10) kept, no double-claim created.
+
+## Pass-1: day3_session_ii (= ss6, 31.7% span — best-covered file) — DONE 2026-10-25
+7 promotes (ss6-20..26, all B: enlightenment-happens-yet-devotion, thoughts-enmesh,
+horse-training-but-sudden, same-state-continues-outside, senses-divine-phases, not-even-
+negations, fire-burns-multiplicity) + 1 window FIX: ss6-18 covered [47:54-1:01:04] of
+UNRELATED content while its quote lived at 1:07:00 — corrected to [1:07:00-1:07:23]
+(exposes the 13-min region honestly into the ledger). C-runs: bhairava-etymology,
+ut/yam-roots, spatial-symbolism, MVUT-setup, krama-background, metaphors-recap,
+devours-verse-dup (ss12-14), kala-devour.

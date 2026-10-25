@@ -201,8 +201,8 @@ stretches, her asides). Consequences:
   scar) copied to `dyczkowski/tools/`; its PROCESS_NOTES §14d repro-path note updated.
 
 ### 8d. STATE NOW (one screen)
-- **Grading:** 186 units (71A/106B/9C), verify 186/0 → pass-1: 299 (81A/209B/9C), 299/0.
-- **Segmentation:** 186/186 → pass-1 299/299 one-home (manual pass-1 rows in SPINE_ASSIGN), 48+ overrides in s2_cluster.
+- **Grading:** 186 units (71A/106B/9C), verify 186/0 → pass-1: 306 (81A/216B/9C), 306/0.
+- **Segmentation:** 186/186 → pass-1 306/306 one-home (manual pass-1 rows in SPINE_ASSIGN), 48+ overrides in s2_cluster.
 - **Convergence:** units × A-buckets agree (S1 top, S5 second, S3-thinnest-accepted).
 - **SPINE:** 6 open questions, role labels, fit-check table, per-section anchors = her words.
 - **Essay-0:** stack SANSKRIT→TRANSLATION→PLAIN→BÄUMER built (build/ESSAY0_OUTPUT.md),
@@ -253,7 +253,7 @@ and the gate's designated alternate.
   content survive — assert-or-die on every scripted doc edit.
 
 ### FINAL STATE
-- 299 units (81A/209B/9C) · verify 299/0 · segmentation 299/299 · G0 7/7 ·
+- 306 units (81A/216B/9C) · verify 306/0 · segmentation 306/306 · G0 7/7 ·
   plain hash MATCH · manifest 14/14 · gates green · tree clean.
 - Six open questions (fit-checked vs A-pools: S2/S3 textbook, S4/S6 wobbles recorded).
 - Essay-0: four-layer cells + flow-read artifact — **text-level passes; lock DRAFT**.

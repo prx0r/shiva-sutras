@@ -163,7 +163,7 @@ fire/devouring → translation-method note.
 - essay_use: translation-correction with ritual residue (ashes); good color + content
 
 ### ss6-18 — go to the feet of a true master; nothing further described [B]
-- timestamp: [00:47:54]-->[01:01:04]
+- timestamp: [01:07:00]-->[01:07:23]
 - topics: guru, lineage
 - role: reading
 - layer: read
@@ -179,6 +179,69 @@ fire/devouring → translation-method note.
 - quote: "and he is no more alive so i couldn't tell him my criticism but the problem is that he adds uh in his translations something which belongs actually to the commentary i when i translate i like to stick to that brevity of the sutra"
 - context: Jaideva Singh critique (adds commentary into translation; four words → four/five words max); Lakshmanjoo oral teaching noted as interpretive, not literal.
 - essay_use: C as unit (translator shop-talk); keep as project rule in PROCESS_NOTES
+
+### ss6-20 — enlightenment happens on its own - yet only in those devoted, attentively inward [B]
+- timestamp: [00:24:36]-->[00:25:33]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "this enlightenment happens she jayate it it does not mean you're not making it but it happens it comes about it is born but in those who are bhaktivajam who are full of devotion devoted to that and attentively concentrated on their inner nature on the inner reality antar mukata so the only disturbing factor in these three previous sutras was just externalizing extroversion and here the only condition for this union with the divine is internalization under mugata avadhana so that two things which"
+- context: The both-and of arrival: enlightenment happens (jayate) - not that YOU are making it, it comes about, it is born - but in those who are bhakti-yukta, full of devotion, attentively concentrated on their inner nature (antarmukata). The only condition for the union is internalization. Balances not-made (ss12-16) with what the sādhaka brings.
+- essay_use: S3 depth: happens-yet-requires-devotion-and-attention (the conditions clause)
+
+### ss6-21 — thoughts are what hinder: they enmesh us in dualistic oscillation [B]
+- timestamp: [00:29:17]-->[00:29:37]
+- topics: bondage,mind
+- role: claim
+- layer: explain
+- quote: "is our thoughts so here this chinta but afterwards mostly it is called the kalpa so the thoughts which are enmeshing us into this dualistic um oscillation you know that dualistic thinking see one"
+- context: Thought-as-obstacle stated plain: what is hindering is our thoughts - the citta/vikalpas, the thoughts which are enmeshing us into this dualistic oscillation, that dualistic thinking (thought-free condition of the absorption follows in covered ss6-10).
+- essay_use: S2 depth: the enemy named at thought-level (pairs ss10-17 objectify-fixation)
+
+### ss6-22 — they train the horse - but what has to take place is that suddenness [B]
+- timestamp: [00:39:39]-->[00:39:52]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "so he compares this with with taming or training a horse but actually what has to take place is that suddenness and that total awareness"
+- context: Abhinavaguptas horse-simile for the means-question: taming or training a horse (other upāyas concede training) - BUT actually what has to take place is THAT SUDDENNESS and that total awareness. Means-vs-arrival in one clause (pairs ss6-04 sudden + ss10-26 cannot-go-down).
+- essay_use: S3 depth: training-is-not-it simile (means subordinated to the sudden)
+
+### ss6-23 — even in external activity the same state of awareness continues - vyutthāna holds [B]
+- timestamp: [01:08:25]-->[01:08:56]
+- topics: realisation,ethics
+- role: claim
+- layer: explain
+- quote: "attentiveness with that attentive awareness even if you are in your external activity the same state of consciousness will continue in butana so the first it was in inter introvertedness and then even when you go into butana outside you continue with the same state of awareness but the requirement"
+- context: The continuity-clause closing the saṃhāra-sūtra: even if you are in your external activity the same state of consciousness will continue in vyutthāna - first it was introvertedness, and then even when you go outside you continue with the same state of awareness.
+- essay_use: S6 depth: the after-state persists-in-action (completion of ss6-16 return)
+
+### ss6-24 — the senses are phases of the divine energy - perception itself is divine [B]
+- timestamp: [00:46:30]-->[00:47:01]
+- topics: senses,realisation
+- role: claim
+- layer: explain
+- quote: "spiritual tradition which says that our sense organs our senses our sense perceptions they are phases of of the divine energy so that sense perception or sense organs are divine that is already into upanishads but here it has been developed into a very systematic sadhana by observing the phases of the sense perception and understanding them as divine"
+- context: Krama/shakti-chakra background made into the doctrine: the tradition says our sense organs, our senses, our sense perceptions are PHASES OF THE DIVINE ENERGY - sense perception is divine (already in the Upaniṣads) but here developed into a systematic sādhana by observing the phases of sense-perception as divine energies. The metaphysics behind living-in-the-world.
+- essay_use: S6 depth: senses-divine (grounds the return-run: engagement is perception-of-shakti)
+
+### ss6-25 — she is not any of these forms, not even any of these negations - the incomparable [B]
+- timestamp: [00:57:22]-->[00:57:37]
+- topics: consciousness
+- role: claim
+- layer: explain
+- quote: "various detailed forms as above she is not any of these forms not even any of these negations so this is a very uh close really to the whole concept of altera because another is that which cannot be compared to anything which cannot be described by anything"
+- context: Anuttarā-śakti negation-run: described in the various forms as above - she is not any of these forms, not even any of these negations; which is close to the concept of ala (that which cannot be compared to anything, cannot be described by anything). Beyond forms AND beyond the negations-of-forms.
+- essay_use: S1 depth: the not-even-negated closer (completes the what-it-is-not run)
+
+### ss6-26 — the fire of consciousness burns all multiplicity into a unity [B]
+- timestamp: [01:00:40]-->[01:00:58]
+- topics: consciousness
+- role: claim
+- layer: explain
+- quote: "another metaphor for this consciousness is fire because it burns all the multiplicity into a unity so the fire of consciousness is that in which all the multiplicity is reduced to oneness to that those ashes"
+- context: The fire-simile stated: another metaphor for this consciousness is fire, because it burns all the multiplicity into a unity - the fire of consciousness is that in which all multiplicity is reduced to oneness (screen/lake recap precedes; ashes-reminder follows).
+- essay_use: S1 depth: fire-simile (fourth member: canvas/lake/screen/fire — reduction-function)
 
 ## Reuse clusters
 - **Suddenness file**: ss6-02, ss6-04, ss6-05 (Zen parallel → ud+yam grammar → uplifting criterion)

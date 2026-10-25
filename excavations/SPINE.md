@@ -136,3 +136,18 @@ python3 tools/validate_questions.py     # 6 spine + essay0 questions, G0 gate
 python3 tools/verify_units.py           # 180 units, 0 fails
 awk -F'\t' 'NR>1{c[$4]++} END{for(k in c) print k,c[k]}' excavations/SPINE_ASSIGN.tsv   # 62/20/19/24/35/25
 ```
+
+## Question ↔ content fit (static check vs the actual A-pools, 2026-10-25)
+
+| S | question | A-pool verdict |
+|---|---|---|
+| 1 | What is consciousness? | **strong** — every definition/what-it's-not/how-known clip answers it; only 2 frame units sit wide (ss1-21 text-mode, dl1-03 stakes) and both are section-frame by design |
+| 2 | What keeps consciousness from being realised? | **textbook** — all 6 are obstacle-explanations (divided knowing, mala=not-knowing, veiling, māyā-threshold, reversal, removal-rule) |
+| 3 | How does realisation happen? | **textbook** — all 8 answer HOW (upsurge, uplift, union, gap, easy way, unmade, not-manufactured) + 1 boundary (siddhis-hidden = what it's NOT) |
+| 4 | What does realisation do to experience? | **strong, 8/10** — enjoyment/radiance/wonder/bliss/body-read = direct answers; wobble: ss8-06/07 (heart-light, lotus-merge) are practice HOW-units — kept, since the heart is where the yogi's experience occurs (domain reading); flag for audio flow-read |
+| 5 | What does the mind have to do with consciousness? | **strong** — mantra-core (ss11 trio, pause, attention, join-not-suppress) is direct; guru cluster rides "the mechanism" via guru-vaktra (transmission-by-word); MVUT units = mind-practices of attention |
+| 6 | What happens after realisation? | **good, 6/8** — ethics-after, vyutthāna-return, sameness, stage, devour-fruit = the life-question; wobble: ss10-03/12-12 (āsana, offering) are path-techniques parked here by TEXT-ORDER (3.x = her sūtra sequence) — fractal law says keep; flag for flow-read |
+
+Wobbles are recorded, not patched: units stay in their sūtra-order homes; if the audio
+flow-read shows a section sagging, the levers are (a) promote a B (e.g. S6's dancer
+ss13-06) or (b) re-ask — never move text-order homes to cosmetically fit a question.

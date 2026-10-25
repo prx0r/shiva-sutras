@@ -12,6 +12,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
 3. `excavations/SPINE.md` — the six sections-as-questions, gospel law, fit-check, build rules.
 4. `build/ESSAY0_OUTPUT.md` — essay-0 + six spine cells (four-layer, verified).
 5. `build/ESSAY0_FLOW_READ.md` — the spoken pass (read aloud before any build).
+6. `build/SECTION_ARGUMENTS.md` — Essay A as text: all 71 A-clips in order per section
+   with flow verdicts (read for argument coherence).
 
 ## State (handover snapshot)
 - **Grading:** 186 units (71A/106B/9C) across 14 sessions — `tools/verify_units.py` = 186/0.

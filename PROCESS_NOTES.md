@@ -254,6 +254,14 @@ and the gate's designated alternate.
 - Text law: Aphorisms (held, reference/ gitignored) · voices: Baumer + dl1.
 - Coverage: 13%-time in units, remainder unledgered (§8e-1 decision still owed).
 
+### SECTION ARGUMENTS pass (owner: "textually make sense as a cohesive flow argument")
+All 71 A-clips composed per section in her order → `build/SECTION_ARGUMENTS.md`.
+Verdicts: S2 tightest (six-clip complete essay), S3/S1/S6 flow (S6 = strongest arc,
+innermost-offering → stage), S4 one soft spot (ss7-16 icchā answers "drives" not "does"
+— demote lever), S5 opener needs one bridge (MVUT-practice → mind). Two named bridges
+total; everything else stands on her words alone. Assembly explicitly NOT needed for
+this test (owner).
+
 ### OPEN THREADS — final list (§8e items still live; closed ones noted)
 1. Coverage-standard decision (ledger vs line-pass vs build-time ingestion) — **LIVE, blocks "full walk" claims**.
 2. dl1 end-to-end read (imported via units only) — LIVE.

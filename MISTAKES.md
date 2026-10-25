@@ -117,3 +117,9 @@
   TWO commits until the fresh-eyes read. Caught by manual read, not by any gate.
   **Rule: scripted doc edits assert `count == 1` (or print 0-miss) — a silent no-op is
   an unfixed file; and gates check tools, only eyes check prose.**
+
+- **M18. Manual paste of quotes into SECTION_ARGUMENTS silently repaired two texts**
+  (ss1-21: "they they…stand a rational" typed as "they…than a rational"; ss3-09: "of uh of"
+  dropped without ellipsis). Caught 2026-10-25 by the 71/0 re-verify pass of the join audit.
+  **Rule: after ANY quote is moved into a new document, re-run the verbatim verifier
+  against transcripts — pass-verify protects the source file, not the copies.**

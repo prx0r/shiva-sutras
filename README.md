@@ -14,6 +14,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
 5. `build/ESSAY0_FLOW_READ.md` — the spoken pass (read aloud before any build).
 6. `build/SECTION_ARGUMENTS.md` — Essay A as text: all 71 A-clips in order per section
    with flow verdicts (read for argument coherence).
+7. `build/JOIN_AUDIT.md` — line-by-line join audit: all 65 adjacent pairs verdicted
+   (55 OK / 9 SOFT / 0 WEAK), quote-integrity 71/0, cross-section joints.
 
 ## State (handover snapshot)
 - **Grading:** 186 units (71A/106B/9C) across 14 sessions — `tools/verify_units.py` = 186/0.
@@ -31,7 +33,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
 ```
 excavations/   ss1..ss13 + dl1 unit files · SPINE.md · SPINE_PREVIEW (superseded) ·
                CATALOGUE.md · SPINE_ASSIGN.tsv
-build/         ESSAY0_OUTPUT.md · ESSAY0_FLOW_READ.md · essay0_lock.json (DRAFT) ·
+build/         ESSAY0_OUTPUT.md · ESSAY0_FLOW_READ.md · SECTION_ARGUMENTS.md ·
+               JOIN_AUDIT.md · essay0_lock.json (DRAFT) ·
                plain_essay0.json + key_ss1_proposal.json (PROPOSAL) · filters
 reference/     aphorisms-of-siva (GITIGNORED — never commit, copyright)
 audio/         mp3s (GITIGNORED — local only)     text/  stamped transcripts (14)

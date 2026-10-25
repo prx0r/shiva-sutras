@@ -262,6 +262,15 @@ innermost-offering → stage), S4 one soft spot (ss7-16 icchā answers "drives" 
 total; everything else stands on her words alone. Assembly explicitly NOT needed for
 this test (owner).
 
+### JOIN AUDIT (owner: "manually check line by line that essays ARGUE, not random statements")
+`build/JOIN_AUDIT.md`: every one of the 65 adjacent clip-pairs verdicted (55 OK / 9 SOFT /
+0 WEAK) + cross-section joints + answer-test per section (closers all close; S5 closure
+flagged: answer lives mid-section at mind-becomes-mantra, guru-grace is frame-closure).
+Quote-integrity first: 71/0 re-verify caught 2 manual-paste repairs (M18). No reorderings,
+no cuts proposed at text level. SECTION_ARGUMENTS gained 5 audit-notes (2 bridges already
+known, 2 accept-deictics, 1 criteria-glue, 1 pivot, 1 closure-test) and its whole-doc
+verdict now cites the audit numbers.
+
 ### OPEN THREADS — final list (§8e items still live; closed ones noted)
 1. Coverage-standard decision (ledger vs line-pass vs build-time ingestion) — **LIVE, blocks "full walk" claims**.
 2. dl1 end-to-end read (imported via units only) — LIVE.

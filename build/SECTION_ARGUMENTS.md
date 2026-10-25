@@ -1,8 +1,10 @@
 # SECTION ARGUMENTS — Essay A as text (her words in order; read cold)
 
 Policy: her verified quotes ARE the argument (no composed doctrine; verbatim from units).
-Questions open each section (human voice). Structural notes in `> jump:` lines mark where
-the argument needs a bridge at build — drafts, never spoken as-is.
+Questions open each section (human voice). Structural notes in `> jump:` / `> note:` /
+`> closure-test:` lines mark where the argument needs glue or an audio test at build —
+drafts, never spoken as-is. Per-join line-by-line audit: `build/JOIN_AUDIT.md` (65 joins:
+55 OK / 9 SOFT / 0 WEAK; all 71 quotes re-verified verbatim).
 
 ---
 
@@ -13,13 +15,15 @@ the argument needs a bridge at build — drafts, never spoken as-is.
 > *"from vaikari the expressed word to matyama … and finally to para the level of silence and the source of all thought"* — ss1-04
 > *jump: stakes → thesis → speech-levels. Bridge at build: how is such a self SAID? (the word-ladder answers)*
 > *"there is nothing which is simply matter … it is full of that consciousness … it is vibrating with consciousness"* — ss1-16
-> *"so they reveal their meaning at another level of consciousness than a rational or discursive one"* — ss1-21
+> *"so they they reveal their meaning at another level of consciousness stand a rational or discursive one"* — ss1-21
+> *note: "they" = the sūtras — referent held by question/card, audio-ok (JOIN_AUDIT #4)*
 > *"no no you start from the highest because you are that already"* — ss1-23
 > *"the authentic name is swatan prevada is the doctrine of absolute freedom and samvit advayavada the doctrine of the non-dualism of consciousness"* — ss1-25
 > *"where he says what is called in this tradition bharat waita means not another higher level but it means being open even to duality"* — ss2-01
+> *jump: "this brahman" unanchored (JOIN_AUDIT #8) — half-line glue at build ("the brahman without shakti") or accept her deictic*
 > *"how can this brahman create anything because he doesn't have any shakti"* — ss2-03
 > *"in kashmir the uh maya is there is one of the greats of reality but it is not does not believe in the illusory nature of reality"* — ss2-04
-> *"later the authors have preferred one word for consciousness which is samwit … a specific term of the philosophy of kashmir shaivism"* — ss3-09
+> *"later the authors have preferred one word for consciousness which is samwit … but some of it was a specific term of uh of the philosophy of kashmir shaivism"* — ss3-09
 > *"now we have to be aware that consciousness is definitely not individual consciousness … it means universal consciousness and it does not mean uh subject object dualistic consciousness"* — ss3-10
 > *"raja identifies first of all this consciousness chaitanya with the universal universal and he identifies it with freedom"* — ss3-12
 > *"but that shiva who is a tatwa is not the ultimate … when you are going to the temple or doing some puja to shiva this is not the supreme"* — ss3-13
@@ -85,6 +89,7 @@ NOT (powers, veiled by ignorance). One path, one claim each step. No jumps.
 
 > *"there is a variant reading … the enjoyment of the fourth state so turia are boga that means immediately that this turiya is not something very hard or something"* — ss7-05
 > *"just like the moon shining in the sky … when this heroic yogi wanders about in this world with the rays of his knowledge he purifies and fills it with supreme bliss"* — ss7-06
+> *jump: radiance → criteria-run opens (JOIN_AUDIT #2) — half-glue "how do you tell?" (audio decides)*
 > *"that vikalpa is the key to all the spiritualities because there are only two possibilities either you are in vikalpa or you are in navigator"* — ss7-07
 > *"so this is one of the criteria if any spiritual experience is authentic it must fill you with wonder it cannot be something routine"* — ss7-14
 > *"he calls it precognitive impulse this is it lies before any will to do or to know to anything before any objective"* — ss7-16
@@ -110,6 +115,7 @@ to experience* — if the flow-read sags there, it demotes to B (pool has depth)
 > *"worship does not consist in offering flowers and other substances the real worship consists rather in setting one's mind firmly on the supreme void of thought-free consciousness"* — ss1-13
 > *"but at least we know that reading such a text like the shiva sutras it is one of our gurus one of our ways of approaching the ultimate reality"* — ss3-03
 > *"that is why if i say something personal i understood this first sutra chaitanya magma when i met my guru swami lakshman jew because it was that pure consciousness in pervading his whole body"* — ss5-02
+> *jump: guru-story → mantra-condensation pivot (JOIN_AUDIT #6) — glue "the essence of every means…" if audio needs it*
 > *"so mantra is that where this distracting power of language becomes so much condensed that it leads you back to the source of the word of language"* — ss5-09
 > *"where it says you have to keep your awareness in that pause between between syllables not only words which is very difficult"* — ss5-11
 > *"and the kind of not meditation … just attentive awareness attention so it does not require much … you don't have to sit five hours in samadhi but you have to be focused and attentive"* — ss6-09
@@ -120,6 +126,7 @@ to experience* — if the flow-read sags there, it demotes to B (pool has depth)
 > *"and in the srikanti samhita if the practicer of the mantra is different from the mantra then his mantra will never be successful"* — ss11-06
 > *"where if the yogi is in that state he does not need a guru … but at the level of shakta and anava you do need a guru"* — ss12-08
 > *"the guru may be said to be the power of divine grace parameshvari anukrahika shakti the guru is the embodiment of that shakti of that grace"* — ss12-09
+> *closure-test: direct answer to the question lives at ss11-03/05/06 (mind becomes mantra); closer is guru-grace = frame-closure of the means-arc — re-test in flow-read whether the listener feels answer-complete*
 
 **Verdict: FLOWS as a means-hierarchy.** The means first as freedom (any practice that
 fixes awareness, even pūjā-as-attention) → the text and the guru as means → then the
@@ -156,7 +163,9 @@ keep, re-test with audio.
 ## WHOLE-DOCUMENT VERDICT (six in sequence)
 Read end-to-end: IS → obstacle → arrival → change → mechanism → after — **the argument
 coheres as one piece**: what it is, what hides it, how it comes, what it changes, how the
-mind engages it, what it finally does. Each section's internal argument is one claim per
-step in her order; the two named bridges (S1 thesis→speech, S5 practice→mind) and two
-soft spots (S4 icchā, S6 offering-in-after) are the ONLY places prose glue or a demotion
-is needed at build — everything else stands on her words alone.
+mind engages it, what it finally does. Per-join audit (`build/JOIN_AUDIT.md`, 65 joins):
+**55 OK / 9 SOFT / 0 WEAK — no reorderings, no cuts proposed**. At build: 2 named bridges
+(S1 thesis→speech, S5 question→means), 3 audio-decides soft spots (S4 criteria-entry,
+S4 icchā demote-lever, S5 mantra-pivot), 1 closure test (S5 answer-at-11-13 vs guru
+closer), plus 2 accept-deictic notes (S1 referent + brahman). Wobble S6 offering-in-after
+still audio-retested. Everything else stands on her words alone.

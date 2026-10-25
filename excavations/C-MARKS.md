@@ -50,3 +50,9 @@ hindrance, spontaneous-vs-practice, open-eyes samadhi, ananya-citta, senses-incl
 god-to-universal transformation). Session = drik-sharira/heart-sutra block. C-reasons:
 orientation-table (whole upaya-correspondence scheme), leads into covered units, dup
 (heart-glosses/bhavanā), ASR-broken all-bodies list noted for EAR, logistics (walk-plan).
+
+## Pass-1: day4_session_ii_part_ii (= ss9, 17.5% span) — DONE 2026-10-25
+2 promotes (ss9-06 interconnectedness-consciousness, ss9-07 not-a-substance) + 1 micro-fix
+(ss9-02 window ended 1s before its own quote-line "that a threshold"). Compassion-thesis
+L14-20 logged dup-adjacent: inside ss9-01 window (window⊃quote). Q&A half (real-question)
+C as question-half; Sarnath-survey/recaps C thin; covered rows recorded for audit.

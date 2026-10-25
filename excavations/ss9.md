@@ -17,7 +17,7 @@ forum-fight note → close.
 - essay_use: ethics chain restated (ss3-17/18) — when asked directly whether the practice IS compassion
 
 ### ss9-02 — māyā is a threshold, not world-illusion [A]
-- timestamp: [00:03:32]-->[00:03:59]
+- timestamp: [00:03:32]-->[00:04:00]
 - topics: doctrine, tantra-comparative
 - role: claim
 - layer: explain
@@ -51,6 +51,24 @@ forum-fight note → close.
 - quote: "who is bhairava bhairava is void is shunya so the definition of bhairava is uh there is no subs no no uh no god solid uh you know god as swamiji said yesterday you know that the devi is not that goddess you know which you see in the temple but it's in every being is that goddess is manifest"
 - context: VB opening verse (meditating on Bhairava = emptiness); spiritual angle builds bridges traditions can't build doctrinally; Sarnath śūnya-pūrṇa dialogue (Rinpoche: two sides of same coin; Dalai Lama's last word).
 - essay_use: de-objectified deity beat; cross-link ss3-13 (tattva-Śiva) and Sources' deity-essentialization
+
+### ss9-06 — universal consciousness is the consciousness of interconnectedness [B]
+- timestamp: [00:07:01]-->[00:07:16]
+- topics: consciousness
+- role: claim
+- layer: explain
+- quote: "when we are speaking here of universal consciousness universal consciousness is a consciousness of that interconnectedness that nothing is isolated see if i lose my isolated individuality then i am much more connected with the totality"
+- context: The Sarnath-dialogue payoff (sunya-purna): when we speak of universal consciousness it is a consciousness OF THAT INTERCONNECTEDNESS - nothing is isolated; if I lose my isolated individuality then I am much more connected with the totality (blade-of-grass Utpaladeva verse follows).
+- essay_use: S1 depth: what universal consciousness IS (interconnectedness-reading)
+
+### ss9-07 — consciousness is not a substance - something very fluid, very transparent [B]
+- timestamp: [00:09:38]-->[00:09:45]
+- topics: consciousness
+- role: claim
+- layer: explain
+- quote: "consciousness is not a substance consciousness is something very fluid something very transparent and"
+- context: The substance-question answered against both Buddhist objection and vedantist reification: consciousness is NOT a substance - something very fluid, something very transparent (crystallization similes then follow: ice/sugar = solidified consciousness, ss9-04).
+- essay_use: S1 depth: consciousness-not-substance (the anti-reification clause)
 
 ## Reuse clusters
 - **Ethics condition**: ss9-01 (+ ss3-17/18)

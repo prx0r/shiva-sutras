@@ -1,0 +1,4962 @@
+{
+ "source": "/home/ubuntu/shiva-sutras/audio/KSpk4KO0JY4.mp3",
+ "duration": 3455.294694,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 0.0,
+   "end": 1.82,
+   "text": "Let's start with our shlokas."
+  },
+  {
+   "t": 7.6,
+   "end": 9.5,
+   "text": "We can just do them one by one."
+  },
+  {
+   "t": 38.3,
+   "end": 41.1,
+   "text": "Thank you."
+  },
+  {
+   "t": 79.6,
+   "end": 81.76,
+   "text": "Thank you."
+  },
+  {
+   "t": 95.26,
+   "end": 98.06,
+   "text": "Thank you."
+  },
+  {
+   "t": 134.48,
+   "end": 137.28,
+   "text": "Thank you."
+  },
+  {
+   "t": 137.28,
+   "end": 143.1,
+   "text": "Thank you."
+  },
+  {
+   "t": 143.1,
+   "end": 146.86,
+   "text": "Thank you."
+  },
+  {
+   "t": 152.74,
+   "end": 153.94,
+   "text": "Thank you."
+  },
+  {
+   "t": 160.42,
+   "end": 163.22,
+   "text": "Thank you."
+  },
+  {
+   "t": 163.22,
+   "end": 165.22,
+   "text": "Thank you."
+  },
+  {
+   "t": 172.72,
+   "end": 175.52,
+   "text": "Thank you."
+  },
+  {
+   "t": 189.78,
+   "end": 192.58,
+   "text": "Thank you."
+  },
+  {
+   "t": 198.64,
+   "end": 199.72,
+   "text": "Thank you."
+  },
+  {
+   "t": 199.72,
+   "end": 202.78,
+   "text": "Thank you."
+  },
+  {
+   "t": 205.94,
+   "end": 207.84,
+   "text": "Thank you."
+  },
+  {
+   "t": 207.84,
+   "end": 209.84,
+   "text": "Thank you."
+  },
+  {
+   "t": 230.38,
+   "end": 233.18,
+   "text": "Thank you."
+  },
+  {
+   "t": 233.18,
+   "end": 239.46,
+   "text": "Thank you."
+  },
+  {
+   "t": 243.2,
+   "end": 244.62,
+   "text": "Thank you."
+  },
+  {
+   "t": 251.96,
+   "end": 253.48,
+   "text": "Thank you."
+  },
+  {
+   "t": 261.82,
+   "end": 263.68,
+   "text": "Thank you."
+  },
+  {
+   "t": 265.88,
+   "end": 268.68,
+   "text": "Thank you."
+  },
+  {
+   "t": 268.68,
+   "end": 270.68,
+   "text": "Thank you."
+  },
+  {
+   "t": 271.56,
+   "end": 271.72,
+   "text": "Thank you."
+  },
+  {
+   "t": 281.4,
+   "end": 284.2,
+   "text": "Thank you."
+  },
+  {
+   "t": 285.1,
+   "end": 287.06,
+   "text": "Thank you."
+  },
+  {
+   "t": 287.06,
+   "end": 287.52,
+   "text": "Thank you."
+  },
+  {
+   "t": 293.64,
+   "end": 296.44,
+   "text": "Thank you."
+  },
+  {
+   "t": 303.54,
+   "end": 306.34,
+   "text": "Thank you."
+  },
+  {
+   "t": 314.6,
+   "end": 316.86,
+   "text": "Thank you."
+  },
+  {
+   "t": 318.5,
+   "end": 320.18,
+   "text": "Thank you."
+  },
+  {
+   "t": 320.18,
+   "end": 321.42,
+   "text": "Thank you."
+  },
+  {
+   "t": 322.44,
+   "end": 324.18,
+   "text": "Thank you."
+  },
+  {
+   "t": 331.0,
+   "end": 332.78,
+   "text": "Thank you."
+  },
+  {
+   "t": 332.78,
+   "end": 333.12,
+   "text": "Thank you."
+  },
+  {
+   "t": 334.88,
+   "end": 336.78,
+   "text": "Thank you."
+  },
+  {
+   "t": 343.98,
+   "end": 346.78,
+   "text": "Thank you."
+  },
+  {
+   "t": 359.96,
+   "end": 362.76,
+   "text": "Thank you."
+  },
+  {
+   "t": 365.62,
+   "end": 368.22,
+   "text": "Thank you."
+  },
+  {
+   "t": 371.84,
+   "end": 374.64,
+   "text": "Thank you."
+  },
+  {
+   "t": 380.12,
+   "end": 382.92,
+   "text": "Thank you."
+  },
+  {
+   "t": 384.76,
+   "end": 387.2,
+   "text": "Thank you."
+  },
+  {
+   "t": 387.2,
+   "end": 400.6,
+   "text": "Thank you."
+  },
+  {
+   "t": 407.12,
+   "end": 408.3,
+   "text": "Thank you."
+  },
+  {
+   "t": 409.76,
+   "end": 417.04,
+   "text": "Thank you."
+  },
+  {
+   "t": 417.04,
+   "end": 422.94,
+   "text": "Thank you."
+  },
+  {
+   "t": 428.54,
+   "end": 430.3,
+   "text": "Thank you."
+  },
+  {
+   "t": 430.3,
+   "end": 431.32,
+   "text": "Thank you."
+  },
+  {
+   "t": 431.94,
+   "end": 439.78,
+   "text": "Thank you."
+  },
+  {
+   "t": 439.78,
+   "end": 440.78,
+   "text": "Thank you."
+  },
+  {
+   "t": 450.38,
+   "end": 452.46,
+   "text": "Thank you."
+  },
+  {
+   "t": 455.0,
+   "end": 455.16,
+   "text": "Thank you."
+  },
+  {
+   "t": 455.36,
+   "end": 456.26,
+   "text": "Thank you."
+  },
+  {
+   "t": 456.26,
+   "end": 463.04,
+   "text": "We have already started for the first Sutra, and we are still in the middle of the explanation."
+  },
+  {
+   "t": 463.04,
+   "end": 465.06,
+   "text": "and I"
+  },
+  {
+   "t": 465.06,
+   "end": 467.2,
+   "text": "want to stress"
+  },
+  {
+   "t": 467.2,
+   "end": 469.4,
+   "text": "again that we should"
+  },
+  {
+   "t": 470.36,
+   "end": 471.18,
+   "text": "not"
+  },
+  {
+   "t": 471.18,
+   "end": 472.92,
+   "text": "listen or read"
+  },
+  {
+   "t": 472.92,
+   "end": 474.02,
+   "text": "these two parts"
+  },
+  {
+   "t": 474.02,
+   "end": 475.64,
+   "text": "with the mind"
+  },
+  {
+   "t": 475.64,
+   "end": 479.36,
+   "text": "they are at the spiritual level"
+  },
+  {
+   "t": 479.36,
+   "end": 481.24,
+   "text": "so we have to open"
+  },
+  {
+   "t": 481.24,
+   "end": 482.82,
+   "text": "our other"
+  },
+  {
+   "t": 482.82,
+   "end": 485.34,
+   "text": "sense which is the spiritual organ"
+  },
+  {
+   "t": 485.34,
+   "end": 486.36,
+   "text": "and not"
+  },
+  {
+   "t": 486.36,
+   "end": 488.78,
+   "text": "it's not at the mental level"
+  },
+  {
+   "t": 488.78,
+   "end": 490.02,
+   "text": "or the rational level"
+  },
+  {
+   "t": 490.02,
+   "end": 491.96,
+   "text": "that these two parts have to be understood"
+  },
+  {
+   "t": 491.96,
+   "end": 493.92,
+   "text": "that is why Chaitanya Madman"
+  },
+  {
+   "t": 493.92,
+   "end": 497.24,
+   "text": "is never taken as a philosophical statement"
+  },
+  {
+   "t": 497.24,
+   "end": 498.3,
+   "text": "even later"
+  },
+  {
+   "t": 498.3,
+   "end": 500.2,
+   "text": "even by the philosophers"
+  },
+  {
+   "t": 500.2,
+   "end": 503.26,
+   "text": "although it includes"
+  },
+  {
+   "t": 503.26,
+   "end": 505.34,
+   "text": "in a way the whole philosophy"
+  },
+  {
+   "t": 505.34,
+   "end": 507.3,
+   "text": "it embraces"
+  },
+  {
+   "t": 507.3,
+   "end": 508.3,
+   "text": "the whole philosophy"
+  },
+  {
+   "t": 508.3,
+   "end": 510.82,
+   "text": "but it is meant a statement"
+  },
+  {
+   "t": 510.82,
+   "end": 511.36,
+   "text": "of"
+  },
+  {
+   "t": 512.66,
+   "end": 514.5,
+   "text": "state of consciousness"
+  },
+  {
+   "t": 514.5,
+   "end": 516.96,
+   "text": "which is then of course"
+  },
+  {
+   "t": 516.96,
+   "end": 519.8,
+   "text": "identified with the divine consciousness"
+  },
+  {
+   "t": 519.8,
+   "end": 521.6,
+   "text": "arranged for us here"
+  },
+  {
+   "t": 521.6,
+   "end": 522.88,
+   "text": "or Parana Shiva"
+  },
+  {
+   "t": 522.88,
+   "end": 525.62,
+   "text": "but the supreme consciousness"
+  },
+  {
+   "t": 525.62,
+   "end": 526.94,
+   "text": "and not"
+  },
+  {
+   "t": 526.94,
+   "end": 527.78,
+   "text": "neither"
+  },
+  {
+   "t": 527.78,
+   "end": 529.68,
+   "text": "at the psychological level"
+  },
+  {
+   "t": 529.68,
+   "end": 531.82,
+   "text": "nor at the theoretical level"
+  },
+  {
+   "t": 531.82,
+   "end": 534.04,
+   "text": "of your philosophical statement"
+  },
+  {
+   "t": 534.04,
+   "end": 536.26,
+   "text": "and because"
+  },
+  {
+   "t": 536.26,
+   "end": 536.76,
+   "text": "we"
+  },
+  {
+   "t": 536.76,
+   "end": 538.16,
+   "text": "as I said yesterday"
+  },
+  {
+   "t": 538.16,
+   "end": 539.06,
+   "text": "and today also"
+  },
+  {
+   "t": 539.06,
+   "end": 540.24,
+   "text": "this"
+  },
+  {
+   "t": 540.24,
+   "end": 542.02,
+   "text": "is at the level"
+  },
+  {
+   "t": 542.02,
+   "end": 543.36,
+   "text": "of the divine way"
+  },
+  {
+   "t": 543.36,
+   "end": 544.06,
+   "text": "Shambhava"
+  },
+  {
+   "t": 545.18,
+   "end": 546.86,
+   "text": "and Shambhava"
+  },
+  {
+   "t": 546.86,
+   "end": 547.96,
+   "text": "is beyond"
+  },
+  {
+   "t": 547.96,
+   "end": 548.82,
+   "text": "the mind"
+  },
+  {
+   "t": 548.82,
+   "end": 549.74,
+   "text": "is beyond"
+  },
+  {
+   "t": 549.74,
+   "end": 551.18,
+   "text": "thinking"
+  },
+  {
+   "t": 551.18,
+   "end": 552.42,
+   "text": "there is no question"
+  },
+  {
+   "t": 552.42,
+   "end": 553.34,
+   "text": "of the"
+  },
+  {
+   "t": 553.34,
+   "end": 555.1,
+   "text": "mental operation"
+  },
+  {
+   "t": 555.1,
+   "end": 555.8,
+   "text": "that comes"
+  },
+  {
+   "t": 555.8,
+   "end": 556.46,
+   "text": "at the level"
+  },
+  {
+   "t": 556.46,
+   "end": 557.16,
+   "text": "of shakta"
+  },
+  {
+   "t": 557.16,
+   "end": 557.7,
+   "text": "of the way"
+  },
+  {
+   "t": 557.7,
+   "end": 558.48,
+   "text": "of energy"
+  },
+  {
+   "t": 558.48,
+   "end": 559.86,
+   "text": "but"
+  },
+  {
+   "t": 559.86,
+   "end": 560.72,
+   "text": "here"
+  },
+  {
+   "t": 560.72,
+   "end": 561.52,
+   "text": "this is really"
+  },
+  {
+   "t": 561.52,
+   "end": 562.06,
+   "text": "interesting"
+  },
+  {
+   "t": 562.06,
+   "end": 562.82,
+   "text": "for you"
+  },
+  {
+   "t": 562.82,
+   "end": 564.02,
+   "text": "many of you"
+  },
+  {
+   "t": 564.02,
+   "end": 565.22,
+   "text": "are in the creative"
+  },
+  {
+   "t": 565.22,
+   "end": 566.36,
+   "text": "field"
+  },
+  {
+   "t": 566.36,
+   "end": 567.3,
+   "text": "that"
+  },
+  {
+   "t": 567.3,
+   "end": 568.72,
+   "text": "actually"
+  },
+  {
+   "t": 568.72,
+   "end": 570.78,
+   "text": "at the level"
+  },
+  {
+   "t": 570.78,
+   "end": 572.14,
+   "text": "of the divine way"
+  },
+  {
+   "t": 572.14,
+   "end": 573.02,
+   "text": "Shambhava"
+  },
+  {
+   "t": 573.02,
+   "end": 575.02,
+   "text": "the whole"
+  },
+  {
+   "t": 575.92,
+   "end": 577.38,
+   "text": "aesthetic experience"
+  },
+  {
+   "t": 577.38,
+   "end": 578.52,
+   "text": "takes place"
+  },
+  {
+   "t": 578.52,
+   "end": 579.96,
+   "text": "it is not"
+  },
+  {
+   "t": 579.96,
+   "end": 581.5,
+   "text": "at the mental level"
+  },
+  {
+   "t": 581.5,
+   "end": 582.84,
+   "text": "of course not"
+  },
+  {
+   "t": 582.84,
+   "end": 583.84,
+   "text": "at the physical level"
+  },
+  {
+   "t": 583.84,
+   "end": 584.54,
+   "text": "but"
+  },
+  {
+   "t": 584.54,
+   "end": 586.52,
+   "text": "aesthetic experience"
+  },
+  {
+   "t": 586.52,
+   "end": 588.16,
+   "text": "leads you"
+  },
+  {
+   "t": 588.16,
+   "end": 589.14,
+   "text": "to that highest"
+  },
+  {
+   "t": 589.14,
+   "end": 589.92,
+   "text": "state"
+  },
+  {
+   "t": 589.92,
+   "end": 590.84,
+   "text": "and this is"
+  },
+  {
+   "t": 590.84,
+   "end": 591.5,
+   "text": "the unique"
+  },
+  {
+   "t": 591.5,
+   "end": 592.92,
+   "text": "description"
+  },
+  {
+   "t": 592.92,
+   "end": 594.0,
+   "text": "by Abhinav Gupta"
+  },
+  {
+   "t": 594.58,
+   "end": 595.06,
+   "text": "that"
+  },
+  {
+   "t": 595.06,
+   "end": 595.6,
+   "text": "he says"
+  },
+  {
+   "t": 595.6,
+   "end": 595.98,
+   "text": "even"
+  },
+  {
+   "t": 595.98,
+   "end": 596.92,
+   "text": "emotional"
+  },
+  {
+   "t": 596.92,
+   "end": 597.46,
+   "text": "states"
+  },
+  {
+   "t": 597.46,
+   "end": 597.7,
+   "text": "which"
+  },
+  {
+   "t": 597.7,
+   "end": 598.02,
+   "text": "they have"
+  },
+  {
+   "t": 598.02,
+   "end": 598.52,
+   "text": "encountered"
+  },
+  {
+   "t": 598.52,
+   "end": 598.88,
+   "text": "that"
+  },
+  {
+   "t": 598.88,
+   "end": 599.06,
+   "text": "they"
+  },
+  {
+   "t": 599.06,
+   "end": 599.22,
+   "text": "can"
+  },
+  {
+   "t": 599.22,
+   "end": 599.38,
+   "text": "have"
+  },
+  {
+   "t": 599.38,
+   "end": 599.6,
+   "text": "heard"
+  },
+  {
+   "t": 599.6,
+   "end": 599.7,
+   "text": "in the"
+  },
+  {
+   "t": 600.0,
+   "end": 604.56,
+   "text": "They don't pass through the mind."
+  },
+  {
+   "t": 605.08,
+   "end": 606.54,
+   "text": "It's a sudden emotion."
+  },
+  {
+   "t": 607.24,
+   "end": 613.1,
+   "text": "It takes you to another level without interference of the mind."
+  },
+  {
+   "t": 613.66,
+   "end": 619.16,
+   "text": "So this is all part of this Chaitanya, of this consciousness,"
+  },
+  {
+   "t": 619.46,
+   "end": 627.54,
+   "text": "which is neither individual consciousness nor philosophical concept,"
+  },
+  {
+   "t": 627.54,
+   "end": 636.22,
+   "text": "but it is the divine consciousness which is pervading everything which is present in everything,"
+  },
+  {
+   "t": 636.22,
+   "end": 640.74,
+   "text": "not only in human beings, but in the whole of reality."
+  },
+  {
+   "t": 641.34,
+   "end": 648.6,
+   "text": "As I said yesterday in interpreting the discovery of the Sivu Suttas on the Shankarapal,"
+  },
+  {
+   "t": 648.88,
+   "end": 657.0,
+   "text": "that this rock, the materiality itself, is impregnated by the same consciousness."
+  },
+  {
+   "t": 658.52,
+   "end": 662.04,
+   "text": "And this, well, I don't want to make any comparison,"
+  },
+  {
+   "t": 662.06,
+   "end": 665.7,
+   "text": "but I just happened to read something on quantum physics,"
+  },
+  {
+   "t": 665.98,
+   "end": 671.02,
+   "text": "and one German physicist, who's one of the top physicists,"
+  },
+  {
+   "t": 671.36,
+   "end": 673.22,
+   "text": "he says exactly the same thing."
+  },
+  {
+   "t": 673.32,
+   "end": 676.82,
+   "text": "He doesn't know consciousness, he says, matter is spiritual."
+  },
+  {
+   "t": 676.82,
+   "end": 685.26,
+   "text": "So here it's something incredible where this ancient spirituality and philosophy"
+  },
+  {
+   "t": 685.26,
+   "end": 690.7,
+   "text": "and modern physics, they become to an astonishing agreement."
+  },
+  {
+   "t": 692.4,
+   "end": 699.82,
+   "text": "Now this word, both words, Chaitanya and Atma,"
+  },
+  {
+   "t": 700.18,
+   "end": 703.64,
+   "text": "they can be misunderstood, but Chaitanya Arja is very much there"
+  },
+  {
+   "t": 703.64,
+   "end": 706.74,
+   "text": "to give us the right interpretation."
+  },
+  {
+   "t": 706.74,
+   "end": 715.24,
+   "text": "And one scholar, in the Svamivita Parati, he has translated Atma as common nature."
+  },
+  {
+   "t": 715.78,
+   "end": 720.02,
+   "text": "He has said, consciousness is the common nature of all beings and entities."
+  },
+  {
+   "t": 721.74,
+   "end": 725.72,
+   "text": "So, not the self in the Vedantic sense, but the common nature."
+  },
+  {
+   "t": 726.14,
+   "end": 735.6,
+   "text": "And that is why, in the Janicee, page 12, when he explains Atma,"
+  },
+  {
+   "t": 735.86,
+   "end": 737.86,
+   "text": "he explains it by its subhara."
+  },
+  {
+   "t": 738.74,
+   "end": 742.14,
+   "text": "Subhara is the nature of something."
+  },
+  {
+   "t": 761.42,
+   "end": 772.1,
+   "text": "Subhara is the nature of something."
+  },
+  {
+   "t": 772.1,
+   "end": 774.52,
+   "text": "which is to predict as..."
+  },
+  {
+   "t": 789.04,
+   "end": 791.58,
+   "text": "Svapava, the own nature."
+  },
+  {
+   "t": 792.94,
+   "end": 799.1,
+   "text": "Now, in the explanation of what is Moksha, what is liberation,"
+  },
+  {
+   "t": 799.1,
+   "end": 804.58,
+   "text": "Abhinava Gupta gives a wonderful, also very brief definition,"
+  },
+  {
+   "t": 804.86,
+   "end": 806.32,
+   "text": "which is also like a sutra."
+  },
+  {
+   "t": 807.38,
+   "end": 813.04,
+   "text": "Moksha, liberation, is nothing but the unveiling or unfolding"
+  },
+  {
+   "t": 813.04,
+   "end": 818.62,
+   "text": "or revealing of the true nature."
+  },
+  {
+   "t": 818.62,
+   "end": 823.06,
+   "text": "And that, but that bit later, it is not called Svapava, but Svapava."
+  },
+  {
+   "t": 831.5,
+   "end": 844.28,
+   "text": "Svapava Gupta is the shortest definition of Moksha in the Dantoroka,"
+  },
+  {
+   "t": 844.28,
+   "end": 847.9,
+   "text": "Svapava, the revelation of what is true nature."
+  },
+  {
+   "t": 848.4,
+   "end": 855.92,
+   "text": "So, there is no question of any substantiality against which the Buddhists rightly protest."
+  },
+  {
+   "t": 855.92,
+   "end": 870.92,
+   "text": "But, every being has its true nature, Svapava, and it is this which is made by Svapava, Svapava,"
+  },
+  {
+   "t": 870.92,
+   "end": 873.88,
+   "text": "Svapava, the unfolding of one's true nature."
+  },
+  {
+   "t": 874.24,
+   "end": 878.98,
+   "text": "But this true nature, which is very much your own, and yet it is universal."
+  },
+  {
+   "t": 879.54,
+   "end": 881.58,
+   "text": "It is the true nature of everything."
+  },
+  {
+   "t": 882.3,
+   "end": 886.48,
+   "text": "And not only of you, of a blade of glass, of a stone, of a bird, of everything."
+  },
+  {
+   "t": 888.66,
+   "end": 895.2,
+   "text": "But, Svamilakshana, to my guru, he also sometimes, he made these very short statements"
+  },
+  {
+   "t": 895.2,
+   "end": 900.12,
+   "text": "and a wonderful summary of the whole spirituality."
+  },
+  {
+   "t": 900.48,
+   "end": 905.06,
+   "text": "He said, this journey is from individuality to universality."
+  },
+  {
+   "t": 905.9,
+   "end": 912.2,
+   "text": "So, from your individual true nature to the universal."
+  },
+  {
+   "t": 912.56,
+   "end": 919.78,
+   "text": "But here, in the Shiva Sutras, and also in the Dantoroka and other texts,"
+  },
+  {
+   "t": 920.26,
+   "end": 921.48,
+   "text": "we start from the top."
+  },
+  {
+   "t": 921.6,
+   "end": 923.32,
+   "text": "So, we start from universality."
+  },
+  {
+   "t": 923.84,
+   "end": 927.42,
+   "text": "That's why the Chaitanya and Atma is such a powerful statement,"
+  },
+  {
+   "t": 927.64,
+   "end": 932.72,
+   "text": "because it starts from that all-encompassing consciousness,"
+  },
+  {
+   "t": 932.72,
+   "end": 939.02,
+   "text": "which comprises our own very nature, our own very being."
+  },
+  {
+   "t": 939.56,
+   "end": 943.16,
+   "text": "Our positive being of the universe and of everything in the universe,"
+  },
+  {
+   "t": 943.64,
+   "end": 949.54,
+   "text": "from the smallest part of it to the great cosmic reality."
+  },
+  {
+   "t": 952.28,
+   "end": 959.74,
+   "text": "And this consciousness is, its greatest characteristic is freedom."
+  },
+  {
+   "t": 960.2,
+   "end": 961.02,
+   "text": "Svaitanya."
+  },
+  {
+   "t": 963.3,
+   "end": 970.76,
+   "text": "Now, when we hear, this, when, in the Sanskrit, in the translation,"
+  },
+  {
+   "t": 972.86,
+   "end": 975.06,
+   "text": "that's very, what is this Atma?"
+  },
+  {
+   "t": 975.46,
+   "end": 976.2,
+   "text": "It's from Haba."
+  },
+  {
+   "t": 985.5,
+   "end": 995.82,
+   "text": "Now, this nature of the entire universe consisting of both existent objects and non-existent objects."
+  },
+  {
+   "t": 995.82,
+   "end": 1005.92,
+   "text": "So, the universality of this consciousness is not limited to power, to existing things,"
+  },
+  {
+   "t": 1006.08,
+   "end": 1007.3,
+   "text": "but even to Abhava."
+  },
+  {
+   "t": 1007.74,
+   "end": 1014.22,
+   "text": "And there's a whole philosophy of Abhava non-existence in this tradition."
+  },
+  {
+   "t": 1015.14,
+   "end": 1018.62,
+   "text": "Because, like in Vedanta or in other schools, you would say,"
+  },
+  {
+   "t": 1018.76,
+   "end": 1021.22,
+   "text": "oh, you give all these wonderful examples, you know,"
+  },
+  {
+   "t": 1021.32,
+   "end": 1024.78,
+   "text": "the flower in the sky, or the horns of the hair,"
+  },
+  {
+   "t": 1025.36,
+   "end": 1030.64,
+   "text": "or these are all examples for illusory things, non-existent things."
+  },
+  {
+   "t": 1031.04,
+   "end": 1035.58,
+   "text": "But here, even things, whatever you can imagine, is real."
+  },
+  {
+   "t": 1036.16,
+   "end": 1040.28,
+   "text": "And it is real in that all-encompassing consciousness."
+  },
+  {
+   "t": 1040.28,
+   "end": 1047.62,
+   "text": "And this is maybe also one of the reasons why this philosophy has been such a great basis for aesthetics."
+  },
+  {
+   "t": 1048.1,
+   "end": 1050.62,
+   "text": "Because what will the artist do without imagination?"
+  },
+  {
+   "t": 1051.94,
+   "end": 1059.76,
+   "text": "And if your imagination is like, oh, this is wrong, this is false, this is Maya, this is Mitya, and whatnot."
+  },
+  {
+   "t": 1060.36,
+   "end": 1061.82,
+   "text": "No, it is also real."
+  },
+  {
+   "t": 1062.24,
+   "end": 1068.04,
+   "text": "It is real because it can be conceived, it can be imagined,"
+  },
+  {
+   "t": 1068.04,
+   "end": 1071.44,
+   "text": "and that imagination is also something real."
+  },
+  {
+   "t": 1072.16,
+   "end": 1077.88,
+   "text": "This is the difference to many of the other schools."
+  },
+  {
+   "t": 1080.2,
+   "end": 1080.56,
+   "text": "And,"
+  },
+  {
+   "t": 1080.84,
+   "end": 1082.64,
+   "text": "Abhava-abhava-sya,"
+  },
+  {
+   "t": 1082.92,
+   "end": 1084.64,
+   "text": "Vesvasya-jagatara,"
+  },
+  {
+   "t": 1086.2,
+   "end": 1087.92,
+   "text": "of the whole universe,"
+  },
+  {
+   "t": 1088.9,
+   "end": 1092.36,
+   "text": "consisting of existing and non-existing things."
+  },
+  {
+   "t": 1092.36,
+   "end": 1094.4,
+   "text": "So, nothing is excluded."
+  },
+  {
+   "t": 1096.16,
+   "end": 1098.22,
+   "text": "And then, of course, here comes,"
+  },
+  {
+   "t": 1098.38,
+   "end": 1100.44,
+   "text": "I say this is not a text of philosophy,"
+  },
+  {
+   "t": 1100.7,
+   "end": 1100.84,
+   "text": "but,"
+  },
+  {
+   "t": 1101.38,
+   "end": 1104.06,
+   "text": "Shekharaja has to bring in some philosophy, of course,"
+  },
+  {
+   "t": 1104.32,
+   "end": 1106.5,
+   "text": "to explain this consciousness."
+  },
+  {
+   "t": 1107.88,
+   "end": 1111.9,
+   "text": "And that philosophy is that consciousness is light,"
+  },
+  {
+   "t": 1112.18,
+   "end": 1112.7,
+   "text": "vakasha,"
+  },
+  {
+   "t": 1113.44,
+   "end": 1122.08,
+   "text": "and nothing can be conceived or perceived by the senses or conceived of by the mind and so on,"
+  },
+  {
+   "t": 1122.2,
+   "end": 1124.14,
+   "text": "without the light of consciousness."
+  },
+  {
+   "t": 1125.5,
+   "end": 1126.1,
+   "text": "And,"
+  },
+  {
+   "t": 1126.3,
+   "end": 1127.64,
+   "text": "so that is why,"
+  },
+  {
+   "t": 1128.46,
+   "end": 1129.78,
+   "text": "what he says here,"
+  },
+  {
+   "t": 1129.92,
+   "end": 1133.4,
+   "text": "every appearance owes its existence to the light of consciousness."
+  },
+  {
+   "t": 1134.0,
+   "end": 1137.8,
+   "text": "Nothing can ever have its own being without the light of consciousness."
+  },
+  {
+   "t": 1138.36,
+   "end": 1139.52,
+   "text": "Being experienced,"
+  },
+  {
+   "t": 1139.52,
+   "end": 1140.72,
+   "text": "it is of the light,"
+  },
+  {
+   "t": 1140.88,
+   "end": 1142.56,
+   "text": "nature of consciousness itself,"
+  },
+  {
+   "t": 1142.8,
+   "end": 1145.94,
+   "text": "because of its being identical with that light."
+  },
+  {
+   "t": 1147.16,
+   "end": 1147.72,
+   "text": "And,"
+  },
+  {
+   "t": 1147.86,
+   "end": 1148.72,
+   "text": "then he quotes,"
+  },
+  {
+   "t": 1149.02,
+   "end": 1149.9,
+   "text": "Utsushma-bhava,"
+  },
+  {
+   "t": 1150.22,
+   "end": 1150.86,
+   "text": "as one word,"
+  },
+  {
+   "t": 1151.22,
+   "end": 1151.72,
+   "text": "ancient Tata,"
+  },
+  {
+   "t": 1152.82,
+   "end": 1153.46,
+   "text": "or Birol,"
+  },
+  {
+   "t": 1153.52,
+   "end": 1155.16,
+   "text": "that is always addressing the baby."
+  },
+  {
+   "t": 1156.12,
+   "end": 1158.64,
+   "text": "So long as there are no knowers,"
+  },
+  {
+   "t": 1158.72,
+   "end": 1160.28,
+   "text": "how can there be anything known?"
+  },
+  {
+   "t": 1160.7,
+   "end": 1163.6,
+   "text": "The knower and the known are really the same principle."
+  },
+  {
+   "t": 1163.96,
+   "end": 1164.5,
+   "text": "Therefore,"
+  },
+  {
+   "t": 1164.56,
+   "end": 1167.18,
+   "text": "there is nothing which is in here actually impure."
+  },
+  {
+   "t": 1167.46,
+   "end": 1168.4,
+   "text": "What does it mean?"
+  },
+  {
+   "t": 1169.42,
+   "end": 1172.48,
+   "text": "The knower and the known are the basic duality."
+  },
+  {
+   "t": 1173.26,
+   "end": 1173.9,
+   "text": "And,"
+  },
+  {
+   "t": 1174.08,
+   "end": 1175.02,
+   "text": "in this,"
+  },
+  {
+   "t": 1175.12,
+   "end": 1176.7,
+   "text": "all-imbracing consciousness,"
+  },
+  {
+   "t": 1177.7,
+   "end": 1178.3,
+   "text": "there is a,"
+  },
+  {
+   "t": 1178.94,
+   "end": 1180.16,
+   "text": "the knower and the known,"
+  },
+  {
+   "t": 1181.92,
+   "end": 1182.56,
+   "text": "unity,"
+  },
+  {
+   "t": 1183.12,
+   "end": 1183.78,
+   "text": "are one."
+  },
+  {
+   "t": 1184.76,
+   "end": 1185.5,
+   "text": "And then,"
+  },
+  {
+   "t": 1185.8,
+   "end": 1186.88,
+   "text": "why does it tantos,"
+  },
+  {
+   "t": 1186.92,
+   "end": 1189.12,
+   "text": "there is nothing which is inherently impure."
+  },
+  {
+   "t": 1189.12,
+   "end": 1190.22,
+   "text": "You know,"
+  },
+  {
+   "t": 1190.34,
+   "end": 1192.72,
+   "text": "all these rules in the orthodoxy,"
+  },
+  {
+   "t": 1192.98,
+   "end": 1193.84,
+   "text": "in the,"
+  },
+  {
+   "t": 1196.18,
+   "end": 1198.18,
+   "text": "common Hindu life,"
+  },
+  {
+   "t": 1198.4,
+   "end": 1198.66,
+   "text": "you know,"
+  },
+  {
+   "t": 1198.8,
+   "end": 1199.9,
+   "text": "that this is pure."
+  },
+  {
+   "t": 1199.9,
+   "end": 1199.92,
+   "text": "I think the people take care of spirit,"
+  },
+  {
+   "t": 1199.92,
+   "end": 1199.94,
+   "text": "I miss it."
+  },
+  {
+   "t": 1199.96,
+   "end": 1199.98,
+   "text": "Thank you."
+  },
+  {
+   "t": 1200.0,
+   "end": 1207.46,
+   "text": "It's impure and you should not do this, you should do this and so on. All these rules, they are all based on this basic duality."
+  },
+  {
+   "t": 1208.22,
+   "end": 1214.18,
+   "text": "At the moment you overcome this basic duality, you overcome the rules of pure and impure."
+  },
+  {
+   "t": 1214.34,
+   "end": 1216.7,
+   "text": "And this was a big revolution by tantra."
+  },
+  {
+   "t": 1217.9,
+   "end": 1225.94,
+   "text": "Because you know how strictly, I mean nowadays, you don't like anyone else, so I know what orthodoxy is."
+  },
+  {
+   "t": 1227.0,
+   "end": 1237.9,
+   "text": "That still, you know, we are not supposed to touch this and my partner is not going to drink a glass of water in my house because I have not done it or not."
+  },
+  {
+   "t": 1238.62,
+   "end": 1248.34,
+   "text": "So this pure and impure, it is so much pervading the whole life and it is all based on this basic duality."
+  },
+  {
+   "t": 1249.78,
+   "end": 1255.18,
+   "text": "And that's why the tantra is still overthrowing this difference."
+  },
+  {
+   "t": 1255.18,
+   "end": 1258.4,
+   "text": "As we have seen in the Vigana Bible, of course."
+  },
+  {
+   "t": 1265.96,
+   "end": 1279.7,
+   "text": "Then, since the Standa Parika, the expanded form of the Shina Sutras, he holds a number of verses from the Standa Parika."
+  },
+  {
+   "t": 1281.22,
+   "end": 1283.94,
+   "text": "Standa Parika, two, three, four."
+  },
+  {
+   "t": 1301.12,
+   "end": 1304.86,
+   "text": "Well, I cannot play the Sanskrit because it has become too long."
+  },
+  {
+   "t": 1306.76,
+   "end": 1322.66,
+   "text": "Since the limited individual self, Jiva, is identical with the whole universe, it is much as all entities arise from him, and because of the knowledge of all subjects, he has a feeling of identity with them all."
+  },
+  {
+   "t": 1322.66,
+   "end": 1329.04,
+   "text": "Hence, whether in the word, object or thought, there is no state which is not Shiva."
+  },
+  {
+   "t": 1329.04,
+   "end": 1340.2,
+   "text": "And this is also, almost the same phrase comes in the Standa Tantra, and we have a shloka which we recite at the time of food."
+  },
+  {
+   "t": 1340.2,
+   "end": 1361.58,
+   "text": "Shiva here, Shiva, there is no Standa Parika, whether in word, in the object or in thought, there is no state which is not divine."
+  },
+  {
+   "t": 1361.58,
+   "end": 1363.94,
+   "text": "it is non-divine"
+  },
+  {
+   "t": 1366.1,
+   "end": 1368.06,
+   "text": "it is the experience himself"
+  },
+  {
+   "t": 1368.06,
+   "end": 1369.5,
+   "text": "who always and everywhere"
+  },
+  {
+   "t": 1369.5,
+   "end": 1371.4,
+   "text": "abides in the form of the experience"
+  },
+  {
+   "t": 1371.4,
+   "end": 1373.42,
+   "text": "that is the divine himself"
+  },
+  {
+   "t": 1373.42,
+   "end": 1375.66,
+   "text": "who is the essential experience"
+  },
+  {
+   "t": 1375.66,
+   "end": 1376.8,
+   "text": "the subject"
+  },
+  {
+   "t": 1376.8,
+   "end": 1380.1,
+   "text": "and it is he who abides in the form of the universe"
+  },
+  {
+   "t": 1380.1,
+   "end": 1381.72,
+   "text": "as the spirit of experience"
+  },
+  {
+   "t": 1383.76,
+   "end": 1384.36,
+   "text": "so"
+  },
+  {
+   "t": 1385.7,
+   "end": 1387.74,
+   "text": "there are several verses of this"
+  },
+  {
+   "t": 1387.74,
+   "end": 1388.36,
+   "text": "Pantakarika"
+  },
+  {
+   "t": 1388.36,
+   "end": 1390.22,
+   "text": "of course Pantakarika itself also"
+  },
+  {
+   "t": 1390.22,
+   "end": 1392.18,
+   "text": "means a commentary that we don't have time"
+  },
+  {
+   "t": 1392.18,
+   "end": 1393.3,
+   "text": "to go into all that"
+  },
+  {
+   "t": 1394.04,
+   "end": 1396.96,
+   "text": "but at least it is more explicit than the suttas"
+  },
+  {
+   "t": 1397.64,
+   "end": 1399.24,
+   "text": "and another one"
+  },
+  {
+   "t": 1399.98,
+   "end": 1400.58,
+   "text": "yeah"
+  },
+  {
+   "t": 1400.58,
+   "end": 1403.22,
+   "text": "then Cepharata is very fond"
+  },
+  {
+   "t": 1403.22,
+   "end": 1404.44,
+   "text": "of quoting"
+  },
+  {
+   "t": 1404.44,
+   "end": 1406.62,
+   "text": "one verse from Tantara"
+  },
+  {
+   "t": 1406.62,
+   "end": 1408.52,
+   "text": "he quotes it here and there"
+  },
+  {
+   "t": 1410.34,
+   "end": 1411.16,
+   "text": "from the"
+  },
+  {
+   "t": 1411.16,
+   "end": 1411.76,
+   "text": "Trika Rete"
+  },
+  {
+   "t": 1411.76,
+   "end": 1418.18,
+   "text": "just as"
+  },
+  {
+   "t": 1418.18,
+   "end": 1419.08,
+   "text": "on page 14"
+  },
+  {
+   "t": 1425.86,
+   "end": 1429.72,
+   "text": "just as when one tries to jump over the shadow of one's head"
+  },
+  {
+   "t": 1429.72,
+   "end": 1431.18,
+   "text": "with one's own feet"
+  },
+  {
+   "t": 1431.18,
+   "end": 1433.94,
+   "text": "the head will never be at the place of one's feet"
+  },
+  {
+   "t": 1433.94,
+   "end": 1436.02,
+   "text": "so also it is with a binder"
+  },
+  {
+   "t": 1436.02,
+   "end": 1438.42,
+   "text": "it is a very funny example"
+  },
+  {
+   "t": 1438.42,
+   "end": 1441.92,
+   "text": "but what is meant by this"
+  },
+  {
+   "t": 1441.92,
+   "end": 1444.1,
+   "text": "what he means is that"
+  },
+  {
+   "t": 1444.1,
+   "end": 1446.12,
+   "text": "the means of knowledge"
+  },
+  {
+   "t": 1446.12,
+   "end": 1447.0,
+   "text": "the parmanas"
+  },
+  {
+   "t": 1447.0,
+   "end": 1449.34,
+   "text": "they can never prove"
+  },
+  {
+   "t": 1449.34,
+   "end": 1451.34,
+   "text": "that universe of consciousness"
+  },
+  {
+   "t": 1451.34,
+   "end": 1453.12,
+   "text": "which is itself"
+  },
+  {
+   "t": 1453.12,
+   "end": 1454.66,
+   "text": "the basis of every proof"
+  },
+  {
+   "t": 1454.66,
+   "end": 1456.64,
+   "text": "so every parmana"
+  },
+  {
+   "t": 1456.64,
+   "end": 1457.88,
+   "text": "is based on that"
+  },
+  {
+   "t": 1457.88,
+   "end": 1459.18,
+   "text": "so how can you"
+  },
+  {
+   "t": 1460.2,
+   "end": 1462.54,
+   "text": "prove that universe of consciousness"
+  },
+  {
+   "t": 1462.54,
+   "end": 1463.78,
+   "text": "by any parmana"
+  },
+  {
+   "t": 1463.78,
+   "end": 1465.62,
+   "text": "by any means of knowledge"
+  },
+  {
+   "t": 1465.62,
+   "end": 1469.4,
+   "text": "so the feet are these means of knowledge"
+  },
+  {
+   "t": 1469.4,
+   "end": 1472.74,
+   "text": "and the head is that universe of consciousness"
+  },
+  {
+   "t": 1472.74,
+   "end": 1475.26,
+   "text": "so I am trying to jump over the shadow"
+  },
+  {
+   "t": 1475.26,
+   "end": 1476.68,
+   "text": "but it will never be possible"
+  },
+  {
+   "t": 1476.68,
+   "end": 1480.02,
+   "text": "because that same light of consciousness"
+  },
+  {
+   "t": 1480.02,
+   "end": 1486.48,
+   "text": "is the cause and the basis for every means of knowledge"
+  },
+  {
+   "t": 1486.48,
+   "end": 1488.44,
+   "text": "for every parmana"
+  },
+  {
+   "t": 1488.44,
+   "end": 1490.34,
+   "text": "so he just"
+  },
+  {
+   "t": 1490.34,
+   "end": 1491.46,
+   "text": "a binary kala"
+  },
+  {
+   "t": 1491.46,
+   "end": 1492.42,
+   "text": "is a"
+  },
+  {
+   "t": 1492.42,
+   "end": 1493.64,
+   "text": "term-taking expression"
+  },
+  {
+   "t": 1493.64,
+   "end": 1494.76,
+   "text": "for the ultimate"
+  },
+  {
+   "t": 1494.76,
+   "end": 1495.9,
+   "text": "of consciousness"
+  },
+  {
+   "t": 1495.9,
+   "end": 1496.4,
+   "text": "but"
+  },
+  {
+   "t": 1496.4,
+   "end": 1498.56,
+   "text": "we will come to the term kala"
+  },
+  {
+   "t": 1498.56,
+   "end": 1500.32,
+   "text": "which will occupy us"
+  },
+  {
+   "t": 1500.32,
+   "end": 1501.58,
+   "text": "in the next"
+  },
+  {
+   "t": 1501.58,
+   "end": 1502.86,
+   "text": "second"
+  },
+  {
+   "t": 1502.86,
+   "end": 1503.74,
+   "text": "sutra"
+  },
+  {
+   "t": 1503.74,
+   "end": 1504.66,
+   "text": "from this"
+  },
+  {
+   "t": 1509.82,
+   "end": 1511.44,
+   "text": "and again he quotes"
+  },
+  {
+   "t": 1512.34,
+   "end": 1514.3,
+   "text": "maybe just only this one"
+  },
+  {
+   "t": 1515.1,
+   "end": 1516.1,
+   "text": "quotation from"
+  },
+  {
+   "t": 1516.1,
+   "end": 1516.96,
+   "text": "Spandakarika"
+  },
+  {
+   "t": 1516.96,
+   "end": 1518.24,
+   "text": "from the"
+  },
+  {
+   "t": 1518.24,
+   "end": 1519.38,
+   "text": "beginning"
+  },
+  {
+   "t": 1521.28,
+   "end": 1522.64,
+   "text": "that for which"
+  },
+  {
+   "t": 1522.64,
+   "end": 1523.76,
+   "text": "everything arises"
+  },
+  {
+   "t": 1523.76,
+   "end": 1524.94,
+   "text": "because it is already"
+  },
+  {
+   "t": 1524.94,
+   "end": 1526.18,
+   "text": "existing in it"
+  },
+  {
+   "t": 1526.9,
+   "end": 1528.2,
+   "text": "can never be"
+  },
+  {
+   "t": 1528.2,
+   "end": 1529.5,
+   "text": "made by anything"
+  },
+  {
+   "t": 1529.5,
+   "end": 1530.78,
+   "text": "there is no"
+  },
+  {
+   "t": 1530.78,
+   "end": 1531.64,
+   "text": "check to it"
+  },
+  {
+   "t": 1531.64,
+   "end": 1532.18,
+   "text": "anywhere"
+  },
+  {
+   "t": 1532.18,
+   "end": 1535.5,
+   "text": "so this is a wonderful"
+  },
+  {
+   "t": 1535.5,
+   "end": 1536.44,
+   "text": "very"
+  },
+  {
+   "t": 1536.44,
+   "end": 1537.62,
+   "text": "consoling"
+  },
+  {
+   "t": 1537.62,
+   "end": 1539.1,
+   "text": "statement"
+  },
+  {
+   "t": 1539.1,
+   "end": 1540.26,
+   "text": "at the beginning"
+  },
+  {
+   "t": 1540.26,
+   "end": 1540.74,
+   "text": "of this"
+  },
+  {
+   "t": 1540.74,
+   "end": 1541.48,
+   "text": "Spandakarika"
+  },
+  {
+   "t": 1541.48,
+   "end": 1542.52,
+   "text": "that"
+  },
+  {
+   "t": 1542.52,
+   "end": 1544.24,
+   "text": "this consciousness"
+  },
+  {
+   "t": 1544.24,
+   "end": 1545.08,
+   "text": "cannot be"
+  },
+  {
+   "t": 1545.08,
+   "end": 1546.34,
+   "text": "waived by anything"
+  },
+  {
+   "t": 1546.34,
+   "end": 1547.38,
+   "text": "it cannot be"
+  },
+  {
+   "t": 1550.16,
+   "end": 1551.16,
+   "text": "because"
+  },
+  {
+   "t": 1552.92,
+   "end": 1554.6,
+   "text": "it is that"
+  },
+  {
+   "t": 1554.6,
+   "end": 1555.68,
+   "text": "very basis"
+  },
+  {
+   "t": 1555.68,
+   "end": 1557.56,
+   "text": "out of which"
+  },
+  {
+   "t": 1557.56,
+   "end": 1558.5,
+   "text": "that consciousness"
+  },
+  {
+   "t": 1558.5,
+   "end": 1559.98,
+   "text": "arises"
+  },
+  {
+   "t": 1563.46,
+   "end": 1564.4,
+   "text": "and then"
+  },
+  {
+   "t": 1564.4,
+   "end": 1564.86,
+   "text": "the other"
+  },
+  {
+   "t": 1564.86,
+   "end": 1566.22,
+   "text": "which continues"
+  },
+  {
+   "t": 1566.22,
+   "end": 1567.02,
+   "text": "that in which"
+  },
+  {
+   "t": 1567.02,
+   "end": 1567.66,
+   "text": "there is neither"
+  },
+  {
+   "t": 1567.66,
+   "end": 1568.04,
+   "text": "pain"
+  },
+  {
+   "t": 1568.04,
+   "end": 1568.62,
+   "text": "nor pleasure"
+  },
+  {
+   "t": 1568.62,
+   "end": 1569.26,
+   "text": "nor object"
+  },
+  {
+   "t": 1569.26,
+   "end": 1569.92,
+   "text": "nor subject"
+  },
+  {
+   "t": 1569.92,
+   "end": 1571.32,
+   "text": "nor is it"
+  },
+  {
+   "t": 1572.5,
+   "end": 1573.22,
+   "text": "insensible"
+  },
+  {
+   "t": 1574.8,
+   "end": 1576.1,
+   "text": "that indeed"
+  },
+  {
+   "t": 1576.1,
+   "end": 1577.24,
+   "text": "abides as"
+  },
+  {
+   "t": 1577.24,
+   "end": 1578.54,
+   "text": "absolute reality"
+  },
+  {
+   "t": 1581.26,
+   "end": 1582.66,
+   "text": "now this was"
+  },
+  {
+   "t": 1584.28,
+   "end": 1585.34,
+   "text": "in short"
+  },
+  {
+   "t": 1585.34,
+   "end": 1585.86,
+   "text": "the"
+  },
+  {
+   "t": 1586.6,
+   "end": 1587.32,
+   "text": "interpretation"
+  },
+  {
+   "t": 1587.32,
+   "end": 1588.6,
+   "text": "of the"
+  },
+  {
+   "t": 1588.6,
+   "end": 1589.08,
+   "text": "first"
+  },
+  {
+   "t": 1589.08,
+   "end": 1590.94,
+   "text": "sutra"
+  },
+  {
+   "t": 1590.94,
+   "end": 1591.78,
+   "text": "which is"
+  },
+  {
+   "t": 1591.78,
+   "end": 1592.54,
+   "text": "really the"
+  },
+  {
+   "t": 1592.54,
+   "end": 1593.08,
+   "text": "basis"
+  },
+  {
+   "t": 1593.08,
+   "end": 1594.72,
+   "text": "on which"
+  },
+  {
+   "t": 1594.72,
+   "end": 1596.0,
+   "text": "everything else"
+  },
+  {
+   "t": 1596.0,
+   "end": 1596.88,
+   "text": "stands"
+  },
+  {
+   "t": 1596.88,
+   "end": 1598.1,
+   "text": "which embraces"
+  },
+  {
+   "t": 1598.1,
+   "end": 1599.56,
+   "text": "everything else"
+  },
+  {
+   "t": 1609.2,
+   "end": 1611.18,
+   "text": "now the style"
+  },
+  {
+   "t": 1611.18,
+   "end": 1613.04,
+   "text": "the style"
+  },
+  {
+   "t": 1613.04,
+   "end": 1613.4,
+   "text": "of the"
+  },
+  {
+   "t": 1613.4,
+   "end": 1614.28,
+   "text": "commentator"
+  },
+  {
+   "t": 1615.2,
+   "end": 1616.24,
+   "text": "also the"
+  },
+  {
+   "t": 1616.24,
+   "end": 1616.64,
+   "text": "sutras"
+  },
+  {
+   "t": 1616.64,
+   "end": 1617.38,
+   "text": "may be"
+  },
+  {
+   "t": 1619.06,
+   "end": 1620.36,
+   "text": "a little bit"
+  },
+  {
+   "t": 1620.36,
+   "end": 1621.44,
+   "text": "apparently"
+  },
+  {
+   "t": 1621.44,
+   "end": 1622.24,
+   "text": "disconnected"
+  },
+  {
+   "t": 1622.24,
+   "end": 1623.02,
+   "text": "or you are"
+  },
+  {
+   "t": 1623.02,
+   "end": 1623.66,
+   "text": "not very sure"
+  },
+  {
+   "t": 1623.66,
+   "end": 1624.34,
+   "text": "how they are"
+  },
+  {
+   "t": 1624.34,
+   "end": 1624.74,
+   "text": "connected"
+  },
+  {
+   "t": 1624.74,
+   "end": 1625.48,
+   "text": "but the"
+  },
+  {
+   "t": 1625.48,
+   "end": 1626.3,
+   "text": "commentator"
+  },
+  {
+   "t": 1626.3,
+   "end": 1627.08,
+   "text": "has the"
+  },
+  {
+   "t": 1627.08,
+   "end": 1627.82,
+   "text": "duty to"
+  },
+  {
+   "t": 1627.82,
+   "end": 1629.28,
+   "text": "show the"
+  },
+  {
+   "t": 1629.28,
+   "end": 1630.34,
+   "text": "logical"
+  },
+  {
+   "t": 1630.34,
+   "end": 1630.94,
+   "text": "connection"
+  },
+  {
+   "t": 1630.94,
+   "end": 1631.46,
+   "text": "why"
+  },
+  {
+   "t": 1631.46,
+   "end": 1632.58,
+   "text": "this sutra"
+  },
+  {
+   "t": 1632.58,
+   "end": 1633.02,
+   "text": "is coming"
+  },
+  {
+   "t": 1633.02,
+   "end": 1634.12,
+   "text": "the next"
+  },
+  {
+   "t": 1634.12,
+   "end": 1634.6,
+   "text": "sutra"
+  },
+  {
+   "t": 1634.6,
+   "end": 1635.58,
+   "text": "how it is"
+  },
+  {
+   "t": 1635.58,
+   "end": 1636.9,
+   "text": "collected"
+  },
+  {
+   "t": 1636.9,
+   "end": 1637.54,
+   "text": "so these"
+  },
+  {
+   "t": 1637.54,
+   "end": 1638.36,
+   "text": "are very"
+  },
+  {
+   "t": 1638.36,
+   "end": 1638.86,
+   "text": "interesting"
+  },
+  {
+   "t": 1638.86,
+   "end": 1639.4,
+   "text": "but there's"
+  },
+  {
+   "t": 1639.4,
+   "end": 1639.8,
+   "text": "little"
+  },
+  {
+   "t": 1640.58,
+   "end": 1641.36,
+   "text": "phrases"
+  },
+  {
+   "t": 1641.36,
+   "end": 1642.46,
+   "text": "of introducing"
+  },
+  {
+   "t": 1642.46,
+   "end": 1643.04,
+   "text": "the next"
+  },
+  {
+   "t": 1643.04,
+   "end": 1643.56,
+   "text": "sutra"
+  },
+  {
+   "t": 1643.56,
+   "end": 1644.82,
+   "text": "saying"
+  },
+  {
+   "t": 1644.82,
+   "end": 1645.34,
+   "text": "why does"
+  },
+  {
+   "t": 1645.34,
+   "end": 1645.74,
+   "text": "he now"
+  },
+  {
+   "t": 1645.74,
+   "end": 1646.38,
+   "text": "come to"
+  },
+  {
+   "t": 1646.38,
+   "end": 1646.6,
+   "text": "that"
+  },
+  {
+   "t": 1646.6,
+   "end": 1647.08,
+   "text": "particular"
+  },
+  {
+   "t": 1647.08,
+   "end": 1647.64,
+   "text": "sutra"
+  },
+  {
+   "t": 1647.64,
+   "end": 1648.68,
+   "text": "now the"
+  },
+  {
+   "t": 1648.68,
+   "end": 1649.08,
+   "text": "reason"
+  },
+  {
+   "t": 1651.16,
+   "end": 1652.28,
+   "text": "is that"
+  },
+  {
+   "t": 1652.28,
+   "end": 1653.2,
+   "text": "if"
+  },
+  {
+   "t": 1653.2,
+   "end": 1653.86,
+   "text": "everything"
+  },
+  {
+   "t": 1653.86,
+   "end": 1654.2,
+   "text": "is"
+  },
+  {
+   "t": 1654.2,
+   "end": 1654.9,
+   "text": "pervaded"
+  },
+  {
+   "t": 1654.9,
+   "end": 1655.8,
+   "text": "by that"
+  },
+  {
+   "t": 1655.8,
+   "end": 1656.48,
+   "text": "absolute"
+  },
+  {
+   "t": 1656.48,
+   "end": 1657.02,
+   "text": "divine"
+  },
+  {
+   "t": 1657.02,
+   "end": 1657.68,
+   "text": "consciousness"
+  },
+  {
+   "t": 1657.68,
+   "end": 1658.96,
+   "text": "and if"
+  },
+  {
+   "t": 1658.96,
+   "end": 1659.28,
+   "text": "there is"
+  },
+  {
+   "t": 1659.28,
+   "end": 1660.08,
+   "text": "no obstacle"
+  },
+  {
+   "t": 1660.08,
+   "end": 1660.8,
+   "text": "anywhere"
+  },
+  {
+   "t": 1660.8,
+   "end": 1662.04,
+   "text": "then how"
+  },
+  {
+   "t": 1662.04,
+   "end": 1662.56,
+   "text": "come that"
+  },
+  {
+   "t": 1662.56,
+   "end": 1663.04,
+   "text": "we are not"
+  },
+  {
+   "t": 1663.04,
+   "end": 1663.72,
+   "text": "all liberated"
+  },
+  {
+   "t": 1664.94,
+   "end": 1665.86,
+   "text": "we should"
+  },
+  {
+   "t": 1665.86,
+   "end": 1666.62,
+   "text": "be all"
+  },
+  {
+   "t": 1666.62,
+   "end": 1667.08,
+   "text": "in that"
+  },
+  {
+   "t": 1667.08,
+   "end": 1667.68,
+   "text": "consciousness"
+  },
+  {
+   "t": 1667.68,
+   "end": 1669.22,
+   "text": "but yes"
+  },
+  {
+   "t": 1669.22,
+   "end": 1669.86,
+   "text": "there is"
+  },
+  {
+   "t": 1669.86,
+   "end": 1670.86,
+   "text": "a reason"
+  },
+  {
+   "t": 1670.86,
+   "end": 1671.46,
+   "text": "why we"
+  },
+  {
+   "t": 1671.46,
+   "end": 1671.9,
+   "text": "are not"
+  },
+  {
+   "t": 1671.9,
+   "end": 1673.3,
+   "text": "and that's"
+  },
+  {
+   "t": 1673.3,
+   "end": 1674.02,
+   "text": "the reason"
+  },
+  {
+   "t": 1674.02,
+   "end": 1674.74,
+   "text": "is now"
+  },
+  {
+   "t": 1674.74,
+   "end": 1675.26,
+   "text": "given in"
+  },
+  {
+   "t": 1675.26,
+   "end": 1675.72,
+   "text": "the next"
+  },
+  {
+   "t": 1675.72,
+   "end": 1676.5,
+   "text": "three"
+  },
+  {
+   "t": 1676.5,
+   "end": 1677.02,
+   "text": "sutras"
+  },
+  {
+   "t": 1677.72,
+   "end": 1678.58,
+   "text": "and we"
+  },
+  {
+   "t": 1678.58,
+   "end": 1678.9,
+   "text": "know for"
+  },
+  {
+   "t": 1678.9,
+   "end": 1679.36,
+   "text": "many other"
+  },
+  {
+   "t": 1679.36,
+   "end": 1679.66,
+   "text": "texts"
+  },
+  {
+   "t": 1679.66,
+   "end": 1681.68,
+   "text": "that first"
+  },
+  {
+   "t": 1681.68,
+   "end": 1682.24,
+   "text": "we have to"
+  },
+  {
+   "t": 1682.24,
+   "end": 1683.04,
+   "text": "analyze the"
+  },
+  {
+   "t": 1683.04,
+   "end": 1683.78,
+   "text": "condition of"
+  },
+  {
+   "t": 1683.78,
+   "end": 1684.56,
+   "text": "our limited"
+  },
+  {
+   "t": 1684.56,
+   "end": 1685.7,
+   "text": "nature"
+  },
+  {
+   "t": 1685.7,
+   "end": 1686.4,
+   "text": "of our"
+  },
+  {
+   "t": 1686.4,
+   "end": 1687.08,
+   "text": "limitation"
+  },
+  {
+   "t": 1687.78,
+   "end": 1688.68,
+   "text": "in order"
+  },
+  {
+   "t": 1688.68,
+   "end": 1689.46,
+   "text": "to understand"
+  },
+  {
+   "t": 1689.46,
+   "end": 1692.08,
+   "text": "the jump"
+  },
+  {
+   "t": 1692.08,
+   "end": 1692.54,
+   "text": "we have to"
+  },
+  {
+   "t": 1692.54,
+   "end": 1693.44,
+   "text": "make into"
+  },
+  {
+   "t": 1693.44,
+   "end": 1693.8,
+   "text": "that"
+  },
+  {
+   "t": 1693.8,
+   "end": 1694.66,
+   "text": "unlimited"
+  },
+  {
+   "t": 1694.66,
+   "end": 1695.66,
+   "text": "consciousness"
+  },
+  {
+   "t": 1695.66,
+   "end": 1697.1,
+   "text": "and this"
+  },
+  {
+   "t": 1697.1,
+   "end": 1697.82,
+   "text": "analysis"
+  },
+  {
+   "t": 1697.82,
+   "end": 1698.98,
+   "text": "of"
+  },
+  {
+   "t": 1698.98,
+   "end": 1699.52,
+   "text": "in this"
+  },
+  {
+   "t": 1699.52,
+   "end": 1700.2,
+   "text": "vantaparika"
+  },
+  {
+   "t": 1700.2,
+   "end": 1702.42,
+   "text": "and it's"
+  },
+  {
+   "t": 1702.42,
+   "end": 1703.0,
+   "text": "not in the"
+  },
+  {
+   "t": 1703.0,
+   "end": 1703.34,
+   "text": "vikyanava"
+  },
+  {
+   "t": 1703.34,
+   "end": 1703.98,
+   "text": "of course"
+  },
+  {
+   "t": 1703.98,
+   "end": 1705.06,
+   "text": "that vikyanava"
+  },
+  {
+   "t": 1705.06,
+   "end": 1705.88,
+   "text": "goes directly"
+  },
+  {
+   "t": 1705.88,
+   "end": 1706.6,
+   "text": "to practice"
+  },
+  {
+   "t": 1706.6,
+   "end": 1708.04,
+   "text": "there is no"
+  },
+  {
+   "t": 1708.04,
+   "end": 1708.98,
+   "text": "analysis of"
+  },
+  {
+   "t": 1708.98,
+   "end": 1709.48,
+   "text": "the state"
+  },
+  {
+   "t": 1709.48,
+   "end": 1710.58,
+   "text": "of limitation"
+  },
+  {
+   "t": 1710.58,
+   "end": 1712.22,
+   "text": "but in"
+  },
+  {
+   "t": 1712.22,
+   "end": 1713.96,
+   "text": "other texts"
+  },
+  {
+   "t": 1713.96,
+   "end": 1714.46,
+   "text": "of course"
+  },
+  {
+   "t": 1717.62,
+   "end": 1718.34,
+   "text": "so"
+  },
+  {
+   "t": 1719.5,
+   "end": 1720.58,
+   "text": "he says"
+  },
+  {
+   "t": 1720.58,
+   "end": 1721.22,
+   "text": "if the"
+  },
+  {
+   "t": 1721.22,
+   "end": 1721.82,
+   "text": "nature of"
+  },
+  {
+   "t": 1721.82,
+   "end": 1722.36,
+   "text": "the entire"
+  },
+  {
+   "t": 1722.36,
+   "end": 1722.9,
+   "text": "universe"
+  },
+  {
+   "t": 1722.9,
+   "end": 1723.78,
+   "text": "consisting"
+  },
+  {
+   "t": 1728.9,
+   "end": 1730.38,
+   "text": "of empirical"
+  },
+  {
+   "t": 1730.38,
+   "end": 1731.7,
+   "text": "selves"
+  },
+  {
+   "t": 1731.7,
+   "end": 1731.96,
+   "text": "and"
+  },
+  {
+   "t": 1731.96,
+   "end": 1732.3,
+   "text": "inner"
+  },
+  {
+   "t": 1732.3,
+   "end": 1732.74,
+   "text": "matter"
+  },
+  {
+   "t": 1732.74,
+   "end": 1733.28,
+   "text": "is only"
+  },
+  {
+   "t": 1733.28,
+   "end": 1733.92,
+   "text": "consciousness"
+  },
+  {
+   "t": 1735.08,
+   "end": 1736.02,
+   "text": "or in"
+  },
+  {
+   "t": 1736.02,
+   "end": 1736.42,
+   "text": "other words"
+  },
+  {
+   "t": 1736.42,
+   "end": 1736.84,
+   "text": "sarana"
+  },
+  {
+   "t": 1736.84,
+   "end": 1737.22,
+   "text": "shiva"
+  },
+  {
+   "t": 1737.22,
+   "end": 1738.36,
+   "text": "then how"
+  },
+  {
+   "t": 1738.36,
+   "end": 1738.9,
+   "text": "is it"
+  },
+  {
+   "t": 1738.9,
+   "end": 1739.74,
+   "text": "how is"
+  },
+  {
+   "t": 1739.74,
+   "end": 1740.44,
+   "text": "this apparent"
+  },
+  {
+   "t": 1740.44,
+   "end": 1741.02,
+   "text": "bondage"
+  },
+  {
+   "t": 1741.02,
+   "end": 1741.34,
+   "text": "to be"
+  },
+  {
+   "t": 1741.34,
+   "end": 1741.8,
+   "text": "explained"
+  },
+  {
+   "t": 1741.8,
+   "end": 1743.12,
+   "text": "in order"
+  },
+  {
+   "t": 1743.12,
+   "end": 1743.76,
+   "text": "to remove"
+  },
+  {
+   "t": 1743.76,
+   "end": 1744.34,
+   "text": "this doubt"
+  },
+  {
+   "t": 1744.34,
+   "end": 1745.28,
+   "text": "the second"
+  },
+  {
+   "t": 1745.28,
+   "end": 1745.8,
+   "text": "sutra"
+  },
+  {
+   "t": 1745.8,
+   "end": 1746.32,
+   "text": "has been"
+  },
+  {
+   "t": 1746.32,
+   "end": 1746.78,
+   "text": "formulated"
+  },
+  {
+   "t": 1748.3,
+   "end": 1749.38,
+   "text": "and now"
+  },
+  {
+   "t": 1753.84,
+   "end": 1754.82,
+   "text": "so from"
+  },
+  {
+   "t": 1754.82,
+   "end": 1755.14,
+   "text": "where"
+  },
+  {
+   "t": 1755.14,
+   "end": 1755.98,
+   "text": "does this"
+  },
+  {
+   "t": 1755.98,
+   "end": 1756.46,
+   "text": "bondage"
+  },
+  {
+   "t": 1756.46,
+   "end": 1756.72,
+   "text": "come"
+  },
+  {
+   "t": 1758.9,
+   "end": 1759.8,
+   "text": "and the"
+  },
+  {
+   "t": 1759.8,
+   "end": 1760.08,
+   "text": "second"
+  },
+  {
+   "t": 1760.08,
+   "end": 1760.56,
+   "text": "sutra"
+  },
+  {
+   "t": 1760.56,
+   "end": 1761.28,
+   "text": "is a"
+  },
+  {
+   "t": 1761.28,
+   "end": 1761.76,
+   "text": "shock"
+  },
+  {
+   "t": 1761.76,
+   "end": 1762.3,
+   "text": "for the"
+  },
+  {
+   "t": 1762.3,
+   "end": 1763.04,
+   "text": "Vedantis"
+  },
+  {
+   "t": 1763.04,
+   "end": 1764.02,
+   "text": "and"
+  },
+  {
+   "t": 1764.02,
+   "end": 1765.4,
+   "text": "it is"
+  },
+  {
+   "t": 1765.4,
+   "end": 1765.72,
+   "text": "also"
+  },
+  {
+   "t": 1765.72,
+   "end": 1766.28,
+   "text": "probably"
+  },
+  {
+   "t": 1766.28,
+   "end": 1767.16,
+   "text": "consciously"
+  },
+  {
+   "t": 1767.16,
+   "end": 1768.82,
+   "text": "a shock"
+  },
+  {
+   "t": 1768.82,
+   "end": 1769.28,
+   "text": "because"
+  },
+  {
+   "t": 1769.28,
+   "end": 1770.38,
+   "text": "if"
+  },
+  {
+   "t": 1770.38,
+   "end": 1771.4,
+   "text": "knowledge"
+  },
+  {
+   "t": 1771.4,
+   "end": 1772.1,
+   "text": "comes"
+  },
+  {
+   "t": 1772.1,
+   "end": 1773.06,
+   "text": "or"
+  },
+  {
+   "t": 1773.06,
+   "end": 1773.62,
+   "text": "liberation"
+  },
+  {
+   "t": 1773.62,
+   "end": 1774.14,
+   "text": "comes"
+  },
+  {
+   "t": 1774.14,
+   "end": 1774.46,
+   "text": "through"
+  },
+  {
+   "t": 1774.46,
+   "end": 1775.02,
+   "text": "knowledge"
+  },
+  {
+   "t": 1775.02,
+   "end": 1776.38,
+   "text": "and here"
+  },
+  {
+   "t": 1776.38,
+   "end": 1776.9,
+   "text": "it is just"
+  },
+  {
+   "t": 1776.9,
+   "end": 1777.5,
+   "text": "the opposite"
+  },
+  {
+   "t": 1777.5,
+   "end": 1778.38,
+   "text": "gyanam"
+  },
+  {
+   "t": 1778.38,
+   "end": 1778.76,
+   "text": "banta"
+  },
+  {
+   "t": 1779.62,
+   "end": 1780.46,
+   "text": "knowledge"
+  },
+  {
+   "t": 1780.46,
+   "end": 1780.88,
+   "text": "is"
+  },
+  {
+   "t": 1780.88,
+   "end": 1781.62,
+   "text": "bondage"
+  },
+  {
+   "t": 1782.72,
+   "end": 1783.56,
+   "text": "and"
+  },
+  {
+   "t": 1783.56,
+   "end": 1783.94,
+   "text": "as"
+  },
+  {
+   "t": 1783.94,
+   "end": 1784.76,
+   "text": "many"
+  },
+  {
+   "t": 1784.76,
+   "end": 1785.3,
+   "text": "sutras"
+  },
+  {
+   "t": 1785.3,
+   "end": 1785.6,
+   "text": "which"
+  },
+  {
+   "t": 1785.6,
+   "end": 1786.1,
+   "text": "consist"
+  },
+  {
+   "t": 1786.1,
+   "end": 1786.52,
+   "text": "of"
+  },
+  {
+   "t": 1786.52,
+   "end": 1786.88,
+   "text": "two"
+  },
+  {
+   "t": 1786.88,
+   "end": 1787.4,
+   "text": "words"
+  },
+  {
+   "t": 1787.4,
+   "end": 1788.62,
+   "text": "they have"
+  },
+  {
+   "t": 1788.62,
+   "end": 1788.94,
+   "text": "two"
+  },
+  {
+   "t": 1788.94,
+   "end": 1789.48,
+   "text": "opposite"
+  },
+  {
+   "t": 1789.48,
+   "end": 1789.92,
+   "text": "meanings"
+  },
+  {
+   "t": 1791.26,
+   "end": 1792.1,
+   "text": "the"
+  },
+  {
+   "t": 1792.1,
+   "end": 1792.48,
+   "text": "first"
+  },
+  {
+   "t": 1792.48,
+   "end": 1792.96,
+   "text": "meaning"
+  },
+  {
+   "t": 1792.96,
+   "end": 1793.42,
+   "text": "we will"
+  },
+  {
+   "t": 1793.42,
+   "end": 1793.78,
+   "text": "come to"
+  },
+  {
+   "t": 1793.78,
+   "end": 1793.9,
+   "text": "the"
+  },
+  {
+   "t": 1793.9,
+   "end": 1794.28,
+   "text": "commentary"
+  },
+  {
+   "t": 1794.28,
+   "end": 1794.66,
+   "text": "but I"
+  },
+  {
+   "t": 1794.66,
+   "end": 1794.74,
+   "text": "am"
+  },
+  {
+   "t": 1794.74,
+   "end": 1794.94,
+   "text": "just"
+  },
+  {
+   "t": 1794.94,
+   "end": 1795.56,
+   "text": "summarizing"
+  },
+  {
+   "t": 1795.56,
+   "end": 1796.2,
+   "text": "the"
+  },
+  {
+   "t": 1796.2,
+   "end": 1796.54,
+   "text": "first"
+  },
+  {
+   "t": 1796.54,
+   "end": 1796.94,
+   "text": "meaning"
+  },
+  {
+   "t": 1796.94,
+   "end": 1797.3,
+   "text": "is"
+  },
+  {
+   "t": 1797.3,
+   "end": 1797.6,
+   "text": "that"
+  },
+  {
+   "t": 1797.6,
+   "end": 1798.3,
+   "text": "any"
+  },
+  {
+   "t": 1799.14,
+   "end": 1799.86,
+   "text": "differentiated"
+  },
+  {
+   "t": 1799.86,
+   "end": 1799.98,
+   "text": "or"
+  },
+  {
+   "t": 1800.0,
+   "end": 1807.88,
+   "text": "Any knowledge based on this subject-object dichotomy and what we call Beda, see the biggest"
+  },
+  {
+   "t": 1807.88,
+   "end": 1816.2,
+   "text": "same according to this tradition is Beda, that is differentiation, separation and multiplicity,"
+  },
+  {
+   "t": 1816.34,
+   "end": 1816.82,
+   "text": "duality."
+  },
+  {
+   "t": 1818.28,
+   "end": 1831.18,
+   "text": "So any dualistic knowledge is bondage and knowledge based on subject-object division, etc."
+  },
+  {
+   "t": 1832.28,
+   "end": 1842.54,
+   "text": "And then, of course, I said yesterday that these sutras are also composed in the sense of memorization."
+  },
+  {
+   "t": 1843.36,
+   "end": 1849.24,
+   "text": "So, when you memorize sutras, you must see these young pundit students, you know, when"
+  },
+  {
+   "t": 1849.24,
+   "end": 1856.8,
+   "text": "they are just so, and they go on reciting, and then it all becomes one chain, you know."
+  },
+  {
+   "t": 1857.12,
+   "end": 1865.38,
+   "text": "So, if you recite Chaitanya-matma-gyanam-pantha, so, then this Chaitanya-matma-gyanam-pantha,"
+  },
+  {
+   "t": 1865.38,
+   "end": 1873.2,
+   "text": "you can interpret it in the other sense also, agyam-pantha, ignorance is bondage."
+  },
+  {
+   "t": 1873.52,
+   "end": 1879.98,
+   "text": "Because you can divide the sutras in both ways. Knowledge is bondage or ignorance is bondage."
+  },
+  {
+   "t": 1880.74,
+   "end": 1886.56,
+   "text": "And, of course, the role of Indian philosophy will teach you that ignorance is bondage."
+  },
+  {
+   "t": 1886.7,
+   "end": 1890.54,
+   "text": "There is nothing new. Avitya, mostly it is Avitya."
+  },
+  {
+   "t": 1891.28,
+   "end": 1893.48,
+   "text": "But here, what is the difference? Let us see."
+  },
+  {
+   "t": 1907.94,
+   "end": 1913.6,
+   "text": "By the argument, well, I have to read the translation, because fairly to some extent we will not finish."
+  },
+  {
+   "t": 1913.6,
+   "end": 1922.28,
+   "text": "By the argument that once before, it has been established that there can be nothing which can be proved to be separate from the light of consciousness."
+  },
+  {
+   "t": 1923.28,
+   "end": 1927.8,
+   "text": "The dualists maintain that there are two separate values, that is Shiva and Mala."
+  },
+  {
+   "t": 1929.06,
+   "end": 1930.5,
+   "text": "Mala means impurity."
+  },
+  {
+   "t": 1932.2,
+   "end": 1937.62,
+   "text": "How can there be separate existence of Mala, and how can this Mala weigh consciousness of the self?"
+  },
+  {
+   "t": 1938.46,
+   "end": 1944.18,
+   "text": "Therefore, Malini Vita, that is a tantra, by rejecting the way of the dualist says,"
+  },
+  {
+   "t": 1945.08,
+   "end": 1949.78,
+   "text": "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature."
+  },
+  {
+   "t": 1951.1,
+   "end": 1959.5,
+   "text": "This Vajjana is the Anava Mala, which is the cause of Samsara, or Maya Mala, which again serves as the cause of Karamala."
+  },
+  {
+   "t": 1959.76,
+   "end": 1975.62,
+   "text": "Now, the actual section which starts here is what causes bondage, or what causes us not to be already in that supreme state of consciousness."
+  },
+  {
+   "t": 1975.62,
+   "end": 1984.24,
+   "text": "And these, according to the whole Shaiva, Agamalas, and both the dualistic and non-dualistic, the three Mala's."
+  },
+  {
+   "t": 1985.38,
+   "end": 1986.88,
+   "text": "Three impurities."
+  },
+  {
+   "t": 1987.8,
+   "end": 1997.44,
+   "text": "But the difference between the dualistic understanding of these Mala's, that they consider Mala and purity as something substantial."
+  },
+  {
+   "t": 1998.18,
+   "end": 2003.08,
+   "text": "You know, it's like the original sin in Christianity, so to say, you know, something substantial."
+  },
+  {
+   "t": 2003.48,
+   "end": 2016.5,
+   "text": "And in order to overcome this substantial impurity, you have to get initiation, you have to do all kinds of rituals, and to purify yourself from these Mala's."
+  },
+  {
+   "t": 2016.5,
+   "end": 2029.12,
+   "text": "But in the non-dualistic understanding, they are not inherent in the soul, they are superficial."
+  },
+  {
+   "t": 2029.12,
+   "end": 2046.58,
+   "text": "And like, ignorance is not something deeply rooted in the soul, but it is just not total ignorance, but it is an incomplete knowledge."
+  },
+  {
+   "t": 2046.58,
+   "end": 2049.62,
+   "text": "See, that, and that's very different."
+  },
+  {
+   "t": 2051.14,
+   "end": 2054.98,
+   "text": "Apurna, apurna, incomplete knowledge."
+  },
+  {
+   "t": 2055.44,
+   "end": 2061.28,
+   "text": "And that is a hindrance, it is a hindrance, but it is not the fundamental of self."
+  },
+  {
+   "t": 2062.78,
+   "end": 2072.46,
+   "text": "Incomplete knowledge, and another incompleteness, that considering oneself as incomplete."
+  },
+  {
+   "t": 2073.62,
+   "end": 2087.28,
+   "text": "Now, these three Mala's, how Swamiji has a very nice and brief presentation of the three Mala's, they are called, and you have the book, so I don't need to write the book."
+  },
+  {
+   "t": 2087.28,
+   "end": 2107.1,
+   "text": "Anova Mala is the impurity of individuality, that we consider ourselves separate individuals, not connected with the totality, with that all-encompassing consciousness."
+  },
+  {
+   "t": 2108.4,
+   "end": 2123.68,
+   "text": "And this is the most basic impurity, because we are so much attached to our individuality, and individuality also in the sense of considering ourselves incomplete."
+  },
+  {
+   "t": 2125.38,
+   "end": 2138.02,
+   "text": "This Apurna Mala is the basic able of this impurity, and that is why, I mean, if you, I mean, psychologists can say a lot about this."
+  },
+  {
+   "t": 2138.02,
+   "end": 2141.54,
+   "text": "This is what is happening in the soul of consumerism."
+  },
+  {
+   "t": 2142.36,
+   "end": 2155.2,
+   "text": "Consumerism is that you always try to fill that gap in you by something, acquiring something, and running after something, again a new car, again something, this and that."
+  },
+  {
+   "t": 2155.2,
+   "end": 2164.7,
+   "text": "This is all, this Anova Mala which makes you run after things which you think will make you complete, but they will never make you complete."
+  },
+  {
+   "t": 2165.96,
+   "end": 2173.64,
+   "text": "Unless you realize that impurity, you are complete. You realize that you are complete."
+  },
+  {
+   "t": 2173.64,
+   "end": 2184.8,
+   "text": "But you will not do it by running after another partner, or another car, or another house, or anything like that. It will never make you complete."
+  },
+  {
+   "t": 2184.8,
+   "end": 2195.2,
+   "text": "So this is Anova Mala, that incompleteness, considering oneself incomplete."
+  },
+  {
+   "t": 2196.64,
+   "end": 2204.66,
+   "text": "Then the other, actually this sutra, they explain Anova Mala."
+  },
+  {
+   "t": 2204.66,
+   "end": 2214.94,
+   "text": "But just to explain the context, the other sutras will deal with the next two sutras will deal with the two other Mala."
+  },
+  {
+   "t": 2215.5,
+   "end": 2226.22,
+   "text": "That is, Mahiya Mala, the Mala based or impurity based on the illusory power of illusion."
+  },
+  {
+   "t": 2226.22,
+   "end": 2239.18,
+   "text": "And the power of illusion is the power of duality, of, yeah, considering separate, everything as separate."
+  },
+  {
+   "t": 2240.26,
+   "end": 2249.46,
+   "text": "This is Peter, considering, that is Mahiya Mala, the impurity of illusion or Maya."
+  },
+  {
+   "t": 2251.12,
+   "end": 2256.0,
+   "text": "And the third is, of course, very common in all interspirituality."
+  },
+  {
+   "t": 2256.06,
+   "end": 2257.04,
+   "text": "This is karma, all right."
+  },
+  {
+   "t": 2257.54,
+   "end": 2260.2,
+   "text": "This is due to your karma, your actions."
+  },
+  {
+   "t": 2260.62,
+   "end": 2265.72,
+   "text": "And not only your actions, but the whole distinction between good and bad."
+  },
+  {
+   "t": 2265.86,
+   "end": 2267.0,
+   "text": "This is good, this is bad."
+  },
+  {
+   "t": 2267.38,
+   "end": 2273.88,
+   "text": "And this whole modern duality, which is attached to karma."
+  },
+  {
+   "t": 2275.4,
+   "end": 2287.62,
+   "text": "So these three Mala, they are the cause of our not experiencing our fullness of consciousness."
+  },
+  {
+   "t": 2287.62,
+   "end": 2295.52,
+   "text": "And so the first is described by the sutra, Vyana Panta."
+  },
+  {
+   "t": 2310.36,
+   "end": 2322.94,
+   "text": "And then the second meaning, the second meaning,"
+  },
+  {
+   "t": 2322.94,
+   "end": 2328.72,
+   "text": "Vyana Panta, Ignorance, is on this."
+  },
+  {
+   "t": 2340.22,
+   "end": 2341.72,
+   "text": "This is interesting."
+  },
+  {
+   "t": 2342.68,
+   "end": 2358.7,
+   "text": "On page 17 and 17, when we call this saga of Yemen, we call this saga of the world,"
+  },
+  {
+   "t": 2358.7,
+   "end": 2361.6,
+   "text": "and on account of this"
+  },
+  {
+   "t": 2361.6,
+   "end": 2363.26,
+   "text": "they undergo birth and death."
+  },
+  {
+   "t": 2364.88,
+   "end": 2366.94,
+   "text": "An imitation is made to appear"
+  },
+  {
+   "t": 2366.94,
+   "end": 2368.08,
+   "text": "by the highest Lord"
+  },
+  {
+   "t": 2368.08,
+   "end": 2369.64,
+   "text": "in his own being"
+  },
+  {
+   "t": 2369.64,
+   "end": 2371.98,
+   "text": "which is pure like the sky"
+  },
+  {
+   "t": 2371.98,
+   "end": 2374.24,
+   "text": "in the form of Anashita Shiva"
+  },
+  {
+   "t": 2374.24,
+   "end": 2375.26,
+   "text": "that I have explained"
+  },
+  {
+   "t": 2376.58,
+   "end": 2378.64,
+   "text": "down to Maya Pramata."
+  },
+  {
+   "t": 2379.1,
+   "end": 2380.98,
+   "text": "This imitation is due to"
+  },
+  {
+   "t": 2380.98,
+   "end": 2382.54,
+   "text": "his power of Mahamaya"
+  },
+  {
+   "t": 2382.54,
+   "end": 2385.5,
+   "text": "which is simply a form of self-wailing"
+  },
+  {
+   "t": 2385.5,
+   "end": 2387.74,
+   "text": "brought about by his power"
+  },
+  {
+   "t": 2387.74,
+   "end": 2389.0,
+   "text": "of absolute freedom."
+  },
+  {
+   "t": 2389.94,
+   "end": 2392.18,
+   "text": "So again, even that wailing"
+  },
+  {
+   "t": 2392.18,
+   "end": 2393.48,
+   "text": "even that ignorance"
+  },
+  {
+   "t": 2393.48,
+   "end": 2396.32,
+   "text": "is also an aspect of his freedom."
+  },
+  {
+   "t": 2397.58,
+   "end": 2399.98,
+   "text": "Because freedom, if it was only"
+  },
+  {
+   "t": 2400.0,
+   "end": 2407.96,
+   "text": "of freedom in the positive sense, also in the negative. So that self-wailing is another"
+  },
+  {
+   "t": 2407.96,
+   "end": 2418.42,
+   "text": "aspect of the freedom. And those who know something about Shairism, that in the whole"
+  },
+  {
+   "t": 2418.42,
+   "end": 2428.34,
+   "text": "of Shairism, not only non-dualistic, but in the Shairasiddhanta also, Shiva is said to have"
+  },
+  {
+   "t": 2428.34,
+   "end": 2438.0,
+   "text": "five acts of functions, such as Thetisamara, Hirotana and Anukhara, that is creation, maintenance,"
+  },
+  {
+   "t": 2439.08,
+   "end": 2448.1,
+   "text": "dissolution or reabsorption, wailing and grace. Now this wailing, as many people get, when"
+  },
+  {
+   "t": 2448.1,
+   "end": 2454.58,
+   "text": "I was teaching, sometimes, you know, Shairism, people get very disturbed, why should this"
+  },
+  {
+   "t": 2454.58,
+   "end": 2463.14,
+   "text": "wailing be there, Therudhana? But actually, when it is described also by Abhinav Hufta in"
+  },
+  {
+   "t": 2463.14,
+   "end": 2470.04,
+   "text": "the Tantra Voka, wailing is, it's like one side of the coin, instead the negative side"
+  },
+  {
+   "t": 2470.04,
+   "end": 2482.04,
+   "text": "and the positive side is grace. Grace or, yeah, Amokrana, which leads to liberation. And it is said"
+  },
+  {
+   "t": 2482.04,
+   "end": 2487.84,
+   "text": "very clearly, those of you who have done the Parathisika Rivara, at the very beginning, this"
+  },
+  {
+   "t": 2487.84,
+   "end": 2496.18,
+   "text": "is, Shiva performs all this five acts, for that one, purpose of grace. That is one thing. But"
+  },
+  {
+   "t": 2496.18,
+   "end": 2504.84,
+   "text": "there, he himself is wailing himself. And that's why whatever wailing we experience, you know,"
+  },
+  {
+   "t": 2504.94,
+   "end": 2513.4,
+   "text": "sometimes we are confused or we are, that is his act of wailing. It is not anything separate. Otherwise, we are"
+  },
+  {
+   "t": 2513.4,
+   "end": 2526.42,
+   "text": "again landing in a dualism. A dualism of our, you know, it's our own fault. No, it is Shiva himself,"
+  },
+  {
+   "t": 2526.74,
+   "end": 2535.22,
+   "text": "who wails himself, but in order to liberate, in order to bestow grace. Now another difference"
+  },
+  {
+   "t": 2535.22,
+   "end": 2544.24,
+   "text": "between the dualistic and non-dualistic understanding of these five acts is that in the non-dualistic"
+  },
+  {
+   "t": 2544.24,
+   "end": 2552.12,
+   "text": "understanding, they are not temporal sequence, not in a temporal sequence, but they are constantly"
+  },
+  {
+   "t": 2552.12,
+   "end": 2559.58,
+   "text": "going on. These five acts are constantly and simultaneously going on in every individual"
+  },
+  {
+   "t": 2559.58,
+   "end": 2567.6,
+   "text": "being as in the cosmos. So there's constantly, there is always creation, when you look at nature, there's"
+  },
+  {
+   "t": 2567.6,
+   "end": 2572.6,
+   "text": "always something new, and there's always dissolution, there's always maintenance, and there's always"
+  },
+  {
+   "t": 2572.6,
+   "end": 2582.18,
+   "text": "some obscuration, and then there's again something new. So these five acts are phases of consciousness, which"
+  },
+  {
+   "t": 2582.18,
+   "end": 2589.86,
+   "text": "we can observe in our own selves, you know, what is going on. There's something new comes, and"
+  },
+  {
+   "t": 2589.86,
+   "end": 2596.72,
+   "text": "that means it's making. And again something is destroyed, and again something is made. So that"
+  },
+  {
+   "t": 2596.72,
+   "end": 2611.24,
+   "text": "is why one should not be disturbed by these acts of wailing. It is a part of the whole process. And"
+  },
+  {
+   "t": 2611.24,
+   "end": 2622.14,
+   "text": "definitely it will lead to that liberating grace, Anukkara. So what is, what he said here about"
+  },
+  {
+   "t": 2623.24,
+   "end": 2635.08,
+   "text": "he himself is limiting himself by this wailing. Now it's so beautiful, I mean the translation"
+  },
+  {
+   "t": 2635.08,
+   "end": 2653.34,
+   "text": "is very far away from the Sanskrit. Let me read this one."
+  },
+  {
+   "t": 2653.34,
+   "end": 2669.98,
+   "text": "Sa-eva, Shiva, Abheda, Akyati, Atmaka, Jnana, Svabhava, Akuruna, Manyata, Atmaka, Anava, Manana, Satatpa, Sankuchita, Jnana, Atma, Vandha."
+  },
+  {
+   "t": 2669.98,
+   "end": 2677.32,
+   "text": "Sankuchita Jnana, Sankuchita Jnana, Sankuchita Jnana means limited knowledge."
+  },
+  {
+   "t": 2678.18,
+   "end": 2688.82,
+   "text": "Everybody knows something, but it's so restricted. Sankuchita Jnana, this is a very important term"
+  },
+  {
+   "t": 2688.82,
+   "end": 2695.4,
+   "text": "the Sankuchita. Sankuchita and Vikasa. Sankuchita is something that becomes very narrow,"
+  },
+  {
+   "t": 2695.64,
+   "end": 2706.04,
+   "text": "becomes very limited, constricted, and when that knowledge opens up, it's Vikasa, that opening."
+  },
+  {
+   "t": 2706.04,
+   "end": 2716.16,
+   "text": "and it's like in the simile of the flower, you know, it closes and it opens, like it opens."
+  },
+  {
+   "t": 2718.04,
+   "end": 2734.76,
+   "text": "So this bondage is due to a limited knowledge. Sankuchita Jnana, Sankuchita Jnana."
+  },
+  {
+   "t": 2734.76,
+   "end": 2736.24,
+   "text": "The page is due."
+  },
+  {
+   "t": 2737.24,
+   "end": 2737.9,
+   "text": "..."
+  },
+  {
+   "t": 2740.8,
+   "end": 2742.2,
+   "text": "..."
+  },
+  {
+   "t": 2755.24,
+   "end": 2755.5,
+   "text": "..."
+  },
+  {
+   "t": 2755.5,
+   "end": 2756.62,
+   "text": "Quotes again."
+  },
+  {
+   "t": 2759.76,
+   "end": 2761.04,
+   "text": "Yeah, there's"
+  },
+  {
+   "t": 2761.04,
+   "end": 2762.92,
+   "text": "Pantakarika, which is very important."
+  },
+  {
+   "t": 2763.38,
+   "end": 2763.84,
+   "text": "One line."
+  },
+  {
+   "t": 2779.92,
+   "end": 2780.68,
+   "text": "Yes."
+  },
+  {
+   "t": 2781.2,
+   "end": 2782.24,
+   "text": "There's one of the famous"
+  },
+  {
+   "t": 2782.24,
+   "end": 2784.66,
+   "text": "verses which is again and again"
+  },
+  {
+   "t": 2784.66,
+   "end": 2785.1,
+   "text": "quoted."
+  },
+  {
+   "t": 2795.48,
+   "end": 2797.44,
+   "text": "When the agitation"
+  },
+  {
+   "t": 2797.44,
+   "end": 2799.06,
+   "text": "of that empirical"
+  },
+  {
+   "t": 2799.06,
+   "end": 2802.0,
+   "text": "individual who is incapacitated"
+  },
+  {
+   "t": 2802.0,
+   "end": 2803.36,
+   "text": "by his own impurity"
+  },
+  {
+   "t": 2803.36,
+   "end": 2805.44,
+   "text": "and is attached to actions"
+  },
+  {
+   "t": 2805.44,
+   "end": 2807.24,
+   "text": "disappears, then"
+  },
+  {
+   "t": 2807.24,
+   "end": 2809.0,
+   "text": "the highest state appears."
+  },
+  {
+   "t": 2809.64,
+   "end": 2811.38,
+   "text": "It is as simple as that."
+  },
+  {
+   "t": 2811.86,
+   "end": 2813.1,
+   "text": "Now, what is the only"
+  },
+  {
+   "t": 2814.3,
+   "end": 2814.98,
+   "text": "obstacle"
+  },
+  {
+   "t": 2814.98,
+   "end": 2816.34,
+   "text": "is"
+  },
+  {
+   "t": 2818.76,
+   "end": 2820.12,
+   "text": "being incapacitated"
+  },
+  {
+   "t": 2820.12,
+   "end": 2821.92,
+   "text": "by one's own impurity."
+  },
+  {
+   "t": 2822.7,
+   "end": 2824.22,
+   "text": "And what Samajit says, so beautiful,"
+  },
+  {
+   "t": 2824.7,
+   "end": 2826.16,
+   "text": "there is no other agency"
+  },
+  {
+   "t": 2827.1,
+   "end": 2829.04,
+   "text": "which causes that bondage."
+  },
+  {
+   "t": 2829.26,
+   "end": 2830.2,
+   "text": "It is all"
+  },
+  {
+   "t": 2831.76,
+   "end": 2833.64,
+   "text": "created by your own freedom."
+  },
+  {
+   "t": 2834.62,
+   "end": 2836.22,
+   "text": "See, freedom has that side also."
+  },
+  {
+   "t": 2836.22,
+   "end": 2839.22,
+   "text": "So, you can create an obstacle to yourself."
+  },
+  {
+   "t": 2839.66,
+   "end": 2841.62,
+   "text": "And we can see that many people,"
+  },
+  {
+   "t": 2842.58,
+   "end": 2843.92,
+   "text": "they have that freedom,"
+  },
+  {
+   "t": 2844.14,
+   "end": 2847.24,
+   "text": "but they use it in making an obstacle to themselves."
+  },
+  {
+   "t": 2848.86,
+   "end": 2857.56,
+   "text": "But, so this is one of the things that we incapacitated by one's own impurity and"
+  },
+  {
+   "t": 2857.56,
+   "end": 2859.74,
+   "text": "have that use of elashina."
+  },
+  {
+   "t": 2859.74,
+   "end": 2863.18,
+   "text": "This is what, in modern terms, I would call workaholics."
+  },
+  {
+   "t": 2863.82,
+   "end": 2876.16,
+   "text": "But being attached to action, you know, that you cannot stop, you know, people get retired and then they are so anxious because they don't know what to do with themselves because they are so much attached to their action and their activity."
+  },
+  {
+   "t": 2876.16,
+   "end": 2886.44,
+   "text": "So, this is very, you know, constantly engaged in activity, you cannot stop for a moment."
+  },
+  {
+   "t": 2886.44,
+   "end": 2892.3,
+   "text": "At the moment, at the moment, at the moment, that education ceases,"
+  },
+  {
+   "t": 2892.9,
+   "end": 2902.82,
+   "text": "that Apshova varieta, you know, this is from Buddha Apshova, Apshova, is the uneducated, that's just the opposite of this true."
+  },
+  {
+   "t": 2904.42,
+   "end": 2913.86,
+   "text": "The moment that education ceases, Tadasya, Vama, Vata, that supreme state appears, this really."
+  },
+  {
+   "t": 2913.86,
+   "end": 2941.3,
+   "text": "So, this is what he quotes here, that this Viana Vanta, this vulnerable mother, it is caused by one's own impurity and that impurity which consists in considering oneself as incomplete and imperfect and trying to fill it up by activity"
+  },
+  {
+   "t": 2941.3,
+   "end": 2951.34,
+   "text": "by possession and by possession and all kinds of things, or lead you away from that sufficient state."
+  },
+  {
+   "t": 2954.16,
+   "end": 2954.96,
+   "text": "Now,"
+  },
+  {
+   "t": 2969.36,
+   "end": 2972.34,
+   "text": "Spandakarika again, 3, 4, 10."
+  },
+  {
+   "t": 2973.6,
+   "end": 2983.8,
+   "text": "Spandakarika again, that's what I told you, you know, take the Shiva Sutras and you get the Spandakarika again, along, 3, 4, 10."
+  },
+  {
+   "t": 2984.22,
+   "end": 2990.82,
+   "text": "Some Spandakarika is also lying there, but in any case, it's also given in the excessive sins."
+  },
+  {
+   "t": 2990.82,
+   "end": 2994.7,
+   "text": "Are you ready?"
+  },
+  {
+   "t": 2994.7,
+   "end": 2994.76,
+   "text": "Thank you."
+  },
+  {
+   "t": 2995.46,
+   "end": 2996.78,
+   "text": "Thank you."
+  },
+  {
+   "t": 2996.78,
+   "end": 2998.02,
+   "text": "I'm ready."
+  },
+  {
+   "t": 2998.82,
+   "end": 2999.06,
+   "text": "Thank you."
+  },
+  {
+   "t": 2999.06,
+   "end": 2999.1,
+   "text": "Thank you."
+  },
+  {
+   "t": 2999.1,
+   "end": 2999.98,
+   "text": "Thank you."
+  },
+  {
+   "t": 3012.84,
+   "end": 3014.98,
+   "text": "Jati Singh has translated the whole shloka"
+  },
+  {
+   "t": 3014.98,
+   "end": 3016.16,
+   "text": "which is not in Sanskrit"
+  },
+  {
+   "t": 3016.16,
+   "end": 3019.16,
+   "text": "one who knows all the principles"
+  },
+  {
+   "t": 3019.16,
+   "end": 3020.26,
+   "text": "in their essentials"
+  },
+  {
+   "t": 3020.26,
+   "end": 3023.42,
+   "text": "being able to throw light on the virility"
+  },
+  {
+   "t": 3023.42,
+   "end": 3024.82,
+   "text": "or efficiency of mantra"
+  },
+  {
+   "t": 3024.82,
+   "end": 3027.14,
+   "text": "is a guru like myself"
+  },
+  {
+   "t": 3027.14,
+   "end": 3027.9,
+   "text": "means Shiva"
+  },
+  {
+   "t": 3029.44,
+   "end": 3031.32,
+   "text": "I don't have the text here"
+  },
+  {
+   "t": 3031.32,
+   "end": 3032.68,
+   "text": "of this Malini Vijaya"
+  },
+  {
+   "t": 3032.68,
+   "end": 3032.92,
+   "text": "but"
+  },
+  {
+   "t": 3040.26,
+   "end": 3042.36,
+   "text": "in the Spandakarika"
+  },
+  {
+   "t": 3042.36,
+   "end": 3044.14,
+   "text": "such matters being well known"
+  },
+  {
+   "t": 3044.14,
+   "end": 3045.1,
+   "text": "have not been treated"
+  },
+  {
+   "t": 3045.1,
+   "end": 3048.16,
+   "text": "but what we are reciting"
+  },
+  {
+   "t": 3048.9,
+   "end": 3051.28,
+   "text": "which comes at the end of Spandakarika"
+  },
+  {
+   "t": 3051.28,
+   "end": 3052.08,
+   "text": "this"
+  },
+  {
+   "t": 3053.68,
+   "end": 3054.96,
+   "text": "Agatha Samshambodhi"
+  },
+  {
+   "t": 3056.3,
+   "end": 3057.58,
+   "text": "Samuttara Natarinim"
+  },
+  {
+   "t": 3058.58,
+   "end": 3062.02,
+   "text": "Mandevi Chitra Tapadam Chitram Dham Guru Parati"
+  },
+  {
+   "t": 3062.02,
+   "end": 3066.68,
+   "text": "so that is the only place in the Spandakarika"
+  },
+  {
+   "t": 3066.68,
+   "end": 3068.0,
+   "text": "where the guru appears"
+  },
+  {
+   "t": 3068.0,
+   "end": 3068.94,
+   "text": "interesting"
+  },
+  {
+   "t": 3069.66,
+   "end": 3071.32,
+   "text": "because guru is so important"
+  },
+  {
+   "t": 3071.32,
+   "end": 3073.38,
+   "text": "but because in the Indian tradition"
+  },
+  {
+   "t": 3073.38,
+   "end": 3074.94,
+   "text": "the guru is so much assumed"
+  },
+  {
+   "t": 3074.94,
+   "end": 3077.16,
+   "text": "that you cannot imagine"
+  },
+  {
+   "t": 3077.16,
+   "end": 3079.52,
+   "text": "that you don't have a guru to teach you"
+  },
+  {
+   "t": 3079.52,
+   "end": 3080.32,
+   "text": "this"
+  },
+  {
+   "t": 3080.32,
+   "end": 3082.76,
+   "text": "so there's no need to talk about it"
+  },
+  {
+   "t": 3082.76,
+   "end": 3083.74,
+   "text": "occasionally yes"
+  },
+  {
+   "t": 3083.74,
+   "end": 3085.9,
+   "text": "you have to describe"
+  },
+  {
+   "t": 3085.9,
+   "end": 3087.34,
+   "text": "what is the importance of the guru"
+  },
+  {
+   "t": 3087.34,
+   "end": 3089.1,
+   "text": "you have the"
+  },
+  {
+   "t": 3090.3,
+   "end": 3091.44,
+   "text": "Kalarnava Tantra"
+  },
+  {
+   "t": 3091.44,
+   "end": 3093.24,
+   "text": "which gives you a long list"
+  },
+  {
+   "t": 3093.24,
+   "end": 3094.8,
+   "text": "of the qualities of a guru"
+  },
+  {
+   "t": 3094.8,
+   "end": 3096.82,
+   "text": "qualities of the disciple"
+  },
+  {
+   "t": 3096.82,
+   "end": 3097.52,
+   "text": "and so on"
+  },
+  {
+   "t": 3097.52,
+   "end": 3099.2,
+   "text": "but here otherwise"
+  },
+  {
+   "t": 3099.2,
+   "end": 3101.84,
+   "text": "that's why this sutra is so important"
+  },
+  {
+   "t": 3102.74,
+   "end": 3104.02,
+   "text": "Guru Upaya"
+  },
+  {
+   "t": 3105.2,
+   "end": 3106.72,
+   "text": "it is so important"
+  },
+  {
+   "t": 3106.72,
+   "end": 3107.78,
+   "text": "because it is not"
+  },
+  {
+   "t": 3107.78,
+   "end": 3108.6,
+   "text": "often"
+  },
+  {
+   "t": 3108.6,
+   "end": 3109.8,
+   "text": "treated"
+  },
+  {
+   "t": 3109.8,
+   "end": 3111.5,
+   "text": "the topic is not"
+  },
+  {
+   "t": 3111.5,
+   "end": 3112.28,
+   "text": "treated often"
+  },
+  {
+   "t": 3112.28,
+   "end": 3113.46,
+   "text": "well in the Tantraloka"
+  },
+  {
+   "t": 3113.46,
+   "end": 3114.46,
+   "text": "of course"
+  },
+  {
+   "t": 3114.46,
+   "end": 3115.44,
+   "text": "in the context"
+  },
+  {
+   "t": 3115.44,
+   "end": 3116.3,
+   "text": "of the"
+  },
+  {
+   "t": 3116.3,
+   "end": 3117.34,
+   "text": "Shaktipata"
+  },
+  {
+   "t": 3117.34,
+   "end": 3118.24,
+   "text": "then"
+  },
+  {
+   "t": 3118.24,
+   "end": 3119.2,
+   "text": "he speaks"
+  },
+  {
+   "t": 3119.2,
+   "end": 3120.94,
+   "text": "a lot about the guru"
+  },
+  {
+   "t": 3120.94,
+   "end": 3121.96,
+   "text": "Shaktipata"
+  },
+  {
+   "t": 3123.36,
+   "end": 3124.44,
+   "text": "so that's why"
+  },
+  {
+   "t": 3124.44,
+   "end": 3124.98,
+   "text": "but also"
+  },
+  {
+   "t": 3124.98,
+   "end": 3126.12,
+   "text": "this sutra is again"
+  },
+  {
+   "t": 3126.12,
+   "end": 3126.9,
+   "text": "again quoted"
+  },
+  {
+   "t": 3126.9,
+   "end": 3128.72,
+   "text": "to stress"
+  },
+  {
+   "t": 3128.72,
+   "end": 3129.42,
+   "text": "the importance"
+  },
+  {
+   "t": 3129.42,
+   "end": 3130.22,
+   "text": "of the guru"
+  },
+  {
+   "t": 3130.92,
+   "end": 3131.98,
+   "text": "he is"
+  },
+  {
+   "t": 3131.98,
+   "end": 3132.7,
+   "text": "the means"
+  },
+  {
+   "t": 3132.7,
+   "end": 3134.34,
+   "text": "now if you have"
+  },
+  {
+   "t": 3134.34,
+   "end": 3134.96,
+   "text": "reached already"
+  },
+  {
+   "t": 3134.96,
+   "end": 3136.0,
+   "text": "the highest stage"
+  },
+  {
+   "t": 3136.0,
+   "end": 3136.94,
+   "text": "that leave a sight"
+  },
+  {
+   "t": 3136.94,
+   "end": 3138.08,
+   "text": "but whenever"
+  },
+  {
+   "t": 3138.08,
+   "end": 3138.76,
+   "text": "you are treading"
+  },
+  {
+   "t": 3138.76,
+   "end": 3139.36,
+   "text": "on another"
+  },
+  {
+   "t": 3139.36,
+   "end": 3141.16,
+   "text": "any other part"
+  },
+  {
+   "t": 3141.16,
+   "end": 3142.2,
+   "text": "you need"
+  },
+  {
+   "t": 3142.2,
+   "end": 3142.7,
+   "text": "a guru"
+  },
+  {
+   "t": 3144.28,
+   "end": 3144.92,
+   "text": "now"
+  },
+  {
+   "t": 3148.76,
+   "end": 3149.74,
+   "text": "the other"
+  },
+  {
+   "t": 3149.74,
+   "end": 3150.94,
+   "text": "definition of guru"
+  },
+  {
+   "t": 3150.94,
+   "end": 3152.28,
+   "text": "is beautiful"
+  },
+  {
+   "t": 3153.56,
+   "end": 3154.98,
+   "text": "in the"
+  },
+  {
+   "t": 3154.98,
+   "end": 3156.96,
+   "text": "Sanskrit"
+  },
+  {
+   "t": 3156.96,
+   "end": 3157.54,
+   "text": "the"
+  },
+  {
+   "t": 3157.54,
+   "end": 3158.88,
+   "text": "Guru Va"
+  },
+  {
+   "t": 3162.4,
+   "end": 3163.78,
+   "text": "Guru Va"
+  },
+  {
+   "t": 3163.78,
+   "end": 3164.72,
+   "text": "Parameshvari"
+  },
+  {
+   "t": 3164.72,
+   "end": 3165.66,
+   "text": "Anukrahika"
+  },
+  {
+   "t": 3165.66,
+   "end": 3166.4,
+   "text": "Shakti"
+  },
+  {
+   "t": 3166.4,
+   "end": 3167.9,
+   "text": "or"
+  },
+  {
+   "t": 3167.9,
+   "end": 3169.34,
+   "text": "the guru"
+  },
+  {
+   "t": 3169.34,
+   "end": 3170.18,
+   "text": "may be said"
+  },
+  {
+   "t": 3170.18,
+   "end": 3170.78,
+   "text": "to be"
+  },
+  {
+   "t": 3170.78,
+   "end": 3171.74,
+   "text": "the power"
+  },
+  {
+   "t": 3171.74,
+   "end": 3173.16,
+   "text": "of divine grace"
+  },
+  {
+   "t": 3173.16,
+   "end": 3174.92,
+   "text": "Parameshvari"
+  },
+  {
+   "t": 3174.92,
+   "end": 3175.88,
+   "text": "Anukrahika"
+  },
+  {
+   "t": 3175.88,
+   "end": 3176.6,
+   "text": "Shakti"
+  },
+  {
+   "t": 3178.74,
+   "end": 3179.9,
+   "text": "the guru"
+  },
+  {
+   "t": 3179.9,
+   "end": 3180.76,
+   "text": "is"
+  },
+  {
+   "t": 3182.14,
+   "end": 3183.58,
+   "text": "the embodiment"
+  },
+  {
+   "t": 3183.58,
+   "end": 3184.46,
+   "text": "of that"
+  },
+  {
+   "t": 3186.6,
+   "end": 3187.32,
+   "text": "Shakti"
+  },
+  {
+   "t": 3187.32,
+   "end": 3188.32,
+   "text": "of that grace"
+  },
+  {
+   "t": 3188.32,
+   "end": 3189.12,
+   "text": "and it's very"
+  },
+  {
+   "t": 3189.12,
+   "end": 3189.7,
+   "text": "interesting"
+  },
+  {
+   "t": 3189.7,
+   "end": 3190.38,
+   "text": "in the"
+  },
+  {
+   "t": 3190.38,
+   "end": 3191.88,
+   "text": "one of those"
+  },
+  {
+   "t": 3191.88,
+   "end": 3192.52,
+   "text": "you know"
+  },
+  {
+   "t": 3192.52,
+   "end": 3193.24,
+   "text": "Panchastavi"
+  },
+  {
+   "t": 3194.46,
+   "end": 3195.18,
+   "text": "Panchastavi"
+  },
+  {
+   "t": 3195.18,
+   "end": 3195.72,
+   "text": "which the"
+  },
+  {
+   "t": 3195.72,
+   "end": 3196.62,
+   "text": "Kashmir is always"
+  },
+  {
+   "t": 3196.62,
+   "end": 3197.14,
+   "text": "suicide"
+  },
+  {
+   "t": 3197.14,
+   "end": 3197.72,
+   "text": "which are"
+  },
+  {
+   "t": 3197.72,
+   "end": 3199.02,
+   "text": "hymns to the Devi"
+  },
+  {
+   "t": 3199.02,
+   "end": 3200.52,
+   "text": "very powerful"
+  },
+  {
+   "t": 3200.52,
+   "end": 3201.28,
+   "text": "and very poetic"
+  },
+  {
+   "t": 3201.28,
+   "end": 3202.22,
+   "text": "hymns to the Devi"
+  },
+  {
+   "t": 3202.22,
+   "end": 3203.3,
+   "text": "and there"
+  },
+  {
+   "t": 3203.3,
+   "end": 3203.94,
+   "text": "the Devi"
+  },
+  {
+   "t": 3203.94,
+   "end": 3204.54,
+   "text": "said to"
+  },
+  {
+   "t": 3204.54,
+   "end": 3205.26,
+   "text": "embodiment"
+  },
+  {
+   "t": 3205.26,
+   "end": 3206.56,
+   "text": "the guru"
+  },
+  {
+   "t": 3206.56,
+   "end": 3207.1,
+   "text": "is said to be"
+  },
+  {
+   "t": 3207.1,
+   "end": 3207.8,
+   "text": "the embodiment"
+  },
+  {
+   "t": 3207.8,
+   "end": 3209.12,
+   "text": "of the Devi"
+  },
+  {
+   "t": 3210.96,
+   "end": 3211.82,
+   "text": "it's very"
+  },
+  {
+   "t": 3211.82,
+   "end": 3212.38,
+   "text": "they are very"
+  },
+  {
+   "t": 3212.38,
+   "end": 3212.92,
+   "text": "ancient"
+  },
+  {
+   "t": 3212.92,
+   "end": 3213.7,
+   "text": "hymns"
+  },
+  {
+   "t": 3213.7,
+   "end": 3214.56,
+   "text": "very beautiful"
+  },
+  {
+   "t": 3216.62,
+   "end": 3217.22,
+   "text": "Panchastavi"
+  },
+  {
+   "t": 3217.22,
+   "end": 3217.92,
+   "text": "there are five"
+  },
+  {
+   "t": 3217.92,
+   "end": 3218.44,
+   "text": "hymns"
+  },
+  {
+   "t": 3218.44,
+   "end": 3219.28,
+   "text": "Ambastava"
+  },
+  {
+   "t": 3219.28,
+   "end": 3220.22,
+   "text": "Chachastava"
+  },
+  {
+   "t": 3220.22,
+   "end": 3221.0,
+   "text": "and what"
+  },
+  {
+   "t": 3221.0,
+   "end": 3222.02,
+   "text": "other names"
+  },
+  {
+   "t": 3222.02,
+   "end": 3222.72,
+   "text": "I have forgotten"
+  },
+  {
+   "t": 3222.72,
+   "end": 3224.56,
+   "text": "they are published"
+  },
+  {
+   "t": 3224.56,
+   "end": 3225.66,
+   "text": "very beautiful"
+  },
+  {
+   "t": 3227.62,
+   "end": 3228.44,
+   "text": "I think"
+  },
+  {
+   "t": 3228.44,
+   "end": 3228.92,
+   "text": "in the"
+  },
+  {
+   "t": 3229.6,
+   "end": 3230.2,
+   "text": "Chachastava"
+  },
+  {
+   "t": 3230.2,
+   "end": 3231.32,
+   "text": "that the guru"
+  },
+  {
+   "t": 3231.32,
+   "end": 3233.0,
+   "text": "is said to be"
+  },
+  {
+   "t": 3233.0,
+   "end": 3233.74,
+   "text": "the manifestation"
+  },
+  {
+   "t": 3233.74,
+   "end": 3234.62,
+   "text": "of the Devi"
+  },
+  {
+   "t": 3234.62,
+   "end": 3235.6,
+   "text": "so there is"
+  },
+  {
+   "t": 3235.6,
+   "end": 3236.02,
+   "text": "no question"
+  },
+  {
+   "t": 3236.02,
+   "end": 3236.5,
+   "text": "of gender"
+  },
+  {
+   "t": 3236.5,
+   "end": 3236.94,
+   "text": "you know"
+  },
+  {
+   "t": 3236.94,
+   "end": 3237.42,
+   "text": "we always"
+  },
+  {
+   "t": 3237.42,
+   "end": 3238.16,
+   "text": "make so much"
+  },
+  {
+   "t": 3238.16,
+   "end": 3238.8,
+   "text": "out of this"
+  },
+  {
+   "t": 3238.8,
+   "end": 3240.06,
+   "text": "gender business"
+  },
+  {
+   "t": 3240.06,
+   "end": 3240.9,
+   "text": "and so on"
+  },
+  {
+   "t": 3240.9,
+   "end": 3241.46,
+   "text": "there is no"
+  },
+  {
+   "t": 3241.46,
+   "end": 3241.8,
+   "text": "question"
+  },
+  {
+   "t": 3241.8,
+   "end": 3242.48,
+   "text": "guru may be"
+  },
+  {
+   "t": 3242.48,
+   "end": 3242.82,
+   "text": "male"
+  },
+  {
+   "t": 3242.82,
+   "end": 3243.6,
+   "text": "it doesn't"
+  },
+  {
+   "t": 3243.6,
+   "end": 3244.36,
+   "text": "matter at all"
+  },
+  {
+   "t": 3244.36,
+   "end": 3244.94,
+   "text": "he is the"
+  },
+  {
+   "t": 3244.94,
+   "end": 3245.46,
+   "text": "Shakti"
+  },
+  {
+   "t": 3246.82,
+   "end": 3247.36,
+   "text": "that's"
+  },
+  {
+   "t": 3247.36,
+   "end": 3247.98,
+   "text": "Anugrahika"
+  },
+  {
+   "t": 3247.98,
+   "end": 3248.58,
+   "text": "Shakti"
+  },
+  {
+   "t": 3275.96,
+   "end": 3278.48,
+   "text": "that has been said to be the collective"
+  },
+  {
+   "t": 3278.48,
+   "end": 3279.66,
+   "text": "whole of Shakti"
+  },
+  {
+   "t": 3279.66,
+   "end": 3280.44,
+   "text": "Shakti Chakra"
+  },
+  {
+   "t": 3280.44,
+   "end": 3283.46,
+   "text": "that has been said to be the mouth of the guru"
+  },
+  {
+   "t": 3283.46,
+   "end": 3286.34,
+   "text": "that is the guru's power of grace"
+  },
+  {
+   "t": 3288.28,
+   "end": 3289.46,
+   "text": "Guru Vaktra"
+  },
+  {
+   "t": 3291.6,
+   "end": 3294.68,
+   "text": "that's why in the spandakarika what we recite"
+  }
+ ]
+}

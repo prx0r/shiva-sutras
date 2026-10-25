@@ -1,8 +1,13 @@
 # CATALOGUE — topics → units (A-density + convergence)
 
-Built after the full 13-session grading pass (180 units: 68 A / 104 B / 8 C).
+Built after the full 13-session grading pass; CURRENT totals (incl. dl1 import): **186 units: 71 A / 106 B / 9 C** — counts below are session-1 snapshots; SPINE_ASSIGN.tsv is authoritative.
 Closed topic list (vatulanatha union + tantraessays 9). Method: keyword spread across
 13 transcripts (measured, not assigned) × A-density per topic (independent dissection).
+
+## Voice-2 addendum (dl1, imported later)
+- dl1-01 rock-Terma [B] · dl1-02 Yogini-Siddha lineage [B] · dl1-03 secret-tradition stakes [A] ·
+  dl1-04 first-sūtra thesis [A] · dl1-05 Kapalika [C] — all section S1 (see SPINE_ASSIGN).
+- dl1 minutes/words: ~18m / 1,982w.
 
 ## Thread measurement (keyword spread, all 13 sessions)
 

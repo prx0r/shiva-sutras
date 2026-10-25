@@ -12,7 +12,8 @@
  {
   "id": "KSpk4KO0JY4",
   "title": "Shiva Sutras ( Day 2 - Session I)",
-  "transcript": false
+  "transcript": true,
+  "file": "cf/KSpk4KO0JY4.json (CF whisper) -> text/shiva_sutras_day_2_session_i.txt"
  },
  {
   "id": "sLD0aeV1d3o",
@@ -57,11 +58,18 @@
  {
   "id": "r5wTwUNVYOo",
   "title": "Shiva Sutras (Day 6 Session I)",
-  "transcript": false
+  "transcript": true,
+  "file": "cf/r5wTwUNVYOo.json (CF whisper) -> text/shiva_sutras_day_6_session_i.txt"
  },
  {
   "id": "xseTpOwSx9M",
   "title": "Shiva Sutras (Day 6 Session II)",
   "transcript": true
+ },
+ {
+  "id": "dl1-imported",
+  "title": "Dyczkowski Introduction to the Shiva Sutras (from tantraessays srt)",
+  "transcript": true,
+  "file": "text/shiva_sutras_introduction_dl.txt"
  }
 ]

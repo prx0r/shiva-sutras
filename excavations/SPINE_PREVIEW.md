@@ -1,3 +1,5 @@
+# SUPERSEDED by SPINE.md (kept as the S2 design record — the preview that fed the test)
+
 # S2 PREVIEW SPINE (feeds the test — NOT locked; convergence decides)
 
 Designed from the sūtra arc + her emphasis (question measurement precedent).

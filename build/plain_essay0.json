@@ -1,0 +1,12 @@
+{
+ "inputs": [
+  "t_essay0.txt"
+ ],
+ "outputs": {
+  "t_essay0.txt": {
+   "text": "consciousness is the nature of self, which verily is the divine self, freed of all limiting conditions",
+   "plain": "consciousness is the nature of self, which truly is the divine self, freed of all limiting conditions"
+  }
+ },
+ "hash": "761da269094f96bb"
+}

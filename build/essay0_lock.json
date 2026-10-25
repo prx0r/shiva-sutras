@@ -1,0 +1,24 @@
+{
+ "status": "DRAFT \u2014 owner ear pending; no audio rendered",
+ "master_question": "What is consciousness?",
+ "essay0_question": "Why isn't consciousness something you do?",
+ "g0": "PASS (anchor+content, 6 words, no pronouns; tools/validate_questions.py)",
+ "sanskrit": "caitanyam \u0101tm\u0101",
+ "sanskrit_source": "s\u016btra 1.1; held form 'caitanyamatma' (Dyczkowski Aphorisms l.735); VERIFY split form against Jaideva print before render",
+ "translation_T1": "consciousness is the nature of self, which verily is the divine self, freed of all limiting conditions",
+ "translation_T1_source": "lecturer's in-session K\u1e63emar\u0101ja gloss, Day2-3 [01:39:23]\u2192[01:39:33]; rolling-cue dup collapsed; print-layer commas; byte-audit on unpunctuated form",
+ "translation_T2_alt": "Consciousness is the Self. (Dyczkowski Aphorisms, held; short-quote)",
+ "plain": "consciousness is the nature of self, which truly is the divine self, freed of all limiting conditions",
+ "plain_how": "tools/plain_filter.py + build/key_ss1_proposal.json (PROPOSAL); hash 761da269094f96bb",
+ "audio_unit": "ss3-10",
+ "audio_window": "[01:20:12]-->[01:20:30]",
+ "audio_seconds": 18,
+ "audio_source": "text/shiva_sutras_day_2_introduction_iii.txt (YT captions; ear-check Sanskrit-adjacent words at render)",
+ "audio_quote": "awareness means something which we are doing so when you are practicing vipassana or practicing any of this kind of meditation you you practice awareness that is your but this is consciousness is not something you are doing it is something which is there",
+ "flow_test": "seeds 0\u2192A\u2192B\u2192C (sides \u2192 mechanics \u2192 source); enquiry chains to S2 mind (2.1), S3 bondage (1.2), S4 mantra, S5 upaya/guru",
+ "alternates": [
+  "A2 beyond-thought + ss6-14",
+  "A3 think-your-way + ss4-01",
+  "A1 master + [01:19:31]->[01:19:55]"
+ ]
+}

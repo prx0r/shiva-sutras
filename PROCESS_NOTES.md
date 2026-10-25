@@ -77,3 +77,27 @@ grep -h "^### .*\[A\]" excavations/ss*.md | wc -l   # 68
 2. Essay-0 build from CATALOGUE A-pool (question → pause → plain → her clip; Sanskrit-first card rule from vatulanatha §9b).
 3. śākta/mantra deep-file (ss10–ss13 B-units hold the technical mantras deferred in-session).
 4. Gateless-gate check: does any unit need the missing Day-6-I CF audio re-listen (ear-check flagged ASR spots: "rishikesh"=paratrishika-people, "Mitta City"=siddhi, "Dantoraja"=Tantrāloka)?
+
+## 3. Essay-0 pick (ESSAY0-FORMULA run, 2026-10-25 evening)
+
+Pulled vatulanatha's latest (`ESSAY0-FORMULA.md` 7 tests + UNFOLDING law + G0 gate
+`validate_questions.py` + Step 5b flow test) and ran it on this corpus.
+
+- G0 gate ported (`tools/validate_questions.py`, anchor = consciousness/self = 1.1's
+  topic): 5/7 pass. The two generic drifts FAIL exactly as designed — including their
+  own reject-case "What happens to the senses?" (no anchor).
+- Master stays: "What is consciousness?" (clear, S1's word — their "clear, not verbose" rule).
+- Sharpened pick: **"Why isn't consciousness something you do?"** (6 words; presupposes
+  the course's doing/being distinction; thread present Days 1–6; opens "then what DO
+  you do?" → mind → bondage → mantra → guru).
+- Full stack in `excavations/ESSAY0.md`: S caitanyam ātmā → T1 her gloss (exact span,
+  rolling-dup collapsed, print commas noted) + T2 Dyczkowski alternate → P mechanical
+  (filter port + proposal key, hash 761da269094f96bb) → A ss3-10 [01:20:12]→[01:20:30]
+  (18s, 100% in A-gold, completes the question).
+- Lock = DRAFT (`build/essay0_lock.json`): no audio rendered, owner ear pending.
+- Flow test passes: response seeds 0→A (sides) →B (mechanics) →C (source lines)
+  without swapping the seed — the essay performs unfoldment (their UNFOLDING law).
+- Alternates kept per their practice (A2 beyond-thought, A3 think-your-way, A1 master).
+- Borrowed rules now local: BUILD ORDER (essay-0 first, B = built x1.6–2, no supersets
+  ship); Sanskrit-first cards (source language on screen, English gloss beneath);
+  beat grammar question→pause→plain→clip; human voice owns questions.

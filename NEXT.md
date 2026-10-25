@@ -53,7 +53,8 @@ Read first: README → PROCESS_NOTES (esp. §8b coverage-truth + §8g) → MISTA
 9. **A-collate manifests** — per section: ordered clip list (uid, mp3, in/out, question
    line, card rows, plain) → `build/manifest_sN_A.json` = "Essay A at speed" (~10–20m
    target total). Append-only verified: every quote re-checked against units.
-10. **B-selection protocol** — sweep instrument: `build/HOLDUP_SHEET.md` (219 rows; 114 provisional-B start first). — for each section: B-pool raw minutes exist (71m total);
+10. **B-selection protocol** — sweep instrument: `build/HOLDUP_SHEET.md` (219 rows; 114 provisional-B start first).
+    UNFOLDING audit run-1 DONE against draft cells: `build/UNFOLDING_AUDIT.md` — 81 A = 62 E / 11 Q / 5 B / 3 W / **0 N** (no seed swapped); watch-list ss4-02, ss8-06/07, ss10-03, S5-guru-cluster, ss7-16. Re-run at lock (cells may shift). — for each section: B-pool raw minutes exist (71m total);
     select to B ≈ A×1.6–2 per hold-up test (*does this deepen essay-0's answer?*) with a
     one-line reason per kept clip; NO superset ever ships (M-record + vatula 86m lesson).
 11. **C-walk** — definition depends on A3 (coverage decision): A+B in her order with

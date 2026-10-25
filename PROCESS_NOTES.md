@@ -150,3 +150,68 @@ essay-0 draft-lock ✓ (owner ear pending) → next = S5 collate A/B/C under the
   TRANSLATION rows already source from it; per-sūtra card refs follow it.
 - Both voices now serve one text: Baumer = interpretation archive (ss1–13),
   Dyczkowski = second archive voice (dl1), Aphorisms = the text on screen.
+
+## 8. Session wrap (2026-10-25, continued) — questions, coverage truth, housekeeping
+
+### 8a. Spine questions: opened per owner (analayo Nibbāna model)
+Three owner corrections landed on the question set: (1) S2 object fixed (M10);
+(2) S3 category error — consciousness isn't forceable, REALISATION is (M14);
+(3) over-stuffed wordiness → owner's own rule-example "Why can't you force realisation?"
+(M15); then the real upgrade: **open the questions** — name the ASK, withhold the
+answer's content-word (M16). Final set (G0 7/7, role labels):
+1 What is consciousness? (the thing) · 2 What keeps consciousness from being
+realised? (the obstacle) · 3 How does realisation happen? (the arrival) ·
+4 What does realisation do to experience? (the change) · 5 What does the mind have
+to do with consciousness? (the mechanism) · 6 What happens after realisation? (the after).
+Question↔content fit checked against actual A-pools (SPINE table): S2/S3 textbook,
+S1/S5 strong, S4 (heart-lotus practice) and S6 (āsana/offering path-techniques) flagged
+as wobbles — recorded, NOT patched (text-order homes stay; flow-read decides).
+
+### 8b. COVERAGE TRUTH (owner question: "are we using all the content?")
+Measured: units claim **114m of 878m total audio = 13% time-coverage**; quoted words
+5,824 of ~95k corpus (~6%). 186 units = idea-dense extraction (compare vatula 96 units);
+**but there is NO coverage ledger for the remainder** — no C-MARKS equivalent, so we
+cannot yet say what the un-unit'd 87% IS (logistics, participant Q&A, technical
+stretches, her asides). Consequences:
+- Essay A/B: fine (A⊂B pools are complete for their job).
+- C-version "full walk": would have holes if built from units alone — vatula solved
+  this with decompile-pools as the full-pool complement; dyczkowski solved it with
+  100% line-coverage files. We have neither yet.
+- Decision owed (open thread #1): which G1 standard for THIS corpus —
+  (a) vatula-style span ledger (every span: unit'd or C-marked, ~73% realistic), or
+  (b) dyczkowski-style full line-coverage pass (100%, multi-session), or
+  (c) pragmatic C-build-time transcript ingestion (no ledger; verify at build).
+
+### 8c. Housekeeping / organise
+- M13: 242MB mp3s swept into git by `git add -A` → untracked, `audio/` gitignored,
+  history rewritten (unpushed; .git 243M → 1.3M; packed-refs resurrection via
+  `update-ref -d` documented). dl1 mp3 now local-only under audio/.
+- Manifest complete: 13 sessions + dl1, all with transcripts (11 VTT-clean + 2 CF).
+- CATALOGUE header refreshed (stale 180-unit counts → superseded pointer to
+  SPINE_ASSIGN.tsv as authority) + dl1 addendum row.
+- SPINE_PREVIEW.md banner: superseded by SPINE.md (kept as S2 design record).
+- `tools/__pycache__` untracked; .gitignore += it.
+- tantraessays-side: `/tmp/verify_cov.py` + `/tmp/verify_bc.py` (volatile /tmp — M12
+  scar) copied to `dyczkowski/tools/`; its PROCESS_NOTES §14d repro-path note updated.
+
+### 8d. STATE NOW (one screen)
+- **Grading:** 186 units (71A/106B/9C), verify_units 186/0 (punct+stamp+music norm both sides).
+- **Segmentation:** 186/186 one-home (SPINE_ASSIGN.tsv), 48+ verdict overrides logged in s2_cluster.
+- **Convergence:** units × A-buckets agree (S1 top, S5 second, S3-thinnest-accepted).
+- **SPINE:** 6 open questions, role labels, fit-check table, per-section anchors = her words.
+- **Essay-0:** stack SANSKRIT→TRANSLATION→PLAIN→BÄUMER built (build/ESSAY0_OUTPUT.md),
+  flow-read artifact written (weak join 4→5 flagged), lock = DRAFT (owner ear pending).
+- **Voices:** Baumer ss1–13 + Dyczkowski dl1 (2A) · **TEXT law:** Aphorisms of Śiva (held, gitignored).
+- **Gates:** verify_units ✓ · G0 7/7 ✓ · s2 totals ✓ · plain_filter hash ✓ · clean tree.
+
+### 8e. OPEN THREADS (ordered)
+1. **Coverage standard decision** (8b) — pick (a)/(b)/(c); blocks honest "full walk" claims.
+2. **dl1 end-to-end read** — imported via units only; full pass of `text/shiva_sutras_introduction_dl.txt` pending (1,982w, ~20m).
+3. **ASR ear-check list** — flagged forms (rishikesh=paratrishika-people, Mitta City=siddhi, Dantoraja=Tantrāloka, bhairava-name garbles…) — ear against mp3 at render; maintain list in MISTAKES/units.
+4. **Audio flow-read** — question→pause→clip with real timing; stress joins 4→5 and S6 weight (levers: promote ss13-06 dancer to A, or re-ask).
+5. **Owner ear on HEAD mp3** → essay0_lock.json LOCK (then G12-analog: window/sanskt/plain freeze).
+6. **key_v2 sign-off** — proposal key (verily→truly) is one entry; plain rows are honest no-ops until signed; grows per section.
+7. **Sanskrit OCR-verify** — tritayabhokta vtresah, nartaka atma (dl sūtra forms) vs print before any card render.
+8. **Baumer mp3s local** — only KSpk4/r5w local; pull the other 11 from R2 at build/render time.
+9. **S5 collate + B-selection + three-layer beats** (BUILD ORDER: essay0 → A → B hold-up → C walk) — the main build, not started.
+10. **Cross-repo calls:** BHU-Tantraloka ownership (tantraessays vs vatulanatha CUTTING-FORMULA); CATALOGUE/dl1 rows re-audit if sections move; corpus.db "next loads" (essay-corpus wants PH/Spanda/SS units — ours qualify once locked).

@@ -14,8 +14,8 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 (never reorders across) · thin sections stay thin · A ⊂ B ⊂ C collated under these.
 
 ## Convergence (two dissections, one elephant)
-- Unit distribution: S1 62 · S5 35 · S6 25 · S4 24 · S3 20 · S2 20 (total 186; S1 += 5 dl1; S3 += ss12-16).
-- Independent A-buckets:  S1 24 · S5 14 · S4 10 · S6 8 · S3 8 · S2 7 (total 71).
+- Unit distribution: S1 62 · S5 36 · S6 25 · S4 24 · S3 20 · S2 19 (total 186; ss5-02 moved to S5 guru-means).
+- Independent A-buckets:  S1 24 · S5 15 · S4 10 · S6 8 · S3 8 · S2 6 (total 71).
 - Both rank S1 first and S5 second; S3 is thinnest in both — accepted, not padded.
   S6 vs S2/S4 swap mid-table is the only disagreement (cosmetic).
 
@@ -23,7 +23,7 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 
 1. **What is consciousness?** (master — S1)
 2. **Why does knowledge bind consciousness?** (bondage — S2)
-3. **Why can't realisation of oneself as consciousness be forced?** (the upsurge — S3)
+3. **Why can't you force realisation?** (the upsurge — S3)
 4. **What does consciousness do to experience?** (the yogi's states — S4)
 5. **How does the mind shape consciousness?** (mantra — S5)
 6. **What is consciousness free to do?** (life-in-the-world — S6)
@@ -47,7 +47,7 @@ fluidity closes (ss5-01, ss6-06, ss7-01, ss8-01, ss9-03…05).
 **Note:** ss12-02 (recognition-as-reading) and ss13-01 (ātman-per-level) are verdict-here;
 recognition-thick material belongs to the PH project — keep only as reading-method here.
 
-## S2. Why does knowledge bind consciousness? — 20 units (7A)
+## S2. Why does knowledge bind consciousness? — 19 units (6A)
 **Anchor:** `ss4-12` (the shock: "jñānam bandhaḥ") · definitional: ss4-14 — "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature"
 **Journey:** the bridge-question (ss4-11 "how come we are not all liberated") →
 the shock (ss4-12 jñānam bandhaḥ) → two readings (ss4-13) → mala-map (ss4-14…17:
@@ -56,7 +56,7 @@ kañcuka section (ss5-02…08, ss5-12, ss5-15: kalā-fragment, armor, removal-ru
 malas-speaking) → threshold as māyā (ss9-02) · siddhi-veil strays: ss13-03.
 **A-anchors:** ss4-12, ss4-14, ss4-17, ss5-15, ss5-04.
 
-## S3. Why can't realisation of oneself as consciousness be forced? — 20 units (8A)
+## S3. Why can't you force realisation? — 20 units (8A)
 **Anchor:** `ss6-04` — "ud + yam … it is not a gradual rising step by steps it is a sudden upsurge"
 **Journey:** jīvanmukti-question (ss6-01) → Zen/sudden frame (ss6-02) → viśrānti (ss6-03) →
 the sūtra itself (ss6-04/05 uplifting=divine) → union (ss6-07/08) → "not by any human
@@ -74,7 +74,7 @@ body-reading (ss8-02…05 this-universe-my-body, peacock/banyan) → heart-pract
 (ss8-06/07 lotus) → kṣobha/agitation (ss12-13) · program strays: ss3-01 invocation, ss6-19.
 **A-anchors:** ss7-05, ss7-06, ss7-07, ss7-14, ss7-16, ss8-02, ss8-06, ss8-07.
 
-## S5. How does the mind shape consciousness? — 35 units (14A)
+## S5. How does the mind shape consciousness? — 36 units (15A)
 **Anchor:** `ss11-05` — "the mind of the devotee … acquires identity with the deity and
 thus becomes that mantra itself"
 **Journey:** MVUT practice-freedom (ss1-10…15: fix awareness, adopt whatever enables) →

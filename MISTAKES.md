@@ -93,3 +93,13 @@
   as the cell's audio; TEXT keeps udyama (WHAT), audio carries WHY.
   **Rule: interrogatives must name the right object — ask what the sūtra is actually
   about (the event), not the doctrine's subject (the ground).**
+
+- **M15. Over-stuffed question object (owner review: "a bit wordy").** I maximally
+  packed the S3 object ("realisation of oneself as consciousness", 9/9 gate words)
+  when the owner's own sharpening-rule example already existed: **"Why can't you force
+  realisation?"** — 6 words, speakable, object explicit, anchor carried by 'realisation'
+  (now in G0 ANCHOR+CONTENT, justified: the corpus's S1-domain verb = realisation of
+  consciousness). Also found in the same review: ss5-02 (guru-recognition story) was
+  metric-filed under S2 but belongs to S5's guru-means cluster — moved (OVER).
+  **Rule: gate-passing is not speakability; spoken questions ≤6-7 words, and prefer
+  already-owner-tested forms over inventing longer ones.**

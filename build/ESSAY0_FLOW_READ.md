@@ -20,7 +20,7 @@ PLAIN: knowledge is bondage.
 **BÄUMER:** "…they are not inherent in the soul they are superficial… it is an
 incomplete knowledge."
 
-**Q: Why can't realisation of oneself as consciousness be forced?**
+**Q: Why can't you force realisation?**
 (pause)
 SANSKRIT: *udyamo bhairavaḥ.*
 TRANSLATION: "Bhairava is upsurge."

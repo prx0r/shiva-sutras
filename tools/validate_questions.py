@@ -13,10 +13,11 @@ CONTENT = {  # explicit domain nouns — a question must name one
  'state','universe','world','experience','nature','essence','reality','real',
  'universal','individual','subject','object','duality','nonduality','means','way',
  'path','sudden','spontaneous','effort','silence','void','heart','breath','sutra',
- 'yogi','shiva','grace','devotion','wisdom','ignorance','veiling','grace',
+ 'yogi','shiva','grace','devotion','wisdom','ignorance','veiling',
+ 'realisation','realization','realised','realized','realise','realize',
 }
 PRONOUNS = {'it','this','that','these','those','them','they','he','she','his','her'}
-ANCHOR = {'consciousness','conscious','self','atman','samvit'}  # S1 (1.1) topic
+ANCHOR = {'consciousness','conscious','self','atman','samvit','realisation','realization'}  # S1 (1.1) topic — realisation = realisation-of-consciousness, the corpus verb (their gate: realisation|self)
 OBJLESS_HINT = re.compile(r'\b(happen|happens|do it|does it|make it|go|goes|end up|turn out)\b', re.I)
 
 def words(q): return re.findall(r"[A-Za-z']+", q)
@@ -42,7 +43,7 @@ def check(q):
 ESSAY0_SET = [
  "What is consciousness?",
  "Why does knowledge bind consciousness?",
- "Why can't realisation of oneself as consciousness be forced?",
+ "Why can't you force realisation?",
  "What does consciousness do to experience?",
  "How does the mind shape consciousness?",
  "What is consciousness free to do?",

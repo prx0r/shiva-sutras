@@ -50,7 +50,7 @@ state"** — innate-arising, not acquired (her clip ss12-04: sahaja-saṃmajjane
 the spontaneous natural state), plus śuddhavidyā as the revealing threshold (ss9-02) and
 2.7's self-knowledge-as-food (ss12-15). One word, two types: partial binds, innate frees.
 
-### S3. Why can't realisation of oneself as consciousness be forced?
+### S3. Why can't you force realisation?
 > **SANSKRIT:** `udyamo bhairavah` · Sūtra 1.5
 > **TRANSLATION:** "Bhairava is upsurge." — *Dyczkowski (held)*
 > **PLAIN:** "bhairava is upsurge"

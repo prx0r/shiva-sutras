@@ -50,12 +50,13 @@ state"** — innate-arising, not acquired (her clip ss12-04: sahaja-saṃmajjane
 the spontaneous natural state), plus śuddhavidyā as the revealing threshold (ss9-02) and
 2.7's self-knowledge-as-food (ss12-15). One word, two types: partial binds, innate frees.
 
-### S3. Why can't consciousness be forced?
+### S3. Why can't realisation of oneself as consciousness be forced?
 > **SANSKRIT:** `udyamo bhairavah` · Sūtra 1.5
 > **TRANSLATION:** "Bhairava is upsurge." — *Dyczkowski (held)*
 > **PLAIN:** "bhairava is upsurge"
-> **BÄUMER:** *"…it's not a gradual rising step by steps — it is a sudden upsurge."*
-> (ss6-04, [00:13:34]→[00:14:09], Grade A)
+> **BÄUMER:** *"…it is not made by any human effort, it is not created by any human effort."*
+> (ss12-16, [00:20:18]→[00:20:30], Grade A — the WHY: realisation is grace-born
+> upsurge; TEXT names WHAT it is (udyama), her voice says why it cannot be manufactured)
 
 ### S4. What does consciousness do to experience?
 > **SANSKRIT:** `tritayabhokta vtresah` · Sūtra 1.11 *(OCR form from held file — verify against print at render)*
@@ -79,7 +80,7 @@ the spontaneous natural state), plus śuddhavidyā as the revealing threshold (s
 > **BÄUMER:** *"…the place where the self takes delight with the intention of
 > exhibiting the world drama is the stage."* (ss13-09, [01:02:58]→[01:03:09], Grade A)
 
-**Enquiry chain:** IS → KNOWLEDGE BINDS → can't be FORCED → what it DOES → how mind SHAPES it →
+**Enquiry chain:** IS → KNOWLEDGE BINDS → REALISATION NOT FORCED → what it DOES → how mind SHAPES it →
 what it's FREE TO DO. Master opens every version; each cell widens the same seed (UNFOLDING).
 
 **Alternates kept (per their audit):** sharpened opener "Why isn't consciousness something

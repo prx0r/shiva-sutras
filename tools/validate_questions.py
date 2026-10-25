@@ -41,8 +41,8 @@ def check(q):
 
 ESSAY0_SET = [
  "What is consciousness?",
- "What hides consciousness?",
- "Why can't consciousness be forced?",
+ "Why does knowledge bind consciousness?",
+ "Why can't realisation of oneself as consciousness be forced?",
  "What does consciousness do to experience?",
  "How does the mind shape consciousness?",
  "What is consciousness free to do?",

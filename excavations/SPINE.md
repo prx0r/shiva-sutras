@@ -14,8 +14,8 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 (never reorders across) · thin sections stay thin · A ⊂ B ⊂ C collated under these.
 
 ## Convergence (two dissections, one elephant)
-- Unit distribution: S1 62 · S5 35 · S6 25 · S4 24 · S2 20 · S3 19 (total 185; S1 += 5 dl1).
-- Independent A-buckets:  S1 24 · S5 14 · S4 10 · S6 8 · S2 7 · S3 7 (total 70).
+- Unit distribution: S1 62 · S5 35 · S6 25 · S4 24 · S3 20 · S2 20 (total 186; S1 += 5 dl1; S3 += ss12-16).
+- Independent A-buckets:  S1 24 · S5 14 · S4 10 · S6 8 · S3 8 · S2 7 (total 71).
 - Both rank S1 first and S5 second; S3 is thinnest in both — accepted, not padded.
   S6 vs S2/S4 swap mid-table is the only disagreement (cosmetic).
 
@@ -23,7 +23,7 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 
 1. **What is consciousness?** (master — S1)
 2. **Why does knowledge bind consciousness?** (bondage — S2)
-3. **Why can't consciousness be forced?** (the upsurge — S3)
+3. **Why can't realisation of oneself as consciousness be forced?** (the upsurge — S3)
 4. **What does consciousness do to experience?** (the yogi's states — S4)
 5. **How does the mind shape consciousness?** (mantra — S5)
 6. **What is consciousness free to do?** (life-in-the-world — S6)
@@ -56,13 +56,13 @@ kañcuka section (ss5-02…08, ss5-12, ss5-15: kalā-fragment, armor, removal-ru
 malas-speaking) → threshold as māyā (ss9-02) · siddhi-veil strays: ss13-03.
 **A-anchors:** ss4-12, ss4-14, ss4-17, ss5-15, ss5-04.
 
-## S3. Why can't consciousness be forced? — 19 units (7A)
+## S3. Why can't realisation of oneself as consciousness be forced? — 20 units (8A)
 **Anchor:** `ss6-04` — "ud + yam … it is not a gradual rising step by steps it is a sudden upsurge"
 **Journey:** jīvanmukti-question (ss6-01) → Zen/sudden frame (ss6-02) → viśrānti (ss6-03) →
 the sūtra itself (ss6-04/05 uplifting=divine) → union (ss6-07/08) → "not by any human
 effort" (ss12-03/04 + ss10-05/06 easy-way & result-not-ticket) → thought-free outcome
 (ss6-10…15, ss6-14 gap) → siddhi-rejection family (ss10-10, ss7-18, ss13-03).
-**A-anchors:** ss6-04, ss6-05, ss6-08, ss6-14, ss12-04, ss10-05.
+**A-anchors:** ss6-04, ss6-05, ss6-08, ss6-14, ss12-04, **ss12-16 (the WHY-line: not made by any human effort)**, ss10-05.
 **Note:** siddhi-rejection deliberately clustered here (means: not-by-powers), not in S6.
 
 ## S4. What does consciousness do to experience? — 24 units (10A)

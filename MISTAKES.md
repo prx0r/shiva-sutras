@@ -84,3 +84,12 @@
   removed it from packed-refs (then .git: 243M → 1.3M, 0 reachable mp3s).
   **Rules: `audio/` is local-only forever (same as tantraessays); after filter-branch,
   verify with `git rev-list --objects --all | grep mp3` = 0, not with ls.**
+
+- **M14. Category error in the S3 question object (owner-caught).** "Why can't
+  CONSCIOUSNESS be forced?" — consciousness isn't the forceable thing (it just is);
+  the event that can/can't be forced is the REALISATION of oneself as consciousness.
+  Fixed: **"Why can't realisation of oneself as consciousness be forced?"** (9 words,
+  G0 PASS) + new A-unit ss12-16 (the direct WHY-line "not made by any human effort")
+  as the cell's audio; TEXT keeps udyama (WHAT), audio carries WHY.
+  **Rule: interrogatives must name the right object — ask what the sūtra is actually
+  about (the event), not the doctrine's subject (the ground).**

@@ -20,12 +20,12 @@ PLAIN: knowledge is bondage.
 **BÄUMER:** "…they are not inherent in the soul they are superficial… it is an
 incomplete knowledge."
 
-**Q: Why can't consciousness be forced?**
+**Q: Why can't realisation of oneself as consciousness be forced?**
 (pause)
 SANSKRIT: *udyamo bhairavaḥ.*
 TRANSLATION: "Bhairava is upsurge."
 PLAIN: bhairava is upsurge.
-**BÄUMER:** "…it's not a gradual rising step by steps — it is a sudden upsurge."
+**BÄUMER:** "…it is not made by any human effort, it is not created by any human effort."
 
 **Q: What does consciousness do to experience?**
 (pause)
@@ -56,14 +56,14 @@ the world drama — is the stage."
 ## What carries the flow (the honest analysis)
 
 1. **Each answer plants the next question.** It's the Self, always there → *then why
-   don't we see it?* (binds) → *can we think our way out?* (no — upsurge) → *when it
+   don't we see it?* (binds) → *can we think our way out?* (no — it is not manufactured) → *when it
    lands, what changes?* (experience) → *not always in upsurge — then how, in daily
    life?* (mind/mantra) → *with that, what's left?* (life — the actor). Remove any
    link and the next question stops making sense. That's the definition of not-random.
 
 2. **One hidden argument runs underneath** (the through-line): **nothing is being done**
    at any stage — it's not *done* (1) · it's bound by *incomplete* knowing, not by sin (2) ·
-   it *arrives* unforced (3) · it happens *to* the yogi as bliss (4) · the mind *becomes*
+   it *arrives* unmade, by grace (3) · it happens *to* the yogi as bliss (4) · the mind *becomes*
    rather than makes (5) — **and only then does doing return, as play** (6). The essay
    performs its own doctrine (UNFOLDING law): agency is finally restored only at the end.
 

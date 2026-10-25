@@ -45,7 +45,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - essay_use: the 3×3 map intro; psychologists invited (daydreamer example)
 
 ### ss7-05 — saṃbhava or saṃvit: the variant that makes turya enjoyment [A]
-- timestamp: [00:17:35]-->[00:18:11]
+- timestamp: [00:16:58]-->[00:17:13]
 - topics: consciousness, mantra
 - role: reading
 - layer: read
@@ -128,7 +128,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - essay_use: the anti-chakra-map line; cross-link Dyczkowski pt1/Serpent-Power history
 
 ### ss7-16 — icchā is precognitive impulse, before any object [A]
-- timestamp: [00:59:21]-->[01:00:04]
+- timestamp: [01:09:35]-->[01:09:55]
 - topics: doctrine, mantra
 - role: reading
 - layer: read
@@ -162,6 +162,195 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - quote: "so it's not that you you do anything violent but when you attain it's always that blissful experience is first and then the beta gets dissolved by itself you don't have to work very hard to um to dissolve that duality but it it happens by itself the moment you touch that that blissful state"
 - context: Non-duality as experience in Hindi ("gal gayā" = melted); pairs with ss8's table and ss6-17's third-section preview; moved here from a misfiled ss8 draft — this is Day 4 Session I material (00:51).
 - essay_use: the effort-inversion rule; essay-0 closing-practice candidate
+
+### ss7-20 — Somananda: he creates the obstacle to his own self [B]
+- timestamp: [00:07:44]-->[00:08:14]
+- topics: bondage,consciousness
+- role: claim
+- layer: explain
+- quote: "there are many translations are possible that asmat rupa sama vista shiva who has penetrated in my own being who has pervaded my but he is also creating an obstacle to his own self so we were talking about this aspect of veiling so he is also veiling himself so that obstacle is also he himself"
+- context: The mangala-śloka commentary: Asmat-rūpa-samāviṣṭa — Śiva pervades my being — and he is ALSO creating an obstacle to his own self; so the obstacle is also he himself (verse-source for the self-veiling doctrine, alongside ss4-17).
+- essay_use: S2 depth: obstacle = the self (Somananda source, verse-frame)
+
+### ss7-21 — no difference between samadhi and vyutthana [B]
+- timestamp: [00:15:06]-->[00:15:24]
+- topics: realisation,ethics
+- role: claim
+- layer: explain
+- quote: "then he had also explained in the commentary that in that dissolution of the externality of the world there is no difference between samadhi and yutana"
+- context: Commentary on the dissolution-sūtra: in that dissolution of the externality of the world there is NO DIFFERENCE between samadhi and vyutthana (ASR "yutana") — absorption and returning are one. The bridge-doctrine S6 lives on (ethics-last, return-not-escape).
+- essay_use: S6 depth: samadhi=vyutthana (structural license for the return-run)
+
+### ss7-22 — the fourth state is possible in all three states [B]
+- timestamp: [00:16:30]-->[00:16:43]
+- topics: consciousness,practice
+- role: claim
+- layer: explain
+- quote: "so which means that in all these three states and sambhava has the other meaning like in hindi it's possible the possibility of the fourth state arising so possibility for the yogi who practices is awareness"
+- context: Sambhava-reading before the variant: in all these three states there is the possibility of the fourth state arising — possibility for the yogi who practices awareness. Turīya not elsewhere but INSIDE the ordinary states.
+- essay_use: S4 depth: turiya-immanence (sets up interwoven-claims)
+
+### ss7-23 — lightning-flash: sudden enlightenment, the flashing forth [B]
+- timestamp: [00:18:14]-->[00:18:30]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "which has been described before it is which is a kind of flashing force burata is one of those favorite expressions of this tradition is something like a lightning sport which is suddenly flashing forth"
+- context: Udyama-bhairava imagery: a flashing force — sphurattā (ASR "burata" — EAR CHECK) — like a lightning-sport suddenly flashing forth; we have been speaking about this sudden enlightenment, described also by sphuṭa. The flash-vocabulary of S3 (pairs ss6-04 upsurge).
+- essay_use: S3 depth: lightning-flash register (Spanda word for arrival)
+
+### ss7-24 — without that pure consciousness no experience in any state is possible [B]
+- timestamp: [00:20:29]-->[00:20:48]
+- topics: consciousness
+- role: claim
+- layer: explain
+- quote: "so and without that pure consciousness it wouldn't be possible even for us to dream or to have any experience in any of these three states and that is why it's just called toriya in the whole tradition from upanishads onwards without defining it further"
+- context: Why turīya needs no definition: without that pure consciousness (caitanyam ātmā) it would not be possible even to dream, or to have any experience in any of the three states — hence just called turya, from the Upaniṣads onwards, neither-this-nor-that.
+- essay_use: S1 depth: consciousness as the condition of ALL experience (also S4 ground)
+
+### ss7-25 — the spanda principle never departs from its own nature [B]
+- timestamp: [00:25:59]-->[00:26:17]
+- topics: consciousness,realisation
+- role: claim
+- layer: explain
+- quote: "principle remains identically the same that spanda principle never departs from its own nature as the identical experience in all states the splendor principle he has added but this never departs from his own state"
+- context: The Spandakārikā cross-quote: the splendor/spanda principle remains identically the same — never departs from its own nature — as the identical experience in all states; never departs from his own true being. Permanence-doctrine from the Spanda source (pairs ss13-14 unloseable).
+- essay_use: S4 depth: identity-across-states (Spanda source for permanence)
+
+### ss7-26 — suprabuddha remains permanently; the temporary one comes down [B]
+- timestamp: [00:41:48]-->[00:42:09]
+- topics: realisation
+- role: claim
+- layer: explain
+- quote: "and difference to prabhuta means that he his state will not disappear he will remain permanently in that state you may be temporarily enlightened and then come down to a lower level of consciousness but the super butter is the one who is constantly remaining in the same"
+- context: Prabuddha/suprabuddha gloss: his state will not disappear — he remains permanently in that state; you may be TEMPORARILY enlightened and then come down to a lower level, but the suprabuddha is constantly remaining in the same. Temporary-vs-permanent spelled out (after ss7-09 definitions).
+- essay_use: S4 depth: permanence-thesis stated (pairs ss7-09, ss13-14)
+
+### ss7-27 — turiiyatita: the fourth state pervades every ordinary activity, and is not lost [A]
+- timestamp: [00:44:56]-->[00:45:21]
+- topics: realisation,ethics
+- role: claim
+- layer: explain
+- quote: "sitting in meditation and you go into a deep state of samadhi and wonderful and then you come out and this is not continuing in the same level of experience but turia theta is when that to real state pervades everything every ordinary activity and that is not lost it is not"
+- context: Why beyond-the-fourth is needed: you sit in samadhi, wonderful, then come out — not continuing in the same level; but turīyatītā is when that turya state PERVades every ordinary ACTIVITY, and that is not lost — you do not go down from that level. Realization as permanent-in-action.
+- essay_use: S4 essay-critical: the change that persists into activity (candidate beat)
+
+### ss7-28 — tritayabhogta: bhuj means really enjoying - a blissful experience, not abstract [B]
+- timestamp: [00:47:16]-->[00:47:34]
+- topics: bliss,realisation
+- role: claim
+- layer: explain
+- quote: "and again this this word i mean used as so significant because bhujam is really enjoying it is a blissful experience it's not some abstract you know level of consciousness but it is a blissful experience of pervading"
+- context: Card-word gloss after the vīrya-bhoktā translation: bhuj means really enjoying — a blissful experience, NOT some abstract level of consciousness, but a blissful experience of pervading (the enjoyer-doctrine in her emphasis).
+- essay_use: S4 depth: card-gloss, enjoying = blissful-concrete
+
+### ss7-29 — Swamiji full translation of the card verse: steeped in delight of the fourth [A]
+- timestamp: [00:49:20]-->[00:49:48]
+- topics: bliss,realisation
+- role: claim
+- layer: explain
+- quote: "whoever observes his triad of waking etc is steeped in the delight of the fourth state by means of the awareness of his union with the multitude of shaktis as full of the flow of the experience of delight as that in which all the residual traces of difference have been dissolved and this is essential by the intensity of the joyous experience of the fourth state he becomes the enjoyer of the rapture of the divine eye consciousness in all"
+- context: The full Swamiji-translation of the tṛtayabhokta-verse read aloud: whoever observes his triad of waking etc is steeped in the delight of the fourth state by means of the awareness of his union with the multitude of shaktis ... he becomes the enjoyer of the rapture of the divine I-consciousness in all. The card in voice.
+- essay_use: S4 essay-critical: the section verse delivered whole (assembly source)
+
+### ss7-30 — nonduality is not a concept - it has to become an experience [B]
+- timestamp: [00:51:04]-->[00:51:07]
+- topics: realisation
+- role: claim
+- layer: explain
+- quote: "so this is a non-duality is not a concept but it has to become an experience"
+- context: One-sentence hinge: this non-duality is not a concept — it has to become an experience (the duality-dissolution run continues into ss7-19).
+- essay_use: S4 depth: concept-to-experience law
+
+### ss7-31 — the yogi plays with this freedom - freedom expressed in the name Bhairava [B]
+- timestamp: [00:52:57]-->[00:53:29]
+- topics: freedom,realisation
+- role: claim
+- layer: explain
+- quote: "he becomes absolutely free as we have seen in the beginning the first sutra has been interpreted that chaitanya has been interpreted as swatantria that total autonomy so the yogi functioning freely by means of achanda yoga is united with the status of sachandar means and acquires equality with swajanda so it's just playing with this freedom which is expressed by the very name of bhairava"
+- context: Svachanda-freedom: first sūtra read as chaitanya = svātantrīya (total autonomy); the yogi functioning freely by means of svācchanda-yoga unites with the status of svācchanda — playing with this freedom which is expressed by the very name of Bhairava. Freedom lived as play.
+- essay_use: S3 depth: acquired-freedom character (feeds S6 play-thread too)
+
+### ss7-32 — focus awareness in-between - you have access to that turiya stage [B]
+- timestamp: [00:55:09]-->[00:55:25]
+- topics: mind,practice
+- role: method
+- layer: how
+- quote: "constantly moving but when you focus the awareness in between or the beginning and the end like waking and sleep or the breathing in and out and then you have access to that to real stage so they're not fully"
+- context: The beginner-Bhairava access-method: when you focus the awareness in between — or at the beginning and the end (waking/sleep, breathing in/out) — you have access to that turya stage. Threshold-attention (pairs ss5-11 pause + ss5-27 vishvanti).
+- essay_use: S5 depth: in-between as the door (practice-mechanism)
+
+### ss7-33 — unless the overwhelming happens, something is missing in your experience [B]
+- timestamp: [00:59:07]-->[00:59:13]
+- topics: realisation
+- role: claim
+- layer: explain
+- quote: "that unless that overwhelming happens there is something is missing in your spiritual experience"
+- context: The wonder-test in formula: unless that overwhelming happens, something IS MISSING in your spiritual experience (completes ss7-14: must fill with wonder).
+- essay_use: S4 depth: wonder-test corollary
+
+### ss7-34 — the great yogi: mass of consciousness, ever-new delight, mute wonder [B]
+- timestamp: [01:00:52]-->[01:01:07]
+- topics: bliss,consciousness
+- role: claim
+- layer: explain
+- quote: "sentence for the great yogi who notices in mute wonder and expansion in the power of his entire complex of senses as they come fully under the influence of the inner self which is a mass of consciousness and full of unique preeminent and ever new delight"
+- context: Verse-translation: the great yogi notices in mute wonder the expansion in the power of his entire complex of senses as they come fully under the influence of the INNER SELF which is a mass of consciousness and full of unique, preeminent, ever-new delight.
+- essay_use: S4 depth: senses-under-inner-self, ever-new delight
+
+### ss7-35 — kundalini is a specific practice, not necessary for the highest [B]
+- timestamp: [01:03:23]-->[01:03:31]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "and he said no it is a specific experience a specific part specific practice but it is not necessary"
+- context: Swamiji answer: is kuṇḍalinī-yoga the ONLY way to experience that highest? No — it is a specific experience, a specific part, a specific practice, but it is not necessary (transcript then garbles the passing-clause — EAR CHECK).
+- essay_use: S3 depth: means-pluralism (pairs not-powers + means-hierarchy S5)
+
+### ss7-36 — freedom as spontaneity: the child plays without motivation or object [B]
+- timestamp: [01:10:54]-->[01:11:24]
+- topics: freedom,play
+- role: claim
+- layer: explain
+- quote: "this may be one of the reasons i also like to translate swat and priya that freedom as spontaneity you know when a child plays it doesn't have any motivation it doesn't have any object but something spontaneous emerging and flowing out and some impulse coming from that impulse to play which is not purposeful and this is itchy"
+- context: Her preferred rendering of svātantrīya: freedom AS SPONTANEITY — when a child plays it has no motivation, no object; something spontaneous emerging, an impulse to play which is not purposeful — and that is icchā. Spontaneity-doctrine fused with play (ties S6 lila + S3 spontaneity + iccha).
+- essay_use: S4 depth: iccha as play-impulse (cross-feeds S6/S3 threads)
+
+### ss7-37 — kumari: never an object - the subject enjoying her own nature [B]
+- timestamp: [01:17:04]-->[01:17:26]
+- topics: bliss,realisation
+- role: claim
+- layer: explain
+- quote: "referring to that girl who has never been enjoyed by any other agency she is one who has established her own nature in the state of enjoy so she is not an object she is the subject of she is never an object she is enjoying her own nature in her own way she does not require any other vehicle of enjoyment"
+- context: The virgin-reading of kumārī: never enjoyed by any other agency — she has established her own nature; she is not an object, she is the SUBJECT — enjoying her own nature in her own way, requiring no other vehicle of enjoyment. Self-enjoyment mechanism (atmarama, ss11-10 family).
+- essay_use: S4 depth: the enjoyer as pure subject (answers "enjoys what?" — her own nature)
+
+### ss7-38 — will is at the root of knowledge and activity - the sutra shows will over cognition and action [B]
+- timestamp: [01:20:05]-->[01:20:27]
+- topics: freedom,realisation
+- role: claim
+- layer: explain
+- quote: "sutra is pointing out the superiority of will over cognition and action now as i said the three main energies and obviously icha is at the root of knowledge and activity"
+- context: 1.x-sūtra gloss: the sūtra points out the superiority of WILL over cognition and action — the three main energies, and icchā is obviously at the ROOT of knowledge and activity.
+- essay_use: S4 depth: iccha-first hierarchy (session doctrinal core)
+
+### ss7-39 — yogic powers are all dependent on this iccha [B]
+- timestamp: [01:22:00]-->[01:22:10]
+- topics: siddhi,realisation
+- role: claim
+- layer: explain
+- quote: "he has the powers to uh extraordinary powers yogic powers it is all dependent on this icha if he wants to heal somebody he can heal"
+- context: Continuation of ss7-18: the extraordinary powers — yogic powers — it is ALL DEPENDENT on this icchā (the will one with supreme energy; he can heal if he wants). Siddhis as downstream of will-union, not autonomous.
+- essay_use: S3 depth: powers-not-autonomous (pairs hide-the-siddhis run)
+
+### ss7-40 — you cannot do it - you have to be touched, a receiver of the touch [B]
+- timestamp: [01:28:08]-->[01:28:37]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "getting a touch of that bala is of course getting a touch of that energy and the touch is again something which is not you cannot do it you have to be touched you have to be a receiver of the touch touch can be active and can be passive"
+- context: Closing Spanda-verse (atma-bala-sparsha): only by getting a touch of that energy — and the touch is something you CANNOT do; you have to BE TOUCHED, you have to be a receiver of the touch (active/passive note follows). Arrival as reception (pairs ss5-16 anupaya free-of-cost).
+- essay_use: S3 depth: touch-not-doing crystallized (arrival-by-reception)
 
 ## Reuse clusters
 

@@ -174,23 +174,86 @@ shiva_sutras_day_3_session_ii.txt	444-536	00:35:33	00:41:34	527
 shiva_sutras_day_3_session_ii.txt	544-568	00:42:04	00:43:38	145			
 shiva_sutras_day_3_session_ii.txt	578-635	00:44:18	00:47:52	345			
 shiva_sutras_day_3_session_ii.txt	838-939	01:01:05	01:09:06	604			
-shiva_sutras_day_4_session_i.txt	1-9	00:00:03	00:04:43	37			
-shiva_sutras_day_4_session_i.txt	20-66	00:05:38	00:10:13	272			
-shiva_sutras_day_4_session_i.txt	81-107	00:11:01	00:12:14	161			
-shiva_sutras_day_4_session_i.txt	121-134	00:12:48	00:13:34	86			
-shiva_sutras_day_4_session_i.txt	145-185	00:14:17	00:17:13	226			
-shiva_sutras_day_4_session_i.txt	189-249	00:18:14	00:22:22	341			
-shiva_sutras_day_4_session_i.txt	260-311	00:23:03	00:27:29	329			
-shiva_sutras_day_4_session_i.txt	320-443	00:27:53	00:35:10	704			
-shiva_sutras_day_4_session_i.txt	460-545	00:36:01	00:41:00	507			
-shiva_sutras_day_4_session_i.txt	551-571	00:41:21	00:42:36	112			
-shiva_sutras_day_4_session_i.txt	583-624	00:43:22	00:46:19	273			
-shiva_sutras_day_4_session_i.txt	638-689	00:47:16	00:51:21	324			
-shiva_sutras_day_4_session_i.txt	699-773	00:51:55	00:58:19	432			
-shiva_sutras_day_4_session_i.txt	786-828	00:58:55	01:02:49	250			
-shiva_sutras_day_4_session_i.txt	835-967	01:03:10	01:11:34	772			
-shiva_sutras_day_4_session_i.txt	983-1100	01:12:23	01:21:30	717			
-shiva_sutras_day_4_session_i.txt	1108-1188	01:21:57	01:29:15	500			
+shiva_sutras_day_4_session_i.txt	1-9	00:00:03	00:04:43	37	C		music/mangala-memorize opening
+shiva_sutras_day_4_session_i.txt	20-25	00:05:38	00:07:41	22	C		verse-recite music
+shiva_sutras_day_4_session_i.txt	26-34	00:07:44	00:08:14	56	promote	ss7-20	obstacle = his own self (Somananda)
+shiva_sutras_day_4_session_i.txt	35-50	00:08:31	00:09:20	95	C		thin: śakti-expanded-self etymology, non-triad woven
+shiva_sutras_day_4_session_i.txt	51-53	00:09:23	00:09:36	15	C		lead: meaning-given recite
+shiva_sutras_day_4_session_i.txt	54-66	00:09:39	00:10:13	84	C		thin: course-encouragement (two difficult days)
+shiva_sutras_day_4_session_i.txt	81-96	00:11:01	00:11:36	101	C		thin: cremation-ground vīra-note + encouragement
+shiva_sutras_day_4_session_i.txt	97-105	00:11:40	00:12:03	53	C		thin: integrate-text-with-meditation method
+shiva_sutras_day_4_session_i.txt	106-107	00:12:11	00:12:14	7	C		lead: udyama-sūtra intro into covered
+shiva_sutras_day_4_session_i.txt	121-134	00:12:48	00:13:34	86	C		lead: three-states-practical intro
+shiva_sutras_day_4_session_i.txt	145-145	00:14:17	00:14:17	4	C		page-marker
+shiva_sutras_day_4_session_i.txt	146-152	00:14:27	00:14:55	35	C		thin: wheel-dissolution recap
+shiva_sutras_day_4_session_i.txt	153-157	00:15:06	00:15:24	26	promote	ss7-21	samadhi = vyutthana
+shiva_sutras_day_4_session_i.txt	158-167	00:15:28	00:16:21	56	C		thin: translation-weakness + differentiation lead
+shiva_sutras_day_4_session_i.txt	168-173	00:16:30	00:16:43	36	promote	ss7-22	fourth possible in all states
+shiva_sutras_day_4_session_i.txt	174-185	00:16:45	00:17:13	69	fix-window	ss7-05	quote-lines OUTSIDE window (17:35) → fixed 16:58
+shiva_sutras_day_4_session_i.txt	189-194	00:18:14	00:18:30	35	promote	ss7-23	lightning-flash sudden
+shiva_sutras_day_4_session_i.txt	195-211	00:18:32	00:19:45	94	C		thin: interwoven-fourth + why-called-thought leads
+shiva_sutras_day_4_session_i.txt	212-226	00:19:51	00:20:26	84	C		thin: cannot-define + turiya-chaitanya setup
+shiva_sutras_day_4_session_i.txt	227-233	00:20:29	00:20:48	45	promote	ss7-24	consciousness grounds all states
+shiva_sutras_day_4_session_i.txt	234-248	00:20:51	00:22:14	76	C		dup: no-definition-tail + sambhava-reprise (ss7-05)
+shiva_sutras_day_4_session_i.txt	249-249	00:22:22	00:22:22	7	C		lead into covered ss7-06
+shiva_sutras_day_4_session_i.txt	260-284	00:23:03	00:24:34	163	C		dup: moon-gloss (radiance-for-world restated)
+shiva_sutras_day_4_session_i.txt	285-289	00:25:02	00:25:58	41	C		lead: spanda-intro
+shiva_sutras_day_4_session_i.txt	290-295	00:25:59	00:26:17	35	promote	ss7-25	spanda never departs
+shiva_sutras_day_4_session_i.txt	296-311	00:26:24	00:27:29	90	C		lead/thin: three-sutras-hinted, jāgrat into covered ss7-07
+shiva_sutras_day_4_session_i.txt	320-344	00:27:53	00:29:08	157	C		dup: vikalpa-explanation restatement (ss7-07 carries)
+shiva_sutras_day_4_session_i.txt	345-353	00:29:21	00:29:47	44	C		thin: deep-sleep mūḍha
+shiva_sutras_day_4_session_i.txt	354-400	00:29:55	00:33:14	250	C		thin: nine-subdivision ordinary-run
+shiva_sutras_day_4_session_i.txt	401-443	00:33:15	00:35:10	253	C		thin: dream-categories ordinary-run
+shiva_sutras_day_4_session_i.txt	460-487	00:36:01	00:37:17	169	C		thin: deep-sleep-subdivision recap
+shiva_sutras_day_4_session_i.txt	488-525	00:37:36	00:39:31	230	C		thin: yogic-taxonomy (dharāṇā/dream/samādhi-yoga, swamiji-dream)
+shiva_sutras_day_4_session_i.txt	526-545	00:39:37	00:41:00	108	C		lead: commentators-verse + awakening-intro into covered ss7-09
+shiva_sutras_day_4_session_i.txt	551-559	00:41:21	00:41:44	49	C		thin: awakening-degrees restatement
+shiva_sutras_day_4_session_i.txt	560-568	00:41:48	00:42:09	48	promote	ss7-26	suprabuddha permanent vs temporary
+shiva_sutras_day_4_session_i.txt	569-571	00:42:31	00:42:36	15	C		thin: piṇḍeśvara-term
+shiva_sutras_day_4_session_i.txt	583-587	00:43:22	00:43:32	33	C		thin: Mālinī-book out-of-print aside
+shiva_sutras_day_4_session_i.txt	588-607	00:43:56	00:44:54	122	C		thin: viśvasaṃhāra + turyatītā setup
+shiva_sutras_day_4_session_i.txt	608-615	00:44:56	00:45:21	52	promote	ss7-27	turiiyatita pervades activity [A]
+shiva_sutras_day_4_session_i.txt	616-624	00:45:24	00:46:19	66	C		logistics: jdf-notes + swamiji-translation lead
+shiva_sutras_day_4_session_i.txt	638-643	00:47:16	00:47:34	38	promote	ss7-28	bhuj = really enjoying, blissful
+shiva_sutras_day_4_session_i.txt	644-655	00:48:18	00:49:17	75	C		thin: compound + translation-lead
+shiva_sutras_day_4_session_i.txt	656-667	00:49:20	00:49:48	81	promote	ss7-29	full card-verse translation [A]
+shiva_sutras_day_4_session_i.txt	668-682	00:49:56	00:50:43	90	C		thin: subject-object translation + vijñāna-reminder
+shiva_sutras_day_4_session_i.txt	683-684	00:51:04	00:51:07	16	promote	ss7-30	nonduality must become experience
+shiva_sutras_day_4_session_i.txt	685-689	00:51:12	00:51:21	24	C		tail: dissolution-hindi wrap
+shiva_sutras_day_4_session_i.txt	699-699	00:51:55	00:51:55	2	C		lead
+shiva_sutras_day_4_session_i.txt	700-702	00:52:21	00:52:28	17	C		thin: Svachanda-quote intro
+shiva_sutras_day_4_session_i.txt	703-714	00:52:57	00:53:29	66	promote	ss7-31	playing with this freedom
+shiva_sutras_day_4_session_i.txt	715-731	00:54:21	00:55:06	103	C		dup: fully/partially-enlightened + dhāraṇā-beginning-end lead
+shiva_sutras_day_4_session_i.txt	732-737	00:55:09	00:55:25	40	promote	ss7-32	in-between focus → turiya access
+shiva_sutras_day_4_session_i.txt	738-740	00:55:28	00:55:35	21	C		thin: suprabuddha-tail
+shiva_sutras_day_4_session_i.txt	741-773	00:55:46	00:58:19	183	C		thin: bhūmikā-stages + chamatkāra-setup into covered ss7-14
+shiva_sutras_day_4_session_i.txt	786-789	00:58:55	00:59:05	22	C		lead: overwhelming-setup
+shiva_sutras_day_4_session_i.txt	790-792	00:59:07	00:59:13	14	promote	ss7-33	unless overwhelming, something missing
+shiva_sutras_day_4_session_i.txt	793-803	01:00:11	01:00:47	57	C		thin: translation-compound aside + verse lead
+shiva_sutras_day_4_session_i.txt	804-810	01:00:52	01:01:07	47	promote	ss7-34	mass of consciousness, ever-new delight
+shiva_sutras_day_4_session_i.txt	811-822	01:01:18	01:02:04	76	C		thin: wonder-stations continuation + never-satisfied gloss
+shiva_sutras_day_4_session_i.txt	823-828	01:02:17	01:02:49	34	C		music/lead
+shiva_sutras_day_4_session_i.txt	835-838	01:03:10	01:03:19	23	C		lead: kundalini-question setup
+shiva_sutras_day_4_session_i.txt	839-841	01:03:23	01:03:31	19	promote	ss7-35	kundalini not necessary
+shiva_sutras_day_4_session_i.txt	842-876	01:03:37	01:06:05	204	C		thin: chakra-fixing criticism + netanta-note + lead
+shiva_sutras_day_4_session_i.txt	877-933	01:06:12	01:09:30	330	C		thin/technical: will-translation problem + triad recap
+shiva_sutras_day_4_session_i.txt	934-939	01:09:35	01:09:51	33	fix-window	ss7-16	quote-lines in caption DEAD-ZONE window → fixed 1:09:35
+shiva_sutras_day_4_session_i.txt	940-956	01:09:55	01:10:49	98	C		thin: spontaneous-impulse continuation + kumari-object lead
+shiva_sutras_day_4_session_i.txt	957-966	01:10:54	01:11:24	59	promote	ss7-36	freedom as spontaneity, child-plays
+shiva_sutras_day_4_session_i.txt	967-967	01:11:34	01:11:34	6	C		lead: uma-intro
+shiva_sutras_day_4_session_i.txt	983-1051	01:12:23	01:16:40	421	C		thin: Uma-Kena + Kālidāsa myth narration + artificial-note
+shiva_sutras_day_4_session_i.txt	1052-1055	01:16:46	01:17:02	18	C		lead: kumari-is-important
+shiva_sutras_day_4_session_i.txt	1056-1064	01:17:04	01:17:26	62	promote	ss7-37	subject enjoying own nature
+shiva_sutras_day_4_session_i.txt	1065-1087	01:17:29	01:19:48	140	C		thin: kumari-myth-summary + uma-iccha-image
+shiva_sutras_day_4_session_i.txt	1088-1093	01:20:05	01:20:27	31	promote	ss7-38	will at root of knowledge/activity
+shiva_sutras_day_4_session_i.txt	1094-1100	01:20:32	01:21:30	45	C		thin: variant-śaktitama + will-gross lead
+shiva_sutras_day_4_session_i.txt	1108-1108	01:21:57	01:21:57	2	C		lead
+shiva_sutras_day_4_session_i.txt	1109-1112	01:22:00	01:22:10	26	promote	ss7-39	powers depend on iccha
+shiva_sutras_day_4_session_i.txt	1113-1136	01:22:17	01:24:07	147	C		thin/off-spine: heal-tail + Kālī-one-goddess verse
+shiva_sutras_day_4_session_i.txt	1137-1165	01:24:57	01:27:11	180	C		thin: fire/sun metaphors + śakti-center exposition
+shiva_sutras_day_4_session_i.txt	1166-1175	01:27:15	01:28:06	57	C		lead: atma-bala-sparsha verse intro
+shiva_sutras_day_4_session_i.txt	1176-1182	01:28:08	01:28:37	50	promote	ss7-40	you have to be touched
+shiva_sutras_day_4_session_i.txt	1183-1188	01:28:38	01:29:15	38	C		logistics: session-wrap
 shiva_sutras_day_4_session_ii_part_1.txt	1-158	00:00:30	00:12:35	933			
 shiva_sutras_day_4_session_ii_part_1.txt	185-217	00:13:53	00:17:02	193			
 shiva_sutras_day_4_session_ii_part_1.txt	226-237	00:17:38	00:18:37	75			

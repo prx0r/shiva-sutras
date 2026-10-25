@@ -34,3 +34,12 @@ drama-terms, karaṇa-temple, puryaṣṭaka), repetitive (samādhi/ranga/veil r
 mātṛkā half; C-reasons: commentarial (verses/catalogues), technical (tatwa/śakti-taxonomy),
 dup (transform-law/mandala/four-levels reprises), thin leads, logistics (Q&A/walk/DVD).
 Cross-session ledger note: mandala nothing-left-out here = ss13-12 (same teaching, 2 voices).
+
+## Pass-1: day4_session_i (= ss7, 9.7% span) — DONE 2026-10-25
+21 promotes (ss7-20..40; 2 A: turīyatīta-pervades-activity + full card-verse translation)
++ 2 window fixes (ss7-05 quote outside window; ss7-16 window sat in a caption DEAD-ZONE
+while quote lived at 1:09:35 — audio would have cut the wrong minute at build). Session =
+S4 home (tṛtayabhokta/States/Wonder/Icchā) + icchā-spontaneity block. C-reasons: dup
+(vikalpa/moon/sambhava restatements), thin leads, technical (yogic-taxonomy, dream-runs,
+will-translation), off-spine (Kālī-verse, mythology), logistics (notes/wrap).
+Ledger note: Uma-Kālidāsa myth whole-block C (narration depth, off the six questions).

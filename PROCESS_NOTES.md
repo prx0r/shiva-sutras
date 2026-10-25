@@ -224,3 +224,45 @@ essay-0 = the four rows spoken in order. Section sūtra-ranges now in SPINE head
 unit→sūtra feed = section-default with explicit exceptions (see SPINE fit table).
 Stale-question sweep: old Q strings exist ONLY in MISTAKES/PROCESS history (allowed)
 and the gate's designated alternate.
+
+## 8g. HANDOVER (supersedes 8d as the current-state screen) — 2026-10-25 end
+
+**Read order for anyone picking this up:** `README.md` (front door) → this file §0–§8 →
+`MISTAKES.md` (before touching tools) → `excavations/SPINE.md` → `build/ESSAY0_OUTPUT.md`
+→ `build/ESSAY0_FLOW_READ.md` (read it aloud).
+
+### What happened after 8d
+- **Four-layer gospel ratified** (§8f) and enforced: sūtra-ranges in all six SPINE
+  headers; unit→sūtra feed = section-default + explicit exceptions; every S/T row in
+  ESSAY0_OUTPUT carries Aphorisms line-refs (12); voice-layer + plain-state rulings recorded.
+- **Fresh-eyes read-through** (owner: "read through with fresh eyes") caught 3 defects,
+  all fixed in 7f12c5d: (a) stale enquiry-chain in ESSAY0_OUTPUT (silent un-asserted
+  string-replace had left the OLD closed-question chain across two commits) → now
+  "the thing → the obstacle → the arrival → the change → the mechanism → the after";
+  (b) FLOW_READ carried composed diacritic Sanskrit (caitanyamatmane, tṛtayabhoktā…)
+  violating the never-compose rule → all five SANSKRIT lines now match held forms;
+  (c) flow-analysis prose still described old questions + wrong recurrence claim →
+  now 3+3 alternation (consciousness Q1/2/5, realisation Q3/4/6).
+- **M17 logged:** silent `.replace()` without count-assert on doc edits lets stale
+  content survive — assert-or-die on every scripted doc edit.
+
+### FINAL STATE
+- 186 units (71A/106B/9C) · verify 186/0 · segmentation 186/186 · G0 7/7 ·
+  plain hash MATCH · manifest 14/14 · gates green · tree clean.
+- Six open questions (fit-checked vs A-pools: S2/S3 textbook, S4/S6 wobbles recorded).
+- Essay-0: four-layer cells + flow-read artifact — **text-level passes; lock DRAFT**.
+- Text law: Aphorisms (held, reference/ gitignored) · voices: Baumer + dl1.
+- Coverage: 13%-time in units, remainder unledgered (§8e-1 decision still owed).
+
+### OPEN THREADS — final list (§8e items still live; closed ones noted)
+1. Coverage-standard decision (ledger vs line-pass vs build-time ingestion) — **LIVE, blocks "full walk" claims**.
+2. dl1 end-to-end read (imported via units only) — LIVE.
+3. ASR ear-check list at render — LIVE (render-time).
+4. Audio flow-read: joins 4→5 + S6 weight (levers: ss13-06 promote / re-ask) — **LIVE, next real gate**.
+5. Owner ear on HEAD → essay0 LOCK — **LIVE, owner-blocked**.
+6. key sign-off → plain regenerate + hash — LIVE (owner).
+7. OCR/print-verify of Sanskrit forms (tritayabhokta vtresah, nartaka atma, caitanyamatma diacritics) — LIVE (card-build time).
+8. Baumer mp3s: pull other 11 from R2 at render — LIVE (build-time).
+9. **Main build** (essay0 → A → B hold-up → C walk → beats → render) — not started.
+10. Cross-repo: BHU-Tantraloka ownership; essay-corpus corpus.db load — LIVE (external).
+CLOSED this session: format law, sūtra map, question set, stale strings, manifest/catalogue/pycache, /tmp-scripts (tantraessays).

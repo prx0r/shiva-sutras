@@ -112,3 +112,8 @@
   the question leaves open).
   **Rule: a spine question may name the ASK, never the answer's content-word — read it,
   then read the answer: if the question already contained the answer, re-ask.**
+- **M17. Silent `.replace()` on doc edits.** The ESSAY0_OUTPUT enquiry-chain edit had no
+  count-assert; the old string didn't match (wording had drifted) → stale chain survived
+  TWO commits until the fresh-eyes read. Caught by manual read, not by any gate.
+  **Rule: scripted doc edits assert `count == 1` (or print 0-miss) — a silent no-op is
+  an unfixed file; and gates check tools, only eyes check prose.**

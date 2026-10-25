@@ -1,30 +1,64 @@
 file	lines	t1	t2	words	disp	uid	note
-shiva_sutras_day_1_introduction_i.txt	1-93	00:00:13	00:05:53	530			
-shiva_sutras_day_1_introduction_i.txt	106-108	00:06:32	00:06:36	13			
-shiva_sutras_day_1_introduction_i.txt	118-160	00:07:15	00:09:13	259			
-shiva_sutras_day_1_introduction_i.txt	176-213	00:10:14	00:12:07	220			
-shiva_sutras_day_1_introduction_i.txt	227-263	00:12:48	00:14:31	186			
-shiva_sutras_day_1_introduction_i.txt	272-285	00:14:59	00:15:50	82			
-shiva_sutras_day_1_introduction_i.txt	296-326	00:16:18	00:17:39	161			
-shiva_sutras_day_1_introduction_i.txt	336-347	00:18:02	00:18:35	62			
-shiva_sutras_day_1_introduction_i.txt	354-403	00:18:56	00:21:20	281			
-shiva_sutras_day_1_introduction_i.txt	408-423	00:21:36	00:22:14	86			
-shiva_sutras_day_1_introduction_i.txt	426-438	00:22:26	00:23:04	79			
-shiva_sutras_day_1_introduction_i.txt	443-463	00:23:18	00:24:08	124			
-shiva_sutras_day_1_introduction_i.txt	472-476	00:24:33	00:24:47	30			
-shiva_sutras_day_1_introduction_i.txt	486-496	00:25:15	00:25:52	62			
-shiva_sutras_day_1_introduction_i.txt	502-754	00:26:13	00:40:06	1520			
-shiva_sutras_day_1_introduction_i.txt	763-769	00:40:33	00:40:49	38			
-shiva_sutras_day_1_introduction_i.txt	775-790	00:41:07	00:42:00	93			
-shiva_sutras_day_1_introduction_i.txt	798-816	00:42:24	00:43:16	108			
-shiva_sutras_day_1_introduction_i.txt	827-888	00:43:53	00:47:12	357			
-shiva_sutras_day_1_introduction_i.txt	896-917	00:47:33	00:48:47	131			
-shiva_sutras_day_1_introduction_i.txt	923-1142	00:49:12	00:59:33	1264			
-shiva_sutras_day_1_introduction_i.txt	1148-1149	00:59:48	00:59:49	9			
-shiva_sutras_day_1_introduction_i.txt	1155-1164	01:00:15	01:00:45	67			
-shiva_sutras_day_1_introduction_i.txt	1173-1212	01:01:09	01:03:09	210			
-shiva_sutras_day_1_introduction_i.txt	1216-1233	01:03:27	01:04:28	115			
-shiva_sutras_day_1_introduction_i.txt	1246-1282	01:05:04	01:07:00	211			
+shiva_sutras_day_1_introduction_i.txt	1-93	00:00:13	00:05:53	530	C		institution-welcome + Deer-Park-frame (HG + Baumer thanks)
+shiva_sutras_day_1_introduction_i.txt	94-105	00:06:02	00:06:29	69	covered	ss1-02	transformative-knowledge window
+shiva_sutras_day_1_introduction_i.txt	106-108	00:06:32	00:06:36	13	C		fragment: slow-us-down clause
+shiva_sutras_day_1_introduction_i.txt	109-117	00:06:40	00:07:08	51	C		thin: stillness-receptivity recap
+shiva_sutras_day_1_introduction_i.txt	118-160	00:07:15	00:09:13	259	C		thin: introductory-lecture-rationale + why-difficult-texts setup
+shiva_sutras_day_1_introduction_i.txt	161-175	00:09:17	00:10:05	94	covered	ss1-03+04	penetrating-words + word-ladder windows
+shiva_sutras_day_1_introduction_i.txt	176-213	00:10:14	00:12:07	220	C		thin: Kashmir-history survey (traditions interacting, Sanskrit-learning)
+shiva_sutras_day_1_introduction_i.txt	214-226	00:12:11	00:12:44	77	covered	ss1-05	two-traditions window
+shiva_sutras_day_1_introduction_i.txt	227-263	00:12:48	00:14:31	186	C		thin: Siddhanta-dualism details + geographic-spread
+shiva_sutras_day_1_introduction_i.txt	264-271	00:14:34	00:14:56	40	covered	ss1-06	Pratyabhidya-standard window
+shiva_sutras_day_1_introduction_i.txt	272-285	00:14:59	00:15:50	82	C		thin: Sarvadarsanasamgraha + Torella-lead
+shiva_sutras_day_1_introduction_i.txt	286-295	00:15:53	00:16:13	53	covered	ss1-07	Torella window
+shiva_sutras_day_1_introduction_i.txt	296-326	00:16:18	00:17:39	161	C		thin: Pratyabhidya-birth + cremation-ground-history
+shiva_sutras_day_1_introduction_i.txt	327-335	00:17:42	00:17:59	46	covered	ss1-08	householder-opening window
+shiva_sutras_day_1_introduction_i.txt	336-347	00:18:02	00:18:35	62	C		thin: agama-descent lead
+shiva_sutras_day_1_introduction_i.txt	348-353	00:18:38	00:18:52	33	covered	ss1-09	three-sons window
+shiva_sutras_day_1_introduction_i.txt	354-403	00:18:56	00:21:20	281	C		thin: Bhairava-agama catalogue + four-sections structure
+shiva_sutras_day_1_introduction_i.txt	404-407	00:21:24	00:21:32	30	covered	ss1-10	neither-purity window
+shiva_sutras_day_1_introduction_i.txt	408-423	00:21:36	00:22:14	86	C		thin: Mālinī-dialogue frame + fix-awareness-lead
+shiva_sutras_day_1_introduction_i.txt	424-425	00:22:19	00:22:22	16	covered	ss1-11	fix-awareness window
+shiva_sutras_day_1_introduction_i.txt	426-438	00:22:26	00:23:04	79	C		thin: freedom-of-tantras + dualist-contrast
+shiva_sutras_day_1_introduction_i.txt	439-442	00:23:08	00:23:16	23	covered	ss1-12	Sanderson-non-dualization window
+shiva_sutras_day_1_introduction_i.txt	443-463	00:23:18	00:24:08	124	C		thin: ritual-presupposes-duality gloss + puja-lead
+shiva_sutras_day_1_introduction_i.txt	464-471	00:24:11	00:24:29	41	covered	ss1-13	real-puja window
+shiva_sutras_day_1_introduction_i.txt	472-476	00:24:33	00:24:47	30	C		thin: whiteness-of-consciousness tail
+shiva_sutras_day_1_introduction_i.txt	477-485	00:24:50	00:25:11	59	covered	ss1-14	sacrificial-ladle window
+shiva_sutras_day_1_introduction_i.txt	486-496	00:25:15	00:25:52	62	C		thin: offering-altar gloss
+shiva_sutras_day_1_introduction_i.txt	497-501	00:25:55	00:26:08	31	covered	ss1-15	inactive-Brahman window
+shiva_sutras_day_1_introduction_i.txt	502-503	00:26:13	00:26:22	16	C		lead: Sanderson-quote intro
+shiva_sutras_day_1_introduction_i.txt	504-513	00:26:25	00:26:46	50	promote	ss1-27	absolute projects plural reality (1.1 pre-statement)
+shiva_sutras_day_1_introduction_i.txt	514-754	00:26:47	00:40:06	1454	C		thin/narrative: first-sutra-preview gloss + agama-nature + Vasugupta-biography + ROCK-legend + Muslim-guard + location-problem (rock DOCTRINE already in ss1-16/17)
+shiva_sutras_day_1_introduction_i.txt	755-762	00:40:10	00:40:30	50	covered	ss1-16	rock-vibrates window
+shiva_sutras_day_1_introduction_i.txt	763-769	00:40:33	00:40:49	38	C		dup: spanda-revealed tail
+shiva_sutras_day_1_introduction_i.txt	770-774	00:40:53	00:41:04	32	covered	ss1-17	siddha-to-receive window
+shiva_sutras_day_1_introduction_i.txt	775-790	00:41:07	00:42:00	93	C		thin: instruction-to-disciple + intermediary-position setup
+shiva_sutras_day_1_introduction_i.txt	791-797	00:42:03	00:42:19	38	covered	ss1-18	recipient-not-author window
+shiva_sutras_day_1_introduction_i.txt	798-816	00:42:24	00:43:16	108	C		thin: historical-beginning + sutra-form-intro
+shiva_sutras_day_1_introduction_i.txt	817-826	00:43:20	00:43:50	56	covered	ss1-19	thread-pearls window
+shiva_sutras_day_1_introduction_i.txt	827-875	00:43:53	00:46:39	279	C		thin: brevity-implications run (essence/multiple-meanings/memorize)
+shiva_sutras_day_1_introduction_i.txt	876-883	00:46:43	00:46:59	50	promote	ss1-28	need a guru to catch the essence
+shiva_sutras_day_1_introduction_i.txt	884-895	00:47:01	00:47:28	71	C		thin: guru-teaching-recap + three-steps (ss1-20 covers)
+shiva_sutras_day_1_introduction_i.txt	896-922	00:47:33	00:49:09	161	covered	ss1-20+21	study-triple + another-level windows
+shiva_sutras_day_1_introduction_i.txt	923-1003	00:49:12	00:52:59	454	C		thin: kārikā-form + Spanda-school authorship + two-commentaries structure
+shiva_sutras_day_1_introduction_i.txt	1004-1023	00:53:02	00:53:51	102	C		scholarly: Sanderson 77-obscure + kula-source analysis
+shiva_sutras_day_1_introduction_i.txt	1024-1033	00:53:55	00:54:27	64	C		thin: kula-goal + withdrawal-lead (model-statement promoted next)
+shiva_sutras_day_1_introduction_i.txt	1034-1037	00:54:29	00:54:35	18	promote	ss1-30	transcendence followed by expansion
+shiva_sutras_day_1_introduction_i.txt	1038-1117	00:54:38	00:58:32	456	C		thin: lineage-run (Somananda/Utpala/Abhinav/Kshemaraja bios + upaya-order-lead)
+shiva_sutras_day_1_introduction_i.txt	1118-1122	00:58:36	00:58:46	28	promote	ss1-29	anupaya nothing-to-do already-given
+shiva_sutras_day_1_introduction_i.txt	1123-1142	00:58:49	00:59:33	142	C		thin: descent-to-practices lead into covered ss1-23
+shiva_sutras_day_1_introduction_i.txt	1143-1154	00:59:35	01:00:09	78	covered	ss1-22+23	upaya-reversal + start-from-highest windows
+shiva_sutras_day_1_introduction_i.txt	1155-1164	01:00:15	01:00:45	67	C		thin: original-meaning caveat
+shiva_sutras_day_1_introduction_i.txt	1165-1172	01:00:50	01:01:06	55	covered	ss1-24	buy-one-get-three window
+shiva_sutras_day_1_introduction_i.txt	1173-1212	01:01:09	01:03:09	210	C		thin: quotation-support run (tantra-quotations + Spanda-expansion)
+shiva_sutras_day_1_introduction_i.txt	1213-1215	01:03:13	01:03:24	15	covered	ss1-25	two-names window
+shiva_sutras_day_1_introduction_i.txt	1216-1233	01:03:27	01:04:28	115	C		dup: content-not-name gloss + purpose-lead
+shiva_sutras_day_1_introduction_i.txt	1234-1245	01:04:31	01:04:59	63	covered	ss1-26	purpose-introspection window
+shiva_sutras_day_1_introduction_i.txt	1246-1267	01:05:04	01:06:04	123	C		thin: states-analysis recap + fourth-state setup
+shiva_sutras_day_1_introduction_i.txt	1268-1275	01:06:22	01:06:39	49	C		lead: permeation-sutras lead
+shiva_sutras_day_1_introduction_i.txt	1276-1280	01:06:42	01:06:54	30	promote	ss1-31	fourth state must pervade, nothing outside
+shiva_sutras_day_1_introduction_i.txt	1281-1282	01:06:59	01:07:00	9	C		fragment: path-from-introspection tail
 shiva_sutras_day_1_introduction_ii.txt	1-32	00:00:02	00:02:53	190			
 shiva_sutras_day_1_introduction_ii.txt	46-51	00:03:32	00:03:44	33			
 shiva_sutras_day_1_introduction_ii.txt	60-86	00:04:05	00:05:20	150			

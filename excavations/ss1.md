@@ -241,6 +241,51 @@ two authentic names + purpose/fourth state.
 - context: First sūtra preview; method preview: self-introspection of consciousness from limited/individual to universal; interiorization + awareness; fourth state permeating waking/dream/sleep.
 - essay_use: purpose statement for the whole course; sets up SS 1.1 reading
 
+### ss1-27 — the absolute does not exclude action: it projects itself as plural and sequential reality [B]
+- timestamp: [00:26:25]-->[00:26:46]
+- topics: consciousness,realisation
+- role: quote
+- layer: explain
+- quote: "professor sanderson the expanded consciousness which is the absolute of the shiva left did not exclude the plurality of action for it was defined as that which projects itself as this plural and sequential reality and timeless simultaneity of the consciousness which is its inner ground now this sentence which"
+- context: Sanderson-sentence flagged BY HER as the preview of the first sutra (helps us tomorrow): the expanded consciousness did not exclude the plurality of action - it was defined as that which projects itself as this plural and sequential reality, and the timeless simultaneity of the consciousness which is its inner ground. Action-from-consciousness compressed.
+- essay_use: S1 depth: the 1.1 pre-statement (activity not excluded from the absolute)
+
+### ss1-28 — the sutras message is not rational but spiritual - you get it or you dont; you need a guru [B]
+- timestamp: [00:46:43]-->[00:46:59]
+- topics: guru,method
+- role: claim
+- layer: explain
+- quote: "that their message is not so much a rational one but a spiritual one so that you just catch that essence you have to which is not easy either you get it or you don't get it or you need a commentary you need an explanation you need a guru"
+- context: Brevity-implication: their message is not so much a rational one but a spiritual one - you have to catch that essence, which is not easy: either you get it or you dont get it, or you need a commentary, you need an explanation, YOU NEED A GURU (teaching always given by a guru; commentaries follow).
+- essay_use: S5 depth: text-without-guru cannot (means-hierarchy, pairs ss3-03/04)
+
+### ss1-29 — anupaya: nowhere to go, nothing to do - everything is already given, already realized [B]
+- timestamp: [00:58:36]-->[00:58:46]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "supreme which is the non-way opera there's nowhere to go there's nothing to do there's everything is already given everything realized this is an umpire so he starts"
+- context: Abhinavaguptas reversal explained: he starts from above with the non-way, anupaya - theres nowhere to go, theres nothing to do, everything is already given, everything realized (then one descends only if one cannot catch it). The arrived-before-you-start clause.
+- essay_use: S3 depth: already-given opener (pairs ss5-16 free-of-cost, ss13-13 spontaneous)
+
+### ss1-30 — transcendence followed by expansion: enlightenment pervades the transcendent [B]
+- timestamp: [00:54:29]-->[00:54:35]
+- topics: realisation,practice
+- role: claim
+- layer: explain
+- quote: "this model of transcendence followed by an expansion that causes the state of enlightenment to pervade the transcendent"
+- context: Sandersons kula-model read aloud: this model of TRANSCEndence followed by an EXPANSION that causes the state of enlightenment to pervade [the mundane] is central to the krama system (withdrawal into the heart of consciousness first, then expansion into the mundane states - L1029-1033 lead-in). The two-move architecture.
+- essay_use: S4 depth: withdraw-then-expand (mechanism behind the permeation-claim)
+
+### ss1-31 — the fourth state has to pervade all the other three - nothing remains outside it [B]
+- timestamp: [01:06:42]-->[01:06:54]
+- topics: consciousness,realisation
+- role: claim
+- layer: explain
+- quote: "has to pervade all the other three states and that's one of the important some of the important sutras point to that so that nothing remains outside that transcendental consciousness"
+- context: Closing thematic-claim of the intro lecture: the fourth state has to pervade all the other three states - waking, dream, deep sleep - so that NOTHING REMAINS OUTSIDE that transcendental consciousness (the permeation-sutras previewed: there are a few sutras related to this).
+- essay_use: S4 depth: the impermanence-free impermeation (pairs ss7-27 turyatita)
+
 ## Reuse clusters
 - **Why-texts / how-texts-work**: ss1-03, ss1-20, ss1-21, ss1-19 (treasure of experience → study-alone → meaning-at-another-level → thread-image)
 - **Freedom-from-form**: ss1-10, ss1-11, ss1-12 (MVUT quote → positive rule → Sanderson theory)

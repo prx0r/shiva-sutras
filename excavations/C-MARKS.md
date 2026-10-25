@@ -66,3 +66,11 @@ Integration: intros-block (L134-1102, 4.3k+1.6k words of participant voices) = 2
 C-rows (participant-vote off-unit-policy); book-logistics/editions already covered ss3-08.
 Note: ss3-09 window extends past quote to the integrative-gloss — flagged for future
 quote-extension, not overlapped.
+
+## Pass-1: day1_introduction_i (= ss1, 11.7% span) — DONE 2026-10-25
+5 promotes (ss1-27..31, all B: Sanderson-projects-plural-reality [flagged by her as the
+first-sutra preview], need-a-guru-to-catch-essence, anupaya nothing-to-do already-given,
+transcend-then-expand kula-model, fourth-state-must-pervade). 26 existing units covered
+the doctrinal spine; C-run: institution-welcome, Kashmir-history surveys, Vasugupta/rock
+LEGEND narrative (doctrine kept in ss1-16/17), lineage bios, Sanderson-77 scholarly,
+brevity-implications catalogue, kārikā-form, upaya-caveats.

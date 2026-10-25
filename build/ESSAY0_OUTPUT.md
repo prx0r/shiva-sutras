@@ -1,53 +1,78 @@
-# ESSAY 0 — output (question → pause → stack → her voice)
+# ESSAY 0 — output v2 (corrected format per MISTAKES M3: SANSKRIT → TRANSLATION → PLAIN → BÄUMER)
 
-## THE OPENER
-**Q:** Why isn't consciousness something you do?
-*(2-breath pause — recall window, 3.0s)*
+Cell law (vatula MICRO-SESSION head + formula steps 2–5):
+**Q** *(2 breaths)* → **SANSKRIT** (source's own answer, sūtra-level, verified form) →
+**TRANSLATION** (existing exact rendering: lecturer > critical > gloss, never composed) →
+**PLAIN** (mechanical, key-vetted card) → **BÄUMER** (her interpretation, Grade A,
+≤25s, completes the question).
 
-**S** — caitanyam ātmā   (Śivasūtras 1.1)
-**T** — consciousness is the nature of self, which verily is the divine self, freed of all limiting conditions
-       *(her own in-session Kṣemarāja gloss, Day 2-III [01:39:23]→[01:39:33])*
-**P** — consciousness is the nature of self, which truly is the divine self, freed of all limiting conditions
-       *(mechanical filter, key proposal; hash 761da269094f96bb)*
-**A** — her voice, ss3-10, [01:20:12]→[01:20:32] (20s, Grade A, 100% inside A-gold):
-       "awareness means something which we are doing … but this is consciousness
-        is not something you are doing it is something which is there"
-       *(ear-trim ASR glitch "that is your but"; full unit window [01:19:31]→[01:20:31])*
+## HEAD — the opener → `essay0_1.mp3` (target 20s, owner ear pending)
 
-**Stack read:** one thought in increasing plainness — the text says what it IS (Self),
-her gloss widens it (divine self, all limiting conditions), her voice removes the
-doing-association. Nothing exists only in our prose. Opens the enquiry: *if it isn't
-done — then what IS it, and what hides it?* → S2.
+> **What is consciousness?** *(2 breaths)*
+>
+> **SANSKRIT:** `caitanyamatma` · Sūtra 1.1
+>
+> **TRANSLATION:** "Consciousness is the Self." — *Dyczkowski, The Aphorisms of Śiva (held)*
+>
+> **PLAIN:** "consciousness is the self" *(card; mechanical no-op at current key)*
+>
+> **BÄUMER:** *"…it means universal consciousness… but this is consciousness is not
+> something you are doing — it is something which is there."*
+> (ss3-10, two verified spans: [01:19:45]→[01:19:55] + [01:20:26]→[01:20:32], Grade A)
+
+*Notes: lecturer has no own single-line rendering of 1.1 (flagged honestly — critical
+translation used at T, her voiced Kṣemarāja gloss plays as the interpretation at BÄUMER).
+Stack-read: one thought increasing plainness — the text names what it IS, the card keeps
+it bare, her voice strips the doing-association. Completes "Consciousness is ___".*
 
 ---
 
-## THE SIX SPINE ANSWERS (compressed per question — her words, all verify-green)
+## THE SIX SPINE ANSWERS (full cell each — every quote verify-green)
 
-**S1. What is consciousness?** — *(= the essay-0 stack above)*
-   ss3-10 · [01:19:31]→[01:20:31] · A
-   "it means universal consciousness … consciousness is not something you are doing
-    it is something which is there"
+### S1. What is consciousness? — *(= the HEAD above)*
 
-**S2. What hides consciousness?** — ss4-14 · [00:32:25]→[00:32:39] · A
-   "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature
-    this Vajjana is the Anava Mala which is the cause of Samsara"
+### S2. What hides consciousness?
+> **SANSKRIT:** `jnanambandhah` · Sūtra 1.2
+> **TRANSLATION:** "Knowledge is bondage." — *Dyczkowski (held)*
+> **PLAIN:** "knowledge is bondage"
+> **BÄUMER:** *"Mala, it is said, is nothing but Vajjana or ignorance of one's real nature."*
+> (ss4-14, [00:32:25]→[00:32:39], Grade A)
 
-**S3. Why can't consciousness be forced?** — ss6-04 · [00:13:34]→[00:14:09] · A
-   "it is that upward uh push but it's not a gradual rising step by steps
-    it is a sudden it is a sudden upsurge"
+### S3. Why can't consciousness be forced?
+> **SANSKRIT:** `udyamo bhairavah` · Sūtra 1.5
+> **TRANSLATION:** "Bhairava is upsurge." — *Dyczkowski (held)*
+> **PLAIN:** "bhairava is upsurge"
+> **BÄUMER:** *"…it's not a gradual rising step by steps — it is a sudden upsurge."*
+> (ss6-04, [00:13:34]→[00:14:09], Grade A)
 
-**S4. What does consciousness do to experience?** — ss7-06 · [00:22:32]→[00:23:00] · A
-   "just like the moon shining in the sky beautiful like a flower captivating the mind
-    instantaneously fills the world with happiness … with the rays of his knowledge he
-    purifies and fills it with supreme bliss"
+### S4. What does consciousness do to experience?
+> **SANSKRIT:** `tritayabhokta vtresah` · Sūtra 1.11 *(OCR form from held file — verify against print at render)*
+> **TRANSLATION:** "The enjoyer of the three states is the Lord of the Heroes." — *Dyczkowski (held)*
+> **PLAIN:** "the enjoyer of the three states is the lord of the heroes"
+> **BÄUMER:** *"…when this heroic yogi wanders about in this world with the rays of his
+> knowledge he purifies and fills it with supreme bliss right from hell to shiva."*
+> (ss7-06, [00:22:32]→[00:23:00], Grade A; her reading of this sūtra = ss7-11 for the render pair)
 
-**S5. How does the mind shape consciousness?** — ss11-05 · [00:50:23]→[00:50:38] · A
-   "the mind of the devotee intent on intensive awareness of the deity inherent in the
-    mantra acquires identity with the deity and thus becomes that mantra itself"
+### S5. How does the mind shape consciousness?
+> **SANSKRIT:** `cittam mantrah` · Sūtra 2.1
+> **TRANSLATION:** "The mind is Mantra." — *Dyczkowski (held)*
+> **PLAIN:** "the mind is mantra"
+> **BÄUMER:** *"…the mind of the devotee … acquires identity with the deity and thus
+> becomes that mantra itself."* (ss11-05, [00:50:23]→[00:50:38], Grade A)
 
-**S6. What is consciousness free to do?** — ss3-17 · [01:40:57]→[01:41:33] · A
-   "they come at the end because you cannot practice any ethics or any yama niyama
-    unless you have already reached a certain stage of spiritual experience"
+### S6. What is consciousness free to do?
+> **SANSKRIT:** `nartaka atma` · Sūtra 3.9
+> **TRANSLATION:** "The Self is the actor." — *Dyczkowski (held)*
+> **PLAIN:** "the self is the actor"
+> **BÄUMER:** *"…the place where the self takes delight with the intention of
+> exhibiting the world drama is the stage."* (ss13-09, [01:02:58]→[01:03:09], Grade A)
 
-Enquiry chain: IS → HIDDEN BY → can't be FORCED → what it DOES → how mind SHAPES it →
-what it's FREE TO DO. Essay 0 opens; each section widens the same seed.
+**Enquiry chain:** IS → HIDDEN BY → can't be FORCED → what it DOES → how mind SHAPES it →
+what it's FREE TO DO. Master opens every version; each cell widens the same seed (UNFOLDING).
+
+**Alternates kept (per their audit):** sharpened opener "Why isn't consciousness something
+you do?" (titles/forms only — stack stays master-paired) · "What is consciousness beyond
+thought?" + ss6-14 gap audio · "Why can't you think your way to consciousness?" + ss4-01.
+
+**Pending before lock:** owner ear on HEAD mp3 · key_v2 sign-off (plain currently no-op
+rows) · OCR-verify `tritayabhokta vtresah` + `nartaka atma` against print.

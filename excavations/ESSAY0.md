@@ -82,3 +82,9 @@ No meaning exists only in our prose. No mismatch between rows.
 - A2 question: "What is consciousness beyond thought?" + ss6-14 gap audio.
 - A3 question: "Why can't you think your way to consciousness?" + ss4-01 organ audio.
 - A1 (master build): "What is consciousness?" + [01:19:31]→[01:19:55] universal-consciousness window (24s).
+
+
+---
+**SUPERSEDED (v2):** stack format corrected per MISTAKES M3 — see `build/ESSAY0_OUTPUT.md`
+(the four-row SANSKRIT→TRANSLATION→PLAIN→BÄUMER cell, master-question-paired; six spine cells there).
+This file keeps the run history and the sharpened-question audit.

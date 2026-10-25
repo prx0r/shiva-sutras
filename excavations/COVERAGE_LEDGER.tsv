@@ -217,15 +217,76 @@ shiva_sutras_day_6_session_i.txt	1205-1626	01:01:26	01:12:23	776
 shiva_sutras_day_6_session_i.txt	1636-1707	01:13:48	01:19:18	494			
 shiva_sutras_day_6_session_i.txt	1774-1791	01:21:24	01:22:02	39			
 shiva_sutras_day_6_session_i.txt	1909-2222	01:24:12	01:32:13	598			
-shiva_sutras_day_6_session_ii.txt	1-22	00:00:03	00:03:02	128			
-shiva_sutras_day_6_session_ii.txt	33-266	00:03:35	00:19:56	1385			
-shiva_sutras_day_6_session_ii.txt	284-352	00:21:12	00:25:56	404			
-shiva_sutras_day_6_session_ii.txt	359-438	00:26:14	00:32:01	466			
-shiva_sutras_day_6_session_ii.txt	456-505	00:33:01	00:37:31	297			
-shiva_sutras_day_6_session_ii.txt	512-570	00:38:04	00:42:57	344			
-shiva_sutras_day_6_session_ii.txt	576-741	00:43:24	00:53:25	976			
-shiva_sutras_day_6_session_ii.txt	751-793	00:53:55	00:57:01	265			
-shiva_sutras_day_6_session_ii.txt	804-861	00:57:44	01:02:44	377			
-shiva_sutras_day_6_session_ii.txt	868-937	01:03:31	01:08:41	387			
-shiva_sutras_day_6_session_ii.txt	946-964	01:09:12	01:10:14	118			
+shiva_sutras_day_6_session_ii.txt	1-22	00:00:03	00:03:02	128	C		logistics: mangala-śloka temple plan, music
+shiva_sutras_day_6_session_ii.txt	33-47	00:03:35	00:04:18	80	C		commentarial: section-structure (dup of ss13-01 levels)
+shiva_sutras_day_6_session_ii.txt	49-76	00:04:29	00:06:12	196	C		commentarial: section-lengths + anava-paya intro
+shiva_sutras_day_6_session_ii.txt	77-101	00:06:19	00:08:32	158	C		commentarial: first-sūtra limited-individual, organs, at-etymology
+shiva_sutras_day_6_session_ii.txt	103-108	00:09:06	00:09:22	37	promote	ss13-30	clinging to guṇas = samsara
+shiva_sutras_day_6_session_ii.txt	109-117	00:09:32	00:10:08	44	C		thin: definition-from-limitation bridge
+shiva_sutras_day_6_session_ii.txt	118-122	00:10:11	00:10:24	26	promote	ss13-31	bondage-by-knowledge at every level
+shiva_sutras_day_6_session_ii.txt	123-161	00:10:46	00:12:44	212	C		technical: aṣṭāṅga-redefinition, nāḍī/tāṭvajaya detail
+shiva_sutras_day_6_session_ii.txt	162-168	00:12:47	00:13:02	42	promote	ss13-12	nothing-left-out totality-law
+shiva_sutras_day_6_session_ii.txt	169-256	00:13:15	00:19:09	516	C		technical: prāṇa-anatomy, five-prāṇa/sun-moon, Netra-intro
+shiva_sutras_day_6_session_ii.txt	257-259	00:19:25	00:19:32	18	C		lead-in: siddhi-question (covered quote follows)
+shiva_sutras_day_6_session_ii.txt	260-266	00:19:39	00:19:56	42	fix-window	ss13-03	quote-lines were OUTSIDE unit window → ts fixed 19:59→19:39
+shiva_sutras_day_6_session_ii.txt	284-286	00:21:12	00:21:17	17	C		lead-in: siddhi-display setup
+shiva_sutras_day_6_session_ii.txt	287-292	00:21:20	00:21:32	37	promote	ss13-11	siddhis = lower-level sign, hidden
+shiva_sutras_day_6_session_ii.txt	293-308	00:21:41	00:22:23	99	C		thin: Lakshmanjoo no-display anecdote (setup by unit)
+shiva_sutras_day_6_session_ii.txt	309-321	00:22:26	00:23:16	78	C		dup: Netra-verse restates veil-of-māyā (ss13-03)
+shiva_sutras_day_6_session_ii.txt	322-334	00:23:19	00:24:04	73	C		bibliographic: Swamiji-book mis-attribution errata
+shiva_sutras_day_6_session_ii.txt	335-352	00:24:23	00:25:56	100	C		thin: yogāṅga-by-Netra lead
+shiva_sutras_day_6_session_ii.txt	359-361	00:26:14	00:26:19	21	C		repetitive: ss13-02 continuation (central-breath)
+shiva_sutras_day_6_session_ii.txt	362-372	00:26:31	00:27:11	64	C		thin: knowledge-shakti setup
+shiva_sutras_day_6_session_ii.txt	373-401	00:27:37	00:29:14	160	C		technical: prāṇāyāma-redefinition, three-dhyāna taxonomy
+shiva_sutras_day_6_session_ii.txt	402-413	00:29:26	00:29:54	73	promote	ss13-14	unloseable supreme prāṇa
+shiva_sutras_day_6_session_ii.txt	414-421	00:29:58	00:30:20	50	C		repetitive: spanda-prana restates vibration (S1 echo)
+shiva_sutras_day_6_session_ii.txt	422-438	00:30:32	00:32:01	98	C		lead-in: pratyāhāra setup into covered ss13-04
+shiva_sutras_day_6_session_ii.txt	456-458	00:33:01	00:33:04	18	C		repetitive: ss13-04 continuation (senses-different-way)
+shiva_sutras_day_6_session_ii.txt	459-460	00:33:28	00:33:33	13	C		thin: self-translation aside
+shiva_sutras_day_6_session_ii.txt	461-476	00:33:43	00:34:31	88	promote	ss13-15	meditation on the non-meditable
+shiva_sutras_day_6_session_ii.txt	477-487	00:34:45	00:35:18	75	C		same-clip tail: beyond-guṇas clause (carried by ss13-15 context)
+shiva_sutras_day_6_session_ii.txt	488-488	00:36:08	00:36:08	4	C		lead-in: etymology marker
+shiva_sutras_day_6_session_ii.txt	489-491	00:36:13	00:36:18	19	promote	ss13-16	dharana = self held in consciousness
+shiva_sutras_day_6_session_ii.txt	492-505	00:36:20	00:37:31	80	C		thin: garbled-verse + becoming-tail
+shiva_sutras_day_6_session_ii.txt	512-512	00:38:04	00:38:04	1	C		noise: ASR "foreign"
+shiva_sutras_day_6_session_ii.txt	513-518	00:38:08	00:38:31	41	fix-window	ss13-05	quote-lines were OUTSIDE unit window → ts fixed 37:33→38:08
+shiva_sutras_day_6_session_ii.txt	519-530	00:38:40	00:39:37	69	C		repetitive: samādhi-samata etymology (ss13-05 content)
+shiva_sutras_day_6_session_ii.txt	531-539	00:39:42	00:40:59	58	C		thin: harmony-setup restatement
+shiva_sutras_day_6_session_ii.txt	540-544	00:41:08	00:41:19	25	promote	ss13-17	same consciousness toward all beings
+shiva_sutras_day_6_session_ii.txt	545-548	00:41:21	00:41:27	20	C		thin: translation-aside (manas/buddhi)
+shiva_sutras_day_6_session_ii.txt	549-555	00:41:35	00:41:59	34	C		lead-in: "another subject"
+shiva_sutras_day_6_session_ii.txt	556-569	00:42:03	00:42:53	90	promote	ss13-18	dancer = vibration of consciousness
+shiva_sutras_day_6_session_ii.txt	570-575	00:42:57	00:43:20	34	C		thin: dance-expression tail into covered unit
+shiva_sutras_day_6_session_ii.txt	576-599	00:43:24	00:44:50	125	C		commentarial: Nāṭyaśāstra/Abhinavabhaṭṭa rasa background
+shiva_sutras_day_6_session_ii.txt	600-605	00:44:52	00:45:12	39	C		lead-in: other-texts
+shiva_sutras_day_6_session_ii.txt	606-618	00:45:20	00:46:01	75	promote	ss13-19	sūtra-drama-self frame
+shiva_sutras_day_6_session_ii.txt	619-634	00:46:09	00:46:48	102	promote	ss13-20	jīvanmukta activity IS play [A]
+shiva_sutras_day_6_session_ii.txt	635-650	00:46:53	00:48:03	88	C		thin: drama-correlation aside + highest-stage setup
+shiva_sutras_day_6_session_ii.txt	651-658	00:48:16	00:49:02	46	C		lead-in: page markers
+shiva_sutras_day_6_session_ii.txt	659-673	00:49:06	00:49:58	90	promote	ss13-21	actor: own-nature yet roles [A]
+shiva_sutras_day_6_session_ii.txt	674-685	00:49:59	00:50:29	70	C		thin: Tantrāloka-verse availability aside
+shiva_sutras_day_6_session_ii.txt	686-694	00:50:32	00:50:56	54	promote	ss13-23	bliss-intoxicated yogi acts mad
+shiva_sutras_day_6_session_ii.txt	695-713	00:50:59	00:51:49	123	C		thin: holy-madness tradition survey (Buddhism/Christianity/Pāśupata)
+shiva_sutras_day_6_session_ii.txt	714-721	00:51:52	00:52:12	45	promote	ss13-22	recognition needs same-level
+shiva_sutras_day_6_session_ii.txt	722-730	00:52:19	00:52:45	51	C		thin: nine-states setup
+shiva_sutras_day_6_session_ii.txt	731-734	00:52:48	00:53:01	27	promote	ss13-24	eats/sleeps/market unrecognized
+shiva_sutras_day_6_session_ii.txt	735-741	00:53:04	00:53:25	41	C		thin: examples-tail
+shiva_sutras_day_6_session_ii.txt	751-755	00:53:55	00:54:11	35	C		logistics: temple-visit bhūmikā pointer
+shiva_sutras_day_6_session_ii.txt	756-769	00:54:20	00:55:08	79	promote	ss13-25	play = subtle vibration on screen
+shiva_sutras_day_6_session_ii.txt	770-772	00:55:21	00:55:34	13	C		lead-in: quote-intro
+shiva_sutras_day_6_session_ii.txt	773-780	00:55:47	00:56:14	57	C		dup: two-levels verse restates ss13-21
+shiva_sutras_day_6_session_ii.txt	781-793	00:56:24	00:57:01	81	C		thin: Bhāṭṭa Nārāyaṇa bio/context
+shiva_sutras_day_6_session_ii.txt	804-831	00:57:44	01:00:00	181	C		technical: bīja/prastāva drama-terms exposition
+shiva_sutras_day_6_session_ii.txt	832-832	01:00:03	01:00:03	6	C		lead-in: verse-marker
+shiva_sutras_day_6_session_ii.txt	833-835	01:00:19	01:00:26	24	promote	ss13-26	world asleep, Lord awake
+shiva_sutras_day_6_session_ii.txt	836-845	01:00:31	01:01:18	68	C		logistics: time-over, tomorrow-plan
+shiva_sutras_day_6_session_ii.txt	846-849	01:01:27	01:01:45	28	C		lead-in: drama-needs-a-stage
+shiva_sutras_day_6_session_ii.txt	850-861	01:01:59	01:02:44	70	promote	ss13-27	external = metaphor for inner
+shiva_sutras_day_6_session_ii.txt	868-873	01:03:31	01:03:54	24	C		repetitive: ranga-etymology dup of ss13-09
+shiva_sutras_day_6_session_ii.txt	874-894	01:04:19	01:05:52	121	C		translation-technical: inner-soul rendering + karaṇa-Chidambaram
+shiva_sutras_day_6_session_ii.txt	895-898	01:05:58	01:06:09	27	promote	ss13-28	soul performs by means of senses
+shiva_sutras_day_6_session_ii.txt	899-916	01:06:12	01:06:59	97	C		technical: karaṇa-temple detail continuation
+shiva_sutras_day_6_session_ii.txt	917-937	01:07:03	01:08:41	118	C		thin: puryaṣṭaka/subtle-body run
+shiva_sutras_day_6_session_ii.txt	946-950	01:09:12	01:09:27	36	C		repetitive: three-levels recap (ss13-10 tail)
+shiva_sutras_day_6_session_ii.txt	951-964	01:09:35	01:10:14	82	promote	ss13-29	līlā = total freedom [A]
 shiva_sutras_introduction_dl.txt	1-99	00:00:00	00:17:50	1982			

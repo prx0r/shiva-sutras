@@ -173,8 +173,8 @@ Precise measurement (2026-10-25, `tools/coverage_measure.py` → `excavations/CO
 (17.9% of lines). Uncovered spine-anchor lines: S1 421 · S2 238 · S3 135 · S4 148 ·
 S5 491 · S6 149 — the missing 88% is materially ON-SPINE (anchor coverage 13–26%;
 S4 thinnest). Inclusion plan = three channels + one read-pass in COVERAGE.md (worst-
-served-first: day5-ii 5%, day6-ii 7.2%, dl1 5/99). 186→204 units (pass-1 read-through:
-day5_ii full pass, +18 units ss11-09..26, 33 C-marks — see C-MARKS + LEDGER) = idea-dense extraction
+served-first: day5-ii 5%, day6-ii 7.2%, dl1 5/99). 186→225 units (pass-1: day5_ii +18 ss11-09..26,
+day6_ii +21 ss13-11..31 + 2 window fixes — see C-MARKS + LEDGER) = idea-dense extraction
 (compare vatula 96 units);
 **but there is NO coverage ledger for the remainder** — no C-MARKS equivalent, so we
 cannot yet say what the un-unit'd 87% IS (logistics, participant Q&A, technical
@@ -201,8 +201,8 @@ stretches, her asides). Consequences:
   scar) copied to `dyczkowski/tools/`; its PROCESS_NOTES §14d repro-path note updated.
 
 ### 8d. STATE NOW (one screen)
-- **Grading:** 186 units (71A/106B/9C), verify_units 186/0 → pass-1: 204 (75A/120B/9C), 204/0.
-- **Segmentation:** 186/186 → pass-1 204/204 one-home (18 manual pass-1 rows logged), 48+ verdict overrides in s2_cluster.
+- **Grading:** 186 units (71A/106B/9C), verify_units 186/0 → pass-1 (files 1-2): 225 (78A/138B/9C), 225/0.
+- **Segmentation:** 186/186 → pass-1 225/225 one-home (39 manual pass-1 rows logged), 48+ verdict overrides in s2_cluster.
 - **Convergence:** units × A-buckets agree (S1 top, S5 second, S3-thinnest-accepted).
 - **SPINE:** 6 open questions, role labels, fit-check table, per-section anchors = her words.
 - **Essay-0:** stack SANSKRIT→TRANSLATION→PLAIN→BÄUMER built (build/ESSAY0_OUTPUT.md),
@@ -253,7 +253,7 @@ and the gate's designated alternate.
   content survive — assert-or-die on every scripted doc edit.
 
 ### FINAL STATE
-- 204 units (75A/120B/9C) · verify 204/0 · segmentation 204/204 · G0 7/7 ·
+- 225 units (78A/138B/9C) · verify 225/0 · segmentation 225/225 · G0 7/7 ·
   plain hash MATCH · manifest 14/14 · gates green · tree clean.
 - Six open questions (fit-checked vs A-pools: S2/S3 textbook, S4/S6 wobbles recorded).
 - Essay-0: four-layer cells + flow-read artifact — **text-level passes; lock DRAFT**.

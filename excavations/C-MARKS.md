@@ -18,3 +18,11 @@ lexicon, Mālinīvijaya verse, shaktopaya structure, aham language-game), repeti
 noise. Full sub-span rows: COVERAGE_LEDGER.tsv (file=shiva_sutras_day_5_session_ii.txt).
 Autumn-reprise C-note: the image recurs 3x by her own word ("comes again and again") —
 recurrence recorded, unit kept single.
+
+## Pass-1: day6_session_ii (= ss13, 7.2% span) — DONE 2026-10-25
+21 promotes (ss13-11..31; 3 A: jīvanmukta-play / actor-being / līlā-closer) + 2 window fixes
+(ss13-03, ss13-05 timestamps sat OUTSIDE their own quote lines — caught by gap-walk, fixed,
+verify 225/0). Session = the 3.x drama exposition; previously 10 units at unit-markers only.
+C-reasons: commentarial (section-structure, rasa-background), technical (prāṇa-anatomy,
+drama-terms, karaṇa-temple, puryaṣṭaka), repetitive (samādhi/ranga/veil reprises), dup
+(two-levels verse), thin lead-ins, logistics (time-over, temple pointer), noise.

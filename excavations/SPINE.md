@@ -14,8 +14,8 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 (never reorders across) · thin sections stay thin · A ⊂ B ⊂ C collated under these.
 
 ## Convergence (two dissections, one elephant)
-- Unit distribution: S1 63 · S5 50 · S6 26 · S4 25 · S3 21 · S2 19 (total 204 after pass-1; ss5-02 moved to S5 guru-means).
-- Independent A-buckets:  S1 24 · S5 18 · S4 10 · S6 8 · S3 9 · S2 6 (total 75; pass-1 +4: ss11-14/16/18 → S5, ss11-23 → S3).
+- Unit distribution: S1 64 · S2 21 · S3 24 · S4 25 · S5 52 · S6 39 (total 225 after pass-1 files 1-2; ss5-02 moved to S5 guru-means).
+- Independent A-buckets:  S1 24 · S5 18 · S6 11 · S4 10 · S3 9 · S2 6 (total 78; pass-1 +7: ss11-14/16/18 → S5, ss11-23 → S3, ss13-20/21/29 → S6).
 - Both rank S1 first and S5 second; S3 is thinnest in both — accepted, not padded.
   S6 vs S2/S4 swap mid-table is the only disagreement (cosmetic).
 

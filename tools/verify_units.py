@@ -21,6 +21,7 @@ SESS = {
  'ss11': 'text/shiva_sutras_day_5_session_ii.txt',
  'ss12': 'text/shiva_sutras_day_6_session_i.txt',
  'ss13': 'text/shiva_sutras_day_6_session_ii.txt',
+ 'dl1': 'text/shiva_sutras_introduction_dl.txt',
 }
 def norm(s):
     s = re.sub(r'\s+',' ',s).strip().lower()
@@ -30,9 +31,9 @@ def strip_ts(s):
     return __import__('re').sub(r'\[[^\]]*\] ?', '', s)
 
 REQ = ['timestamp','topics','role','layer','quote','context','essay_use']
-GRADE_RE = __import__('re').compile(r'\[(A|B|C)\]\s*$')
+GRADE_RE = __import__('re').compile(r'\[(A|B|C)\](\s*\[text:[^\]]+\])?\s*$')
 fails, n_units = [], 0
-for path in sorted(glob.glob('excavations/ss*.md')):
+for path in sorted(glob.glob('excavations/ss*.md') + glob.glob('excavations/dl*.md')):
     lec = os.path.basename(path).removesuffix('.md')
     src = SESS.get(lec)
     if not src or not os.path.exists(src):
@@ -62,7 +63,7 @@ for path in sorted(glob.glob('excavations/ss*.md')):
                 fails.append((lec, cur, f"no transcript stamp within 120s of {fields['timestamp']}"))
     for line in open(path, encoding='utf-8'):
         t = line.rstrip('\n')
-        if t.startswith('### ss'):
+        if t.startswith('### ss') or t.startswith('### dl'):
             flush(); cur = t.split('\u2014')[0].strip().lstrip('### ').strip(); fields = {}
             if not GRADE_RE.search(t): fails.append((lec, cur, 'header missing [A/B/C] grade'))
         elif t.startswith('- ') and ':' in t and cur:

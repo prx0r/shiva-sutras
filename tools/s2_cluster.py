@@ -13,8 +13,8 @@ SESS = {'ss1':'text/shiva_sutras_day_1_introduction_i.txt','ss2':'text/shiva_sut
  'ss7':'text/shiva_sutras_day_4_session_i.txt','ss8':'text/shiva_sutras_day_4_session_ii_part_1.txt',
  'ss9':'text/shiva_sutras_day_4_session_ii_part_ii.txt','ss10':'text/shiva_sutras_day_5_session_i.txt',
  'ss11':'text/shiva_sutras_day_5_session_ii.txt','ss12':'text/shiva_sutras_day_6_session_i.txt',
- 'ss13':'text/shiva_sutras_day_6_session_ii.txt'}
-PRIMARY = {'ss1':1,'ss2':1,'ss3':1,'ss4':1,'ss5':2,'ss6':3,'ss7':4,'ss8':4,'ss9':4,'ss10':6,'ss11':5,'ss12':5,'ss13':6}
+ 'ss13':'text/shiva_sutras_day_6_session_ii.txt','dl1':'text/shiva_sutras_introduction_dl.txt'}
+PRIMARY = {'dl1':1,'ss1':1,'ss2':1,'ss3':1,'ss4':1,'ss5':2,'ss6':3,'ss7':4,'ss8':4,'ss9':4,'ss10':6,'ss11':5,'ss12':5,'ss13':6}
 
 def norm(s):
     s = re.sub(r'\s+',' ',s).strip().lower(); return re.sub(r'[^a-z0-9 ]','',s)
@@ -82,15 +82,15 @@ def ts_of(line):
 
 def parse_units():
     units = []
-    for p in sorted(glob.glob(os.path.join(BASE, 'excavations/ss*.md'))):
+    for p in sorted(glob.glob(os.path.join(BASE, 'excavations/ss*.md')) + glob.glob(os.path.join(BASE, 'excavations/dl*.md'))):
         lec = os.path.basename(p).removesuffix('.md')
         if lec == 'ss_SCHEMA': continue
         cur = None
         for line in open(p, encoding='utf-8'):
             s = line.rstrip('\n')
-            if s.startswith('### ss'):
-                m = re.match(r'### (ss\d+-\d+)', s)
-                cur = {'uid': m.group(1), 'file': lec, 'grade': 'A' if s.rstrip().endswith('[A]') else ('B' if s.rstrip().endswith('[B]') else 'C'), 'fields': {}}
+            if s.startswith('### ss') or s.startswith('### dl'):
+                m = re.match(r'### (ss\d+-\d+|dl\d+-\d+)', s)
+                cur = {'uid': m.group(1), 'file': lec, 'grade': (__import__('re').search(r'\[(A|B|C)\](\s*\[text:|\s*$)', s).group(1) if __import__('re').search(r'\[(A|B|C)\](\s*\[text:|\s*$)', s) else 'C'), 'fields': {}}
                 units.append(cur)
             elif cur is not None and s.startswith('- ') and ':' in s:
                 k, v = s[2:].split(':', 1); cur['fields'][k.strip()] = v.strip()

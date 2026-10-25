@@ -68,3 +68,10 @@
   held loci (both-splits ss4-13 · 3.2 "(Empirical)" · 2.5 innate-arising).
   **Rule: before any cell ships, voice the strongest objection a cold listener has and
   check the cell answers it (or flag it for the section's B-depth).**
+
+- **M12. Header-suffix broke two parsers.** Appending `[text:ss:direct]` after the
+  `[A/B/C]` grade suffix made `verify_units` ("header missing grade" x5) and
+  `s2_cluster` (grade read as C; then uid regex crashed on `### dl`) misparse.
+  Fixed: both regexes accept the optional trailing text-tag; uid pattern covers
+  `dl*`. **Rule: any header-format extension must be added to EVERY parser that
+  reads headers, in the same commit.**

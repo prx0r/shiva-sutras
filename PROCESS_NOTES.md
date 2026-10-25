@@ -134,3 +134,19 @@ flow test had nothing real to seed.
 **Also fixed:** duplicate uid (bliss unit was second ss7-17 → ss7-19).
 **State now:** grading ✓ · catalogue ✓ · segmentation ✓ · convergence ✓ · SPINE ✓ ·
 essay-0 draft-lock ✓ (owner ear pending) → next = S5 collate A/B/C under the spine.
+
+## 7. Second voice + main text reference (2026-10-25)
+
+- **Dyczkowski's Śiva-Sūtra introduction imported as `dl1`** (owner): mp3 + srt copied
+  from tantraessays repo, srt → stamped text (`text/shiva_sutras_introduction_dl.txt`,
+  99 cues/1,982 words), 5 units adapted to our schema (uids dl1-01..05; their
+  `[text:ss:…]` registry-tags preserved; grades re-derived: B/B/A/A/C — dl1-03 stakes-line
+  and dl1-04 1.1-thesis are A). All 5 assigned S1 (revelation cluster + the 1.1 A/A
+  cross-voice pair with Baumer ss3-10). Totals now **185 units (70A/106B/9C)**;
+  verify_units 185/0 fails.
+- **Aphorisms of Śiva = the main TEXT reference** (owner): held at
+  `reference/aphorisms-of-siva-dyczkowski_clean.txt` (gitignored — copyright, never
+  commit; same rule as tantraessays primary/texts). All six essay-0 SANSKRIT and
+  TRANSLATION rows already source from it; per-sūtra card refs follow it.
+- Both voices now serve one text: Baumer = interpretation archive (ss1–13),
+  Dyczkowski = second archive voice (dl1), Aphorisms = the text on screen.

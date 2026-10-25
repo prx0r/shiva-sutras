@@ -14,8 +14,8 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 (never reorders across) · thin sections stay thin · A ⊂ B ⊂ C collated under these.
 
 ## Convergence (two dissections, one elephant)
-- Unit distribution: S1 57 · S5 35 · S6 25 · S4 24 · S2 20 · S3 19 (total 180).
-- Independent A-buckets:  S1 22 · S5 14 · S4 10 · S6 8 · S2 7 · S3 7 (total 68).
+- Unit distribution: S1 62 · S5 35 · S6 25 · S4 24 · S2 20 · S3 19 (total 185; S1 += 5 dl1).
+- Independent A-buckets:  S1 24 · S5 14 · S4 10 · S6 8 · S2 7 · S3 7 (total 70).
 - Both rank S1 first and S5 second; S3 is thinnest in both — accepted, not padded.
   S6 vs S2/S4 swap mid-table is the only disagreement (cosmetic).
 
@@ -34,7 +34,7 @@ answer-space; none closes the enquiry.
 
 ---
 
-## S1. What is consciousness? — 57 units (22A)
+## S1. What is consciousness? — 62 units (24A) · **includes the SECOND VOICE**
 **Anchor (her words):** `ss3-10` — "consciousness is definitely not individual
 consciousness … it means universal consciousness … consciousness is not something
 you are doing it is something which is there"
@@ -118,10 +118,20 @@ B ≈ A×1.6–2) · C = A+B+texture (her order within sections; C-homes stay ou
 beats = [TEXT verbatim → PLAIN (key) → AUDIO] with question→2-breath-pause before,
 HUMAN voice owns questions · Sanskrit-first cards · quotas never padded (thin is honest).
 
+## Voices + TEXT law
+- **Voice 1 (primary archive):** Bäumer, 13 sessions (ss1–ss13).
+- **Voice 2:** Dyczkowski, Introduction to the Śiva Sūtras (`dl1`, imported from
+  tantraessays: srt→stamped text, 5 units, 2A/2B/1C, all assigned S1). Cross-voice
+  pairs marked in `excavations/dl1.md` (rock↔Terma, 1.1-thesis A/A with ss3-10).
+- **TEXT reference (main, per owner):** *The Aphorisms of Śiva* (Dyczkowski) —
+  held at `reference/aphorisms-of-siva-dyczkowski_clean.txt` (gitignored), canonical
+  source for every SANSKRIT + TRANSLATION row; Baumer sessions provide the
+  interpretation layer; srt-stamps provide windows.
+
 ## Repro
 ```bash
 python3 tools/s2_cluster.py --apply     # reassign + totals reconcile (180/180)
 python3 tools/validate_questions.py     # 6 spine + essay0 questions, G0 gate
 python3 tools/verify_units.py           # 180 units, 0 fails
-awk -F'\t' 'NR>1{c[$4]++} END{for(k in c) print k,c[k]}' excavations/SPINE_ASSIGN.tsv
+awk -F'\t' 'NR>1{c[$4]++} END{for(k in c) print k,c[k]}' excavations/SPINE_ASSIGN.tsv   # 62/20/19/24/35/25
 ```

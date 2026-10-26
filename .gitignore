@@ -1,3 +1,5 @@
 reference/aphorisms-of-siva-dyczkowski_clean.txt
-audio/
+reference/sharma/
+audio/*
+!audio/SOURCES.md
 __pycache__/

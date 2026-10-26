@@ -22,6 +22,8 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
    gotchas, and the exact next moves.
 10. `TODO.md` — **the 20-action queue** (start here for work; NEXT = the longer why).
 11. `FILEMAP.md` — every path: what it is and why (update it the day you add a file).
+12. `BUILD_ENGINE.md` — front door (two-track law + decode method → `process/`) — what an agent executes to build or validate.
+13. `process/` — the full engine: stages 00–09, axioms, skills, reproduce, `verify.sh` (same shape as analayo-nibbana/process).
 
 ## State (handover snapshot)
 - **Grading:** 307 units (82A/83B/142C) across 14 sessions (pass-1: day5_ii +18, day6_ii +21) — `tools/verify_units.py` = 307/0.
@@ -59,6 +61,7 @@ python3 tools/plain_filter.py --check  # hash MATCH
 ```
 
 ## What's next (owner-visible order)
+Two tracks, in order — **F formal chant first** (77 sūtras, verse order, four blocks each), **then S spine edit** (our argument from F's findings). Never blended (see `BUILD_ENGINE.md`).
 1. **B-sweep run-1 DONE (2026-10-26)** — 83/134/1/1 verdicts; re-run at lock. mp3s: all 14 local.
 2. Owner ear on HEAD mp3 → lock essay0.
 3. Audio flow-read (real pauses; stress join 4→5, S6 weight) — levers: promote dancer

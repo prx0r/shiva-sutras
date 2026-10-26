@@ -12,6 +12,21 @@ the long-form queue with context.)
 | `README.md` | front door: state snapshot, read-order, repro commands, repo map | first 5 minutes |
 | `HANDOVER-2026-10-25.md` | the pass-1 day + structure-pass narrative, gotchas, M19–M21 | how we got to today, which errors repeat |
 | `TODO.md` | **20 numbered actions for the next agent** | the executable subset of NEXT |
+| `BUILD_ENGINE.md` | front door: two-track law + decode method → `process/` | how to run/validate/port — read before starting new work |
+
+## `process/` — the objective engine (same apparatus shape as analayo-nibbana/process)
+
+| file | what | why it exists |
+|---|---|---|
+| `process/README.md` | pipeline 00–09, track map, guarantees | the 5-minute orientation |
+| `process/AXIOMS.md` | 12 binding rules | violations fail the build |
+| `process/00-INPUTS.md` … `09-RENDER.md` | one doc per stage: inputs, method, gate | execute the stage, pass the gate |
+| `process/SKILLS.md` | reusable techniques (locate, dual-norm, hold-up, flow-read, ear-harvest, count-sync, chunked transcribe) | port these, not vibes |
+| `process/REPRODUCE.md` | exact rerun order + what stays human (✎) | byte-identical rebuilds |
+| `process/FILES.md` | process artifact map (produced-by → consumed-by) | trace any file to its stage |
+| `process/verify.sh` | one-command audit (units, G0, plain, totals, ledger, presence) | run before every commit touching outputs |
+| `process/10-FORMAL-CHANT.md` | Track F method: tagging, spacing, what it never does | build the chant storyboard per corpus |
+| `build/TRACK_F_STORYBOARD.md` | 76 verse rows (S1-19 flagged missing): B1 chant window + B2 readout + B3 slot + B4 slot | Track F assembly source (separate from S manifests by law) |
 | `NEXT.md` | full queue with context/threads (superset of TODO) | what & why, longer horizon |
 | `PROCESS_NOTES.md` | §0–8h session history + pass-1-complete block + BUILD ORDER LAW | the project's memory — state claims live here |
 | `MISTAKES.md` | M1–M21: mistake → cause → rule | **read BEFORE touching tools**; each rule is load-bearing (assert-count, contiguous quotes, C-semantics…) |
@@ -63,6 +78,7 @@ the long-form queue with context.)
 | `gap_report.py` | uncovered spans per session (SESS map — handles dl1) | the pass's work-queue generator |
 | `sync_counts.py` | recomputes counts → rewrites every doc line that states them | run after ANY unit add/demote; **its NEXT-state template was fixed 2026-10-25 — don't regress it** |
 | `build_manifests.py` | A/B/C manifests: quote→line-run→word-rate cut stamps, SA-order | the cut lists (re-run after any grade/order change) |
+| `make_l0.py` | L0 prototype: chant→TTS→Baumer assembly per cell + bells + loudnorm | the audio pipeline seed (voices swappable; Sharma splits provisional, ear-check) |
 | `s2_cluster.py` | section assignment + verdicts (REPORT ONLY post-pass-1) | historical (48+ overrides logged); new rows are manual now |
 | `cf_transcribe.py`, `vtt2txt.py` | CF whisper + VTT→stamped-text | transcript acquisition (PID-unique temp, 600s chunks) |
 
@@ -73,7 +89,7 @@ the long-form queue with context.)
 | `text/*.txt` (14) | stamped transcripts (the source-of-truth for quotes) | committed; all unit windows reference these stamps |
 | `transcripts/` | raw VTTs (22 = 11×orig+compacted) | provenance for regenerating text/ |
 | `cf/` | CF-whisper JSON+logs (2 sessions) | cf_transcribe outputs |
-| `audio/` (14 mp3 = ALL Baumer+dl1, + `gen/` `cuts/` build-out) | local mp3s + generated audio | **GITIGNORED — never commit audio**; 2026-10-26: 11 pulled, corpus complete |
+| `audio/` (14 mp3 = ALL Baumer+dl1, + `gen/` `cuts/` build-out) | local mp3s + generated audio | **GITIGNORED — never commit audio**; 2026-10-26: 11 pulled, corpus complete; `chant/` + `third/` hold non-Baumer voices, inventoried in `audio/SOURCES.md` |
 | `reference/aphorisms-of-siva-dyczkowski_clean.txt` | held Sanskrit/translation source for cards | **GITIGNORED — copyright; held line-refs (l.735 etc.) are the only things quoted** |
 
 ## House rules that keep this map true

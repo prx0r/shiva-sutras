@@ -1,0 +1,28 @@
+# 09 — RENDER. TTS placeholders → cuts → concat → loudnorm → listen.
+
+## Preconditions (all verified before a single cut)
+Text gates green (verify N/0, G0, plain MATCH, totals reconcile);
+manifests cut with every stamp located; TTS lines scanned (no dead air,
+no orphaned punctuation, English-first, traceable to card/key/bridge);
+every cut file exists; pause-snap done; EAR_CHECK list ready.
+
+## Assembly (`tools/make_audio.py` pattern; prototype: `tools/make_l0.py`)
+1. TTS once: questions, Sanskrit lines, translations, plains → `gen/`.
+2. Bells → sine 880/220 with fades, generated once, reused.
+3. Cuts per manifest beat → `cuts/{uid}_{layer}.wav`, re-encode ±0.15
+   handle (mp3 `-c copy` concat throws warnings — re-encode for real).
+4. Section build: opener stack + clips + pads.
+5. Layer build: essay-0 + sections + zoom-bell, loudnorm each
+   (`loudnorm I=-16:TP=-1.5:LRA=11`).
+6. Master: layer concat re-encode → wav + mp3.
+7. QA gates before ear: verify N/0 · durations in bounds · no silent >8 s
+   outside pads · loudnorm measured (ebur128) · bells under voice ·
+   cough/artifact hunt.
+
+## The listen pass (ears — never automated away, never skipped)
+Fixed layers played end to end. Checklist: join breaths, bell levels,
+lever decisions (demote/promote/re-ask per the audit watch-lists),
+closure tests (does each section land where its question expects?),
+cough cover (micro-cut ±0.3 s or breath bed — hunt, don't sweep).
+Ears sign off or it doesn't ship. TTS engine swaps (placeholder → Fish →
+human) change files, never layout: block order is engine-independent.

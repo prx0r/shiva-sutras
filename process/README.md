@@ -1,9 +1,10 @@
-# The Process: teaching series → faithful chant + clear spine
+# The Process: teaching series → standard chant + custom spine
 
-Turn a long recorded teaching series on a primary text into two videos
-without writing a single word of doctrine yourself:
-**Track F** (formal chant — the text in its own order, complete) then
-**Track S** (spine edit — our clearest findings, selective).
+Turn a long recorded teaching series on a primary text into two
+compilations without writing a single word of doctrine yourself:
+the **Standard Compilation** (chant — the text in its own order,
+complete) then the **Custom Compilation** (spine — our clearest
+findings, selective). Standard first, custom second, never blended.
 
 ## What it is
 
@@ -11,15 +12,15 @@ Given a **primary text** (held, e.g. Dyczkowski's Aphorisms), **archive
 voices** (e.g. Baumer's 13 sessions + Dyczkowski intro + Sharma chant),
 and **stamped transcripts**, this process produces:
 
-- **Track F** — all 77 sūtras in sūtra order, verse by verse, every verse
-  the same four blocks: B1 chant → B2 readout → B3 explanation →
+- **Standard Compilation** — all 77 sūtras in sūtra order, verse by verse,
+  every verse the same four blocks: B1 chant → B2 readout → B3 explanation →
   B4 elaboration. The fidelity object. Nothing skipped, nothing reordered.
-- **Track S, layer A** — the A-grade argument only (~20 min): sections as
-  questions, clips in her order, join-audited. The clearest explanation.
-- **Track S, layer B** — A + depth that passes the hold-up test
+- **Custom Compilation, layer A** — the A-grade argument only (~20 min):
+  sections as questions, clips in her order, join-audited. The clearest explanation.
+- **Custom Compilation, layer B** — A + depth that passes the hold-up test
   (~2× A windows). The deep dive.
-- **Track S, layer C** — A + B + texture in her order (the full walk).
-- **Track S, layer 0** — essay-0: the seed stack (Q → S → T → P → voice),
+- **Custom Compilation, layer C** — A + B + texture in her order (the full walk).
+- **Custom Compilation, layer 0** — essay-0: the seed stack (Q → S → T → P → voice),
   heard at every layer head, 4× across the master.
 
 Each verse/beat is a fixed stack — chant (human Sanskrit), card
@@ -42,8 +43,9 @@ questions at ship, TTS placeholders at v1.
 09 RENDER          TTS placeholders → cuts → concat → loudnorm → listen
 ```
 
-Track map: 00–04 serve both tracks. 05 argues S only (F's storyboard is
-the sūtra order itself). 06 audits both. 07–09 run per track, F first.
+Track map: 00–04 serve both compilations. 05 argues the custom compilation
+only (the standard's storyboard is the sūtra order itself). 06 audits
+both. 07–09 run per compilation, standard first.
 
 Supporting files: `AXIOMS.md` (binding rules), `SKILLS.md` (reusable
 techniques), `MISTAKES.md` at repo root (everything we got wrong + fixes —
@@ -59,6 +61,6 @@ read before touching tools), `REPRODUCE.md` (exact rerun), `FILES.md`
   plain lines are pure function of (translation, key). Deterministic —
   reruns are byte-identical (hash-recorded).
 - Nothing lost: units + ledger hold 100% of the walked material; A/B/C
-  are views. Track F holds 100% of the text's order.
+  are views. The standard compilation holds 100% of the text's order.
 - Flow is read, not assumed: essay-0 read aloud, every join verdicted,
   every B-row hold-up tested, ears sign off before anything ships.

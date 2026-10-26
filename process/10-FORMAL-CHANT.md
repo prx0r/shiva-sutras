@@ -1,10 +1,10 @@
-# 10 — FORMAL CHANT (Track F). Verse order, four blocks, no selectivity.
+# 10 — STANDARD COMPILATION (chant). Verse order, four blocks, no selectivity.
 
-Track F is the fidelity object: every sūtra in sūtra order, same four
-blocks each. It is built, not argued — structure comes from the text,
-voices seat by the speaker law, gaps stay flagged. Artifact:
-`build/TRACK_F_STORYBOARD.md` (one row per verse; separate from every
-Track S artifact by law).
+The Standard Compilation is the fidelity object: every sūtra in sūtra
+order, same four blocks each. It is built, not argued — structure comes
+from the text, voices seat by the speaker law, gaps stay flagged.
+Artifact: `build/TRACK_F_STORYBOARD.md` (one row per verse; separate
+from every custom-compilation artifact by law).
 
 ## Tagging (how the 77 rows were derived — repeat per corpus)
 1. **Sūtra list**: Sanskrit (transliterated) + translation per verse from
@@ -42,6 +42,6 @@ pad thin verses; never cut audited membership for runtime (owner
 decides band vs membership at ear).
 
 ## What this stage does NOT do
-No reordering, no selectivity, no argument, no Track S references.
+No reordering, no selectivity, no argument, no custom-compilation references.
 If a verse lacks explanation audio, its B3 stays a flagged gap — the
 row ships short before it ships invented.

@@ -18,15 +18,15 @@ the long-form queue with context.)
 
 | file | what | why it exists |
 |---|---|---|
-| `process/README.md` | pipeline 00–09, track map, guarantees | the 5-minute orientation |
+| `process/README.md` | pipeline 00–09, compilation map, guarantees | the 5-minute orientation |
 | `process/AXIOMS.md` | 12 binding rules | violations fail the build |
 | `process/00-INPUTS.md` … `09-RENDER.md` | one doc per stage: inputs, method, gate | execute the stage, pass the gate |
 | `process/SKILLS.md` | reusable techniques (locate, dual-norm, hold-up, flow-read, ear-harvest, count-sync, chunked transcribe) | port these, not vibes |
 | `process/REPRODUCE.md` | exact rerun order + what stays human (✎) | byte-identical rebuilds |
 | `process/FILES.md` | process artifact map (produced-by → consumed-by) | trace any file to its stage |
 | `process/verify.sh` | one-command audit (units, G0, plain, totals, ledger, presence) | run before every commit touching outputs |
-| `process/10-FORMAL-CHANT.md` | Track F method: tagging, spacing, what it never does | build the chant storyboard per corpus |
-| `build/TRACK_F_STORYBOARD.md` | 76 verse rows (S1-19 flagged missing): B1 chant window + B2 readout + B3 slot + B4 slot | Track F assembly source (separate from S manifests by law) |
+| `process/10-FORMAL-CHANT.md` | Standard Compilation method: tagging, spacing, what it never does | build the chant storyboard per corpus |
+| `build/TRACK_F_STORYBOARD.md` | 76 verse rows (S1-19 flagged missing): B1 chant window + B2 readout + B3 slot + B4 slot | Standard Compilation assembly source (separate from custom manifests by law) |
 | `NEXT.md` | full queue with context/threads (superset of TODO) | what & why, longer horizon |
 | `PROCESS_NOTES.md` | §0–8h session history + pass-1-complete block + BUILD ORDER LAW | the project's memory — state claims live here |
 | `MISTAKES.md` | M1–M21: mistake → cause → rule | **read BEFORE touching tools**; each rule is load-bearing (assert-count, contiguous quotes, C-semantics…) |

@@ -61,7 +61,7 @@ python3 tools/plain_filter.py --check  # hash MATCH
 ```
 
 ## What's next (owner-visible order)
-Two tracks, in order — **F formal chant first** (77 sūtras, verse order, four blocks each), **then S spine edit** (our argument from F's findings). Never blended (see `BUILD_ENGINE.md`).
+Two compilations, in order — **Standard chant first** (77 sūtras, verse order, four blocks each), **then Custom spine edit** (our argument from the standard's findings). Never blended (see `BUILD_ENGINE.md`).
 1. **B-sweep run-1 DONE (2026-10-26)** — 83/134/1/1 verdicts; re-run at lock. mp3s: all 14 local.
 2. Owner ear on HEAD mp3 → lock essay0.
 3. Audio flow-read (real pauses; stress join 4→5, S6 weight) — levers: promote dancer

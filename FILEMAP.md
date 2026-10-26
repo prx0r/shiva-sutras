@@ -62,6 +62,7 @@ the long-form queue with context.)
 | `manifest_s{1..6}_{A,B,C}.json` | 18 manifests: ordered clips w/ quote-located t_in/t_out, card+question | the cut lists for every layer — built by `tools/build_manifests.py` |
 | `C_WALK.md` | the C layer as a doc (300 clips, her order) | readable texture walk; manifest_sc_C.json = machine source |
 | `BEATS.md` | run-order, opener grammar, bell spec, assembly pipeline, runtimes | THE build instrument for audio (v1) |
+| `VISUAL_ENGINE_SPEC.md` | left-2/3 timeline (verse/quote/diagram/question) + right-1/3 ambient deity loop + build recipe | the video spec (v1 prototypes rendered, templates/diagrams open) |
 | `SPEAKERS.md` | voice map (archive vs human vs TTS) + v1 placeholder rulings | who speaks what |
 | `EAR_CHECK.md` | 32 ASR suspects (uid+window+expected) | verify at audio QA; `naruto` sits in an A-quote |
 | `key_ss1_proposal.json`, `plain_essay0.json`, `loanwords_ss1.json`, `t_essay0.txt` | key/plain pipeline states (PROPOSAL) | plain rows are mechanical filter-output — regenerate+rehash at key sign-off, **never hand-edit** |
@@ -82,6 +83,12 @@ the long-form queue with context.)
 | `make_essence.py` | essence build + production sheet from measured cuts (single source; asserts sheet==master) | standard-compilation essence + `TRACK_F_PRODUCTION.md` |
 | `validate_sheet.py` | validates ANY production sheet (standard or custom): files exist, durations match, timecodes accumulate, total matches, audit+FX sections present | the sheet is the product — run before any render talk |
 | `flow_lint.py` | deterministic flow checks (runs, joints, longs, repetition, deictic slots, pause inventory) | machine half of peer review — ears decide, never the linter |
+| `validate_sheet.py` | validates ANY production sheet | the sheet is the product — run before any render talk |
+| `listen.py` | Qwen omni ears (qa/critic/joints/deictic/verify/audit modes) | model QA per LISTENING.md — findings need corroboration |
+| `tts_scan.py` | no raw Sanskrit through TTS (stoplist + spoken-form map) | run after any TTS line/key change |
+| `deictic_check.py` | antecedent surfacing from transcript text | FLOW_REVIEW Q4 evidence, per cut |
+| `visual_prototype_v0.py` | static split-screen prototype (S1-1 card left + 01-stages right, 1920×1080) | layout-lock reference (R2 `journey/shiva-s1-1-v0.mp4`) |
+| `visual_prototype_v1.py` | switching-left (verse→quote→four-levels diagram) + ambient-right loop prototype | promote into visual_left/right at template lock (R2 `journey/shiva-v1-timeline.mp4`) |
 | `s2_cluster.py` | section assignment + verdicts (REPORT ONLY post-pass-1) | historical (48+ overrides logged); new rows are manual now |
 | `cf_transcribe.py`, `vtt2txt.py` | CF whisper + VTT→stamped-text | transcript acquisition (PID-unique temp, 600s chunks) |
 

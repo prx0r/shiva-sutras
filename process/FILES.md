@@ -24,6 +24,10 @@
 | `tools/tts_scan.py` | no raw Sanskrit through TTS (stoplist + TTS_SAY) | after any TTS line/key change |
 | `tools/deictic_check.py` | antecedent surfacing from transcript text | FLOW_REVIEW Q4 evidence, per cut |
 | `tools/flow_lint.py` | machine half of flow review (runs, joints, longs, repetition, slots, pauses) | deterministic pre-ear check | every sheet, every re-cut |
+| `tools/validate_sheet.py` | sheet==master, files exist, audit+FX present | the sheet is the product | before any render talk |
+| `tools/listen.py` | Qwen omni ears (qa/critic/joints/deictics/verify/audit) | model QA per LISTENING.md | per pass, costs logged |
+| `process/LISTENING.md` | ears doctrine: point of listen, critic format, full potential | what models can/can't do | before scheduling passes |
+| `build/LISTEN_audit_<cut>.json` | machine-readable audit findings | corroboration input, never verdicts | per audit pass |
 | `process/FLOW_REVIEW.md` | 10-question evidence protocol | repeatable human pass | after validate_sheet, before ears |
 | `build/FLOW_REVIEW_<cut>.md` | recorded findings (verdict + evidence) | the review artifact | filed per review |
 | `process/ROLES.md` | roles abstract + shiva casting | casting, handover law, recast rule | beats, sheets, render |

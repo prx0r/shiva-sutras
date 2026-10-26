@@ -47,7 +47,8 @@ Track map: 00–04 serve both compilations. 05 argues the custom compilation
 only (the standard's storyboard is the sūtra order itself). 06 audits
 both. 07–09 run per compilation, standard first.
 
-Supporting files: `AXIOMS.md` (binding rules), `SKILLS.md` (reusable
+Supporting files: `AXIOMS.md` (binding rules), `ROLES.md` (the company:
+roles abstract + our casting), `SKILLS.md` (reusable
 techniques), `MISTAKES.md` at repo root (everything we got wrong + fixes —
 read before touching tools), `REPRODUCE.md` (exact rerun), `FILES.md`
 (artifact map; repo-wide paths live in `FILEMAP.md`), `verify.sh`

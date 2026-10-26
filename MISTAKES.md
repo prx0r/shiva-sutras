@@ -159,3 +159,12 @@
   Netra-limbs, quote is the fire/lake line) — judge demotes on the QUOTE, not the label.
   **Rule: derived sheets/manifests are regenerated from unit files, never trusted across
   sessions; and any duplicate/nested-window check belongs in verify_units (M19 follow-up).**
+- **M24. Stale cut cache: span change, same filename.** `make_essence`'s
+  cutter skipped existing files, so re-cutting c2's spans reused the old
+  46s b0 under the new plan — acrossfade then rendered 46+30 = 75.6s of
+  "cell" and every downstream gate still passed (files existed, durations
+  matched the WRONG plan because the plan measured the same stale files).
+  Caught only because the master grew 34s between passes. **Rule: derived
+  cut filenames carry their spans (uid + t_in–t_out); bare indices are
+  forbidden. Sheet and master assert equality every build so a cache bug
+  can only fail loud, never ship.**

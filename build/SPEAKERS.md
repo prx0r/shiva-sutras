@@ -5,7 +5,7 @@
 | **BAUMER** | archive (`audio/ss*.mp3`) | all ss1–ss13 unit clips, essay-0 cell clips | final (the material) |
 | **Dyczkowski** | archive (`audio/Shiva_Sutra_Introduction.mp3`) | dl1 clips (S1) | final |
 | **HUMAN** | questions (6, per section × layers) + any bridges | opens every beat | **v1 = TTS placeholder** — owner re-records (~24 openers ≈ 2 min of speech) |
-| **PLAIN/TEXT** | sanskrit words + translations + plains (card rows) | opener stacks | **v1 = TTS** — regenerate after key sign-off (rows are proposal-key output) |
+| **PLAIN/TEXT** | sanskrit words + translations + plains (card rows) | opener stacks | **v1 = Fish s2.1-pro-free default voice** (espeak retired 2026-10-26) · spoken-form map `TTS_SAY` in builders (display text never changes) · regenerate after key sign-off |
 
 Rules carried (SPINE gospel / FORMULA / analayo 04):
 - Order fixed: question → pause → card (S→T) → plain → archive voice. No plain

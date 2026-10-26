@@ -43,3 +43,22 @@
     EVERY parser in the same commit (M12). Derived files regenerate
     from units, never trusted across sessions (M23). The pipeline only
     changes by adding checks, never by relaxing them.
+13. **Take responsibility: read it cold and verdict it in your own voice.**
+    Summarizing the artifacts is not reviewing them. When asked whether
+    something works — a cell, an argument, a flow — re-read the words
+    themselves and return verdicts with reasons, not descriptions.
+    GOOD (2026-10-26 responsibility read — what it uncovered):
+    S1's clip never says "self" (the card does; the fusion works but is
+    doing quiet work) · S3's cell is 70% apophatic (positive mechanism
+    lives in B — kept consciously, not accidentally) · S4's translation
+    is the most opaque of the six (fix is air around it, not new words)
+    · S6's voice answers "stage" to an "actor" question (ss13-20
+    audition proposed) · pauses were undifferentiated (breath for
+    thinking, beat for landing, water for reset — specified per row) ·
+    the single G12 breach named with a keep-whole recommendation.
+    BAD (what assuming would have shipped): a flow-read that reports
+    "6/6 cohere" while no cell was ever tested against its question; a
+    pause spec copied from the template onto questions of different
+    weight; a 46-second cell nobody measured against its 25-second rule.
+    An agent that cannot point at the sentence that earned its verdict
+    has not done the read.

@@ -18,8 +18,15 @@
 | `build/manifest_s{1..6}_{A,B,C}.json`, `C_WALK.md` | 07 | `build_manifests.py` | beats, render |
 | `build/BEATS.md`, `SPEAKERS.md`, `EAR_CHECK.md` | 08 | hand ✎ | render |
 | `audio/gen/`, `audio/cuts/` | 09 | `make_l0.py` / `make_audio.py` | masters (gitignored) |
+| `build/TRACK_F_PRODUCTION.md` | 07/09 | `make_essence.py` (measured timecodes, asserts sheet==master) | essence assembly + ear session |
 | `audio/SOURCES.md` | 00 | hand ✎ | voice rights/jobs |
 | `process/verify.sh` | gates | runs the gates | every commit touching outputs |
+| `tools/tts_scan.py` | no raw Sanskrit through TTS (stoplist + TTS_SAY) | after any TTS line/key change |
+| `tools/deictic_check.py` | antecedent surfacing from transcript text | FLOW_REVIEW Q4 evidence, per cut |
+| `tools/flow_lint.py` | machine half of flow review (runs, joints, longs, repetition, slots, pauses) | deterministic pre-ear check | every sheet, every re-cut |
+| `process/FLOW_REVIEW.md` | 10-question evidence protocol | repeatable human pass | after validate_sheet, before ears |
+| `build/FLOW_REVIEW_<cut>.md` | recorded findings (verdict + evidence) | the review artifact | filed per review |
+| `process/ROLES.md` | roles abstract + shiva casting | casting, handover law, recast rule | beats, sheets, render |
 
 Audio (`audio/*.mp3`, `audio/chant/`, `audio/third/`) is local-only,
 gitignored, inventoried — never committed (M13).

@@ -78,7 +78,10 @@ the long-form queue with context.)
 | `gap_report.py` | uncovered spans per session (SESS map — handles dl1) | the pass's work-queue generator |
 | `sync_counts.py` | recomputes counts → rewrites every doc line that states them | run after ANY unit add/demote; **its NEXT-state template was fixed 2026-10-25 — don't regress it** |
 | `build_manifests.py` | A/B/C manifests: quote→line-run→word-rate cut stamps, SA-order | the cut lists (re-run after any grade/order change) |
-| `make_l0.py` | L0 prototype: chant→TTS→Baumer assembly per cell + bells + loudnorm | the audio pipeline seed (voices swappable; Sharma splits provisional, ear-check) |
+| `make_l0.py` | SUPERSEDED by make_essence (history) | do not build from this |
+| `make_essence.py` | essence build + production sheet from measured cuts (single source; asserts sheet==master) | standard-compilation essence + `TRACK_F_PRODUCTION.md` |
+| `validate_sheet.py` | validates ANY production sheet (standard or custom): files exist, durations match, timecodes accumulate, total matches, audit+FX sections present | the sheet is the product — run before any render talk |
+| `flow_lint.py` | deterministic flow checks (runs, joints, longs, repetition, deictic slots, pause inventory) | machine half of peer review — ears decide, never the linter |
 | `s2_cluster.py` | section assignment + verdicts (REPORT ONLY post-pass-1) | historical (48+ overrides logged); new rows are manual now |
 | `cf_transcribe.py`, `vtt2txt.py` | CF whisper + VTT→stamped-text | transcript acquisition (PID-unique temp, 600s chunks) |
 

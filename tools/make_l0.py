@@ -31,6 +31,49 @@ def cut(src, t_in, t_out, dst):
         "-i", src, "-af", "afade=t=in:d=0.15,afade=t=out:d=0.15",
         "-ar", "44100", "-ac", "1", dst])
 
+
+def _fish_key():
+    import re as _re
+    for _f in [os.path.expanduser("~/.config/opencode/.env")]:
+        try:
+            _t = open(_f).read()
+        except OSError:
+            continue
+        _m = _re.search(r"^FISH_API_KEY=(.*)$", _t, _re.M)
+        if _m and _m.group(1).strip():
+            return _m.group(1).strip()
+    return None
+
+# Spoken-form map: display text NEVER changes; only what TTS says.
+# (Verified by probe 2026-10-26: model transcribes v2 as "Bhairava".)
+TTS_SAY = {"Bhairava": "Bye-ruh-vuh", "bhairava": "bye-ruh-vuh"}
+
+def _fish_tts(text, dst):
+    # v1 voice = Fish s2.1-pro-free default voice (human-intelligible).
+    # Returns True on success (wav 44.1k mono in place).
+    import json as _json, urllib.request as _url
+    key = _fish_key()
+    if key is None:
+        return False
+    for _w, _s in TTS_SAY.items():
+        text = text.replace(_w, _s)
+    body = _json.dumps({"model": "fish-audio/s2.1-pro-free",
+                        "input": text, "voice": "",
+                        "response_format": "wav"}).encode()
+    try:
+        req = _url.Request("https://api.fish.audio/compat/v1/audio/speech",
+            data=body, headers={"Authorization": f"Bearer {key}",
+                                "Content-Type": "application/json"})
+        data = _url.urlopen(req, timeout=120).read()
+        open(dst + ".fish.wav", "wb").write(data)
+        sh(["ffmpeg", "-v", "error", "-y", "-i", dst + ".fish.wav",
+            "-af", "aresample=44100,aformat=channel_layouts=mono", dst])
+        os.remove(dst + ".fish.wav")
+        return True
+    except Exception as e:
+        print(f"fish tts failed ({str(e)[:100]}), espeak fallback", flush=True)
+        return False
+
 def tts(text, dst, voice="en"):
     # v1 placeholder voice: edge-tts is egress-blocked here, Fish needs a
     # key (owner). espeak proves the assembly; swap the engine later —
@@ -58,25 +101,26 @@ MP3 = {"ss3": "sLD0aeV1d3o", "ss4": "KSpk4KO0JY4", "ss12": "r5wTwUNVYOo",
 def hms(h, m, s):
     return h * 3600 + m * 60 + s
 
-# (chant_in, chant_out, baumer_sess, [(b_in,b_out),...], Q, T, P)
+# Chant windows: dip-snapped (silencedetect -28dB/0.12s) near proportional
+# splits inside Sharma section runs. Method-honest, ear-check at render.
 CELLS = [
-    (267.0, 270.8, "ss3", [(hms(1,19,45), hms(1,19,55)), (hms(1,20,26), hms(1,20,32))],
+    (266.4, 270.4, "ss3", [(hms(1,19,45), hms(1,19,55)), (hms(1,20,26), hms(1,20,32))],
      "What is consciousness?",
      "Consciousness is the Self.", "consciousness is the self"),
-    (270.8, 274.6, "ss4", [(hms(0,33,36), hms(0,34,22))],
+    (270.4, 275.9, "ss4", [(hms(0,33,36), hms(0,34,22))],
      "What keeps consciousness from being realised?",
      "Knowledge is bondage.", "knowledge is bondage"),
-    (282.2, 286.0, "ss12", [(hms(0,20,18), hms(0,20,30))],
+    (282.7, 287.1, "ss12", [(hms(0,20,18), hms(0,20,30))],
      "How does realisation happen?",
      "Bhairava is upsurge.", "bhairava is upsurge"),
-    (312.7, 317.3, "ss7", [(hms(0,22,32), hms(0,23,0))],
+    (318.9, 322.9, "ss7", [(hms(0,22,32), hms(0,23,0))],
      "What does realisation do to experience?",
      "The enjoyer of the three states is the Lord of the Heroes.",
      "the enjoyer of the three states is the lord of the heroes"),
-    (392.0, 395.0, "ss11", [(hms(0,50,23), hms(0,50,38))],
+    (392.0, 396.2, "ss11", [(hms(0,50,23), hms(0,50,38))],
      "What does the mind have to do with consciousness?",
      "The mind is Mantra.", "the mind is mantra"),
-    (492.6, 497.4, "ss13", [(hms(1,2,58), hms(1,3,9))],
+    (492.5, 498.9, "ss13", [(hms(1,2,58), hms(1,3,9))],
      "What happens after realisation?",
      "The self is the actor.", "the self is the actor"),
 ]
@@ -95,9 +139,9 @@ def main():
         tag = f"c{i}"
         ch = os.path.join(CUTS, f"{tag}_chant.wav")
         cut(SHARMA, ci, co, ch)
-        qq = os.path.join(CUTS, f"{tag}_q.mp3"); tts(q, qq)
-        tt = os.path.join(CUTS, f"{tag}_t.mp3"); tts(t, tt)
-        pp = os.path.join(CUTS, f"{tag}_p.mp3"); tts(p, pp)
+        qq = os.path.join(CUTS, f'{tag}_q.wav'); tts(q, qq)
+        tt = os.path.join(CUTS, f'{tag}_t.wav'); tts(t, tt)
+        pp = os.path.join(CUTS, f'{tag}_p.wav'); tts(p, pp)
         parts = []
         for j, (bi, bo) in enumerate(bspans):
             bp = os.path.join(CUTS, f"{tag}_b{j}.wav")
@@ -111,7 +155,7 @@ def main():
             open(lst, "w").write("".join(f"file '{x}'\n" for x in parts))
             sh(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0",
                 "-i", lst, "-c", "copy", cell])
-        seq += [os.path.join(CUTS, f"{tag}_q.mp3"),
+        seq += [os.path.join(CUTS, f'{tag}_q.wav'),
                 os.path.join(CUTS, "breath.wav"), ch, tt, pp,
                 os.path.join(CUTS, "gap.wav"), cell,
                 os.path.join(CUTS, "water.wav")]

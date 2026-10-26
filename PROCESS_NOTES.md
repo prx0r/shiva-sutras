@@ -332,3 +332,68 @@ coverage-standard (#5), key sign-off. A=23.5m vs band 10–20m recorded honestly
 (BEATS.md run-time honesties) — no A-clip cut for runtime.
 
 CLOSED this session: format law, sūtra map, question set, stale strings, manifest/catalogue/pycache, /tmp-scripts (tantraessays).
+
+## 8j. RESPONSIBILITY READ (2026-10-26) — agent takes verdicts, not summaries
+
+Owner: "take responsibility now — does essay-0 and A make sense answering
+the questions, what pausing, does the flow work." Agent re-read the six
+cells + six arguments + joins cold and returned verdicts with reasons
+(full text in session; decisions below). Codified the same day as
+AXIOMS.md #13, SKILLS.md (Responsibility read), AGENTS.md (root).
+
+Findings (each names its sentence; none existed in any artifact before):
+- S1: clip never says "self" (card does) — fusion works, doing quiet work; don't widen the gap.
+- S2: best cell, no action.
+- S3: 70% apophatic — B carries the positive mechanism (dl1-07 in earshot if listeners ask "but what DOES it?"); kept consciously.
+- S4: most opaque T of the six — fix is air (longest T-landing beat), not new words; seed blooms late, section repays the debt (recorded).
+- S5: excellent, no action.
+- S6: voice answers "stage" to an "actor" question — audition ss13-20 as cell voice at ear, keep ss13-09 as closer.
+- Pauses differentiated by job: breath 2.5s after short Q (3s for S4/S5 long Q) = thinking; explicit ~1s beat after T = landing (S1/S2-shock/S4 especially); water = reset; 5s XL at 4→5, S5 Q does the bridging (no spoken bridge).
+- L0→LA restatement endorsed as doctrine-performed; zoom bells load-bearing at master scale (recurrence must feel ritual).
+- S5 opener bridge endorsed without redesign (planned glue stands; ear verifies).
+- G12 breach named: ss4-15 runs 46s vs 25s rule — lean KEEP WHOLE with written exception (one thought); ear confirms or splits.
+Decisions handed to owner/ears: S3 grace question, S6 voice audition, G12 exception.
+Lesson recorded: gates check compliance, only the read checks sense —
+a 6/6-cohere report without per-sentence verdicts would have shipped
+every one of these defects green.
+
+### §8j follow-up (2026-10-26, same day) — fixes applied, one flag overturned
+- S1-19 filled: Sanskrit + translation verified vs held Aphorisms l.1923-24
+  (Kṣemarāja 1.19; page + front-listing both skip it); chant window
+  dip-snapped [361.2→366.5]; storyboard now 77 verse rows.
+- Pauses differentiated in assembly: T-landing beat 1.0s after every
+  translation; 3.0s breath behind the two long questions (S4, S5 cells).
+  Essence re-rendered: 75 cues, 311s, sheet==master asserted in build.
+- S6 audition DROPPED on re-read: ss13-09's delight-exhibiting-drama
+  directly answers "what happens after" — the slide I flagged was mine,
+  not the cell's. No swap; verdict recorded here instead.
+- G12 exception recorded (not resolved): ss4-15 runs 46s vs the 25s rule —
+  KEEP WHOLE stands (one thought; cutting loses the partial-vs-deep
+  distinction). Ear confirms or splits; the flag rides the production
+  sheet until then.
+- S3 apophatic ruling stands with dl1-07 noted in earshot (storyboard S1-5).
+
+## 8k. FLOW REVIEW + LINT (2026-10-26) — peer review made repeatable
+- Built `tools/flow_lint.py`: deterministic pre-ear checks (voice runs,
+  joint inventory, >25s clips, repetition, deictic slots, pause
+  inventory). Same sheet → same findings, any agent.
+- Wrote `process/FLOW_REVIEW.md`: 10-question evidence protocol (every
+  answer cites cues/timecodes/quotes) + verdict format (PASS/SOFT/FLAG,
+  FLOW/NO-FLOW). Filed `build/FLOW_REVIEW_essence_v1.md`: FLOW with
+  3 ear FLAGs (c2 "they" antecedent +5s in-clip; c2/c4 split points;
+  S1-head "22 sutras" trim — short alt cut banked:
+  `audio/gen/l0_cuts/head_s1_intro_short.wav` [250→257s]).
+- Read verdicts: Q-chain holds; landings ≤4s; c2's 46s is load-bearing
+  (obstacle gets weight), not bloat; Light-head/spine-cell interleave
+  checked — no conflict (c1–c4 are all Light-1 sutras); c1 two-span
+  concat OK-text, ear-verify.
+- Rule confirmed: lint gates the review, the protocol gates the render;
+  disagreements land on FLAGs with evidence both sides. Machine
+  enumerates, only the read judges.
+
+### §8j follow-up 2 (2026-10-26) — Fish voice in, TTS_SAY map, L0 retired
+- Alibaba key 401s at both regions; ears run on OpenRouter gpt-audio-mini instead (~$0.002/pass). Qwen-omni path stays open if a good key lands.
+- Owner-supplied Fish key verified + stored (local env only, never echoed); all 24 TTS lines rebuilt in Fish s2.1-pro-free default voice. espeak retired everywhere.
+- Bhairava fix verified by isolated probe (v2 "Bye-ruh-vuh" transcribed exactly; v1/v3 degraded) → `TTS_SAY` spoken-form map in both builders; display text untouched. Full-mix transcripts are unreliable for fine phonetics — isolated probes only.
+- Excerpt probes confabulate worse than full passes (c3 excerpt invented mantras/speakers). Method: probe isolated lines, full pieces for structure, never excerpts as evidence.
+- make_l0.py SUPERSEDED by make_essence.py (two assemblies = two truths); essence is the single build path. L0 mp3 kept as history.

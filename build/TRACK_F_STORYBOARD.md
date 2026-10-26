@@ -6,14 +6,17 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 
 ## S1 — 22 sūtras — chant run [267s → 382s] (5.2s/sūtra proportional)
 
-### S1-1 · `Caitanyamatma` · chant [267.0s → 272.2s]
+### S1-HEAD · opener: bell 880Hz/2.5s → Sharma intro [250s → 264s] ("First section is Śāmbhavopāya… 22 sutras") → card S+T+P → water
+### S1-TAIL · closer: last sūtra S1-22 → water 2.5s → payoff = cakreśvara/mastery (FLAG: confirm payoff clip at assembly)
+
+### S1-1 · `Caitanyamatma` · chant [266.4s → 270.4s] (dip-snapped ✓ L0-cut)
 - B2 readout: T: "Consciousness is the Self."
-- B3 explanation: B3 anchor ss3-10 · HEAD cell · Q1
+- B3 explanation: Baumer ss3-10 (cell, L0-cut c1) — universal/not-doing
 - B4 elaboration: B4: Osho D1 · Hareesh ep78 (S1 doorway)
 
-### S1-2 · `Jnanam Bandhah` · chant [272.2s → 277.5s]
+### S1-2 · `Jnanam Bandhah` · chant [270.4s → 275.9s] (dip-snapped ✓ L0-cut)
 - B2 readout: T: "Knowledge is bondage."
-- B3 explanation: B3 anchor ss4-15 · S2 cell (1.2)
+- B3 explanation: Baumer ss4-15 (cell, L0-cut c2) — incomplete-knowledge WHY
 - B4 elaboration: B4: Hareesh ep78 (S1 doorway)
 
 ### S1-3 · `Yonivargah Kalasariram` · chant [277.5s → 282.7s]
@@ -26,10 +29,10 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: Hareesh ep78 (S1 doorway)
 
-### S1-5 · `Udyamao Bhairava` · chant [287.9s → 293.1s]
+### S1-5 · `Udyamo Bhairava` · chant [282.7s → 287.1s] (dip-snapped ✓ L0-cut; overlaps 1.6 head ~1s — fade handles, ear-check)
 - B2 readout: T: "Bhairava is upsurge."
-- B3 explanation: B3 anchor ss12-16 · S3 cell (1.5)
-- B4 elaboration: B4: Osho D1(upasurge)
+- B3 explanation: Baumer ss12-16 (cell, L0-cut c3) — not-made-by-effort WHY
+- B4 elaboration: B4: Osho D1(upasurge) · dl1-07 grace-insight in earshot at ear session (positive mechanism lives one layer down — conscious choice, §8j)
 
 ### S1-6 · `Sakticakrasandhane visvasambarah` · chant [293.1s → 298.4s]
 - B2 readout: T: "When the Wheel of Energies fuses together, the universe is withdrawn."
@@ -56,9 +59,9 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: —
 
-### S1-11 · `Tritayabhokta viresah` · chant [319.3s → 324.5s]
+### S1-11 · `Tritayabhokta viresah` · chant [318.9s → 322.9s] (dip-snapped ✓ L0-cut)
 - B2 readout: T: "The enjoyer of the three states is the Lord of the Heroes."
-- B3 explanation: B3 anchor ss7-06 · S4 cell (1.11)
+- B3 explanation: Baumer ss7-06 (cell, L0-cut c4) — fills-world-with-bliss
 - B4 elaboration: B4: —
 
 ### S1-12 · `Vismayo yogabhumikah` · chant [324.5s → 329.7s]
@@ -101,6 +104,11 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: —
 
+### S1-19 · `Saktisandhane sarirotpattih` · chant [361.2s → 366.5s] (dip-snapped; Sanskrit+translation verified vs held text l.1923-24)
+- B2 readout: T: "The body comes into being when the energies unite." (Dyczkowski body; Kṣemarāja 1.19 = Bhaskara 1/20)
+- B3 explanation: section pool, assign at cut
+- B4 elaboration: —
+
 ### S1-20 · `Suddhavidyodayaccakresatvasiddhih` · chant [366.3s → 371.5s]
 - B2 readout: T: FLAG fill-from-commentary
 - B3 explanation: B3: section pool, assign at cut
@@ -113,9 +121,12 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 
 ## S2 — 10 sūtras — chant run [392s → 442s] (5.0s/sūtra proportional)
 
-### S2-1 · `Cittam mantra` · chant [392.0s → 397.0s]
+### S2-HEAD · opener: bell 880Hz/2.5s → Sharma intro [382s → 391s] ("Om. Now, second section, Shaktopāya") → card S+T+P → water
+### S2-TAIL · closer: last sūtra S2-10 → water 2.5s → payoff = Turya-dream threshold (FLAG: confirm at assembly)
+
+### S2-1 · `Cittam mantra` · chant [392.0s → 396.2s] (dip-snapped ✓ L0-cut)
 - B2 readout: T: "The mind is Mantra."
-- B3 explanation: B3 anchor ss11-05 · S5 cell (2.1)
+- B3 explanation: Baumer ss11-05 (cell, L0-cut c5) — becomes-that-mantra
 - B4 elaboration: B4: Osho D4 cittam-mantra
 
 ### S2-2 · `Prayatnah Sadhakah` · chant [397.0s → 402.0s]
@@ -165,6 +176,9 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 
 ## S3 — 45 sūtras — chant run [453s → 684s] (5.1s/sūtra proportional)
 
+### S3-HEAD · opener: bell 880Hz/2.5s → Sharma intro [444s → 449s] ("Third is ānavopāya") → card S+T+P → water
+### S3-TAIL · closer: last sūtra S3-45 + Sharma closing Om [684s → 690s] → terminal water 6s (no climax — stilling, not resolution)
+
 ### S3-1 · `Atma cittam` · chant [453.0s → 458.1s]
 - B2 readout: T: "The mind is the Self."
 - B3 explanation: B3: section pool, assign at cut
@@ -205,9 +219,9 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: —
 
-### S3-9 · `Nartaka atma` · chant [494.1s → 499.2s]
+### S3-9 · `Nartaka atma` · chant [492.5s → 498.9s] (dip-snapped ✓ L0-cut)
 - B2 readout: T: "The Self is the actor."
-- B3 explanation: B3 anchor ss13-09 · S6 cell (3.9)
+- B3 explanation: Baumer ss13-09 (cell, L0-cut c6) — delight-exhibiting-drama answers 'what happens' (audition of ss13-20 dropped 2026-10-26: re-read defends the stage; see PROCESS_NOTES §8j)
 - B4 elaboration: B4: Osho D6 dancer
 
 ### S3-10 · `Rangontaratma` · chant [499.2s → 504.3s]

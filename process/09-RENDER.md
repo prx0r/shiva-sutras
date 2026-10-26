@@ -1,4 +1,9 @@
-# 09 — RENDER. TTS placeholders → cuts → concat → loudnorm → listen.
+# 09 — RENDER (final-final; the SHEET is the shippable product).
+
+Render executes a validated sheet and nothing else. No render talk until
+`validate_sheet.py` is green AND ears have signed the sheet — the sheet
+is what ships for review, the master is what ships for ears. Same rule
+both compilations. TTS placeholders → cuts → concat → loudnorm → listen.
 
 ## Preconditions (all verified before a single cut)
 Text gates green (verify N/0, G0, plain MATCH, totals reconcile);

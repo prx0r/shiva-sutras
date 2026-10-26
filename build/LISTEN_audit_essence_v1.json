@@ -1,0 +1,68 @@
+{
+ "verdict": "NO-FLOW",
+ "ratings": [
+  {
+   "cue": "opening_silence",
+   "flow": 1,
+   "why": "\"What is consciousness?\""
+  },
+  {
+   "cue": "question_01",
+   "flow": 2,
+   "why": "\"Consciousness is the self.\""
+  },
+  {
+   "cue": "answer_01",
+   "flow": 2,
+   "why": "\"Knowledge is bondage.\""
+  },
+  {
+   "cue": "transition_to_q2",
+   "flow": 1,
+   "why": "\"How does realization happen?\""
+  },
+  {
+   "cue": "answer_02_part1",
+   "flow": 3,
+   "why": "\"The enjoyer of the three states...\""
+  },
+  {
+   "cue": "bridge_to_q3",
+   "flow": 2,
+   "why": "\"The mind is mantra.\""
+  },
+  {
+   "cue": "final_answer",
+   "flow": 2,
+   "why": "\"The Self is the actor.\""
+  }
+ ],
+ "flaws": [
+  {
+   "where": "bell ... What is consciousness?",
+   "what": "Long silence after bell before first question.",
+   "fix": "Reduce pause to 1-2 seconds for better pacing."
+  },
+  {
+   "where": "Consciousness is the self. [cut] Consciousness is the self.",
+   "what": "Mid-word cut and abrupt repetition of phrase.",
+   "fix": "Remove duplicate take; ensure clean edit point."
+  },
+  {
+   "where": "There are varieties up surge. There are varieties up surge.",
+   "what": "Unclear phrasing 'up surge' repeated with hard cut.",
+   "fix": "Clarify intended meaning or remove garbled segment."
+  },
+  {
+   "where": "The mind is mantra. The mind is mantra.",
+   "what": "Unnecessary repetition creates dragging effect in dialogue.",
+   "fix": "Delete second instance to maintain conversational flow."
+  }
+ ],
+ "pronunciation": [],
+ "advice": "Tighten edits significantly by removing repetitive takes and shortening dead air between questions and answers.",
+ "_meta": {
+  "engine": "qwen3.8-omni-flash",
+  "note": "machine enumeration only — verdicts per FLOW_REVIEW human protocol; repetition/XL-pause flags are BY DESIGN (gospel T+P, settle/terminal XLs), head-card-before-Q is the seed-plant (UNFOLDING); \"varieties upsurge\" contradicts isolated-probe \"Bhairava\" — human ears decide"
+ }
+}

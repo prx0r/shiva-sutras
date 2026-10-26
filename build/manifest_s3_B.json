@@ -1,0 +1,206 @@
+{
+ "section": "S3",
+ "layer": "B",
+ "question": "How does realisation happen?",
+ "card": {
+  "question": "How does realisation happen?",
+  "sanskrit": "udyamo bhairavah",
+  "sutra": "1.5",
+  "translation": "Bhairava is upsurge.",
+  "plain": "bhairava is upsurge",
+  "ref": "Aphorisms l.979/980 · trans l.173"
+ },
+ "source_order": "SECTION_ARGUMENTS (join-audited) + (sess,ts) inserts",
+ "clip_count": 17,
+ "window_seconds": 352.2,
+ "window_runtime": "00:05:52",
+ "beats": [
+  {
+   "seq": 1,
+   "uid": "dl1-07",
+   "session": "dl1",
+   "mp3": "audio/Shiva_Sutra_Introduction.mp3",
+   "t_in": 501.0,
+   "t_out": 528.2,
+   "dur": 27.2,
+   "grade": "B",
+   "title": "the supreme grace is to receive that insight - unfolded by Paramashiva in the dream"
+  },
+  {
+   "seq": 2,
+   "uid": "ss5-16",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 731.0,
+   "t_out": 750.0,
+   "dur": 19.0,
+   "grade": "B",
+   "title": "anupaya: get it free of cost, no effort - if you are receptive"
+  },
+  {
+   "seq": 3,
+   "uid": "ss6-01",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 454.0,
+   "t_out": 470.2,
+   "dur": 16.2,
+   "grade": "B",
+   "title": "jīvanmukti in this body is the whole question of 1.5"
+  },
+  {
+   "seq": 4,
+   "uid": "ss6-02",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 510.0,
+   "t_out": 536.4,
+   "dur": 26.4,
+   "grade": "B",
+   "title": "sudden enlightenment, Zen correspondence, start from the highest"
+  },
+  {
+   "seq": 5,
+   "uid": "ss6-04",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 824.0,
+   "t_out": 845.0,
+   "dur": 21.0,
+   "grade": "A",
+   "title": "ud + yam: upward, sudden, not step by step"
+  },
+  {
+   "seq": 6,
+   "uid": "ss6-05",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 1002.0,
+   "t_out": 1014.1,
+   "dur": 12.1,
+   "grade": "A",
+   "title": "wherever you feel that uplifting, that is the divine"
+  },
+  {
+   "seq": 7,
+   "uid": "ss6-08",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 1333.0,
+   "t_out": 1347.0,
+   "dur": 14.0,
+   "grade": "A",
+   "title": "the śaktis that bound now enlighten, once united with Bhairava"
+  },
+  {
+   "seq": 8,
+   "uid": "ss6-20",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 1476.0,
+   "t_out": 1524.0,
+   "dur": 48.0,
+   "grade": "B",
+   "title": "enlightenment happens on its own - yet only in those devoted, attentively inward"
+  },
+  {
+   "seq": 9,
+   "uid": "ss6-14",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 2110.0,
+   "t_out": 2129.7,
+   "dur": 19.7,
+   "grade": "A",
+   "title": "unmeṣa happens between two thoughts"
+  },
+  {
+   "seq": 10,
+   "uid": "ss7-23",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 1094.0,
+   "t_out": 1110.7,
+   "dur": 16.7,
+   "grade": "B",
+   "title": "lightning-flash: sudden enlightenment, the flashing forth"
+  },
+  {
+   "seq": 11,
+   "uid": "ss7-40",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 5288.0,
+   "t_out": 5318.5,
+   "dur": 30.5,
+   "grade": "B",
+   "title": "you cannot do it - you have to be touched, a receiver of the touch"
+  },
+  {
+   "seq": 12,
+   "uid": "ss10-05",
+   "session": "ss10",
+   "mp3": "audio/lfWQfoG23cY.mp3",
+   "t_in": 1987.7,
+   "t_out": 2002.6,
+   "dur": 14.9,
+   "grade": "A",
+   "title": "Utpaladeva's new and easy way: immediate recognition"
+  },
+  {
+   "seq": 13,
+   "uid": "ss10-06",
+   "session": "ss10",
+   "mp3": "audio/lfWQfoG23cY.mp3",
+   "t_in": 2821.0,
+   "t_out": 2846.5,
+   "dur": 25.5,
+   "grade": "B",
+   "title": "thought-free is the result, not the admission ticket"
+  },
+  {
+   "seq": 14,
+   "uid": "ss10-26",
+   "session": "ss10",
+   "mp3": "audio/lfWQfoG23cY.mp3",
+   "t_in": 4790.0,
+   "t_out": 4814.5,
+   "dur": 24.5,
+   "grade": "B",
+   "title": "once shuddhavidya arises you cannot go down - the rest becomes automatic"
+  },
+  {
+   "seq": 15,
+   "uid": "ss11-23",
+   "session": "ss11",
+   "mp3": "audio/Xo9aR9GNOio.mp3",
+   "t_in": 2409.0,
+   "t_out": 2419.9,
+   "dur": 10.9,
+   "grade": "A",
+   "title": "udyamo bhairava gloss: it just happens and takes hold of us"
+  },
+  {
+   "seq": 16,
+   "uid": "ss12-04",
+   "session": "ss12",
+   "mp3": "audio/r5wTwUNVYOo.mp3",
+   "t_in": 1239.0,
+   "t_out": 1251.5,
+   "dur": 12.5,
+   "grade": "A",
+   "title": "spontaneous means unmade: no standing on your head will do it"
+  },
+  {
+   "seq": 17,
+   "uid": "ss13-03",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 1179.0,
+   "t_out": 1192.1,
+   "dur": 13.1,
+   "grade": "A",
+   "title": "siddhis are māyā's veil; the mahāyogī hides them"
+  }
+ ]
+}

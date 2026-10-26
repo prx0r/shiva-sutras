@@ -1,0 +1,272 @@
+{
+ "section": "S1",
+ "layer": "A",
+ "question": "What is consciousness?",
+ "card": {
+  "question": "What is consciousness?",
+  "sanskrit": "caitanyamatma",
+  "sutra": "1.1",
+  "translation": "Consciousness is the Self.",
+  "plain": "consciousness is the self",
+  "ref": "Aphorisms l.735/736 (word) · trans l.168"
+ },
+ "source_order": "SECTION_ARGUMENTS (join-audited) + (sess,ts) inserts",
+ "clip_count": 23,
+ "window_seconds": 337.2,
+ "window_runtime": "00:05:37",
+ "beats": [
+  {
+   "seq": 1,
+   "uid": "dl1-03",
+   "session": "dl1",
+   "mp3": "audio/Shiva_Sutra_Introduction.mp3",
+   "t_in": 574.2,
+   "t_out": 580.1,
+   "dur": 5.9,
+   "grade": "A",
+   "title": "secret nondual tradition against dualistic world"
+  },
+  {
+   "seq": 2,
+   "uid": "dl1-04",
+   "session": "dl1",
+   "mp3": "audio/Shiva_Sutra_Introduction.mp3",
+   "t_in": 1034.0,
+   "t_out": 1043.6,
+   "dur": 9.6,
+   "grade": "A",
+   "title": "first sūtra: self is Śiva, who is in reality Caitanya"
+  },
+  {
+   "seq": 3,
+   "uid": "ss1-04",
+   "session": "ss1",
+   "mp3": "audio/c1l1RgloZBs.mp3",
+   "t_in": 589.9,
+   "t_out": 605.7,
+   "dur": 15.9,
+   "grade": "A",
+   "title": "vaikharī to para: four levels of the word"
+  },
+  {
+   "seq": 4,
+   "uid": "ss1-16",
+   "session": "ss1",
+   "mp3": "audio/c1l1RgloZBs.mp3",
+   "t_in": 2412.7,
+   "t_out": 2430.9,
+   "dur": 18.1,
+   "grade": "A",
+   "title": "the rock is full of consciousness, vibrating with it"
+  },
+  {
+   "seq": 5,
+   "uid": "ss1-21",
+   "session": "ss1",
+   "mp3": "audio/c1l1RgloZBs.mp3",
+   "t_in": 2942.0,
+   "t_out": 2950.1,
+   "dur": 8.1,
+   "grade": "A",
+   "title": "sutras reveal at another level of consciousness, not the rational"
+  },
+  {
+   "seq": 6,
+   "uid": "ss1-23",
+   "session": "ss1",
+   "mp3": "audio/c1l1RgloZBs.mp3",
+   "t_in": 3558.0,
+   "t_out": 3566.5,
+   "dur": 8.5,
+   "grade": "A",
+   "title": "start from the highest because you are that already"
+  },
+  {
+   "seq": 7,
+   "uid": "ss1-25",
+   "session": "ss1",
+   "mp3": "audio/c1l1RgloZBs.mp3",
+   "t_in": 3793.0,
+   "t_out": 3809.5,
+   "dur": 16.5,
+   "grade": "A",
+   "title": "the two real names: Svātantryavāda, Saṃvid-advayavāda"
+  },
+  {
+   "seq": 8,
+   "uid": "ss2-01",
+   "session": "ss2",
+   "mp3": "audio/dyEQsbazQnM.mp3",
+   "t_in": 195.0,
+   "t_out": 208.9,
+   "dur": 13.9,
+   "grade": "A",
+   "title": "Bhairava means openness to duality, not a higher level"
+  },
+  {
+   "seq": 9,
+   "uid": "ss2-03",
+   "session": "ss2",
+   "mp3": "audio/dyEQsbazQnM.mp3",
+   "t_in": 330.0,
+   "t_out": 338.0,
+   "dur": 8.0,
+   "grade": "A",
+   "title": "Kṣemarāja's sarcasm: how can brahman create without śakti"
+  },
+  {
+   "seq": 10,
+   "uid": "ss2-04",
+   "session": "ss2",
+   "mp3": "audio/dyEQsbazQnM.mp3",
+   "t_in": 390.0,
+   "t_out": 400.4,
+   "dur": 10.4,
+   "grade": "A",
+   "title": "Kashmir māyā: everything is real in the light of absolute consciousness"
+  },
+  {
+   "seq": 11,
+   "uid": "ss3-09",
+   "session": "ss3",
+   "mp3": "audio/sLD0aeV1d3o.mp3",
+   "t_in": 4687.4,
+   "t_out": 4715.6,
+   "dur": 28.2,
+   "grade": "A",
+   "title": "samvit, not caitanya: the integrative consciousness"
+  },
+  {
+   "seq": 12,
+   "uid": "ss3-12",
+   "session": "ss3",
+   "mp3": "audio/sLD0aeV1d3o.mp3",
+   "t_in": 4941.0,
+   "t_out": 4955.5,
+   "dur": 14.5,
+   "grade": "A",
+   "title": "identified consciousness with freedom at the very beginning"
+  },
+  {
+   "seq": 13,
+   "uid": "ss3-13",
+   "session": "ss3",
+   "mp3": "audio/sLD0aeV1d3o.mp3",
+   "t_in": 5259.0,
+   "t_out": 5274.6,
+   "dur": 15.6,
+   "grade": "A",
+   "title": "the worshipped Śiva is a tattva; Paramashiva can never be objectified"
+  },
+  {
+   "seq": 14,
+   "uid": "ss4-01",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 465.0,
+   "t_out": 484.2,
+   "dur": 19.2,
+   "grade": "A",
+   "title": "read with the spiritual organ, not the mind"
+  },
+  {
+   "seq": 15,
+   "uid": "ss4-02",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 568.0,
+   "t_out": 589.4,
+   "dur": 21.4,
+   "grade": "A",
+   "title": "aesthetic experience happens at the Śāmbhava level"
+  },
+  {
+   "seq": 16,
+   "uid": "ss4-05",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 807.0,
+   "t_out": 815.2,
+   "dur": 8.2,
+   "grade": "A",
+   "title": "mokṣa = unveiling of true nature (Tantrāloka's shortest definition)"
+  },
+  {
+   "seq": 17,
+   "uid": "ss4-08",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1156.0,
+   "t_out": 1167.3,
+   "dur": 11.3,
+   "grade": "A",
+   "title": "knower and known are one; hence nothing inherently impure"
+  },
+  {
+   "seq": 18,
+   "uid": "ss4-09",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1322.4,
+   "t_out": 1327.9,
+   "dur": 5.6,
+   "grade": "A",
+   "title": "no state which is not Śiva (Spanda 2–4 food śloka)"
+  },
+  {
+   "seq": 19,
+   "uid": "ss4-10",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1425.0,
+   "t_out": 1435.1,
+   "dur": 10.1,
+   "grade": "A",
+   "title": "jumping over your head's shadow: pramāṇas can't prove the light"
+  },
+  {
+   "seq": 20,
+   "uid": "ss5-01",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 453.5,
+   "t_out": 473.2,
+   "dur": 19.7,
+   "grade": "A",
+   "title": "the blank canvas: jagat-citra and the screen"
+  },
+  {
+   "seq": 21,
+   "uid": "ss9-03",
+   "session": "ss9",
+   "mp3": "audio/qRueQPC_wGc.mp3",
+   "t_in": 499.0,
+   "t_out": 522.2,
+   "dur": 23.2,
+   "grade": "A",
+   "title": "real = insofar as it partakes of divine consciousness"
+  },
+  {
+   "seq": 22,
+   "uid": "ss12-02",
+   "session": "ss12",
+   "mp3": "audio/r5wTwUNVYOo.mp3",
+   "t_in": 659.0,
+   "t_out": 685.2,
+   "dur": 26.2,
+   "grade": "A",
+   "title": "recognition: the text names your experience and you proceed"
+  },
+  {
+   "seq": 23,
+   "uid": "ss13-01",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 193.0,
+   "t_out": 212.1,
+   "dur": 19.1,
+   "grade": "A",
+   "title": "ātman is different on each level; watch which self you mean"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "section": "S3",
+ "layer": "A",
+ "question": "How does realisation happen?",
+ "card": {
+  "question": "How does realisation happen?",
+  "sanskrit": "udyamo bhairavah",
+  "sutra": "1.5",
+  "translation": "Bhairava is upsurge.",
+  "plain": "bhairava is upsurge",
+  "ref": "Aphorisms l.979/980 · trans l.173"
+ },
+ "source_order": "SECTION_ARGUMENTS (join-audited) + (sess,ts) inserts",
+ "clip_count": 8,
+ "window_seconds": 118.2,
+ "window_runtime": "00:01:58",
+ "beats": [
+  {
+   "seq": 1,
+   "uid": "ss6-04",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 824.0,
+   "t_out": 845.0,
+   "dur": 21.0,
+   "grade": "A",
+   "title": "ud + yam: upward, sudden, not step by step"
+  },
+  {
+   "seq": 2,
+   "uid": "ss6-05",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 1002.0,
+   "t_out": 1014.1,
+   "dur": 12.1,
+   "grade": "A",
+   "title": "wherever you feel that uplifting, that is the divine"
+  },
+  {
+   "seq": 3,
+   "uid": "ss6-08",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 1333.0,
+   "t_out": 1347.0,
+   "dur": 14.0,
+   "grade": "A",
+   "title": "the śaktis that bound now enlighten, once united with Bhairava"
+  },
+  {
+   "seq": 4,
+   "uid": "ss6-14",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 2110.0,
+   "t_out": 2129.7,
+   "dur": 19.7,
+   "grade": "A",
+   "title": "unmeṣa happens between two thoughts"
+  },
+  {
+   "seq": 5,
+   "uid": "ss10-05",
+   "session": "ss10",
+   "mp3": "audio/lfWQfoG23cY.mp3",
+   "t_in": 1987.7,
+   "t_out": 2002.6,
+   "dur": 14.9,
+   "grade": "A",
+   "title": "Utpaladeva's new and easy way: immediate recognition"
+  },
+  {
+   "seq": 6,
+   "uid": "ss11-23",
+   "session": "ss11",
+   "mp3": "audio/Xo9aR9GNOio.mp3",
+   "t_in": 2409.0,
+   "t_out": 2419.9,
+   "dur": 10.9,
+   "grade": "A",
+   "title": "udyamo bhairava gloss: it just happens and takes hold of us"
+  },
+  {
+   "seq": 7,
+   "uid": "ss12-04",
+   "session": "ss12",
+   "mp3": "audio/r5wTwUNVYOo.mp3",
+   "t_in": 1239.0,
+   "t_out": 1251.5,
+   "dur": 12.5,
+   "grade": "A",
+   "title": "spontaneous means unmade: no standing on your head will do it"
+  },
+  {
+   "seq": 8,
+   "uid": "ss13-03",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 1179.0,
+   "t_out": 1192.1,
+   "dur": 13.1,
+   "grade": "A",
+   "title": "siddhis are māyā's veil; the mahāyogī hides them"
+  }
+ ]
+}

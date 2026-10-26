@@ -142,3 +142,20 @@
   audited and retained (they play as texture). Caught by the structure review.
   **Rule: before grading C, ask "does this CLIP PLAY in the walk?" — if its reason to
   exist is a note, it belongs in C-MARKS/ledger, never in the units.**
+- **M22. Essay-0 cell clip was grade B (ss4-15).** Grades = innermost essay-layer a clip
+  enters (FORMULA) — essay-0 is innermost, so the six cell clips are A by law. Five were;
+  ss4-15 sat at B and the HOLDUP sheet therefore listed it as a B-row while `ESSAY0_OUTPUT`
+  labeled it "Grade A" — the sweep caught both claims disagreeing. **Promoted B→A**
+  (2026-10-26, +1A → 82A). **Rule: when essay-0 cells are built or edited, assert every
+  cell-uid's grade in the unit file == A; a cell clip at B/C is a structure bug, not a
+  taste question.**
+- **M23. Derived-file generator bugs surface at sweep time (4 found 2026-10-26).**
+  (a) HOLDUP row for `ss4-03` rendered `?-?` + empty quote though the unit has a real
+  window — repaired in-sheet. (b) Nested duplicate `ss4-22 ⊂ ss12-10` (same start-stamp,
+  near-identical quote) survived grading — M19's duplicate-check still not in verify_units
+  (owed); both demoted, C-walk must keep only the longer. (c) `dl1-05` zero-length window
+  `[00:10:57]-->[00:10:57]` from a single-point srt cue — extend-to-next-cue if cut.
+  (d) `ss12-11`'s header label describes its context, not its captured quote (label says
+  Netra-limbs, quote is the fire/lake line) — judge demotes on the QUOTE, not the label.
+  **Rule: derived sheets/manifests are regenerated from unit files, never trusted across
+  sessions; and any duplicate/nested-window check belongs in verify_units (M19 follow-up).**

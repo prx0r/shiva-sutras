@@ -26,7 +26,7 @@ tirodhāna/freedom → saṅkucita/vikāsa → guru-upāya/śakti-cakra.
 - context:Śāmbhava beyond mind/thinking (śākta = energy-level thinking); Abhinavagupta: even sudden emotions bypass mind — rasa takes you without mental interference.
 - essay_use: clip-ready; the aesthetics doctrine stated as practice fact
 
-### ss4-03 — matter is spiritual: rock and quantum physicist agree [B]
+### ss4-03 — matter is spiritual: rock and quantum physicist agree [C]
 - timestamp: [00:10:58]-->[00:11:25]
 - topics: cosmology, tantra-comparative
 - role: story
@@ -134,7 +134,7 @@ tirodhāna/freedom → saṅkucita/vikāsa → guru-upāya/śakti-cakra.
 - context: Mālinīvijaya via Kṣemarāja against dualists (who posit mala substantial, Śiva separate); the three-mala map opens.
 - essay_use: the mala definition; vs "original sin" contrast comes next
 
-### ss4-15 — mala is superficial: incomplete knowledge, not original sin [B]
+### ss4-15 — mala is superficial: incomplete knowledge, not original sin [A]
 - timestamp: [00:33:36]-->[00:34:22]
 - topics: doctrine, tantra-comparative
 - role: refutation
@@ -161,7 +161,7 @@ tirodhāna/freedom → saṅkucita/vikāsa → guru-upāya/śakti-cakra.
 - context: Tirodhāna (concealment) as Śiva's fifth act alongside grace; Abhinavagupta (Tantrāloka) coin image; Parātriṃśikā-vivaraṇa: all five acts for grace's sake; "his veiling himself in order to liberate."
 - essay_use: the theodicy-answer of the tradition; pairs with ss4-15 (no substantial evil)
 
-### ss4-18 — the five acts run simultaneously in you and the cosmos [B]
+### ss4-18 — the five acts run simultaneously in you and the cosmos [C]
 - timestamp: [00:42:24]-->[00:42:52]
 - topics: cosmology, praxis
 - role: claim
@@ -179,7 +179,7 @@ tirodhāna/freedom → saṅkucita/vikāsa → guru-upāya/śakti-cakra.
 - context: Her Sanskrit read of Kṣemarāja's 1.2 wording ("sa eva" passage); constriction vs opening.
 - essay_use: the session's Sanskrit term-beat; verify diacritics from text before print
 
-### ss4-20 — when agitation ceases, the highest state appears — no other agency [B]
+### ss4-20 — when agitation ceases, the highest state appears — no other agency [C]
 - timestamp: [00:46:35]-->[00:47:19]
 - topics: praxis, spanda
 - role: reading
@@ -188,7 +188,7 @@ tirodhāna/freedom → saṅkucita/vikāsa → guru-upāya/śakti-cakra.
 - context: Famous Spanda verse (verify number); workaholics gloss (retirees anxious without activity); cessation (nirodha) not achievement.
 - essay_use: the "it is as simple as that" line — essay-0-adjacent on effortlessness
 
-### ss4-21 — guru-upāya and the guru as grace-śakti (Pañchastavī, no gender) [B]
+### ss4-21 — guru-upāya and the guru as grace-śakti (Pañchastavī, no gender) [C]
 - timestamp: [00:52:36]-->[00:54:06]
 - topics: guru, lineage
 - role: reading
@@ -197,7 +197,7 @@ tirodhāna/freedom → saṅkucita/vikāsa → guru-upāya/śakti-cakra.
 - context: Malinīvijaya "guru like Myself (Śiva)"; Spanda's only guru-verse (closing); Kālārṇava lists guru-qualities; Pañchastavī (Ambāstavī etc.): guru = Devī's manifestation — "no question of gender."
 - essay_use: guru-definition cluster; lineage incl. no-gender point
 
-### ss4-22 — śakti-cakra is the guru's mouth [B]
+### ss4-22 — śakti-cakra is the guru's mouth [C]
 - timestamp: [00:54:35]-->[00:54:51]
 - topics: mantra, guru
 - role: reading

@@ -27,7 +27,7 @@ fire/devouring → translation-method note.
 - context: Śāmbhava register (anupāya behind, now descending: śāmbhava → śākta → āṇava through the sections).
 - essay_use: suddenness file; comparative care — parallel, not identity
 
-### ss6-03 — viśrānti is resting in the to-be-attained [B]
+### ss6-03 — viśrānti is resting in the to-be-attained [C]
 - timestamp: [00:09:44]-->[00:10:19]
 - topics: praxis, mantra
 - role: method
@@ -54,7 +54,7 @@ fire/devouring → translation-method note.
 - context: Call it Bhairava or any name; unmeṣa preview (nimajjana/diving comes as the meditation metaphor in a later sūtra).
 - essay_use: experience-criterion over label — pairs with ss2-01's no-label note
 
-### ss6-06 — samvit: the tradition's favorite word for consciousness [B]
+### ss6-06 — samvit: the tradition's favorite word for consciousness [C]
 - timestamp: [00:18:59]-->[00:19:17]
 - topics: consciousness, mantra
 - role: claim
@@ -63,7 +63,7 @@ fire/devouring → translation-method note.
 - context: Kṣemarāja shifts to samvit; all commentators + Abhinavagupta prefer it.
 - essay_use: terminology note; ss3-09's samvit ruling lands here in the text
 
-### ss6-07 — samarasa: union of the flavors Śiva and Śakti [B]
+### ss6-07 — samarasa: union of the flavors Śiva and Śakti [C]
 - timestamp: [00:20:46]-->[00:21:25]
 - topics: nonduality, doctrine
 - role: simile
@@ -90,7 +90,7 @@ fire/devouring → translation-method note.
 - context: Antarmukha + avadhāna are the whole requirement; jāyate (it happens/is born) in the devoted — not made; lightning-from-heaven denied, participation required.
 - essay_use: the practice floor of the whole course; essay-0 closing-practice candidate
 
-### ss6-10 — samāveśa, not upāya: three absorptions in MVUT [B]
+### ss6-10 — samāveśa, not upāya: three absorptions in MVUT [C]
 - timestamp: [00:28:33]-->[00:28:59]
 - topics: praxis, tantraloka
 - role: reading
@@ -108,7 +108,7 @@ fire/devouring → translation-method note.
 - context: Both readings kept (teacher or intensity); intensity of awakening substitutes the person when no guru is present — note against ss5's no-living-master problem.
 - essay_use: the both-readings honesty; guru-without-guru ruling
 
-### ss6-12 — mantras work by the utterer, not the syllables [B]
+### ss6-12 — mantras work by the utterer, not the syllables [C]
 - timestamp: [00:32:31]-->[00:33:01]
 - topics: mantra, guru
 - role: reading
@@ -117,7 +117,7 @@ fire/devouring → translation-method note.
 - context: Svacchanda verse via Kṣemarāja; same mantra powerless (autumn clouds, no rain) vs powerful in the realized utterer.
 - essay_use: mantra-efficacy doctrine; sharp and quotable
 
-### ss6-13 — bhāvanā has a sequence; awareness doesn't [B]
+### ss6-13 — bhāvanā has a sequence; awareness doesn't [C]
 - timestamp: [00:33:35]-->[00:33:49]
 - topics: praxis, mantra
 - role: method
@@ -135,7 +135,7 @@ fire/devouring → translation-method note.
 - context: Spanda gloss; VB trains it between two breaths too; focus the in-between = direct contact with the thought-underlying consciousness; requires subtle trained attention (horse-taming).
 - essay_use: the canonical gap-practice; pairs with ss5-11 (pause between syllables)
 
-### ss6-15 — pratibhā joins spiritual illumination and aesthetic inspiration [B]
+### ss6-15 — pratibhā joins spiritual illumination and aesthetic inspiration [C]
 - timestamp: [00:41:37]-->[00:42:00]
 - topics: doctrine, tantra-comparative
 - role: claim
@@ -153,7 +153,7 @@ fire/devouring → translation-method note.
 - context: Vyutthāna = rising from samādhi into sense-life with the state continuing; 1.6 preview (śakti-cakra-sandhāne viśva-saṃhāraḥ).
 - essay_use: the return-arc stated before 1.6; essay-structural beat (interiority is half the path)
 
-### ss6-17 — saṃhāra is collecting together, not destroying [B]
+### ss6-17 — saṃhāra is collecting together, not destroying [C]
 - timestamp: [00:49:03]-->[00:49:22]
 - topics: ritual, mantra
 - role: method
@@ -162,7 +162,7 @@ fire/devouring → translation-method note.
 - context: Viśva-saṃhāra preview (1.6): multiplicity re-collected into the fire that leaves ashes for the forehead; not collapsing — pulling together.
 - essay_use: translation-correction with ritual residue (ashes); good color + content
 
-### ss6-18 — go to the feet of a true master; nothing further described [B]
+### ss6-18 — go to the feet of a true master; nothing further described [C]
 - timestamp: [01:07:00]-->[01:07:23]
 - topics: guru, lineage
 - role: reading
@@ -198,7 +198,7 @@ fire/devouring → translation-method note.
 - context: Thought-as-obstacle stated plain: what is hindering is our thoughts - the citta/vikalpas, the thoughts which are enmeshing us into this dualistic oscillation, that dualistic thinking (thought-free condition of the absorption follows in covered ss6-10).
 - essay_use: S2 depth: the enemy named at thought-level (pairs ss10-17 objectify-fixation)
 
-### ss6-22 — they train the horse - but what has to take place is that suddenness [B]
+### ss6-22 — they train the horse - but what has to take place is that suddenness [C]
 - timestamp: [00:39:39]-->[00:39:52]
 - topics: realisation,practice
 - role: claim
@@ -207,7 +207,7 @@ fire/devouring → translation-method note.
 - context: Abhinavaguptas horse-simile for the means-question: taming or training a horse (other upāyas concede training) - BUT actually what has to take place is THAT SUDDENNESS and that total awareness. Means-vs-arrival in one clause (pairs ss6-04 sudden + ss10-26 cannot-go-down).
 - essay_use: S3 depth: training-is-not-it simile (means subordinated to the sudden)
 
-### ss6-23 — even in external activity the same state of awareness continues - vyutthāna holds [B]
+### ss6-23 — even in external activity the same state of awareness continues - vyutthāna holds [C]
 - timestamp: [01:08:25]-->[01:08:56]
 - topics: realisation,ethics
 - role: claim

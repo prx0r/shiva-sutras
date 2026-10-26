@@ -63,7 +63,7 @@ applied-creed). Teaching-half was ALREADY well-unitd (18 units); audit caught se
 "planned" clips as inside existing windows (silence, labels, is-not-doing, innermost,
 freedom-distinctive, artificial) — recorded dup-adjacent in ledger, none force-overlapped.
 Integration: intros-block (L134-1102, 4.3k+1.6k words of participant voices) = 2 giant
-C-rows (participant-vote off-unit-policy); book-logistics/editions already covered ss3-08.
+C-rows (participant-vote off-unit-policy); book-logistics/editions already covered ss3-08 (unit since removed to ledger — M21 rule, 2026-10-26).
 Note: ss3-09 window extends past quote to the integrative-gloss — flagged for future
 quote-extension, not overlapped.
 

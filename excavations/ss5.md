@@ -26,7 +26,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Siddha-darśana as anupāya: transference free of cost if receptive — the seeing that transmits; embodiment, not abstraction; what sitting in meditation returns to.
 - essay_use: testimony-grade transmission doctrine; no-print caution: it's her experience, keep framed as such
 
-### ss5-03 — kalā: reckon, fragment, create — śakti's negative power [B]
+### ss5-03 — kalā: reckon, fragment, create — śakti's negative power [C]
 - timestamp: [00:18:45]-->[00:19:00]
 - topics: mantra, tattva
 - role: reading
@@ -44,7 +44,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: The "quantum leap": same energy reversed — unification of what was fragmented; then easy ascent to Śiva.
 - essay_use: sharpest non-gradient line in the session; essay-0-adjacent (no ladder, reversal)
 
-### ss5-05 — armor you need and must cast off [B]
+### ss5-05 — armor you need and must cast off [C]
 - timestamp: [00:26:41]-->[00:27:03]
 - topics: praxis, tattva
 - role: simile
@@ -53,7 +53,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Why kañcukas protect individuality against dissolution into total freedom — losing individuality is the most challenging thing; āṇava mala deepest-rooted.
 - essay_use: the armor paradox; modern psychology bridge ("psychologists can say a lot about this")
 
-### ss5-07 — limits are also parameters; snake casts its skin [B]
+### ss5-07 — limits are also parameters; snake casts its skin [C]
 - timestamp: [01:16:46]-->[01:17:31]
 - topics: tattva, praxis
 - role: simile
@@ -62,7 +62,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Answering the parameters-vs-limitations question: tantrics love borderline phenomena — limiting AND liberating in one; kāla (time) the basic example.
 - essay_use: the both-sides image; note locus unidentified ("one of the tantras")
 
-### ss5-08 — words have the power to make you sob over what never happened [B]
+### ss5-08 — words have the power to make you sob over what never happened [C]
 - timestamp: [00:59:35]-->[00:59:55]
 - topics: speech, mantra
 - role: story
@@ -80,7 +80,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Mātṛkā doctrine: letters as little mothers/goddesses (varga deities); four levels para→paśyantī (simultaneous vision, artist's flash) →madhyamā→vaikharī (embodied, sung — calligraphy secondary in India).
 - essay_use: the mantra-definition of the corpus; essay-0-adjacent
 
-### ss5-10 — Mālinī: the alphabet applied to the body is nyāsa [B]
+### ss5-10 — Mālinī: the alphabet applied to the body is nyāsa [C]
 - timestamp: [01:18:37]-->[01:19:11]
 - topics: mantra, ritual
 - role: claim
@@ -98,7 +98,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Vijñāna Bhairava language-practice; viśrānti (rest — distinct from śānti) as the inward-turning moment; gossip-flow vs pause; Lakshmanjoo's slow speech = pausing at the source between words.
 - essay_use: the most actionable micro-practice in the transcripts; essay-0 closing-practice candidate
 
-### ss5-12 — "I am incomplete / this is mine / I perform": the malas speaking [B]
+### ss5-12 — "I am incomplete / this is mine / I perform": the malas speaking [C]
 - timestamp: [00:58:11]-->[00:58:33]
 - topics: doctrine, speech
 - role: method
@@ -107,7 +107,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Kṣemarāja's version: the unknown mother (ajñātā mātā, viśvajanani = alphabet a→kṣa) is the malas' form; Ambikā-stava flip: since all letters are Her aspect, whatever I speak is praise.
 - essay_use: diagnostic mantra ("listen to which mala is talking"); timestamp-window verified against lines 841-847, exact per-cue timing needs cue-level check at render
 
-### ss5-13 — no logical explanation: the letter-deities are tradition-given [B]
+### ss5-13 — no logical explanation: the letter-deities are tradition-given [C]
 - timestamp: [01:12:31]-->[01:13:11]
 - topics: mantra, history
 - role: claim
@@ -134,7 +134,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: The pathless means made concrete: with a siddha darshana the transmission happens automatically - free of cost, no effort - you must only be blessed and receptive (the receptacle-caveat follows: full of mala-imagining, it is your fault if you cannot see). Pairs ss11-24 guru and the S3 easy-way.
 - essay_use: S3 depth: effortless-arrival channel (anupaya)
 
-### ss5-17 — the framing question: all is pervaded - how come we are not enlightened? [B]
+### ss5-17 — the framing question: all is pervaded - how come we are not enlightened? [C]
 - timestamp: [00:13:57]-->[00:14:13]
 - topics: bondage,consciousness
 - role: question
@@ -161,7 +161,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: The kanchuka psychology in her own words: we need armor to protect our individuality so that we are not dissolved into that nothingness - into that TOTAL FREEDOM of consciousness, which is very challenging; to lose your individuality is the most challenging thing. The WHY of self-veiling (the motive behind 1.3).
 - essay_use: S2 essay-critical: fear-of-dissolution = the obstacle engine (essay-0 depth: why freedom hides itself)
 
-### ss5-20 — the journey is from individuality to universality [B]
+### ss5-20 — the journey is from individuality to universality [C]
 - timestamp: [00:33:12]-->[00:33:49]
 - topics: consciousness,realisation
 - role: claim
@@ -170,7 +170,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Swamiji map, quoted: the journey is from individuality to universality - individual capacities are limited yet have the intrinsic capacity to become unlimited; conscious of limitation, one becomes more and more one with that universal consciousness which is caitanyam atma. The arc between S2 limitation and S1 universal.
 - essay_use: S2 depth: limitation-to-universal bridge (also feeds S1 chaitanya)
 
-### ss5-21 — how much do we really want to be liberated - we still need our limitations [B]
+### ss5-21 — how much do we really want to be liberated - we still need our limitations [C]
 - timestamp: [00:35:50]-->[00:35:56]
 - topics: bondage,freedom
 - role: claim
@@ -179,7 +179,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: The immediate-liberation discussion turned on the participant: how much do we really want to be liberated from these limitations? We are still living in this world, we still need our limitations - the paradox of the kanchukas (they have a positive role too, she says after). Pairs ss5-19 fear-clause.
 - essay_use: S2 depth: resistance-as-question (pairs freedom-challenging clip)
 
-### ss5-22 — the moment agitation ceases, the supreme state appears - sudden, no stages [B]
+### ss5-22 — the moment agitation ceases, the supreme state appears - sudden, no stages [C]
 - timestamp: [00:40:11]-->[00:40:29]
 - topics: realisation,practice
 - role: claim
@@ -197,7 +197,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Why meditate in silence: because we know the power of words - when we speak we are drawn outside; silence can REVERT that process, coming back. Speech as outward-flow, silence as return - the practice-rationale behind the pause.
 - essay_use: S5 depth: language-direction law (sets up ss5-11 pause)
 
-### ss5-24 — language may lead to freedom - or re-absorb vikalpa in reflective awareness [B]
+### ss5-24 — language may lead to freedom - or re-absorb vikalpa in reflective awareness [C]
 - timestamp: [00:52:03]-->[00:52:30]
 - topics: mind,language
 - role: claim
@@ -206,7 +206,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Sanderson-paragraph double-power (ASR fragments in quote - EAR CHECK): the powers of the alphabet may lead man to freedom or further into samsara; they may increase the dichotomies of vikalpa - or, if correctly polarized, gradually RE-ABSORB vikalpa in pure reflective awareness. The ambivalence thesis with its mechanism.
 - essay_use: S5 depth: mind raw material cuts both ways (pairs ss11-15 shuddha-vikalpa)
 
-### ss5-25 — verbalizing = limited knowledge: the moment you fix something in a word [B]
+### ss5-25 — verbalizing = limited knowledge: the moment you fix something in a word [C]
 - timestamp: [00:53:59]-->[00:54:22]
 - topics: bondage,language
 - role: claim
@@ -215,7 +215,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: jnanabandha at the linguistic level: knowledge without language does not exist; and as the second sutra has it - jnana in the sense of LIMITED knowledge - because whatever is verbalized, the moment you fix something in a word, it is fixed. Bondage as naming (pairs ss13-31 every-level-bondage).
 - essay_use: S2 depth: 1.2 mechanism at word-level (feeds S5 pause-doctrine)
 
-### ss5-26 — all letters are the Mother: whatever I speak is a praise to you [B]
+### ss5-26 — all letters are the Mother: whatever I speak is a praise to you [C]
 - timestamp: [00:57:13]-->[00:57:29]
 - topics: language,devotion
 - role: claim
@@ -224,7 +224,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: The Ambika-stava inversion she calls beautiful: all letters are an aspect of you, O Mother - then whatever I speak is a praise to you. Turning language around: speech as worship instead of distraction.
 - essay_use: S5 depth: the reversal mantra-worldview (pairs ss5-09 condensation)
 
-### ss5-27 — vishvanti: a moment of rest overcomes the binding power of language [B]
+### ss5-27 — vishvanti: a moment of rest overcomes the binding power of language [C]
 - timestamp: [01:05:00]-->[01:05:57]
 - topics: mind,practice
 - role: claim
@@ -233,7 +233,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: The doctrine under the pause-sutra: all outward-turned knowledge is the cause of bondage; but for a moment if we get to that POINT OF REST we can overcome the binding power of language - vishvanti (not shanti) is that moment of rest; continuous flow of thoughts/words with no pause = the binding condition.
 - essay_use: S5 depth: why the pause works (mechanism behind ss5-11)
 
-### ss5-28 — the master speaking: between words, connected to the source [B]
+### ss5-28 — the master speaking: between words, connected to the source [C]
 - timestamp: [01:07:25]-->[01:07:52]
 - topics: guru,language
 - role: example
@@ -242,7 +242,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: Lakshmanjoo example: when he spoke, between words he was connecting to that source of language and bringing the word down to the level of vaikari - always that connection with the supreme consciousness, nothing artificial, totally spontaneous. The living pause (pairs ss5-11 and ss11-24).
 - essay_use: S5 depth: guru as the walk of the doctrine
 
-### ss5-29 — just wait - experience before giving it a name [B]
+### ss5-29 — just wait - experience before giving it a name [C]
 - timestamp: [01:10:15]-->[01:10:35]
 - topics: mind,recognition
 - role: method
@@ -251,7 +251,7 @@ speaking → śakti classes → viśrānti pause practice → borderline beings 
 - context: The vikalpa-critique as practice: fixed opinions cannot arise without words - immediately you give a name to something, but JUST WAIT: experience before giving a name; just observe, just experience. Suspending the naming-mind.
 - essay_use: S5 depth: mind discipline (feeds S1 recognition and S3 gap-logic)
 
-### ss5-30 — bound to the lord, the pashu is liberated; bound to individuality, bound [B]
+### ss5-30 — bound to the lord, the pashu is liberated; bound to individuality, bound [C]
 - timestamp: [01:21:30]-->[01:21:43]
 - topics: bondage,freedom
 - role: claim

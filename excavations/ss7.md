@@ -8,7 +8,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 
 ## Units
 
-### ss7-01 — Somananda's one verse: the non-triad woven into one [B]
+### ss7-01 — Somananda's one verse: the non-triad woven into one [C]
 - timestamp: [00:04:47]-->[00:05:22]
 - topics: doctrine, lineage
 - role: reading
@@ -26,7 +26,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Ascending the text = promotion ladder (practice here, not posture-yoga); battlefield fearlessness; cremation-ground past noted honestly ("our branch is very much purified").
 - essay_use: path-map beat; pairs with ss7-17 (master of senses)
 
-### ss7-03 — no ladder: elevator in one push to unimaginable consciousness [B]
+### ss7-03 — no ladder: elevator in one push to unimaginable consciousness [C]
 - timestamp: [00:12:15]-->[00:12:45]
 - topics: realization, praxis
 - role: claim
@@ -71,7 +71,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: 1.x dream-analysis (vikalpa=imagination running wild; yogis can control dreams; dream yoga exists — Lakshmanjoo spoke of it; MVUT descriptions untranslated).
 - essay_use: binary diagnostic for every tradition ("doesn't matter which yoga"); essay-0-adjacent
 
-### ss7-08 — the entering-point into sleep: a VB door anyone can use [B]
+### ss7-08 — the entering-point into sleep: a VB door anyone can use [C]
 - timestamp: [00:35:12]-->[00:35:53]
 - topics: praxis, senses
 - role: practice
@@ -118,7 +118,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: 1.12 vismaya (vs camatkāra: vismaya = yogic astonishment, camatkāra = aesthetic wonder); Lakshmanjoo on untranslatable compounds; never-satisfied, ever-new delight.
 - essay_use: the authenticity test — essay-0-adjacent ("how do I know it's real")
 
-### ss7-15 — against fixing experience in chakras [B]
+### ss7-15 — against fixing experience in chakras [C]
 - timestamp: [01:02:52]-->[01:03:07]
 - topics: praxis, tantra-comparative
 - role: refutation
@@ -136,7 +136,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Sanderson's rendering embraced (will = dangerous word: presupposes subject + Nietzschean overtones); spontaneity gloss (child's play, no purpose); svātantrya = spontaneity; kumārī = virgin (no object yet); roots: kal/√kṛ play, ku (māyā) + māra (destroyer) as backup etymology she flags "artificial."
 - essay_use: will-without-wanter — essay-0-adjacent on agency; terminology ruling to adopt
 
-### ss7-17 — Kena Upaniṣad's Umā: the first goddess appearance [B]
+### ss7-17 — Kena Upaniṣad's Umā: the first goddess appearance [C]
 - timestamp: [01:11:44]-->[01:12:19]
 - topics: lineage, history
 - role: story
@@ -145,7 +145,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Umā Haimavatī approaches where gods fail; Kālidāsa's Kumārasambhava (tapas, brahmacārī-test, vismaya-freeze "could neither move nor stand"); kumārī as subject-never-object (established in own enjoyment, needs no vehicle).
 - essay_use: the Umā file (Veda→Kāvya→Sūtra); deep background for śakti lectures
 
-### ss7-18 — the yogi's will, one with supreme energy, is why siddhis work [B]
+### ss7-18 — the yogi's will, one with supreme energy, is why siddhis work [C]
 - timestamp: [01:21:35]-->[01:21:55]
 - topics: praxis, doctrine
 - role: claim
@@ -163,7 +163,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Non-duality as experience in Hindi ("gal gayā" = melted); pairs with ss8's table and ss6-17's third-section preview; moved here from a misfiled ss8 draft — this is Day 4 Session I material (00:51).
 - essay_use: the effort-inversion rule; essay-0 closing-practice candidate
 
-### ss7-20 — Somananda: he creates the obstacle to his own self [B]
+### ss7-20 — Somananda: he creates the obstacle to his own self [C]
 - timestamp: [00:07:44]-->[00:08:14]
 - topics: bondage,consciousness
 - role: claim
@@ -172,7 +172,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: The mangala-śloka commentary: Asmat-rūpa-samāviṣṭa — Śiva pervades my being — and he is ALSO creating an obstacle to his own self; so the obstacle is also he himself (verse-source for the self-veiling doctrine, alongside ss4-17).
 - essay_use: S2 depth: obstacle = the self (Somananda source, verse-frame)
 
-### ss7-21 — no difference between samadhi and vyutthana [B]
+### ss7-21 — no difference between samadhi and vyutthana [C]
 - timestamp: [00:15:06]-->[00:15:24]
 - topics: realisation,ethics
 - role: claim
@@ -181,7 +181,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Commentary on the dissolution-sūtra: in that dissolution of the externality of the world there is NO DIFFERENCE between samadhi and vyutthana (ASR "yutana") — absorption and returning are one. The bridge-doctrine S6 lives on (ethics-last, return-not-escape).
 - essay_use: S6 depth: samadhi=vyutthana (structural license for the return-run)
 
-### ss7-22 — the fourth state is possible in all three states [B]
+### ss7-22 — the fourth state is possible in all three states [C]
 - timestamp: [00:16:30]-->[00:16:43]
 - topics: consciousness,practice
 - role: claim
@@ -208,7 +208,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Why turīya needs no definition: without that pure consciousness (caitanyam ātmā) it would not be possible even to dream, or to have any experience in any of the three states — hence just called turya, from the Upaniṣads onwards, neither-this-nor-that.
 - essay_use: S1 depth: consciousness as the condition of ALL experience (also S4 ground)
 
-### ss7-25 — the spanda principle never departs from its own nature [B]
+### ss7-25 — the spanda principle never departs from its own nature [C]
 - timestamp: [00:25:59]-->[00:26:17]
 - topics: consciousness,realisation
 - role: claim
@@ -253,7 +253,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: The full Swamiji-translation of the tṛtayabhokta-verse read aloud: whoever observes his triad of waking etc is steeped in the delight of the fourth state by means of the awareness of his union with the multitude of shaktis ... he becomes the enjoyer of the rapture of the divine I-consciousness in all. The card in voice.
 - essay_use: S4 essay-critical: the section verse delivered whole (assembly source)
 
-### ss7-30 — nonduality is not a concept - it has to become an experience [B]
+### ss7-30 — nonduality is not a concept - it has to become an experience [C]
 - timestamp: [00:51:04]-->[00:51:07]
 - topics: realisation
 - role: claim
@@ -262,7 +262,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: One-sentence hinge: this non-duality is not a concept — it has to become an experience (the duality-dissolution run continues into ss7-19).
 - essay_use: S4 depth: concept-to-experience law
 
-### ss7-31 — the yogi plays with this freedom - freedom expressed in the name Bhairava [B]
+### ss7-31 — the yogi plays with this freedom - freedom expressed in the name Bhairava [C]
 - timestamp: [00:52:57]-->[00:53:29]
 - topics: freedom,realisation
 - role: claim
@@ -271,7 +271,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Svachanda-freedom: first sūtra read as chaitanya = svātantrīya (total autonomy); the yogi functioning freely by means of svācchanda-yoga unites with the status of svācchanda — playing with this freedom which is expressed by the very name of Bhairava. Freedom lived as play.
 - essay_use: S3 depth: acquired-freedom character (feeds S6 play-thread too)
 
-### ss7-32 — focus awareness in-between - you have access to that turiya stage [B]
+### ss7-32 — focus awareness in-between - you have access to that turiya stage [C]
 - timestamp: [00:55:09]-->[00:55:25]
 - topics: mind,practice
 - role: method
@@ -280,7 +280,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: The beginner-Bhairava access-method: when you focus the awareness in between — or at the beginning and the end (waking/sleep, breathing in/out) — you have access to that turya stage. Threshold-attention (pairs ss5-11 pause + ss5-27 vishvanti).
 - essay_use: S5 depth: in-between as the door (practice-mechanism)
 
-### ss7-33 — unless the overwhelming happens, something is missing in your experience [B]
+### ss7-33 — unless the overwhelming happens, something is missing in your experience [C]
 - timestamp: [00:59:07]-->[00:59:13]
 - topics: realisation
 - role: claim
@@ -298,7 +298,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Verse-translation: the great yogi notices in mute wonder the expansion in the power of his entire complex of senses as they come fully under the influence of the INNER SELF which is a mass of consciousness and full of unique, preeminent, ever-new delight.
 - essay_use: S4 depth: senses-under-inner-self, ever-new delight
 
-### ss7-35 — kundalini is a specific practice, not necessary for the highest [B]
+### ss7-35 — kundalini is a specific practice, not necessary for the highest [C]
 - timestamp: [01:03:23]-->[01:03:31]
 - topics: realisation,practice
 - role: claim
@@ -307,7 +307,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Swamiji answer: is kuṇḍalinī-yoga the ONLY way to experience that highest? No — it is a specific experience, a specific part, a specific practice, but it is not necessary (transcript then garbles the passing-clause — EAR CHECK).
 - essay_use: S3 depth: means-pluralism (pairs not-powers + means-hierarchy S5)
 
-### ss7-36 — freedom as spontaneity: the child plays without motivation or object [B]
+### ss7-36 — freedom as spontaneity: the child plays without motivation or object [C]
 - timestamp: [01:10:54]-->[01:11:24]
 - topics: freedom,play
 - role: claim
@@ -316,7 +316,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: Her preferred rendering of svātantrīya: freedom AS SPONTANEITY — when a child plays it has no motivation, no object; something spontaneous emerging, an impulse to play which is not purposeful — and that is icchā. Spontaneity-doctrine fused with play (ties S6 lila + S3 spontaneity + iccha).
 - essay_use: S4 depth: iccha as play-impulse (cross-feeds S6/S3 threads)
 
-### ss7-37 — kumari: never an object - the subject enjoying her own nature [B]
+### ss7-37 — kumari: never an object - the subject enjoying her own nature [C]
 - timestamp: [01:17:04]-->[01:17:26]
 - topics: bliss,realisation
 - role: claim
@@ -325,7 +325,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: The virgin-reading of kumārī: never enjoyed by any other agency — she has established her own nature; she is not an object, she is the SUBJECT — enjoying her own nature in her own way, requiring no other vehicle of enjoyment. Self-enjoyment mechanism (atmarama, ss11-10 family).
 - essay_use: S4 depth: the enjoyer as pure subject (answers "enjoys what?" — her own nature)
 
-### ss7-38 — will is at the root of knowledge and activity - the sutra shows will over cognition and action [B]
+### ss7-38 — will is at the root of knowledge and activity - the sutra shows will over cognition and action [C]
 - timestamp: [01:20:05]-->[01:20:27]
 - topics: freedom,realisation
 - role: claim
@@ -334,7 +334,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - context: 1.x-sūtra gloss: the sūtra points out the superiority of WILL over cognition and action — the three main energies, and icchā is obviously at the ROOT of knowledge and activity.
 - essay_use: S4 depth: iccha-first hierarchy (session doctrinal core)
 
-### ss7-39 — yogic powers are all dependent on this iccha [B]
+### ss7-39 — yogic powers are all dependent on this iccha [C]
 - timestamp: [01:22:00]-->[01:22:10]
 - topics: siddhi,realisation
 - role: claim

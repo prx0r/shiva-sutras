@@ -8,7 +8,7 @@ ethics-at-end → practical nonduality.
 
 ## Units
 
-### ss3-01 — invocation: Śiva entered many hearts [B]
+### ss3-01 — invocation: Śiva entered many hearts [C]
 - timestamp: [00:03:48]-->[00:04:28]
 - topics: lineage, ritual
 - role: reading
@@ -17,7 +17,7 @@ ethics-at-end → practical nonduality.
 - context: Opening chant glossed: the cave (guha) as heart; refuge (śaraṇa) not to Buddha-dharma-saṅgha but to Śiva as supreme Brahman beyond māyā-anādi. ASR fragile ("shampoo", "bahram") — text locus unidentified, do not print as source.
 - essay_use: opening-voice slot if the locus is found; else C
 
-### ss3-02 — retreat = text + meditation + your own integration [B]
+### ss3-02 — retreat = text + meditation + your own integration [C]
 - timestamp: [00:05:52]-->[00:06:26]
 - topics: praxis
 - role: method
@@ -53,7 +53,7 @@ ethics-at-end → practical nonduality.
 - context: Participant Roshan (Kerala Śrīvidyā → SS): the sūtra doing guru-work on a reader; "I have not been able to totally understand where I am."
 - essay_use: C by schema (participant words, not hers) — keep as color note: the text works on readers
 
-### ss3-06 — silence must come from within to receive the text [B]
+### ss3-06 — silence must come from within to receive the text [C]
 - timestamp: [01:03:54]-->[01:04:25]
 - topics: speech, praxis
 - role: method
@@ -62,7 +62,7 @@ ethics-at-end → practical nonduality.
 - context: Discipline briefing; listen within → inner silence → become subtle enough to receive; language's two sides (destructive / concentration) come later in the text.
 - essay_use: practice-rule beat; pairs with ss1-20/21 (study method)
 
-### ss3-07 — VB seminar: labels didn't matter, consciousness did [B]
+### ss3-07 — VB seminar: labels didn't matter, consciousness did [C]
 - timestamp: [01:05:54]-->[01:07:04]
 - topics: nonduality, praxis
 - role: story
@@ -70,15 +70,6 @@ ethics-at-end → practical nonduality.
 - quote: "the main thing which happened was neither an effort on my side no but it was at the basis of the spiritual experience and spiritual practice taught in the vikyana bhairava these differences did not matter at all and everybody could find their own source their own inner being without giving it a label"
 - context: First VB seminar: 32 participants, six religions incl. Jesuits; "consciousness which is the main theme of this whole tradition."
 - essay_use: evidence-beat for "consciousness is the main theme" — the through-line claim
-
-### ss3-08 — we work from Jaideva Singh + Lakshmanjoo; Dyczkowski's Aphorisms for Bhāskara [B]
-- timestamp: [01:10:22]-->[01:13:31]
-- topics: shiva-sutras, history
-- role: story
-- layer: explain
-- quote: "we are working with the text of jedov singh because uh it is directly you have the sanskrit text and the translation"
-- context: Text setup: Jaideva Singh (Devanāgarī+translation) as course text; Lakshmanjoo's oral-teaching book as living access; Torella French + Silburn; then "this book by mark tizkowski the aphorism of shiva but this is the translation of the other commentary by pascara" — **names our Dyczkowski shelf directly**.
-- essay_use: bibliography crux — cross-links our `primary/texts/aphorisms-of-siva` and [V] SS 1.1/2.1/3.1 to this course
 
 ### ss3-09 — samvit, not caitanya: the integrative consciousness [A]
 - timestamp: [01:18:07]-->[01:18:44]
@@ -98,7 +89,7 @@ ethics-at-end → practical nonduality.
 - context: Translator's ruling; awareness (vipassanā-style, something practiced) vs consciousness (something that IS there).
 - essay_use: the sharpest consciousness-definition in the session; essay-0 vocabulary core
 
-### ss3-11 — ātman = innermost nature of everything, not a substantial self [B]
+### ss3-11 — ātman = innermost nature of everything, not a substantial self [C]
 - timestamp: [01:20:44]-->[01:21:14]
 - topics: consciousness, doctrine
 - role: claim
@@ -161,7 +152,7 @@ ethics-at-end → practical nonduality.
 - context: Vs Buddhism/yoga yama-niyama-first; artificial compassion backfires (tensions leak out); "how can you be non-violent if you have not overcome your anger."
 - essay_use: structural crux of the corpus — leads with experience, ethics follow; essay-0-adjacent
 
-### ss3-18 — compassion from within at pervasive consciousness [B]
+### ss3-18 — compassion from within at pervasive consciousness [C]
 - timestamp: [01:43:32]-->[01:44:13]
 - topics: ethics, consciousness
 - role: method
@@ -170,7 +161,7 @@ ethics-at-end → practical nonduality.
 - context: VB dhāraṇā 100 (same Self in all bodies → conquer becoming); "non-duality is not a philosophical idea it has to be applied in practice."
 - essay_use: the applied-nonduality line; pairs with ss3-17 as principle+fruit
 
-### ss3-19 — nothing exists outside the range of consciousness - absolutely free in all knowledge and activity [B]
+### ss3-19 — nothing exists outside the range of consciousness - absolutely free in all knowledge and activity [C]
 - timestamp: [01:23:04]-->[01:23:30]
 - topics: consciousness,freedom
 - role: quote
@@ -179,7 +170,7 @@ ethics-at-end → practical nonduality.
 - context: Raja translation read aloud (after ss3-12 identification-clip): in this world nothing exists which is outside the range of consciousness; the activity of consciousness is universal throughout; a conscious being is one who coincides with things, absolutely free in all knowledge and activity. The manifesto-sentence itself.
 - essay_use: S1 depth: the svatantriya-manifesto quote (source of ss3-12 claim)
 
-### ss3-20 — everything full of that consciousness conquers the world of becoming (VB 100) [B]
+### ss3-20 — everything full of that consciousness conquers the world of becoming (VB 100) [C]
 - timestamp: [01:42:56]-->[01:43:18]
 - topics: consciousness,realisation
 - role: quote
@@ -188,7 +179,7 @@ ethics-at-end → practical nonduality.
 - context: Swamiji VB-dharana-100 read: consciousness is residing in all the bodies, there is no differentiation in anything; therefore if a person realizes that everything is full of that very consciousness he conquers the world of becoming (bhavajit). The practice-verse of the consciousness-half.
 - essay_use: S1 depth: conquering-becoming via all-bodies-consciousness (feeds S6 compassion-run)
 
-### ss3-21 — nonduality is not a philosophical idea - it has to be applied in practice [B]
+### ss3-21 — nonduality is not a philosophical idea - it has to be applied in practice [C]
 - timestamp: [01:44:45]-->[01:44:55]
 - topics: realisation,ethics
 - role: claim
@@ -198,7 +189,7 @@ ethics-at-end → practical nonduality.
 - essay_use: S1 depth: nonduality-as-praxis (caps the consciousness-teaching)
 
 ## Reuse clusters
-- **Course program**: ss3-02, ss3-03, ss3-04, ss3-08 (retreat frame, text-as-guru, three ways, editions)
+- **Course program**: ss3-02, ss3-03, ss3-04 (retreat frame, text-as-guru, three ways; editions = ss3-08 → ledger 2026-10-26)
 - **1.1 gloss core**: ss3-09, ss3-10, ss3-11, ss3-12, ss3-14, ss3-16 (samvit → not-individual → innermost-nature → freedom → freedom-mark → non-artificial)
 - **Map & worship**: ss3-13 (tattva-Śiva vs Paramashiva)
 - **Negation + ethics**: ss3-15, ss3-17, ss3-18

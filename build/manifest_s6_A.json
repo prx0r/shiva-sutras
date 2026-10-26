@@ -1,0 +1,129 @@
+{
+ "section": "S6",
+ "layer": "A",
+ "question": "What happens after realisation?",
+ "card": {
+  "question": "What happens after realisation?",
+  "sanskrit": "nartaka atma",
+  "sutra": "3.9",
+  "translation": "The Self is the actor.",
+  "plain": "the self is the actor",
+  "ref": "Aphorisms l.3763/3764 · trans l.265"
+ },
+ "source_order": "SECTION_ARGUMENTS (join-audited) + (sess,ts) inserts",
+ "clip_count": 10,
+ "window_seconds": 272.7,
+ "window_runtime": "00:04:33",
+ "beats": [
+  {
+   "seq": 1,
+   "uid": "ss3-17",
+   "session": "ss3",
+   "mp3": "audio/sLD0aeV1d3o.mp3",
+   "t_in": 6053.0,
+   "t_out": 6077.4,
+   "dur": 24.4,
+   "grade": "A",
+   "title": "ethics come at the end: nonviolence as second nature"
+  },
+  {
+   "seq": 2,
+   "uid": "ss6-16",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 2635.0,
+   "t_out": 2655.4,
+   "dur": 20.4,
+   "grade": "A",
+   "title": "after interiority, come back to exteriority: vyutthāna"
+  },
+  {
+   "seq": 3,
+   "uid": "ss10-03",
+   "session": "ss10",
+   "mp3": "audio/lfWQfoG23cY.mp3",
+   "t_in": 1151.0,
+   "t_out": 1171.1,
+   "dur": 20.1,
+   "grade": "A",
+   "title": "the real posture is the supreme energy of awareness"
+  },
+  {
+   "seq": 4,
+   "uid": "ss12-07",
+   "session": "ss12",
+   "mp3": "audio/r5wTwUNVYOo.mp3",
+   "t_in": 2061.0,
+   "t_out": 2073.8,
+   "dur": 12.8,
+   "grade": "A",
+   "title": "kula-mārga: see the whole universe in a piece of it"
+  },
+  {
+   "seq": 5,
+   "uid": "ss12-12",
+   "session": "ss12",
+   "mp3": "audio/r5wTwUNVYOo.mp3",
+   "t_in": 3661.0,
+   "t_out": 3681.0,
+   "dur": 20.0,
+   "grade": "A",
+   "title": "offer the body into the fire; ego needs a support"
+  },
+  {
+   "seq": 6,
+   "uid": "ss12-14",
+   "session": "ss12",
+   "mp3": "audio/r5wTwUNVYOo.mp3",
+   "t_in": 4790.0,
+   "t_out": 4807.5,
+   "dur": 17.5,
+   "grade": "A",
+   "title": "devour duality AND non-duality; even unity is a vikalpa"
+  },
+  {
+   "seq": 7,
+   "uid": "ss13-05",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 2294.0,
+   "t_out": 2319.0,
+   "dur": 25.0,
+   "grade": "A",
+   "title": "samādhi is sameness with all beings, not isolation"
+  },
+  {
+   "seq": 8,
+   "uid": "ss13-20",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 2769.0,
+   "t_out": 2808.7,
+   "dur": 39.7,
+   "grade": "A",
+   "title": "jīvanmukta’s established activity IS a play (Spandakārikā)"
+  },
+  {
+   "seq": 9,
+   "uid": "ss13-21",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 2946.0,
+   "t_out": 2996.5,
+   "dur": 50.5,
+   "grade": "A",
+   "title": "the actor: established in his own nature, yet performs everything"
+  },
+  {
+   "seq": 10,
+   "uid": "ss13-29",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 4175.0,
+   "t_out": 4217.3,
+   "dur": 42.3,
+   "grade": "A",
+   "title": "līlā = total freedom and spontaneity at that level of consciousness"
+  }
+ ]
+}

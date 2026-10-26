@@ -7,7 +7,7 @@ Session shape: map-table orientation (upāyas×states×śaktis×trika×vāk) →
 
 ## Units
 
-### ss8-01 — one system seen from every side: the puzzle that assembles itself [B]
+### ss8-01 — one system seen from every side: the puzzle that assembles itself [C]
 - timestamp: [00:12:42]-->[00:13:50]
 - topics: doctrine, tantra
 - role: claim
@@ -43,7 +43,7 @@ Session shape: map-table orientation (upāyas×states×śaktis×trika×vāk) →
 - context: Tantra's own images (Parātrīśikā too); yogi's unified consciousness contains the totality as potency.
 - essay_use: image file; the "oneness that contains" vs empty oneness distinction
 
-### ss8-05 — waves, flames, rays have sprung from Me [B]
+### ss8-05 — waves, flames, rays have sprung from Me [C]
 - timestamp: [00:24:13]-->[00:24:50]
 - topics: nonduality, mantra
 - role: reading
@@ -89,7 +89,7 @@ Session shape: map-table orientation (upāyas×states×śaktis×trika×vāk) →
 - context: The sunya-precision: shunya here is NOT maha-shunya but the experience of individuality in deep sleep, unconsciousness, or at the moment of death - experiences of emptiness in the INDIVIDUAL, not the universal. Guards the void/consciousness distinction (head-off ghat-statements).
 - essay_use: S1 depth: what the void is NOT (precision-unit for S1/S5 void-talk)
 
-### ss8-10 — the only hindrance: considering ourselves identified with body or mind [B]
+### ss8-10 — the only hindrance: considering ourselves identified with body or mind [C]
 - timestamp: [00:26:05]-->[00:26:20]
 - topics: bondage,realisation
 - role: claim
@@ -98,7 +98,7 @@ Session shape: map-table orientation (upāyas×states×śaktis×trika×vāk) →
 - context: VB-quotations-as-practice run: the hindering factor is considering ourselves identified with our body or our mind - THAT is the hindrance for any universal experience (pairs ss5-19 armor/freedom-challenging: identification is the mechanism the armor protects).
 - essay_use: S2 depth: identification stated as THE obstacle (mechanism-line)
 
-### ss8-11 — either spontaneous enlightenment or the end of practice - he favors the first here [B]
+### ss8-11 — either spontaneous enlightenment or the end of practice - he favors the first here [C]
 - timestamp: [00:29:27]-->[00:30:04]
 - topics: realisation,practice
 - role: claim
@@ -107,7 +107,7 @@ Session shape: map-table orientation (upāyas×states×śaktis×trika×vāk) →
 - context: The de-identification-order question answered: either it comes from ecstatic/spontaneous enlightenment, or it is the end result of practice (aham-vavasthitva: not-body, not-mind), and body-consciousness simply drops off; but here he FAVORS the first, because we are in shambhava - the spontaneous experience of universal oneness makes the limitation drop.
 - essay_use: S3 depth: both-paths answer, shambhava ranks spontaneous
 
-### ss8-12 — open-eyes samadhi: suddenly one with the universe in nature [B]
+### ss8-12 — open-eyes samadhi: suddenly one with the universe in nature [C]
 - timestamp: [00:30:11]-->[00:30:34]
 - topics: realisation
 - role: example
@@ -116,7 +116,7 @@ Session shape: map-table orientation (upāyas×states×śaktis×trika×vāk) →
 - context: Swamiji note: such kind of experience can happen WITH OPEN EYES - named samadhi; meditating outside in nature, on the mountain or the seashore, suddenly you have this experience of oneness with the universe. Arrival in the open, not on the cushion.
 - essay_use: S3 depth: open-eyes arrival register (nature-setting examples)
 
-### ss8-13 — ananya-citta: a mind not directed to anything else - do not wander to the market [B]
+### ss8-13 — ananya-citta: a mind not directed to anything else - do not wander to the market [C]
 - timestamp: [00:40:56]-->[00:41:18]
 - topics: mind,practice
 - role: method
@@ -134,7 +134,7 @@ Session shape: map-table orientation (upāyas×states×śaktis×trika×vāk) →
 - context: Sense-merging comment: it is significant because the senses are NOT to be left out - you do not just concentrate on something and leave out the senses; they have to be included, they have to take part. Inclusive-practice law (pairs ss13-12 nothing-left-out + ss13-04 pratyahara-uses-senses).
 - essay_use: S6 depth: include-don-t-exclude (totality applied to means)
 
-### ss8-15 — his god-consciousness is transformed into universal consciousness [B]
+### ss8-15 — his god-consciousness is transformed into universal consciousness [C]
 - timestamp: [00:46:01]-->[00:46:06]
 - topics: consciousness,realisation
 - role: claim

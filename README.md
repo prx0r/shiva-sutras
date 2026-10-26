@@ -17,22 +17,22 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
 7. `build/JOIN_AUDIT.md` — line-by-line join audit: all 65 adjacent pairs verdicted
    (55 OK / 9 SOFT / 0 WEAK), quote-integrity 71/0, cross-section joints.
 8. `excavations/COVERAGE.md` + `tools/coverage_measure.py` — coverage truth + the
-   pass-1 ledger state (ledger = `excavations/COVERAGE_LEDGER.tsv`, 676 rows).
+   pass-1 ledger state (ledger = `excavations/COVERAGE_LEDGER.tsv`, 678 rows).
 9. `HANDOVER-2026-10-25.md` — today's full log: pass-1, structure-pass, M19–M21,
    gotchas, and the exact next moves.
 10. `TODO.md` — **the 20-action queue** (start here for work; NEXT = the longer why).
 11. `FILEMAP.md` — every path: what it is and why (update it the day you add a file).
 
 ## State (handover snapshot)
-- **Grading:** 308 units (81A/219B/8C) across 14 sessions (pass-1: day5_ii +18, day6_ii +21) — `tools/verify_units.py` = 308/0.
-- **Segmentation:** 308/308 one section each — `excavations/SPINE_ASSIGN.tsv`
+- **Grading:** 307 units (82A/83B/142C) across 14 sessions (pass-1: day5_ii +18, day6_ii +21) — `tools/verify_units.py` = 307/0.
+- **Segmentation:** 307/307 one section each — `excavations/SPINE_ASSIGN.tsv`
   (48+ content-verdict overrides logged in `tools/s2_cluster.py`).
 - **Spine:** 6 open questions (G0 gate `tools/validate_questions.py` = 7/7 incl. alternate),
   sūtra-ranged, fit-checked vs actual A-pools.
 - **Essay-0:** stack built + flow-read done (text-level) — lock = DRAFT, **owner ear pending**.
 - **Four-layer gospel:** ratified as law (SPINE §GOSPEL); every S/T row carries
   Aphorisms line-refs; plain rows = proposal-key no-ops until sign-off.
-- **Coverage:** pass-1 COMPLETE — 676 ledger rows disposition every gap (14/14 files);
+- **Coverage:** pass-1 COMPLETE — 678 ledger rows disposition every gap (14/14 files);
   15.9% span / ~23% words quoted; owner decision (§8e-1) now only formalizes the form.
 
 ## Repo map
@@ -52,17 +52,18 @@ TODO.md        20-action queue for the next agent
 
 ## Repro
 ```bash
-python3 tools/verify_units.py      # 308/0
+python3 tools/verify_units.py      # 307/0
 python3 tools/validate_questions.py  # 7/7 (6 spine + alternate)
 python3 tools/s2_cluster.py --apply  # segmentation, totals reconcile (see SPINE_ASSIGN)
 python3 tools/plain_filter.py --check  # hash MATCH
 ```
 
 ## What's next (owner-visible order)
-1. Owner ear on HEAD mp3 → lock essay0.
-2. Audio flow-read (real pauses; stress join 4→5, S6 weight) — levers: promote dancer
+1. **B-sweep run-1 DONE (2026-10-26)** — 83/134/1/1 verdicts; re-run at lock. mp3s: all 14 local.
+2. Owner ear on HEAD mp3 → lock essay0.
+3. Audio flow-read (real pauses; stress join 4→5, S6 weight) — levers: promote dancer
    ss13-06 or re-ask.
-3. Coverage-standard decision (PROCESS §8e-1) before any "full walk" claim.
-4. key sign-off → plain regenerate → Sanskrit print-verify (OCR forms).
-5. Build: essay0 → A-collate per section → B hold-up selection (`build/HOLDUP_SHEET.md`) → C walk → beats → render — shapes per vatula `process/FORMULA.md` (A⊂B⊂C append-only; UNFOLDING: seed recurs 4×, layer-bells).
+4. Coverage-standard decision (PROCESS §8e-1) before any "full walk" claim.
+5. key sign-off → plain regenerate → Sanskrit print-verify (OCR forms).
+6. Build: manifests DONE (manifest_sN_A/B/C) · beats spec DONE (BEATS.md) → audio assembly (tools/make_audio.py) → ear — shapes per vatula `process/FORMULA.md` (A⊂B⊂C append-only; UNFOLDING: seed recurs 4×, layer-bells).
 Audio on demand: pull the other 11 Baumer mp3s from R2 (`longform-audio/bettina-baumer-shiva-sutras/`).

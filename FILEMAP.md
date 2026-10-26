@@ -21,13 +21,13 @@ the long-form queue with context.)
 
 | file | what | why |
 |---|---|---|
-| `ss1..ss13.md`, `dl1.md` | **308 units** — uid/timestamp/quote/context/essay_use, graded A/B/C | the only place quotes live verbatim; grades = innermost essay-layer each clip enters (FORMULA) |
+| `ss1..ss13.md`, `dl1.md` | **307 units** — uid/timestamp/quote/context/essay_use, graded A/B/C | the only place quotes live verbatim; grades = innermost essay-layer each clip enters (FORMULA) |
 | `SPINE.md` | the 6 section-questions + gospel law + sūtra-ranges + fit-check | sections ARE questions; fit-check = A↔question measured evidence |
 | `SPINE_ASSIGN.tsv` | uid → (grade, section, score, margin, fallback) | machine membership; `fallback=pass1-manual` marks the 124 provisional pass-1 rows |
 | `_SCHEMA.md` | required unit fields | ported from vatula←analayo — breaks here break `verify_units` |
 | `CATALOGUE.md` | topics → uids, A-density ranked | clustering/reshuffle layer |
 | `COVERAGE.md` | coverage truth + pass-1 results + inclusion channels | answers "how much of Baumer are we using" |
-| `COVERAGE_LEDGER.tsv` | **676 rows**: every gap span → disposition (promote / C-reason / covered / demoted) | the C-disposition substrate + audit trail; every pass-1 uid has a row (assert this after edits) |
+| `COVERAGE_LEDGER.tsv` | **678 rows**: every gap span → disposition (promote / C-reason / covered / demoted) | the C-disposition substrate + audit trail; every pass-1 uid has a row (assert this after edits) |
 | `C-MARKS.md` | why spans are NOT units, per file | the notes-layer (notes live HERE, never as units — M21) |
 | `ESSAY0.md` | the essay-0 pick record (7-step run, sharpened-question audit) | why the question/seed is what it is |
 | `SPINE_PREVIEW.md` | superseded S2 design record | kept deliberately as history — never edit, never cite as current |
@@ -42,7 +42,13 @@ the long-form queue with context.)
 | `SECTION_ARGUMENTS.md` | Essay A as text — 71 clips in order per section + flow verdicts | the A-collate draft; *missing the 10 newer A's (audit noted)* |
 | `JOIN_AUDIT.md` | 65 clip-joins verdicted (55/9/0) | proof the arguments flow, not random statements |
 | `UNFOLDING_AUDIT.md` | 81 A judged vs seeds (62E/11Q/5B/3W/**0N**) | proof no A swaps the seed; watch-list = ss4-02, ss8-06/07, ss10-03, S5-guru, ss7-16 |
-| `HOLDUP_SHEET.md` | 219 B-rows with KEEP/DEMOTE/LEDGER checkboxes (114 provisional) | the B-membership sweep — run at lock (TODO #6) |
+| `HOLDUP_SHEET.md` | 219 B-rows, **RUN-1 verdicts written** (83 KEEP/134 DEMOTE/1 LEDGER/1 PROMOTED) | the B-membership sweep — run-1 done 2026-10-26 against DRAFT; re-run at lock |
+| `B_SWEEP.md` + `holdup_verdicts.json` | sweep log (keep-reasons, budgets, defects M22/M23) + machine verdicts | what played at B and why — regenerate sheet from units, verdicts = single source |
+| `manifest_s{1..6}_{A,B,C}.json` | 18 manifests: ordered clips w/ quote-located t_in/t_out, card+question | the cut lists for every layer — built by `tools/build_manifests.py` |
+| `C_WALK.md` | the C layer as a doc (300 clips, her order) | readable texture walk; manifest_sc_C.json = machine source |
+| `BEATS.md` | run-order, opener grammar, bell spec, assembly pipeline, runtimes | THE build instrument for audio (v1) |
+| `SPEAKERS.md` | voice map (archive vs human vs TTS) + v1 placeholder rulings | who speaks what |
+| `EAR_CHECK.md` | 32 ASR suspects (uid+window+expected) | verify at audio QA; `naruto` sits in an A-quote |
 | `key_ss1_proposal.json`, `plain_essay0.json`, `loanwords_ss1.json`, `t_essay0.txt` | key/plain pipeline states (PROPOSAL) | plain rows are mechanical filter-output — regenerate+rehash at key sign-off, **never hand-edit** |
 | `t_essay0.txt` | transcript-side text of essay-0 | input to filters |
 
@@ -56,7 +62,8 @@ the long-form queue with context.)
 | `coverage_measure.py` | span/line/word + per-section anchor coverage | "how much are we using" as a number |
 | `gap_report.py` | uncovered spans per session (SESS map — handles dl1) | the pass's work-queue generator |
 | `sync_counts.py` | recomputes counts → rewrites every doc line that states them | run after ANY unit add/demote; **its NEXT-state template was fixed 2026-10-25 — don't regress it** |
-| `s2_cluster.py` | section assignment + verdicts | historical (48+ overrides logged); new rows are manual now |
+| `build_manifests.py` | A/B/C manifests: quote→line-run→word-rate cut stamps, SA-order | the cut lists (re-run after any grade/order change) |
+| `s2_cluster.py` | section assignment + verdicts (REPORT ONLY post-pass-1) | historical (48+ overrides logged); new rows are manual now |
 | `cf_transcribe.py`, `vtt2txt.py` | CF whisper + VTT→stamped-text | transcript acquisition (PID-unique temp, 600s chunks) |
 
 ## DATA (mostly gitignored on purpose)
@@ -66,7 +73,7 @@ the long-form queue with context.)
 | `text/*.txt` (14) | stamped transcripts (the source-of-truth for quotes) | committed; all unit windows reference these stamps |
 | `transcripts/` | raw VTTs (22 = 11×orig+compacted) | provenance for regenerating text/ |
 | `cf/` | CF-whisper JSON+logs (2 sessions) | cf_transcribe outputs |
-| `audio/` (3 mp3) | locally pulled mp3s | **GITIGNORED — never commit audio**; 11 more sit in R2 (TODO #9) |
+| `audio/` (14 mp3 = ALL Baumer+dl1, + `gen/` `cuts/` build-out) | local mp3s + generated audio | **GITIGNORED — never commit audio**; 2026-10-26: 11 pulled, corpus complete |
 | `reference/aphorisms-of-siva-dyczkowski_clean.txt` | held Sanskrit/translation source for cards | **GITIGNORED — copyright; held line-refs (l.735 etc.) are the only things quoted** |
 
 ## House rules that keep this map true

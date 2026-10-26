@@ -1,0 +1,250 @@
+{
+ "section": "S4",
+ "layer": "B",
+ "question": "What does realisation do to experience?",
+ "card": {
+  "question": "What does realisation do to experience?",
+  "sanskrit": "tritayabhokta vtresah",
+  "sutra": "1.11",
+  "translation": "The enjoyer of the three states is the Lord of the Heroes.",
+  "plain": "the enjoyer of the three states is the lord of the heroes",
+  "ref": "Aphorisms l.1401 (OCR-verify) · trans l.181"
+ },
+ "source_order": "SECTION_ARGUMENTS (join-audited) + (sess,ts) inserts",
+ "clip_count": 21,
+ "window_seconds": 416.6,
+ "window_runtime": "00:06:57",
+ "beats": [
+  {
+   "seq": 1,
+   "uid": "ss7-02",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 619.0,
+   "t_out": 636.4,
+   "dur": 17.4,
+   "grade": "B",
+   "title": "yogi, vīra, vīreśvara: fearlessness is the promotion criterion"
+  },
+  {
+   "seq": 2,
+   "uid": "ss7-04",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 815.5,
+   "t_out": 833.6,
+   "dur": 18.1,
+   "grade": "B",
+   "title": "ordinary vs yogic: the same three states, another level"
+  },
+  {
+   "seq": 3,
+   "uid": "ss7-05",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 1018.0,
+   "t_out": 1035.6,
+   "dur": 17.6,
+   "grade": "A",
+   "title": "saṃbhava or saṃvit: the variant that makes turya enjoyment"
+  },
+  {
+   "seq": 4,
+   "uid": "ss7-07",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 1653.0,
+   "t_out": 1665.6,
+   "dur": 12.6,
+   "grade": "A",
+   "title": "vikalpa is the key: either in it or free of it"
+  },
+  {
+   "seq": 5,
+   "uid": "ss7-09",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 2463.0,
+   "t_out": 2473.2,
+   "dur": 10.2,
+   "grade": "B",
+   "title": "prabuddha to suprabuddha: temporary vs permanent"
+  },
+  {
+   "seq": 6,
+   "uid": "ss7-26",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 2508.0,
+   "t_out": 2530.9,
+   "dur": 22.9,
+   "grade": "B",
+   "title": "suprabuddha remains permanently; the temporary one comes down"
+  },
+  {
+   "seq": 7,
+   "uid": "ss7-27",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 2696.0,
+   "t_out": 2724.3,
+   "dur": 28.3,
+   "grade": "A",
+   "title": "turiiyatita: the fourth state pervades every ordinary activity, and is not lost"
+  },
+  {
+   "seq": 8,
+   "uid": "ss7-11",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 2792.0,
+   "t_out": 2829.0,
+   "dur": 37.0,
+   "grade": "B",
+   "title": "vīrya-bhoktā: the master enjoys, senses are gods"
+  },
+  {
+   "seq": 9,
+   "uid": "ss7-28",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 2836.0,
+   "t_out": 2855.1,
+   "dur": 19.1,
+   "grade": "B",
+   "title": "tritayabhogta: bhuj means really enjoying - a blissful experience, not abstract"
+  },
+  {
+   "seq": 10,
+   "uid": "ss7-29",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 2960.0,
+   "t_out": 2990.6,
+   "dur": 30.6,
+   "grade": "A",
+   "title": "Swamiji full translation of the card verse: steeped in delight of the fourth"
+  },
+  {
+   "seq": 11,
+   "uid": "ss7-14",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 3507.0,
+   "t_out": 3518.9,
+   "dur": 11.9,
+   "grade": "A",
+   "title": "authentic experience must fill you with wonder"
+  },
+  {
+   "seq": 12,
+   "uid": "ss7-34",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 3652.0,
+   "t_out": 3668.9,
+   "dur": 16.9,
+   "grade": "B",
+   "title": "the great yogi: mass of consciousness, ever-new delight, mute wonder"
+  },
+  {
+   "seq": 13,
+   "uid": "ss7-16",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 4175.0,
+   "t_out": 4192.9,
+   "dur": 17.9,
+   "grade": "A",
+   "title": "icchā is precognitive impulse, before any object"
+  },
+  {
+   "seq": 14,
+   "uid": "ss7-19",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 3087.0,
+   "t_out": 3114.1,
+   "dur": 27.1,
+   "grade": "A",
+   "title": "bliss first, then duality dissolves by itself"
+  },
+  {
+   "seq": 15,
+   "uid": "ss8-02",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 1034.0,
+   "t_out": 1047.0,
+   "dur": 13.0,
+   "grade": "A",
+   "title": "this universe is my body (Sadāśiva level)"
+  },
+  {
+   "seq": 16,
+   "uid": "ss8-03",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 1125.0,
+   "t_out": 1150.2,
+   "dur": 25.2,
+   "grade": "A",
+   "title": "\"this body,\" not \"me\": the de-identification reading"
+  },
+  {
+   "seq": 17,
+   "uid": "ss8-04",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 1308.0,
+   "t_out": 1325.5,
+   "dur": 17.5,
+   "grade": "B",
+   "title": "peacock egg and banyan seed: oneness holding all multiplicity"
+  },
+  {
+   "seq": 18,
+   "uid": "ss8-06",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 2047.0,
+   "t_out": 2071.0,
+   "dur": 24.0,
+   "grade": "A",
+   "title": "the heart is cit-prakāśa, the universe's establishment-place"
+  },
+  {
+   "seq": 19,
+   "uid": "ss8-07",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 2359.0,
+   "t_out": 2376.5,
+   "dur": 17.5,
+   "grade": "A",
+   "title": "merge the senses in the heart-space between the two lotuses"
+  },
+  {
+   "seq": 20,
+   "uid": "ss12-20",
+   "session": "ss12",
+   "mp3": "audio/r5wTwUNVYOo.mp3",
+   "t_in": 1753.0,
+   "t_out": 1765.4,
+   "dur": 12.4,
+   "grade": "B",
+   "title": "the yogi flies in the ether of supreme consciousness (Swamiji on khecari)"
+  },
+  {
+   "seq": 21,
+   "uid": "ss12-21",
+   "session": "ss12",
+   "mp3": "audio/r5wTwUNVYOo.mp3",
+   "t_in": 1830.0,
+   "t_out": 1849.4,
+   "dur": 19.4,
+   "grade": "B",
+   "title": "khecari is self-delight welling up from within - the overflowing of blissfulness"
+  }
+ ]
+}

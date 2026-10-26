@@ -4,7 +4,7 @@
 section → keyword-score every unit's ±5min transcript window (+ its own quote) →
 ties/zeroes/thin(margin≤2 & score<12) fall back to the session's primary section →
 **human verdict pass** for content>metric conflicts (48 overrides, all logged in
-`tools/s2_cluster.py` OVER dict) → totals reconcile 180/180 (`excavations/SPINE_ASSIGN.tsv`).
+`tools/s2_cluster.py` OVER dict) → totals reconcile 308/308 (`excavations/SPINE_ASSIGN.tsv`).
 Blind agglomerative clustering was NOT run (vatula attempt-log: it produces blobs/dust);
 profiles-first is the method that works.
 
@@ -14,8 +14,8 @@ essay-0's response must OPEN the enquiry · her sūtra order = sort key INSIDE s
 (never reorders across) · thin sections stay thin · A ⊂ B ⊂ C collated under these.
 
 ## Convergence (two dissections, one elephant)
-- Unit distribution: S1 77 · S2 30 · S3 40 · S4 43 · S5 71 · S6 47 (total 308 after pass-1; ss5-02 moved to S5 guru-means).
-- Independent A-buckets:  S1 24 · S2 7 · S3 9 · S4 12 · S5 18 · S6 11 (total 81; pass-1 grows as files are read).
+- Unit distribution: S1 76 · S2 30 · S3 40 · S4 43 · S5 71 · S6 47 (total 307 after pass-1; ss5-02 moved to S5 guru-means).
+- Independent A-buckets:  S1 24 · S2 8 · S3 9 · S4 12 · S5 18 · S6 11 (total 82; pass-1 grows as files are read).
 - Both rank S1 first and S5 second; S3 is thinnest in both — accepted, not padded.
   S6 vs S2/S4 swap mid-table is the only disagreement (cosmetic).
 
@@ -35,7 +35,7 @@ answer-space; none closes the enquiry.
 
 ---
 
-## S1. What is consciousness? — the thing · sūtras 1.1 (+intro/history) · 62 units (24A) · includes SECOND VOICE (dl1)
+## S1. What is consciousness? — the thing · sūtras 1.1 (+intro/history) · 76 units (24A) · includes SECOND VOICE (dl1)
 **Anchor (her words):** `ss3-10` — "consciousness is definitely not individual
 consciousness … it means universal consciousness … consciousness is not something
 you are doing it is something which is there"
@@ -48,7 +48,7 @@ fluidity closes (ss5-01, ss6-06, ss7-01, ss8-01, ss9-03…05).
 **Note:** ss12-02 (recognition-as-reading) and ss13-01 (ātman-per-level) are verdict-here;
 recognition-thick material belongs to the PH project — keep only as reading-method here.
 
-## S2. What keeps consciousness from being realised? — the obstacle · sūtras 1.2–1.4 (+kañcuka/mātṛkā exegesis) · 19 units (6A)
+## S2. What keeps consciousness from being realised? — the obstacle · sūtras 1.2–1.4 (+kañcuka/mātṛkā exegesis) · 30 units (8A)
 **Anchor:** `ss4-12` (the shock: "jñānam bandhaḥ") · definitional: ss4-14 · Q asks WHAT keeps, not why-it-binds — "Mala, it is said, is nothing but Vajjana or ignorance of one's real nature"
 **Journey:** the bridge-question (ss4-11 "how come we are not all liberated") →
 the shock (ss4-12 jñānam bandhaḥ) → two readings (ss4-13) → mala-map (ss4-14…17:
@@ -57,7 +57,7 @@ kañcuka section (ss5-02…08, ss5-12, ss5-15: kalā-fragment, armor, removal-ru
 malas-speaking) → threshold as māyā (ss9-02) · siddhi-veil strays: ss13-03.
 **A-anchors:** ss4-12, ss4-14, ss4-17, ss5-15, ss5-04.
 
-## S3. How does realisation happen? — the arrival · sūtra 1.5 (+1.6-adjacent suddenness, 2.5-svābhāvika echo) · 20 units (8A)
+## S3. How does realisation happen? — the arrival · sūtra 1.5 (+1.6-adjacent suddenness, 2.5-svābhāvika echo) · 40 units (9A)
 **Anchor:** `ss6-04` — "ud + yam … it is not a gradual rising step by steps it is a sudden upsurge"
 **Journey:** jīvanmukti-question (ss6-01) → Zen/sudden frame (ss6-02) → viśrānti (ss6-03) →
 the sūtra itself (ss6-04/05 uplifting=divine) → union (ss6-07/08) → "not by any human
@@ -66,7 +66,7 @@ effort" (ss12-03/04 + ss10-05/06 easy-way & result-not-ticket) → thought-free 
 **A-anchors:** ss6-04, ss6-05, ss6-08, ss6-14, ss12-04, **ss12-16 (the WHY-line: not made by any human effort)**, ss10-05.
 **Note:** siddhi-rejection deliberately clustered here (means: not-by-powers), not in S6.
 
-## S4. What does realisation do to experience? — the change · sūtras 1.7–1.15 (states/turya/heart) · 24 units (10A)
+## S4. What does realisation do to experience? — the change · sūtras 1.7–1.15 (states/turya/heart) · 43 units (12A)
 **Anchor:** `ss7-06` — "the moonlit vīra … with the rays of his knowledge he purifies
 and fills it with supreme bliss right from hell to shiva"
 **Journey:** turya/state-machinery (ss2-02, ss7-04…09: 3×3, sleep-entry, awakening-degrees) →
@@ -75,7 +75,7 @@ body-reading (ss8-02…05 this-universe-my-body, peacock/banyan) → heart-pract
 (ss8-06/07 lotus) → kṣobha/agitation (ss12-13) · program strays: ss3-01 invocation, ss6-19.
 **A-anchors:** ss7-05, ss7-06, ss7-07, ss7-14, ss7-16, ss8-02, ss8-06, ss8-07.
 
-## S5. What does the mind have to do with consciousness? — the mechanism · sūtra 2.1 (+2.3 mantra, 2.6 guru) · 36 units (15A)
+## S5. What does the mind have to do with consciousness? — the mechanism · sūtra 2.1 (+2.3 mantra, 2.6 guru) · 71 units (18A)
 **Anchor:** `ss11-05` — "the mind of the devotee … acquires identity with the deity and
 thus becomes that mantra itself"
 **Journey:** MVUT practice-freedom (ss1-10…15: fix awareness, adopt whatever enables) →
@@ -86,7 +86,7 @@ condense-to-source, nyāsa, pause-between-syllables) → attention-rule (ss6-09)
 ss12-08/09/10 → khecari/vitarka (ss12-05, ss10-07) · program: ss11-08 selection-note.
 **A-anchors:** ss11-03/05/06, ss10-01, ss10-08, ss12-08, ss1-11, ss5-11.
 
-## S6. What happens after realisation? — the after · sūtras 3.1–3.16 (āṇava yoga, jīvanmukti, actor/stage) · 25 units (8A)
+## S6. What happens after realisation? — the after · sūtras 3.1–3.16 (āṇava yoga, jīvanmukti, actor/stage) · 47 units (11A)
 **Anchor:** `ss3-17` — "they come at the end because you cannot practice any ethics or
 any yama niyama unless you have already reached a certain stage of spiritual experience"
 **Journey:** ethics-after (ss3-17/18) → supportlessness + āsana-redefined (ss10-03/04) →
@@ -101,7 +101,7 @@ misc: ss8-04 strays-in.
 
 ## C-homes (8 C units, each lives where it fell; never build from them)
 ss1-01 (program lead-in) · ss1-24 (supermarket joke → S1 note) · ss2-07 (Buddhist Q → S1) ·
-ss3-05 (participant nuclear-bomb color → S1) · ss5-14 (edition availability → S2) ·
+ss3-05 (participant nuclear-bomb color → S1) · dl1-05 (Kāpālika-sādhana mention → S1) ·
 ss6-19 (translation-brevity shop-talk → S4) · ss7-10 (€4000-book anecdote → S4) ·
 ss11-08 (selection-rule note → S5).
 
@@ -148,10 +148,11 @@ HUMAN voice owns questions · Sanskrit-first cards · quotas never padded (thin 
 
 ## Repro
 ```bash
-python3 tools/s2_cluster.py --apply     # reassign + totals reconcile (180/180)
+python3 tools/s2_cluster.py            # REPORT ONLY — never --apply post-pass-1:
+#   it rewrites SPINE_ASSIGN.tsv and would erase the 124 pass1-manual fallbacks
 python3 tools/validate_questions.py     # 6 spine + essay0 questions, G0 gate
-python3 tools/verify_units.py           # 180 units, 0 fails
-awk -F'\t' 'NR>1{c[$4]++} END{for(k in c) print k,c[k]}' excavations/SPINE_ASSIGN.tsv   # 62/20/19/24/35/25
+python3 tools/verify_units.py           # 308 units, 0 fails
+awk -F'	' 'NR>1{c[$4]++} END{for(k in c) print k,c[k]}' excavations/SPINE_ASSIGN.tsv   # 77/30/40/43/71/47
 ```
 
 ## Question ↔ content fit (static check vs the actual A-pools, 2026-10-25)

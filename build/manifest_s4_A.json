@@ -1,0 +1,140 @@
+{
+ "section": "S4",
+ "layer": "A",
+ "question": "What does realisation do to experience?",
+ "card": {
+  "question": "What does realisation do to experience?",
+  "sanskrit": "tritayabhokta vtresah",
+  "sutra": "1.11",
+  "translation": "The enjoyer of the three states is the Lord of the Heroes.",
+  "plain": "the enjoyer of the three states is the lord of the heroes",
+  "ref": "Aphorisms l.1401 (OCR-verify) · trans l.181"
+ },
+ "source_order": "SECTION_ARGUMENTS (join-audited) + (sess,ts) inserts",
+ "clip_count": 11,
+ "window_seconds": 225.7,
+ "window_runtime": "00:03:46",
+ "beats": [
+  {
+   "seq": 1,
+   "uid": "ss7-05",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 1018.0,
+   "t_out": 1035.6,
+   "dur": 17.6,
+   "grade": "A",
+   "title": "saṃbhava or saṃvit: the variant that makes turya enjoyment"
+  },
+  {
+   "seq": 2,
+   "uid": "ss7-07",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 1653.0,
+   "t_out": 1665.6,
+   "dur": 12.6,
+   "grade": "A",
+   "title": "vikalpa is the key: either in it or free of it"
+  },
+  {
+   "seq": 3,
+   "uid": "ss7-27",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 2696.0,
+   "t_out": 2724.3,
+   "dur": 28.3,
+   "grade": "A",
+   "title": "turiiyatita: the fourth state pervades every ordinary activity, and is not lost"
+  },
+  {
+   "seq": 4,
+   "uid": "ss7-29",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 2960.0,
+   "t_out": 2990.6,
+   "dur": 30.6,
+   "grade": "A",
+   "title": "Swamiji full translation of the card verse: steeped in delight of the fourth"
+  },
+  {
+   "seq": 5,
+   "uid": "ss7-14",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 3507.0,
+   "t_out": 3518.9,
+   "dur": 11.9,
+   "grade": "A",
+   "title": "authentic experience must fill you with wonder"
+  },
+  {
+   "seq": 6,
+   "uid": "ss7-16",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 4175.0,
+   "t_out": 4192.9,
+   "dur": 17.9,
+   "grade": "A",
+   "title": "icchā is precognitive impulse, before any object"
+  },
+  {
+   "seq": 7,
+   "uid": "ss7-19",
+   "session": "ss7",
+   "mp3": "audio/s2cqHsBcsd4.mp3",
+   "t_in": 3087.0,
+   "t_out": 3114.1,
+   "dur": 27.1,
+   "grade": "A",
+   "title": "bliss first, then duality dissolves by itself"
+  },
+  {
+   "seq": 8,
+   "uid": "ss8-02",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 1034.0,
+   "t_out": 1047.0,
+   "dur": 13.0,
+   "grade": "A",
+   "title": "this universe is my body (Sadāśiva level)"
+  },
+  {
+   "seq": 9,
+   "uid": "ss8-03",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 1125.0,
+   "t_out": 1150.2,
+   "dur": 25.2,
+   "grade": "A",
+   "title": "\"this body,\" not \"me\": the de-identification reading"
+  },
+  {
+   "seq": 10,
+   "uid": "ss8-06",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 2047.0,
+   "t_out": 2071.0,
+   "dur": 24.0,
+   "grade": "A",
+   "title": "the heart is cit-prakāśa, the universe's establishment-place"
+  },
+  {
+   "seq": 11,
+   "uid": "ss8-07",
+   "session": "ss8",
+   "mp3": "audio/arJORd6eRXI.mp3",
+   "t_in": 2359.0,
+   "t_out": 2376.5,
+   "dur": 17.5,
+   "grade": "A",
+   "title": "merge the senses in the heart-space between the two lotuses"
+  }
+ ]
+}

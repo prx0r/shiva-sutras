@@ -201,8 +201,8 @@ stretches, her asides). Consequences:
   scar) copied to `dyczkowski/tools/`; its PROCESS_NOTES §14d repro-path note updated.
 
 ### 8d. STATE NOW (one screen)
-- **Grading:** 186 units (71A/106B/9C), verify 186/0 → pass-1: 308 (81A/219B/8C), 308/0.
-- **Segmentation:** 186/186 → pass-1 308/308 one-home (manual pass-1 rows in SPINE_ASSIGN), 48+ overrides in s2_cluster.
+- **Grading:** 186 units (71A/106B/9C), verify 186/0 → pass-1: 307 (82A/83B/142C), 307/0.
+- **Segmentation:** 186/186 → pass-1 307/307 one-home (manual pass-1 rows in SPINE_ASSIGN), 48+ overrides in s2_cluster.
 - **Convergence:** units × A-buckets agree (S1 top, S5 second, S3-thinnest-accepted).
 - **SPINE:** 6 open questions, role labels, fit-check table, per-section anchors = her words.
 - **Essay-0:** stack SANSKRIT→TRANSLATION→PLAIN→BÄUMER built (build/ESSAY0_OUTPUT.md),
@@ -259,7 +259,7 @@ and the gate's designated alternate.
   content survive — assert-or-die on every scripted doc edit.
 
 ### FINAL STATE
-- 308 units (81A/219B/8C) · verify 308/0 · segmentation 308/308 · G0 7/7 ·
+- 307 units (82A/83B/142C) · verify 307/0 · segmentation 307/307 · G0 7/7 ·
   plain hash MATCH · manifest 14/14 · gates green · tree clean.
 - Six open questions (fit-checked vs A-pools: S2/S3 textbook, S4/S6 wobbles recorded).
 - Essay-0: four-layer cells + flow-read artifact — **text-level passes; lock DRAFT**.
@@ -306,4 +306,29 @@ voice) same day: +3, 1 fix. Gates: 309/0 · G0 7/7 · plain MATCH. dl1 (non-Baum
    Run `build/HOLDUP_SHEET.md` for the B-sweep; A⊂B⊂C append-only + 4× seed-recurrence
    per vatula FORMULA/UNFOLDING (M21: C = texture, not notes).
 10. Cross-repo: BHU-Tantraloka ownership; essay-corpus corpus.db load — LIVE (external).
+
+## 8i. V1 BUILD DAY (2026-10-26) — sweep + manifests + audio substrate
+
+Owner: "just get a v1 ready... bell structure... not worried about visuals."
+Executed in order:
+1. **State-file fixes:** SPINE repro (180→308, `--apply` now REPORT-ONLY — it would
+   erase 124 pass1-manual fallbacks), COVERAGE table (309→308, 584→678 ledger rows),
+   676→678 ledger mentions, C-homes ghost (ss5-14→dl1-05), SPINE section headers
+   (stale pre-pass-1 counts → live 76/30/40/43/71/47).
+2. **All 11 missing Baumer mp3s pulled** from R2 bucket `longform-audio/`
+   (boto3 path-style, STALLSHARK creds) → audio/ complete: 14/14 local.
+3. **B-sweep RUN-1** (219 rows, HOLDUP): **83 KEEP-B · 134 DEMOTE-C · 1 LEDGER
+   (ss3-08) · 1 PROMOTED-A (ss4-15, M22 cell-grade bug)** → 307 units
+   (82A/83B/142C) · verdicts in build/holdup_verdicts.json + B_SWEEP.md (reasons) ·
+   M22/M23 logged · gates re-run 307/0.
+4. **Manifests** (`tools/build_manifests.py`): quote-located tight cuts (line-run +
+   word-rate interpolation, completeness/padding bounds), SECTION_ARGUMENTS order
+   canonical + (sess,ts) inserts, SEED-CAP cells excluded, ss4-22 skipped (M23b):
+   A 76 clips/23.5m · B 159/53.2m · C 300/95.4m → 18 JSON + C_WALK.md.
+5. **BEATS.md** (run-order: L0→LA→LB→LC, 880/220 bells, opener grammar, pipeline) +
+   **SPEAKERS.md** (TTS placeholders for questions/cards) + **EAR_CHECK.md** (32 rows).
+Open at day-end: audio generation (TTS→bells→cuts→layer concat→master), ear-session,
+coverage-standard (#5), key sign-off. A=23.5m vs band 10–20m recorded honestly
+(BEATS.md run-time honesties) — no A-clip cut for runtime.
+
 CLOSED this session: format law, sūtra map, question set, stale strings, manifest/catalogue/pycache, /tmp-scripts (tantraessays).

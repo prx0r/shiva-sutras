@@ -15,7 +15,7 @@ māyā difference → dualistic-tools question → Buddhist safety-net question 
 - context: Answering the Mandukya/ātman challenge: same turiya in Upaniṣads, but here the fourth is exceeded by what integrates all states; beauty of multiplicity not excluded, seen in higher non-duality.
 - essay_use: the one-line Bhairava gloss; pairs with Dyczkowski anuttara units
 
-### ss2-02 — turiya in the Upaniṣads; turyātīta integrates all states [B]
+### ss2-02 — turiya in the Upaniṣads; turyātīta integrates all states [C]
 - timestamp: [00:03:46]-->[00:04:02]
 - topics: doctrine, tantra-comparative
 - role: claim
@@ -51,7 +51,7 @@ māyā difference → dualistic-tools question → Buddhist safety-net question 
 - context: Answering whether dualistic tools must be abandoned at realization; points forward to VB practices where dualism-to-nonduality becomes experience, not abstraction.
 - essay_use: anti-abandonment rule; bridges intro → practice sessions
 
-### ss2-06 — philosophy and experience are mutually dependent [B]
+### ss2-06 — philosophy and experience are mutually dependent [C]
 - timestamp: [00:10:47]-->[00:11:02]
 - topics: doctrine, praxis
 - role: claim

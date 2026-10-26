@@ -1,8 +1,12 @@
 # TODO — 20 actions for the next agent (2026-10-25)
 
+> **STATUS 2026-10-26 (v1 push):** #7 sweep RUN-1 done (B_SWEEP.md) · #10 mp3s ALL local ·
+> #12 EAR_CHECK built (listen-verify pending) · A/B/C manifests + BEATS.md + C_WALK built.
+> Gates now: **307/0** (82A/83B/142C). Still owner-blocked: #3 ear · #4 keys · #5 coverage · #6 questions.
+
 Context for each: `HANDOVER-2026-10-25.md` (narrative) · `NEXT.md` (full queue) ·
 `FILEMAP.md` (paths + why) · `MISTAKES.md` M1–M21 (rules). Gates green at handover:
-verify 308/0 · G0 7/7 · plain MATCH · tree clean · pushed.
+verify 307/0 · G0 7/7 · plain MATCH · tree clean · pushed.
 
 **Legend:** 🔒 = blocked on owner (request once, in a single message; do the rest meanwhile)
 
@@ -10,7 +14,7 @@ verify 308/0 · G0 7/7 · plain MATCH · tree clean · pushed.
 1. **Read in order:** HANDOVER → NEXT → MISTAKES → PROCESS §8. Acceptance: you can
    state M17 (assert count==1), M21 (C = texture-clip, not note), and the BUILD ORDER
    (essay0 → A → B-holdup → C → beats → render) from memory.
-2. **Run the three gates cold** — `verify_units.py` (308/0), `validate_questions.py`
+2. **Run the three gates cold** — `verify_units.py` (307/0), `validate_questions.py`
    (7/7), `plain_filter.py --check` (MATCH). If any fails, stop and fix before edits.
 
 ### Owner-gated (block once, then work around)

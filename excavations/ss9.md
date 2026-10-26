@@ -43,7 +43,7 @@ forum-fight note → close.
 - context: Kṣemarāja(?) image continued with sugar-crane-juice→sugar; primitive quantum-physics nod (matter de-substantialized); don't overstress centuries-old terminological fights — dialogue possible.
 - essay_use: fluidity file; metaphysical bridge to modern ears, flagged as analogy
 
-### ss9-05 — Bhairava is void; the Devī is in every being, not the temple [B]
+### ss9-05 — Bhairava is void; the Devī is in every being, not the temple [C]
 - timestamp: [00:11:58]-->[00:12:31]
 - topics: ritual, doctrine
 - role: claim

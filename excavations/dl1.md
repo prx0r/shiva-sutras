@@ -9,7 +9,7 @@ the tantraessays registry (`[text:ss:…]` = grounded in Śivasūtras).
 
 ## Units
 
-### dl1-01 — rock revelation as Terma model [B] [text:ss:direct]
+### dl1-01 — rock revelation as Terma model [C] [text:ss:direct]
 - timestamp: [00:00:54]-->[00:01:14]
 - topics: history, lineage, tantra-comparative
 - role: story
@@ -18,7 +18,7 @@ the tantraessays registry (`[text:ss:…]` = grounded in Śivasūtras).
 - context: Vasugupta dream → boulder at Shankarpal rolls → Sūtra underneath; he then maps it onto the Tibetan Terma model (masters hide teachings in rocks/caves, locations revealed centuries later by dream) — "a well-known model for Buddhists, not so well-known for Hindus."
 - essay_use: cross-tradition hook (revelation as literary form); B-depth for S1's revelation cluster; pairs Baumer ss1-16/17/18 (same story, her philosophical reading)
 
-### dl1-02 — heart sanctified by Yogini-Siddha lineage [B] [text:ss:method]
+### dl1-02 — heart sanctified by Yogini-Siddha lineage [C] [text:ss:method]
 - timestamp: [00:06:00]-->[00:06:09]
 - topics: lineage, yogini, shiva-sutras
 - role: lineage
@@ -54,7 +54,7 @@ the tantraessays registry (`[text:ss:…]` = grounded in Śivasūtras).
 - context: Dualist/nondualist pure-impure split; Upaniṣadic brahman-vision oneness; Spanda/Kallāta gloss — C as a unit (broad span, ASR-mixed), kapalika-topic cross-links to Roots/shivasutra-05 registry unit.
 - essay_use: C-home; Kapalika roots pointer only
 
-### dl1-06 — Buddhist and Hindu lineages revealed the same basic vision of Oneness [B] [text:ss:root]
+### dl1-06 — Buddhist and Hindu lineages revealed the same basic vision of Oneness [C] [text:ss:root]
 - timestamp: [00:07:10]-->[00:07:23]
 - topics: consciousness,method
 - role: claim

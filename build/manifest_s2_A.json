@@ -1,0 +1,96 @@
+{
+ "section": "S2",
+ "layer": "A",
+ "question": "What keeps consciousness from being realised?",
+ "card": {
+  "question": "What keeps consciousness from being realised?",
+  "sanskrit": "jnanambandhah",
+  "sutra": "1.2",
+  "translation": "Knowledge is bondage.",
+  "plain": "knowledge is bondage",
+  "ref": "Aphorisms l.769/770 · trans l.169"
+ },
+ "source_order": "SECTION_ARGUMENTS (join-audited) + (sess,ts) inserts",
+ "clip_count": 7,
+ "window_seconds": 126.4,
+ "window_runtime": "00:02:06",
+ "beats": [
+  {
+   "seq": 1,
+   "uid": "ss4-12",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1758.0,
+   "t_out": 1780.4,
+   "dur": 22.4,
+   "grade": "A",
+   "title": "jñānam bandhaḥ: a shock, against knowledge-liberates"
+  },
+  {
+   "seq": 2,
+   "uid": "ss4-14",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1945.0,
+   "t_out": 1959.5,
+   "dur": 14.5,
+   "grade": "A",
+   "title": "mala is nothing but not-knowing your real nature"
+  },
+  {
+   "seq": 3,
+   "uid": "ss4-17",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 2382.0,
+   "t_out": 2395.6,
+   "dur": 13.6,
+   "grade": "A",
+   "title": "even veiling is freedom's negative side"
+  },
+  {
+   "seq": 4,
+   "uid": "ss5-04",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 1291.0,
+   "t_out": 1306.6,
+   "dur": 15.6,
+   "grade": "A",
+   "title": "māyā to śuddhavidyā is a reversal, not a separation"
+  },
+  {
+   "seq": 5,
+   "uid": "ss5-19",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 1664.0,
+   "t_out": 1679.7,
+   "dur": 15.7,
+   "grade": "A",
+   "title": "freedom is what we armor against: losing individuality is the most challenging thing"
+  },
+  {
+   "seq": 6,
+   "uid": "ss5-15",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 1831.0,
+   "t_out": 1851.5,
+   "dur": 20.5,
+   "grade": "A",
+   "title": "remove the limitation, the divine quality follows"
+  },
+  {
+   "seq": 7,
+   "uid": "ss9-02",
+   "session": "ss9",
+   "mp3": "audio/qRueQPC_wGc.mp3",
+   "t_in": 217.0,
+   "t_out": 241.1,
+   "dur": 24.1,
+   "grade": "A",
+   "title": "māyā is a threshold, not world-illusion"
+  }
+ ]
+}

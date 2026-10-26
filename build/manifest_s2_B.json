@@ -1,0 +1,195 @@
+{
+ "section": "S2",
+ "layer": "B",
+ "question": "What keeps consciousness from being realised?",
+ "card": {
+  "question": "What keeps consciousness from being realised?",
+  "sanskrit": "jnanambandhah",
+  "sutra": "1.2",
+  "translation": "Knowledge is bondage.",
+  "plain": "knowledge is bondage",
+  "ref": "Aphorisms l.769/770 · trans l.169"
+ },
+ "source_order": "SECTION_ARGUMENTS (join-audited) + (sess,ts) inserts",
+ "clip_count": 16,
+ "window_seconds": 281.1,
+ "window_runtime": "00:04:41",
+ "beats": [
+  {
+   "seq": 1,
+   "uid": "ss4-11",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1660.4,
+   "t_out": 1676.4,
+   "dur": 16.0,
+   "grade": "B",
+   "title": "if all is pervaded, why are we not liberated: the bridge to 1.2"
+  },
+  {
+   "seq": 2,
+   "uid": "ss4-12",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1758.0,
+   "t_out": 1780.4,
+   "dur": 22.4,
+   "grade": "A",
+   "title": "jñānam bandhaḥ: a shock, against knowledge-liberates"
+  },
+  {
+   "seq": 3,
+   "uid": "ss4-13",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1873.0,
+   "t_out": 1878.9,
+   "dur": 5.9,
+   "grade": "B",
+   "title": "jñānam or ajñānam: both readings live in the two words"
+  },
+  {
+   "seq": 4,
+   "uid": "ss4-14",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 1945.0,
+   "t_out": 1959.5,
+   "dur": 14.5,
+   "grade": "A",
+   "title": "mala is nothing but not-knowing your real nature"
+  },
+  {
+   "seq": 5,
+   "uid": "ss4-16",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 2155.0,
+   "t_out": 2170.2,
+   "dur": 15.2,
+   "grade": "B",
+   "title": "consumerism is āṇava mala: running after completeness"
+  },
+  {
+   "seq": 6,
+   "uid": "ss4-17",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 2382.0,
+   "t_out": 2395.6,
+   "dur": 13.6,
+   "grade": "A",
+   "title": "even veiling is freedom's negative side"
+  },
+  {
+   "seq": 7,
+   "uid": "ss4-19",
+   "session": "ss4",
+   "mp3": "audio/KSpk4KO0JY4.mp3",
+   "t_in": 2669.7,
+   "t_out": 2688.7,
+   "dur": 19.0,
+   "grade": "B",
+   "title": "saṅkucita jñāna vs vikāsa: the closing-opening flower"
+  },
+  {
+   "seq": 8,
+   "uid": "ss5-18",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 875.0,
+   "t_out": 906.1,
+   "dur": 31.1,
+   "grade": "B",
+   "title": "anava-mala: we take ourselves for a fragment, an imperfect being"
+  },
+  {
+   "seq": 9,
+   "uid": "ss5-04",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 1291.0,
+   "t_out": 1306.6,
+   "dur": 15.6,
+   "grade": "A",
+   "title": "māyā to śuddhavidyā is a reversal, not a separation"
+  },
+  {
+   "seq": 10,
+   "uid": "ss5-19",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 1664.0,
+   "t_out": 1679.7,
+   "dur": 15.7,
+   "grade": "A",
+   "title": "freedom is what we armor against: losing individuality is the most challenging thing"
+  },
+  {
+   "seq": 11,
+   "uid": "ss5-15",
+   "session": "ss5",
+   "mp3": "audio/ABQi35iUoyI.mp3",
+   "t_in": 1831.0,
+   "t_out": 1851.5,
+   "dur": 20.5,
+   "grade": "A",
+   "title": "remove the limitation, the divine quality follows"
+  },
+  {
+   "seq": 12,
+   "uid": "ss6-21",
+   "session": "ss6",
+   "mp3": "audio/Q-nwDCMripc.mp3",
+   "t_in": 1757.0,
+   "t_out": 1778.1,
+   "dur": 21.1,
+   "grade": "B",
+   "title": "thoughts are what hinder: they enmesh us in dualistic oscillation"
+  },
+  {
+   "seq": 13,
+   "uid": "ss9-02",
+   "session": "ss9",
+   "mp3": "audio/qRueQPC_wGc.mp3",
+   "t_in": 217.0,
+   "t_out": 241.1,
+   "dur": 24.1,
+   "grade": "A",
+   "title": "māyā is a threshold, not world-illusion"
+  },
+  {
+   "seq": 14,
+   "uid": "ss10-17",
+   "session": "ss10",
+   "mp3": "audio/lfWQfoG23cY.mp3",
+   "t_in": 1891.0,
+   "t_out": 1904.7,
+   "dur": 13.7,
+   "grade": "B",
+   "title": "the moment you objectify you fix it - even an idea of Shiva is denied"
+  },
+  {
+   "seq": 15,
+   "uid": "ss13-30",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 546.0,
+   "t_out": 565.0,
+   "dur": 19.0,
+   "grade": "B",
+   "title": "the limited self clings to the guṇas because of primal ignorance"
+  },
+  {
+   "seq": 16,
+   "uid": "ss13-31",
+   "session": "ss13",
+   "mp3": "audio/xseTpOwSx9M.mp3",
+   "t_in": 611.0,
+   "t_out": 624.7,
+   "dur": 13.7,
+   "grade": "B",
+   "title": "at every level another level of bondage by knowledge"
+  }
+ ]
+}

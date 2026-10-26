@@ -41,12 +41,12 @@ Material can enter the project through exactly three channels:
 
 | metric | before | after |
 |---|---|---|
-| units | 186 (71A/106B/9C) | **309 (81A/219B/9C) incl. dl1 +3** |
+| units | 186 (71A/106B/9C) | **308 (81A/219B/8C) incl. dl1 +3** |
 | span | 12.3% | 15.9% (honest — ss6-18's bogus 13-min window removed) |
 | lines | 17.9% | ~24% |
 | words | 16.9% | 23.2% |
 | anchor-lines (per section) | 13-26% | **S1 34 · S2 27 · S3 35 · S4 26 · S5 30 · S6 35** |
-| ledger | skeleton | **584 dispositioned rows, 100% of gaps, every file** |
+| ledger | skeleton | **678 dispositioned rows, 100% of gaps, every file** |
 
 +121 promotes, 5 window-vs-quote fixes (ss13-03/05, ss7-05/16, ss9-02, ss6-18 = 6 actually),
 1 duplicate removed (M19), M20 cross-file-dup logged (day2_i tail = day6_i content).

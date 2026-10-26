@@ -16,7 +16,7 @@ two authentic names + purpose/fourth state.
 - context: Deer Park frame. Sets the register: absorption into life, inner awakening — not scholarship.
 - essay_use: framing only, not a crux
 
-### ss1-02 — informative vs transformative knowledge [B]
+### ss1-02 — informative vs transformative knowledge [C]
 - timestamp: [00:06:40]-->[00:07:08]
 - topics: doctrine, praxis
 - role: claim
@@ -25,7 +25,7 @@ two authentic names + purpose/fourth state.
 - context: Why the school teaches this way; contemplation/meditation slow us down, make us receptive.
 - essay_use: B-depth for "why study difficult texts" beat
 
-### ss1-03 — words penetrating mind and heart to the level beyond the word [B]
+### ss1-03 — words penetrating mind and heart to the level beyond the word [C]
 - timestamp: [00:09:17]-->[00:09:43]
 - topics: mantra, speech, praxis
 - role: method
@@ -43,7 +43,7 @@ two authentic names + purpose/fourth state.
 - context: Kashmir Shaiva map of language; ASR renders ("matyama", "bashanti") stand — do not quote for print.
 - essay_use: load-bearing for word/mantra sessions; pairs with SS 2.x mantra units
 
-### ss1-05 — two Śaiva traditions: dualist Siddhānta vs nondual synthesis [B]
+### ss1-05 — two Śaiva traditions: dualist Siddhānta vs nondual synthesis [C]
 - timestamp: [00:12:11]-->[00:12:44]
 - topics: history, doctrine
 - role: claim
@@ -52,7 +52,7 @@ two authentic names + purpose/fourth state.
 - context: Siddhānta: soul and divine never unite even in liberation; Trika = synthesis of tantric schools.
 - essay_use: context for SS's opponent-structure (opponents = dualists, not Buddhists)
 
-### ss1-06 — Pratyabhijñā became the standard philosophy of all tantric schools [B]
+### ss1-06 — Pratyabhijñā became the standard philosophy of all tantric schools [C]
 - timestamp: [00:14:34]-->[00:14:56]
 - topics: history, doctrine
 - role: claim
@@ -61,7 +61,7 @@ two authentic names + purpose/fourth state.
 - context: Torella-backed claim (Mādhav's Sarva-darśana-saṅgraha chapter as proof); answers why the course carries weight beyond Kashmir.
 - essay_use: B-depth lineage authority; do NOT make it the running question (recognition dies at 3/11 sessions in keyword spread)
 
-### ss1-07 — Torella: highest moment of Indian thought, and not Vedānta [B]
+### ss1-07 — Torella: highest moment of Indian thought, and not Vedānta [C]
 - timestamp: [00:15:53]-->[00:16:13]
 - topics: tantra-comparative, doctrine
 - role: refutation
@@ -70,7 +70,7 @@ two authentic names + purpose/fourth state.
 - context: ASR-mangled ("hindutan prison" = "Hindu tantrism"); paired with the explicit not-Vedānta bracket.
 - essay_use: quotable authority line once cleaned against Torella's book; keep ASR form out of print
 
-### ss1-08 — opened from cremation grounds to the householder [B]
+### ss1-08 — opened from cremation grounds to the householder [C]
 - timestamp: [00:17:42]-->[00:17:59]
 - topics: history, praxis
 - role: story
@@ -79,7 +79,7 @@ two authentic names + purpose/fourth state.
 - context: Atimārga → accessible nondualism; Pāśupatas/Kāpālikas as the left roots.
 - essay_use: historical spine beat (roots lecture pairs with Dyczkowski corpus)
 
-### ss1-09 — three sons, three doctrines [B]
+### ss1-09 — three sons, three doctrines [C]
 - timestamp: [00:18:38]-->[00:18:55]
 - topics: lineage, history
 - role: story
@@ -106,7 +106,7 @@ two authentic names + purpose/fourth state.
 - context: The positive rule inside the MVUT freedom — method without form-fixation.
 - essay_use: sharpest practice-rule in the corpus; essay-0 candidate line
 
-### ss1-12 — Sanderson: ritual transformed into variations on non-duality [B]
+### ss1-12 — Sanderson: ritual transformed into variations on non-duality [C]
 - timestamp: [00:23:08]-->[00:23:16]
 - topics: ritual, doctrine
 - role: claim
@@ -124,7 +124,7 @@ two authentic names + purpose/fourth state.
 - context: Vijñāna Bhairava examples of non-dualized ritual (her English rendering).
 - essay_use: clip-ready definition; verify against VB text number before print
 
-### ss1-14 — awareness is the sacrificial ladle [B]
+### ss1-14 — awareness is the sacrificial ladle [C]
 - timestamp: [00:24:50]-->[00:25:11]
 - topics: ritual, senses
 - role: simile
@@ -133,7 +133,7 @@ two authentic names + purpose/fourth state.
 - context: The oblation-side pair to ss1-13; the altar is the void itself.
 - essay_use: image-grade; pairs with ss1-13 as one two-sided unit if needed
 
-### ss1-15 — Vedānta's absolute is inactive; ours acts through śakti [B]
+### ss1-15 — Vedānta's absolute is inactive; ours acts through śakti [C]
 - timestamp: [00:25:55]-->[00:26:08]
 - topics: tantra-comparative, doctrine
 - role: refutation
@@ -151,7 +151,7 @@ two authentic names + purpose/fourth state.
 - context: Mystical reading of the Vasugupta rock legend (Śaṅkarapāl, Dachigam); the legend is philosophy, not just story.
 - essay_use: essay-0-adjacent crux — the whole system's matter-claim in one image
 
-### ss1-17 — you must be a siddha to receive it [B]
+### ss1-17 — you must be a siddha to receive it [C]
 - timestamp: [00:40:53]-->[00:41:04]
 - topics: initiation, guru
 - role: claim
@@ -160,7 +160,7 @@ two authentic names + purpose/fourth state.
 - context: Why revelation is state-dependent; recipient, not author.
 - essay_use: pairs with ss1-16; transmission-doctrine texture
 
-### ss1-18 — Vasugupta recipient, not author: intermediary revelation [B]
+### ss1-18 — Vasugupta recipient, not author: intermediary revelation [C]
 - timestamp: [00:42:03]-->[00:42:19]
 - topics: lineage, history
 - role: claim
@@ -169,7 +169,7 @@ two authentic names + purpose/fourth state.
 - context: SS between āgama-revelation and human sūtra-composition; Kṣemarāja's frame.
 - essay_use: "what kind of text is this" beat
 
-### ss1-19 — sūtra is the thread on which the pearls are strung [B]
+### ss1-19 — sūtra is the thread on which the pearls are strung [C]
 - timestamp: [00:43:20]-->[00:43:50]
 - topics: mantra, history
 - role: simile
@@ -178,7 +178,7 @@ two authentic names + purpose/fourth state.
 - context: Weaving/thread symbolism shared with tantra; the two-word two-noun Sanskrit form.
 - essay_use: form-image for the sūtra-form section; "threat" = thread (ASR)
 
-### ss1-20 — study alone, then commentary, then return to the sūtra [B]
+### ss1-20 — study alone, then commentary, then return to the sūtra [C]
 - timestamp: [00:47:15]-->[00:47:28]
 - topics: praxis, mantra
 - role: method
@@ -196,7 +196,7 @@ two authentic names + purpose/fourth state.
 - context: Brevity as mantra-quality; hints to a deeper meaning; you catch a moment of consciousness.
 - essay_use: sharp; pairs with ss1-03 as the "how the text works on you" crux
 
-### ss1-22 — Abhinavagupta reads the SS through the three upāyas [B]
+### ss1-22 — Abhinavagupta reads the SS through the three upāyas [C]
 - timestamp: [00:59:52]-->[01:00:09]
 - topics: shiva-sutras, tantraloka
 - role: claim
@@ -232,7 +232,7 @@ two authentic names + purpose/fourth state.
 - context: "Śiva" doesn't occur in the system's own names — content, not label; proven by SS + commentaries.
 - essay_use: naming beat; likely essay-0 vocabulary ("absolute freedom," "non-dualism of consciousness")
 
-### ss1-26 — purpose: awakening nonduality with supreme consciousness; introspection of states [B]
+### ss1-26 — purpose: awakening nonduality with supreme consciousness; introspection of states [C]
 - timestamp: [01:04:31]-->[01:04:59]
 - topics: praxis, consciousness
 - role: claim
@@ -250,7 +250,7 @@ two authentic names + purpose/fourth state.
 - context: Sanderson-sentence flagged BY HER as the preview of the first sutra (helps us tomorrow): the expanded consciousness did not exclude the plurality of action - it was defined as that which projects itself as this plural and sequential reality, and the timeless simultaneity of the consciousness which is its inner ground. Action-from-consciousness compressed.
 - essay_use: S1 depth: the 1.1 pre-statement (activity not excluded from the absolute)
 
-### ss1-28 — the sutras message is not rational but spiritual - you get it or you dont; you need a guru [B]
+### ss1-28 — the sutras message is not rational but spiritual - you get it or you dont; you need a guru [C]
 - timestamp: [00:46:43]-->[00:46:59]
 - topics: guru,method
 - role: claim
@@ -259,7 +259,7 @@ two authentic names + purpose/fourth state.
 - context: Brevity-implication: their message is not so much a rational one but a spiritual one - you have to catch that essence, which is not easy: either you get it or you dont get it, or you need a commentary, you need an explanation, YOU NEED A GURU (teaching always given by a guru; commentaries follow).
 - essay_use: S5 depth: text-without-guru cannot (means-hierarchy, pairs ss3-03/04)
 
-### ss1-29 — anupaya: nowhere to go, nothing to do - everything is already given, already realized [B]
+### ss1-29 — anupaya: nowhere to go, nothing to do - everything is already given, already realized [C]
 - timestamp: [00:58:36]-->[00:58:46]
 - topics: realisation,practice
 - role: claim
@@ -268,7 +268,7 @@ two authentic names + purpose/fourth state.
 - context: Abhinavaguptas reversal explained: he starts from above with the non-way, anupaya - theres nowhere to go, theres nothing to do, everything is already given, everything realized (then one descends only if one cannot catch it). The arrived-before-you-start clause.
 - essay_use: S3 depth: already-given opener (pairs ss5-16 free-of-cost, ss13-13 spontaneous)
 
-### ss1-30 — transcendence followed by expansion: enlightenment pervades the transcendent [B]
+### ss1-30 — transcendence followed by expansion: enlightenment pervades the transcendent [C]
 - timestamp: [00:54:29]-->[00:54:35]
 - topics: realisation,practice
 - role: claim
@@ -277,7 +277,7 @@ two authentic names + purpose/fourth state.
 - context: Sandersons kula-model read aloud: this model of TRANSCEndence followed by an EXPANSION that causes the state of enlightenment to pervade [the mundane] is central to the krama system (withdrawal into the heart of consciousness first, then expansion into the mundane states - L1029-1033 lead-in). The two-move architecture.
 - essay_use: S4 depth: withdraw-then-expand (mechanism behind the permeation-claim)
 
-### ss1-31 — the fourth state has to pervade all the other three - nothing remains outside it [B]
+### ss1-31 — the fourth state has to pervade all the other three - nothing remains outside it [C]
 - timestamp: [01:06:42]-->[01:06:54]
 - topics: consciousness,realisation
 - role: claim

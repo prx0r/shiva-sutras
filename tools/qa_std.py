@@ -59,14 +59,36 @@ def duration(src):
 SEGCACHE = {}
 
 
+def slug_of(src):
+    """Study-set filename -> lak transcript slug (M32 family: keep exact)."""
+    b = os.path.basename(src)
+    if not b.startswith("Shiva Sutras"):
+        return None
+    core = b[len("Shiva Sutras "):-len(".mp3")]
+    if core == "1.8-10":
+        return "lak_1_8_10"
+    if core in ("2.7", "2.7 part 1"):
+        return "lak_2_7_p1"
+    if core == "2.7 part 2":
+        return "lak_2_7_p2"
+    if core == "Introduction":
+        return "lak_intro"
+    if core == "Conclusion":
+        return "lak_conclusion"
+    if core == "3. Introduction":
+        return "lak_3_intro"
+    if re.fullmatch(r"[\d.]+", core):
+        return "lak_" + core.replace(".", "_")
+    return None
+
+
 def segments_for(src):
     """Segments for a source mp3: lak via transcripts/lak_*.segments.json."""
     if src not in SEGCACHE:
         SEGCACHE[src] = None
-        m = re.search(r"Shiva Sutras ([\d._]+)\.mp3", os.path.basename(src))
-        if m:
-            slug = m.group(1).replace(".", "_")
-            sp = "transcripts/lak_%s.segments.json" % slug
+        slug = slug_of(src)
+        if slug:
+            sp = "transcripts/%s.segments.json" % slug
             if os.path.exists(sp):
                 SEGCACHE[src] = json.load(open(sp))["segments"]
     return SEGCACHE[src]

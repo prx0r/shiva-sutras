@@ -1,13 +1,15 @@
 # NEXT — the complete work queue for whoever picks this up
 
-> Operational short version: **`TODO.md`** (20 actions). Paths: **`FILEMAP.md`**.
+> Operational short version: **`TODO.md`** (10 actions). Paths: **`FILEMAP.md`**.
 
 State at handover: 307 units (82A/83B/142C) verify-green; pass-1 COMPLETE (14/14, ledger 676+ rows) ·
-segmentation 308/308 · 6 open spine questions G0 7/7 · essay-0 four-layer stack built +
-flow-read PASS (lock = DRAFT, owner ear) · HANDOVER-2026-10-25.md = today full log ·
+Custom frozen (text-complete, gates green) · Standard 0+A+B+B1b built 77/77
+(proofs rebuilt, qa_std zero FAIL, essence SHEET READY 276.8s) ·
+6 open spine questions G0 7/7 · essay-0 four-layer stack built +
+flow-read PASS (lock = DRAFT, owner ear) · HANDOVER-STANDARD-2026-10-27.md = current-work doc ·
 SECTION_ARGUMENTS (Essay A as text) verdicts: 5/6 flow on her words alone, 2 named
 bridges, 2 soft spots · pushed to github.com/prx0r/shiva-sutras (main).
-Read first: README → PROCESS_NOTES (esp. §8b coverage-truth + §8g) → MISTAKES (M1–M17).
+Read first: README → PROCESS_NOTES (esp. §8m session log + §8l FROM SCRATCH) → MISTAKES (M1–M38).
 
 ## A. OWNER-BLOCKED (cannot be done by an agent — request and wait)
 1. **HEAD ear-pass** — listen `build/essay0_lock.json`'s stack via a cut mp3; if yes →
@@ -20,49 +22,30 @@ Read first: README → PROCESS_NOTES (esp. §8b coverage-truth + §8g) → MISTA
 4. **Question-set ratification** — six opened questions exist and pass G0; owner has
    seen them but no explicit "locked" statement on record.
 
-## B. AGENT WORK — immediate (no owner input needed)
-1. **dl1 end-to-end read** — `text/shiva_sutras_introduction_dl.txt` (99 cues, 1,982w)
-   never read linearly (imported via 5 units). Read fully; add units for uncovered
-   stretches or C-mark them; re-run verify_units (target stays 0-fail).
-2. **EAR_CHECK.md** — harvest every flagged ASR form from units' context fields +
-   known list (rishikesh→paratrishika-people, Mitta City→siddhi, Dantoraja→Tantrāloka,
-   "swatan prevada", "ghoul"→guru, "naruto"→nirodha, "bharat waita"→Bhairavatattva? …)
-   into one ear-check list with uid + window + expected word. Verification itself
-   needs mp3s (audio) — do after B4.
-3. **Span-ledger prototype (option a)** — pick the smallest session (ss2 or ss9,
-   ~15 min), walk it minute-by-minute: every span → unit'd | B-note | C-mark reason
-   (`excavations/C-MARKS.md` style). Output: coverage % for that session + effort
-   estimate ×13. This is the data for decision A3.
-4. **Pull the 11 Baumer mp3s** from R2 (`longform-audio/bettina-baumer-shiva-sutras/`,
-   creds pattern: see PROCESS §0 / tantraessays §11f — STALLSHARK from ~/figgsite/.env,
-   NEVER echo) into local `audio/` (gitignored). Then B2's ear-check can run.
+## B. AGENT WORK — Standard frontier (Custom is frozen; no owner input needed)
+1. **C layer per verse** (TODO #4): stories + guests (Osho/Hareesh/dl1,
+   one-line relevance each) + Sharma coda 267–711s. Order him→her→guests;
+   TTS gold only where no human carries the point. Thin stays thin.
+2. **Full assembly** (TODO #5): per-verse proofs → 0/A/B/C concatenations in
+   verse order; sheet asserts sheet==master every render; R2 mirror +
+   HEAD-verify; disk 98% — mirror masters before cleaning intermediates.
+3. **B1b ear verdict** (TODO #6): 77 Fish translation lines ride every
+   0-layer (`tools/build_b1b.py` + `TTS_SAY`); owner confirms naturalness.
+   DONE 2026-10-26/27 (superseded, kept as history): dl1 import · EAR_CHECK ·
+   span-ledger pass-1 · mp3 pull · audio flow-read · HEAD mp3 · plain-keys ·
+   A-collate · B-selection RUN-1 · C-walk doc · beats + speakers.
 
-## C. AGENT WORK — build sequence (BUILD ORDER LAW: essay0 first, outward)
-5. **Audio flow-read** — cut the six cells' + essay-0 windows with ffmpeg (windows in
-   ESSAY0_OUTPUT/SECTION_ARGUMENTS), assemble question→pause→plain→voice per beat
-   (`build/flowread/`), READ/listen; stress join 4→5 and S6 weight; levers documented
-   (demote ss7-16 icchā to B; promote ss13-06 dancer to A; re-ask). Output: verdict +
-   any SPINE edits (asserted replaces!).
-6. **HEAD mp3** build (question→2-breath→plain→her clip, target 20–25s) → owner ear (A1).
-7. **Section plain-keys (proposal)** — for each spine sūtra, the terms appearing in
-   its A/B quotes that need mapping (`build/key_sN_proposal.json`) → owner sign-off (A2);
-   regenerate plain rows + hash after sign-off.
-8. **Sanskrit print-verify** — forms: `tritayabhokta vtresah`, `nartaka atma`,
+## C. AGENT WORK — Custom close-out (after owner calls land)
+4. **HOLDUP + UNFOLDING re-run at lock** (RUN-1 was vs DRAFT cells):
+   sweep → `holdup_verdicts.json` → `sync_counts` + all gates; UNFOLDING
+   run-2 expects 0 N. (UNFOLDING run-1: 81 A = 62E/11Q/5B/3W/**0 N**;
+   watch-list ss4-02, ss8-06/07, ss10-03, S5-guru-cluster, ss7-16.)
+5. **Sanskrit print-verify** — forms: `tritayabhokta viresah`, `nartaka atma`,
    `caitanyamatma`, `jnanambandhah`, `udyamo bhairavah`, `cittam mantrah` vs a print
    source (Muktabodha KSTS e-text / Jaideva Singh scan — check patala-checkpoints corpus
    `sources/sivasutra/` first, then vatulanatha INVENTORY paths). Diacritics restored
-   ONLY here, then card rows frozen.
-9. **A-collate manifests** — per section: ordered clip list (uid, mp3, in/out, question
-   line, card rows, plain) → `build/manifest_sN_A.json` = "Essay A at speed" (~10–20m
-   target total). Append-only verified: every quote re-checked against units.
-10. **B-selection protocol** — sweep instrument: `build/HOLDUP_SHEET.md` (219 rows; 114 provisional-B start first).
-    UNFOLDING audit run-1 DONE against draft cells: `build/UNFOLDING_AUDIT.md` — 81 A = 62 E / 11 Q / 5 B / 3 W / **0 N** (no seed swapped); watch-list ss4-02, ss8-06/07, ss10-03, S5-guru-cluster, ss7-16. Re-run at lock (cells may shift). — for each section: B-pool raw minutes exist (71m total);
-    select to B ≈ A×1.6–2 per hold-up test (*does this deepen essay-0's answer?*) with a
-    one-line reason per kept clip; NO superset ever ships (M-record + vatula 86m lesson).
-11. **C-walk** — definition depends on A3 (coverage decision): A+B in her order with
-    C-homes excluded; holes = whatever the ledger says is uncovered.
-12. **Beats** (four-layer, gospel order) + SPEAKERS.md (Baumer | Dyczkowski | HUMAN
-    questions | TTS plain) → then render (last, always).
+   ONLY here, then card rows frozen. (Template translation typos fixed 2026-10-28,
+   M38 — print source still settles the cards.)
 
 ## D. EXTERNAL / CROSS-REPO
 13. **BHU-Tantraloka ownership** — vatulanatha/CUTTING-FORMULA.md holds a BHU cut plan
@@ -76,4 +59,6 @@ Read first: README → PROCESS_NOTES (esp. §8b coverage-truth + §8g) → MISTA
 ## NEVER (MISTAKES invariants — read MISTAKES.md first)
 Never type a quote not just re-read · never compose Sanskrit/plains · assert every
 scripted doc edit (count==1) · update parsers when extending headers · mp3s/audio never
-committed · gates run on canonical sets · thin sections stay thin · fix checks before data.
+committed · gates run on canonical sets · thin sections stay thin · fix checks before data ·
+no B window ships without a machine window-vs-unit overlap check (M37) · any column a
+voice will speak gets a cold read before the first render (M38).

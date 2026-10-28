@@ -35,7 +35,11 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
 - **Four-layer gospel:** ratified as law (SPINE §GOSPEL); every S/T row carries
   Aphorisms line-refs; plain rows = proposal-key no-ops until sign-off.
 - **Coverage:** pass-1 COMPLETE — 678 ledger rows disposition every gap (14/14 files);
-  15.9% span / ~23% words quoted; owner decision (§8e-1) now only formalizes the form.
+  15.5% span / 22.6% words quoted (`--corpus baumer`; re-baselined 2026-10-28);
+  owner decision (§8e-1) now only formalizes the form.
+- **Standard:** 0+A+B+B1b built 77/77 (77 Fish translation lines ride every
+  0-layer); B proofs rebuilt after M37 relocation; `tools/qa_std.py` zero FAIL;
+  essence SHEET READY (276.8s). Next: C layer → full assembly → ears.
 
 ## Repo map
 ```
@@ -43,13 +47,17 @@ excavations/   ss1..ss13 + dl1 unit files · SPINE.md · SPINE_PREVIEW (supersed
                CATALOGUE.md · SPINE_ASSIGN.tsv
 build/         ESSAY0_OUTPUT.md · ESSAY0_FLOW_READ.md · SECTION_ARGUMENTS.md ·
                JOIN_AUDIT.md · essay0_lock.json (DRAFT) ·
-               plain_essay0.json + key_ss1_proposal.json (PROPOSAL) · filters
-reference/     aphorisms-of-siva (GITIGNORED — never commit, copyright)
-audio/         mp3s (GITIGNORED — local only)     text/  stamped transcripts (14)
-transcripts/   raw VTTs (11)   cf/  CF-whisper JSON (2)   tools/  verifiers & pipelines
+               plain_essay0.json + key_ss1_proposal.json (PROPOSAL) · filters ·
+               std_*.json (77 Standard manifests) · template_77.json ·
+               QA_SWEEP_2026-10-28.json · TRACK_F_PRODUCTION.md (SHEET READY)
+reference/     aphorisms-of-siva (GITIGNORED — never commit, copyright) ·
+               gretil_sivasutra.json (vendored exact-Sanskrit forms)
+audio/         mp3s (GITIGNORED — local only)     text/  stamped transcripts (14 + 79 lak)
+transcripts/   raw VTTs (11) + lak segment JSONs   cf/  CF-whisper JSON (2)
+tools/         verifiers & pipelines (qa_std · build_b1b · b_match · builders · linters)
 MANIFEST.json  14/14 sessions with transcript sources
 FILEMAP.md     path inventory: what each file is + why (keep current)
-TODO.md        20-action queue for the next agent
+TODO.md        10-action queue for the next agent
 ```
 
 ## Repro
@@ -61,12 +69,12 @@ python3 tools/plain_filter.py --check  # hash MATCH
 ```
 
 ## What's next (owner-visible order)
-Two compilations, in order — **Standard chant first** (77 sūtras, verse order, four blocks each), **then Custom spine edit** (our argument from the standard's findings). Never blended (see `BUILD_ENGINE.md`).
-1. **B-sweep run-1 DONE (2026-10-26)** — 83/134/1/1 verdicts; re-run at lock. mp3s: all 14 local.
-2. Owner ear on HEAD mp3 → lock essay0.
-3. Audio flow-read (real pauses; stress join 4→5, S6 weight) — levers: promote dancer
-   ss13-06 or re-ask.
-4. Coverage-standard decision (PROCESS §8e-1) before any "full walk" claim.
-5. key sign-off → plain regenerate → Sanskrit print-verify (OCR forms).
-6. Build: manifests DONE (manifest_sN_A/B/C) · beats spec DONE (BEATS.md) → audio assembly (tools/make_audio.py) → ear — shapes per vatula `process/FORMULA.md` (A⊂B⊂C append-only; UNFOLDING: seed recurs 4×, layer-bells).
-Audio on demand: pull the other 11 Baumer mp3s from R2 (`longform-audio/bettina-baumer-shiva-sutras/`).
+Two compilations — **Standard chant** (77 sūtras, verse order, layered 0/A/B/C)
+built and verifiable, **Custom spine edit** text-complete and frozen.
+Never blended (see `BUILD_ENGINE.md`).
+1. **Standard C layer** — stories + guests + Sharma coda per verse, then full
+   assembly → R2 → owner ears (ears are the ONLY lock).
+2. **Custom at lock** — HOLDUP + UNFOLDING re-run vs LOCKED cells; essay-corpus
+   export; print-verify settles cards.
+3. **Owner calls** (batched, one message): essay-0 ear/lock · key sign-off ·
+   coverage-standard (§8e-1) · question ratification · B1b naturalness.

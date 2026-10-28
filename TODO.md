@@ -1,72 +1,46 @@
-# TODO — 20 actions for the next agent (2026-10-25)
+# TODO — the current queue (2026-10-28; supersedes the 2026-10-25 20-action version)
 
-> **STATUS 2026-10-26 (v1 push):** #7 sweep RUN-1 done (B_SWEEP.md) · #10 mp3s ALL local ·
-> #12 EAR_CHECK built (listen-verify pending) · A/B/C manifests + BEATS.md + C_WALK built.
-> Gates now: **307/0** (82A/83B/142C). Still owner-blocked: #3 ear · #4 keys · #5 coverage · #6 questions.
+> State: Custom frozen (text-complete, gates green) · Standard 0+A+B built
+> 77/77 with B1b line, proofs rebuilt, qa_std zero FAIL · essence SHEET READY.
+> Gates: verify 307/0 · G0 7/7 · plain MATCH · count_a 77/77 · ledger 678.
 
-Context for each: `HANDOVER-2026-10-25.md` (narrative) · `NEXT.md` (full queue) ·
-`FILEMAP.md` (paths + why) · `MISTAKES.md` M1–M21 (rules). Gates green at handover:
-verify 307/0 · G0 7/7 · plain MATCH · tree clean · pushed.
+**Legend:** 🔒 = owner-blocked (batch into the single owner message; do the rest meanwhile)
 
-**Legend:** 🔒 = blocked on owner (request once, in a single message; do the rest meanwhile)
+### Owner-gated (batch once, work around)
+1. 🔒 **Ear-session backlog.** Essence (3 FLAGs: c2 "they", c2/c4 lengths,
+   heads) + rebuilt-B F3/F4 FLAGs (41 verses, heuristic over-fires on long
+   whisper segments — ears decide) + A compression band-vs-membership
+   (A ≈ 77 min vs 60-min band; no clip cut for runtime without owner).
+2. 🔒 **Four standing Custom calls.** Essay-0 ear/lock · key sign-off ·
+   coverage-standard (§8e-1) · question ratification. Unchanged; Custom frozen.
+3. 🔒 **Print-verify.** Sanskrit OCR forms (`tritayabhokta viresah`,
+   `nartaka atma`, 2.5 front-listing-vs-body "of") + translation typo sweep
+   against Muktabodha/KSTS or Jaideva Singh scan; diacritics restored ONLY here.
 
-### Read-first (before touching anything)
-1. **Read in order:** HANDOVER → NEXT → MISTAKES → PROCESS §8. Acceptance: you can
-   state M17 (assert count==1), M21 (C = texture-clip, not note), and the BUILD ORDER
-   (essay0 → A → B-holdup → C → beats → render) from memory.
-2. **Run the three gates cold** — `verify_units.py` (307/0), `validate_questions.py`
-   (7/7), `plain_filter.py --check` (MATCH). If any fails, stop and fix before edits.
+### Agent work — Standard C + assembly (no owner input needed)
+4. **C layer per verse.** Full walk: stories + guests (Osho/Hareesh/dl1 with
+   one-line relevance each) + coda (Sharma 267–711s). Order inside C: him,
+   then her, then guests; TTS gold only where no human carries the point.
+   Thin stays thin; rights per `audio/SOURCES.md` (cut-only never redistributes).
+5. **Full assembly.** Per-verse proofs → 0, then A, then B, C concatenations
+   in verse order (0/0A assessments first); sheet asserts sheet==master every
+   render (M24); R2 mirror + HEAD-verify; disk at 98% — clean intermediates
+   aggressively, masters mirrored before any delete.
+6. **B1b ear verdict.** 77 Fish translation lines ride every 0-layer now;
+   owner ear confirms naturalness at the session (M33 applies in reverse:
+   real TTS present, hallucination discount lifted for these lines only).
 
-### Owner-gated (block once, then work around)
-3. 🔒 **Request the ear-session**: play essay-0 HEAD+stack (`build/ESSAY0_*`); on yes
-   flip `essay0_lock.json` status → LOCKED (single-field edit, count-asserted).
-4. 🔒 **Request key sign-off**: regenerate `plain_essay0.json` with the signed key +
-   rehash (`plain_filter`), never hand-edit rows; then Gospel plain-layer is final.
-5. 🔒 **Request coverage-standard verdict** (PROCESS §8e-1): does the ledger stay this
-   form or formalize (span-ledger rows / line-pass)? Until then no "full-walk" claims.
-6. 🔒 **Request the one-line question ratification** (six spine questions locked) —
-   G0 passes already; this closes the record.
+### Agent work — Custom close-out (after owner calls land)
+7. **Re-run HOLDUP + UNFOLDING at lock.** Against LOCKED cells (RUN-1 was
+   vs DRAFT): `build/HOLDUP_SHEET.md` re-sweep → `holdup_verdicts.json` →
+   `sync_counts` + all gates; UNFOLDING run-2 expects 0 N.
+8. **Export units to essay-corpus** (`shivasutras:` prefix) after #2 locks.
+9. **BHU-Tantraloka ownership** one-liner (vatulanatha vs tantraessays).
+10. **analayo-nibbana loose ends** (separate repo): lectures 28/30/32/33,
+    close `audio_ok` gaps; no render without owner.
 
-### At lock (sequenced — each depends on #3)
-7. **Run `build/HOLDUP_SHEET.md`**: 114 provisional-B first, then the rest —
-   per row KEEP-B / DEMOTE-C / LEDGER; write verdicts into the sheet; re-run
-   `sync_counts` + `verify_units` after any grade change.
-8. **UNFOLDING audit run-2** against the LOCKED cells (`build/UNFOLDING_AUDIT.md`
-   pattern): expect 0 N; re-judge the watch-list — ss4-02, ss8-06/07, ss10-03,
-   S5-guru-cluster (the Q-decision lands HERE), ss7-16 lever.
-9. **Collate Essay A per section** at FORMULA runtimes (10–20 min): windows from
-   `SECTION_ARGUMENTS.md` **plus the 10 newer A's** it doesn't contain yet; every clip
-   keeps source+timestamp (FORMULA rule 4).
-
-### Audio track (independent of lock — start after #12)
-10. **Pull the 11 remaining Baumer mp3s** from R2 (`longform-audio/…shiva-sutras/`,
-    creds pattern in PROCESS §0 — `~/figgsite/.env` STALLSHARK_*, never echo) →
-    `audio/` (gitignored).
-11. **Build the section-A cut manifests** (uid → file → in/out from timestamps) →
-    `build/manifest_s*_A.json`; **cut + listen** the six section runs; verdicts on the
-    soft spots (S4 icchā lever, S6 offering/posture wobbles, S1/S5 bridges).
-12. **Ear-check list**: grep contexts containing "EAR" (11 hits) + known ASR suspects
-    (rishikesh, Mitta City, naruto, fairy/ferry, eye/I-consciousness) → `EAR_CHECK.md`
-    with uid+window; verify against audio when #10 lands.
-13. **Cut `essay0_1.mp3`** (HEAD: Q → 2 breaths → plain → her clip, ~20 s) — goes
-    hand-in-hand with #3's ear-session.
-
-### C-assembly & beats (after #7)
-14. **C-walk doc per section**: texture = ledger rows marked promote-but-not-B after the
-    sweep + the 8 surviving C-clips; ordered by her sūtra order; exclusions per FORMULA
-    rule 3 (chant/mic/logistics already C-marked in ledger).
-15. **Three-layer beats** (0→A→B→C) + bell spec (880 Hz section / 220 Hz layer) —
-    port from vatula FORMULA §VIDEO RUN-ORDER; beats must re-land the seed each layer.
-
-### Hygiene & cross-repo (anytime, small)
-16. **After every unit/grade change**: `tools/sync_counts.py` then the three gates (#2).
-    Keep `FILEMAP.md` current the same day you add anything.
-17. **Export units to essay-corpus** (prx0r/essay-corpus `corpus.db`, id prefix
-    `shivasutras:`) — only after #3–#5 lock the material (their §next-loads rule).
-18. **BHU-Tantraloka ownership**: one owner line — vatula `CUTTING-FORMULA` holds the
-    cut plan, tantraessays holds the 15-transcript coverage; only one repo may build it.
-19. **Port `coverage_measure` + ledger to vatulanatha** if owner wants pass-1 parity
-    there (it has C-MARKS but no ledger; FUTURE-TARGETS follow-up).
-20. **analayo-nibbana loose ends** (separate repo): finish lectures 28/30/32/33
-    (`ds-mp3/lec-*.mp3` → `tools/local_transcribe.py` → `gen_plan.py` → seam-audit),
-    then close the `audio_ok` gaps in the 6 manifests; **no render without owner**.
+### Hygiene (anytime, small)
+- Counts change → `tools/sync_counts.py` then the three gates.
+- New artifact → FILEMAP row the same day. Every fix + cause → MISTAKES.md.
+- `tools/qa_std.py` runs pre-commit on any manifest touch (M37).
+- Never commit audio. Never echo keys.

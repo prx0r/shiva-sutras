@@ -2,7 +2,7 @@
 
 If you don't know what a file is, look here before opening it. Update this file the
 day you add anything that a fresh agent would need. (Companion: `TODO.md` = the
-20-action queue; `HANDOVER-2026-10-25.md` = the last day's narrative; `NEXT.md` =
+10-action queue; `HANDOVER-STANDARD-2026-10-27.md` = the current-work doc; `NEXT.md` =
 the long-form queue with context.)
 
 ## ROOT — the law & state documents (read in this order)
@@ -10,8 +10,10 @@ the long-form queue with context.)
 | file | what | why it exists |
 |---|---|---|
 | `README.md` | front door: state snapshot, read-order, repro commands, repo map | first 5 minutes |
-| `HANDOVER-2026-10-25.md` | the pass-1 day + structure-pass narrative, gotchas, M19–M21 | how we got to today, which errors repeat |
-| `TODO.md` | **20 numbered actions for the next agent** | the executable subset of NEXT |
+| `HANDOVER-2026-10-25.md` | the pass-1 day + structure-pass narrative, gotchas, M19–M21 | how Custom got text-complete, which errors repeat |
+| `HANDOVER-2026-10-26.md` | ears + voice-build day (Qwen, Fish, anti-echo, silence bug M25) | voice/tooling decisions with causes |
+| `HANDOVER-STANDARD-2026-10-27.md` | Standard B-rollout method + open queue | the current frontier doc |
+| `TODO.md` | **10 actions for the next agent** | the executable subset of NEXT |
 | `BUILD_ENGINE.md` | front door: two-track law + decode method → `process/` | how to run/validate/port — read before starting new work |
 
 ## `process/` — the objective engine (same apparatus shape as analayo-nibbana/process)
@@ -25,11 +27,13 @@ the long-form queue with context.)
 | `process/REPRODUCE.md` | exact rerun order + what stays human (✎) | byte-identical rebuilds |
 | `process/FILES.md` | process artifact map (produced-by → consumed-by) | trace any file to its stage |
 | `process/verify.sh` | one-command audit (units, G0, plain, totals, ledger, presence) | run before every commit touching outputs |
+| `process/STANDARD.md` | Standard build manual (self-contained: inputs → locate → curate → build → QA → assemble → ship) | the Standard law; conflicts resolve here first |
+| `process/STANDARD-PORTING.md` | text-independent engine + per-text config (worked Yoga Sūtras port) | start new texts here |
 | `process/10-FORMAL-CHANT.md` | Standard Compilation method: tagging, spacing, what it never does | build the chant storyboard per corpus |
-| `build/TRACK_F_STORYBOARD.md` | 76 verse rows (S1-19 flagged missing): B1 chant window + B2 readout + B3 slot + B4 slot | Standard Compilation assembly source (separate from custom manifests by law) |
+| `build/TRACK_F_STORYBOARD.md` | 77 verse rows (S1-19 filled 2026-10-26): B1 chant window + B2 readout + B3 slot + B4 slot | Standard Compilation assembly source (separate from custom manifests by law) |
 | `NEXT.md` | full queue with context/threads (superset of TODO) | what & why, longer horizon |
-| `PROCESS_NOTES.md` | §0–8h session history + pass-1-complete block + BUILD ORDER LAW | the project's memory — state claims live here |
-| `MISTAKES.md` | M1–M21: mistake → cause → rule | **read BEFORE touching tools**; each rule is load-bearing (assert-count, contiguous quotes, C-semantics…) |
+| `PROCESS_NOTES.md` | §0–8m session history + pass-1-complete block + BUILD ORDER LAW + FROM SCRATCH | the project's memory — state claims live here |
+| `MISTAKES.md` | M1–M38: mistake → cause → rule | **read BEFORE touching tools**; each rule is load-bearing |
 | `MANIFEST.json` | 14 YouTube ids + transcript status per session | provenance of `text/` — regenerating anything starts here |
 
 ## `excavations/` — the mined corpus (one file per source, append-only)
@@ -91,21 +95,39 @@ the long-form queue with context.)
 | `visual_prototype_v1.py` | switching-left (verse→quote→four-levels diagram) + ambient-right loop prototype | promote into visual_left/right at template lock (R2 `journey/shiva-v1-timeline.mp4`) |
 | `s2_cluster.py` | section assignment + verdicts (REPORT ONLY post-pass-1) | historical (48+ overrides logged); new rows are manual now |
 | `cf_transcribe.py`, `vtt2txt.py` | CF whisper + VTT→stamped-text | transcript acquisition (PID-unique temp, 600s chunks) |
+| `qa_std.py` | structural sweep for Standard manifests (F1 file-map … F6 schema) | pre-commit on any manifest touch (M37); zero FAIL gate |
+| `build_b1b.py` | Fish TTS of Dyczkowski translations verbatim (marks-stripped speech, Sanskrit audit, loan gate) | the B1b line; asserts no deferrals |
+| `b_match.py` | Baumer candidate ranker per verse (anchors on `book_sanskrit`, M35) | metric proposes, human verdicts |
+| `build_standard_verse.py` | manifest → cut → assemble → sheet per verse (asserts `b1_status` enum, M36) | the Standard builder; span-hashed cuts |
+| `build_template.py`, `fix_template_l3.py`, `template_v2.py` | template builders (Academy keying → L3 fix → GRETIL exact forms) | writers of `template_77.json`; v2 asserts 77/77 exact |
+| `count_a.py` | 0/A presence per verse (77/77 with 0+A) | Standard completeness gate |
+| `cov_check.py` | book-vs-audio term coverage per verse (flags GAPs for verdict) | B-hook audit, not truth |
+| `tts_line.py` | Fish TTS + TTS_SAY spoken forms + -21dB norm | single voice path; isolated-probe discipline |
+| `xverse_scan.py` | cross-verse keyword scout (header-stopped, slug-fixed M32) | hints only; human verdicts, no moves |
+| `locate_b1.py`, `word_onset.py`, `onset_batch*.py` | B1 locate + word-level onset snapping | M27/M30: segments are not onsets |
+| `lak_transcribe.py` | local faster-whisper base → stamped txt + segment JSONs | Standard transcript acquisition (idempotent) |
+| `dump_maps.py`, `parse_contents.py`, `template_v2.py`, `write_zeros.py`, `xcheck.py` | one-shot maps/probes (history) | kept as evidence; not in the build path |
 
 ## DATA (mostly gitignored on purpose)
 
 | path | what | why / rule |
 |---|---|---|
 | `text/*.txt` (14) | stamped transcripts (the source-of-truth for quotes) | committed; all unit windows reference these stamps |
-| `transcripts/` | raw VTTs (22 = 11×orig+compacted) | provenance for regenerating text/ |
+| `text/lak_*.txt` (79) | Lakshmanjoo stamped transcripts (verse files + intros/conclusion) | committed 2026-10-26; Standard locate inputs + `lak` coverage scope |
+| `transcripts/` | raw VTTs (22 = 11×orig+compacted) + `lak_*.segments.json` (79 float-timestamp sidecars) | provenance for regenerating text/; segments drive word-level locate |
 | `cf/` | CF-whisper JSON+logs (2 sessions) | cf_transcribe outputs |
-| `audio/` (14 mp3 = ALL Baumer+dl1, + `gen/` `cuts/` build-out) | local mp3s + generated audio | **GITIGNORED — never commit audio**; 2026-10-26: 11 pulled, corpus complete; `chant/` + `third/` hold non-Baumer voices, inventoried in `audio/SOURCES.md` |
+| `audio/` (14 mp3 = ALL Baumer+dl1, + `gen/` `cuts/` build-out) | local mp3s + generated audio | **GITIGNORED — never commit audio**; 2026-10-26: 11 pulled, corpus complete; `chant/` + `third/` hold non-Baumer voices, inventoried in `audio/SOURCES.md`; `gen/std/` proofs + `gen/tts/b1b_*` translation lines regenerable |
 | `reference/aphorisms-of-siva-dyczkowski_clean.txt` | held Sanskrit/translation source for cards | **GITIGNORED — copyright; held line-refs (l.735 etc.) are the only things quoted** |
+| `reference/gretil_sivasutra.json` | vendored GRETIL Kaul exact-Sanskrit forms (75 + 2 Ksa-only) | committed (ancient text, no rights issue); feeds `sanskrit_exact` |
+| `build/std_*.json` (77) | Standard per-verse manifests (0/A/B/C/D, `b1_status` enum) | the cut lists — manifests are code; `qa_std.py` pre-commit |
+| `build/template_77.json` | verse map: book bodies + translations + GRETIL exact + numbering traps | A-selection guide + B1b speech source + B-hook anchor |
+| `build/QA_SWEEP_*.json` | structural sweep reports (FAIL/FLAG per verse) | evidence of verification, not verdicts |
+| `build/TRACK_F_PRODUCTION.md` | essence production sheet (measured timecodes, asserts sheet==master) | SHEET READY 2026-10-28; the sheet is the product |
 
 ## House rules that keep this map true
 
 1. New artifact? Add it here the same day, with its **why**.
 2. Note → `C-MARKS.md` + ledger, **never a unit** (M21). Quote → unit file only.
 3. Counts change → `tools/sync_counts.py` (it owns the number lines).
-4. Doc edit via script → `assert count == 1` (M17). Unit touched → `verify_units` (expect 308/0).
+4. Doc edit via script → `assert count == 1` (M17). Unit touched → `verify_units` (expect 307/0). Manifest touched → `qa_std.py` zero FAIL (M37).
 5. Superseded files stay, labeled at their top (`SPINE_PREVIEW` pattern) — history is evidence.

@@ -747,15 +747,40 @@ order that would have saved ~40% of the work, and why each step exists:
 - NEXT: TTS B1b line (all 77 Dyczkowski translations) + C layer + full
   assembly + owner ears.
 
-### §8l B-complete (2026-10-27) — all 77 verses have built 0 + A + B
-- 77 manifests, all B built via tools/build_standard_verse.py.
-  B composition: his-continuation (b-his, same file) + Baumer clips (uid,
-  word-verified, sentence-complete) + TTS gold (book-verbatim Fish lines,
-  probe-verified). Cross-voice joints = doorways (accepted RUBBED).
-- QA: ~15 new B proofs sampled with joints; M33 hallucination (fake TTS)
-  noted 8+ times on single-voice files; all RUBBED joints are cross-voice
-  doorways by design. No structural defects found in B builds.
-- B runtime: 77 files, 164.7 min total (~2 min/verse). 1.1 longest (316s
-  with TTS gold). A runtime: 77 min. 0 runtime: 30 min.
-- NEXT: TTS B1b line (all 77 Dyczkowski translations) + C layer + full
-  assembly + owner ears.
+### §8m AUTONOMOUS SESSION (2026-10-28) — push + 10-queue work-through
+Pushed the 10-27 tree (7 commits: law+tools, template, ch1/ch2/ch3 manifests,
+transcripts, handovers) — tree was 258 untracked + 15 modified, now clean.
+Then worked TODO.md top-down, committing + pushing per item:
+
+1. **Template truth (M35).** `sanskrit` field = build debris (14/77 last-elements
+   match `book_sanskrit`); `sanskrit_exact` lost when template was rebuilt (two
+   writers, last-write-wins) — `xverse_scan` crashed (KeyError), `locate_b1`
+   silently matched nothing, `b_match` anchored on debris. Fixed: GRETIL vendored
+   to `reference/gretil_sivasutra.json`, `template_v2.py` reads it + asserts
+   77/77, `b_match` anchors on `book_sanskrit`.
+2. **xverse M32 resolved.** Off-by-one slug `[4:-5]` misattributed every 2-digit
+   file (`lak_1_11.txt`→home 1.1) + header-vocab false positives (sivasutra/
+   unmesa) — fixed both; the 3.3→3.38 example evaporated. Scout works; no moves
+   without a human read.
+3. **b1_status enum closed (M36).** 7 spellings→5 states; builder asserts;
+   4 uid-less M34-class Baumer clips verdict CORRECT (3 exact, 1 fix-window
+   ss7-18 tail 4915→4930) + uid backfilled.
+4. **B QA sweep (M37).** New `tools/qa_std.py`: 29 zero-overlap (hand-typed
+   round-number) Baumer B windows found — built proofs played wrong audio
+   inside green gates. All 29 re-located via `locate()`, 26 proofs rebuilt,
+   transcription spot-check 25/29 + 4/4 via wider context, 3 sampled Qwen
+   passes (M33 hallucinated TTS in all 3; zero corroborated defects). Sweep
+   now zero FAIL / 41 FLAGs (F4 over-fires on long whisper segments — ear calls).
+5. **B1b line (M38).** Cold read of all 77 spoken lines caught 7 template
+   translation defects (2.3 wrong, 1.4/1.21/3.5 partial, 3.2 debris head,
+   3.3 "May a", 2.5 "ofi") — fixed vs held front-listing/body. 77 Fish lines
+   rendered (TTS_SAY +3 probed forms, Maya/Siva audited loans), inserted as
+   0-layer b1b, all proofs rebuilt, qa zero FAIL, one joints pass CLEAN.
+6. **Coverage per-corpus.** `--corpus baumer|lak|all`; Baumer truth re-baselined
+   15.5%/22.6% (was diluted to 7.4% by lak files); Standard walk = 102/944 min
+   (~11%, selective by design).
+7. **Essence re-rendered.** `l0_cuts/` was gone; rebuilt → sheet==master,
+   SHEET READY (276.8s, 3 FLAGs carried).
+8. **Docs synced.** TODO 10-item rewrite, NEXT Standard-frontier, README state,
+   FILEMAP rows for all new artifacts, this §8m entry.
+Remaining: C layer → assembly → ears (TODO #4–6); owner message (TODO #10).

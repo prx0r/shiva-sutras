@@ -830,3 +830,9 @@ Matrka mechanism → attribution gold → stop-grasping release). Order law hold
 EAR FLAGS (not rebuilds): (a) 1.2's climax (release instruction) lands in synth voice —
 does it land or deflate? (b) 1.1-echo moment for cold listeners.
 Content-complete at 0/A/B; owner ears remain the only lock.
+
+### §8p follow-up — public listen links (2026-10-28, voiced-gold walks)
+- 0-walk (38min): https://d.uguu.se/RgfkWbOa.mp3 (R2 walk_chall_0.mp3, 18376839 B)
+- A-walk (86min): https://h.uguu.se/mpanPjww.mp3 (R2 walk_chall_A.mp3, 41281000 B)
+- B-walk (3h04): https://n.uguu.se/igaadhnX.mp3 (R2 walk_chall_B.mp3, 88429716 B)
+Sizes match disk+R2 byte-for-byte. uguu links expire; R2 copies durable.

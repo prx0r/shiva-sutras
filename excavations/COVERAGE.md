@@ -53,6 +53,16 @@ Material can enter the project through exactly three channels:
 dl1 DONE same day (+3 units, 1 fix, 32 ledger rows — 14/14 transcripts complete). Remaining: coverage-standard
 decision (§8e-1 owner call for whether C-marks become full span-ledger rows).
 
+## RE-BASELINE (2026-10-28) — corpus scoping + ss7-18 fix-window
+
+`tools/coverage_measure.py` takes `--corpus baumer|lak|all` (default baumer).
+Lakshmanjoo transcripts had entered `text/` and diluted the Baumer TOTAL
+(7.4% span); scoped out again. Baumer truth now: **span 15.5% · words 22.6%**
+(drift from 15.9/23.2 = ss7-18 tail fix 4915→4930 + unit churn; method unchanged).
+`--corpus lak` (new): Standard manifest windows vs lak transcripts —
+**102/944 min walked = ~11%** (selective by design: one core passage per verse).
+Denominators never mix; `--corpus all` prints both tables.
+
 ## THE PLAN (original, for the remaining channels)
 
 Read the transcripts session-by-session (TEXT, not audio — 75k words ≈ a long day),

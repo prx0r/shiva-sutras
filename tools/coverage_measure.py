@@ -1,8 +1,16 @@
 #!/usr/bin/env python3
 """Coverage measurement: unit timestamp-spans vs original transcript lines/words.
-Run: python3 tools/coverage_measure.py   (from repo root)"""
-import re,glob,os,sys
+Run: python3 tools/coverage_measure.py [--corpus baumer|lak|all]  (from repo root)
+  baumer (default): Custom-compilation truth — Baumer/dl1 units vs Baumer
+    transcripts (lak_* excluded; pre-Standard numbers restored).
+  lak: Standard-compilation walk — per-verse manifest windows (0/A/B/C/D)
+    vs Lakshmanjoo transcripts (no units exist there; windows are the claim).
+  all: both tables side by side (denominators never mixed)."""
+import re,glob,os,sys,json
 from collections import defaultdict
+
+CORPUS = sys.argv[sys.argv.index("--corpus")+1] if "--corpus" in sys.argv else "baumer"
+assert CORPUS in ("baumer", "lak", "all"), CORPUS
 
 def ts(s):
     h,m,sec=map(int,s.split(':')); return h*3600+m*60+sec
@@ -27,7 +35,10 @@ def main():
     hit={k:[0,0] for k in ANC}
     rows=[]; T=C=W=CW=0
     for f in sorted(glob.glob('text/*.txt')):
-        if f.endswith('introduction_dl.txt'): continue
+        bn = os.path.basename(f)
+        if bn.endswith('introduction_dl.txt'): continue
+        if CORPUS == "baumer" and bn.startswith("lak_"): continue
+        if CORPUS == "lak" and not bn.startswith("lak_"): continue
         tl=[]
         for L in open(f):
             m=re.match(r'^\[(\d+:\d+:\d+)\]\s*(.+)$',L)
@@ -57,5 +68,56 @@ def main():
     for k in ANC:
         c,u=hit[k]; tot=c+u
         print(f'{k:9s}{c:>9}{u:>10}{100*c/tot if tot else 0:>4.0f}%')
+
+    if CORPUS in ("lak", "all"):
+        # Standard walk: manifest windows (all layers) vs lak transcripts.
+        # Slug match: manifest src "Shiva Sutras 1.11.mp3" <-> text/lak_1_11.txt
+        # (plus the 1.8-10 / 2.7p1p2 / intro / conclusion / 3.intro specials).
+        def slug_of(src):
+            b = os.path.basename(src)
+            if not b.startswith("Shiva Sutras"):
+                return None
+            core = b[len("Shiva Sutras "):-len(".mp3")]
+            if core == "1.8-10": return "lak_1_8_10"
+            if core in ("2.7", "2.7 part 1"): return "lak_2_7_p1"
+            if core == "2.7 part 2": return "lak_2_7_p2"
+            if core == "Introduction": return "lak_intro"
+            if core == "Conclusion": return "lak_conclusion"
+            if core == "3. Introduction": return "lak_3_intro"
+            return "lak_" + core.replace(".", "_")
+        byslug = defaultdict(list)
+        for mf in glob.glob('build/std_*.json'):
+            man = json.load(open(mf))
+            for pcs in man.get("layers", {}).values():
+                for p in pcs:
+                    if p.get("file", "").endswith(".wav"):
+                        continue  # prebuilt TTS, not lecture audio
+                    src = p.get("src", man["src"])
+                    if "sharma" in os.path.basename(src).lower():
+                        continue  # chant fallback lives outside lak files
+                    s = slug_of(src)
+                    if s:
+                        byslug[s].append((p["t_in"], p["t_out"]))
+        # 2.7 lives in two files; slug_of already maps part 1/2 directly.
+        print(f'\n{"=== LAK (Standard manifest windows)":60s}')
+        print(f'{"file":46s}{"dur":>6}{"wins":>5}{"span%":>7}')
+        LT = LC = 0
+        for f in sorted(glob.glob('text/lak_*.txt')):
+            tl = []
+            for L in open(f):
+                m = re.match(r'^\[(\d+:\d+:\d+)\]\s*(.+)$', L)
+                if m: tl.append(ts(m.group(1)))
+            if not tl: continue
+            dur = max(tl)
+            bn = os.path.basename(f)[:-4]
+            merged = []
+            for a, b in sorted(byslug.get(bn, [])):
+                if merged and a <= merged[-1][1] + 1: merged[-1][1] = max(merged[-1][1], b)
+                else: merged.append([a, b])
+            cs = sum(b - a for a, b in merged)
+            LT += dur; LC += cs
+            print(f'{os.path.basename(f):46s}{dur//60:>4}m{len(byslug.get(bn, [])):>5}{100*cs/max(dur,1):>6.1f}%')
+        print(f'\nLAK TOTAL: {LT//60}m audio · walked {LC//60}m = {100*LC/max(LT,1):.1f}%')
+
 
 if __name__=='__main__': main()

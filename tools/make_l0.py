@@ -28,7 +28,7 @@ def sh(cmd):
 
 def cut(src, t_in, t_out, dst):
     sh(["ffmpeg", "-v", "error", "-y", "-ss", str(t_in), "-to", str(t_out),
-        "-i", src, "-af", "afade=t=in:d=0.15,afade=t=out:d=0.15",
+        "-i", src, "-af", ("afade=t=in:st=0:d=0.15,afade=t=out:st={ed:.2f}:d=0.15".format(ed=max(0.3, (t_out - t_in) - 0.15))),
         "-ar", "44100", "-ac", "1", dst])
 
 

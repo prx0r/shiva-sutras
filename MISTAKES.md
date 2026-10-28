@@ -168,3 +168,76 @@
   cut filenames carry their spans (uid + t_in–t_out); bare indices are
   forbidden. Sheet and master assert equality every build so a cache bug
   can only fail loud, never ship.**
+
+### M25 follow-up (2026-10-26, same day) — the model was right, the dismissal was wrong
+After fixing the silence bug, Qwen's full pass diarized 4 voices and
+transcribed the Sanskrit chants — and caught that c4's "dip-snapped"
+window played sutra 1.12 instead of 1.11 (dips mark syllables, not sutra
+boundaries; corrected to [312.5, 317.9], verified "tritaya bhokta
+viresa" in-clip). Two corrections to the record: (1) the critic pass I
+discounted as confabulation was reading a BROKEN file — near-silence plus
+loud TTS explains every "orphan syllable" and "dead air" flag; (2) my
+"single passes vary" rule stands, but it does not license dismissing
+corroborated structure (three passes + transcript all pointed at real
+defects while I blamed the judge). Rule amended: distrust single
+passes, but when independent passes AND structure agree, the defect is
+real — fix it, don't philosophize about it.
+
+- M26. Custom prompts drop the guardrails. Two ad-hoc listen prompts
+  (inline, not from listen.py presets) omitted the excerpt-edge rule and
+  returned my own slice boundaries as defects. The presets exist for a
+  reason — always extend listen.py, never improvise around it.
+- M27. Transcript segment boundaries are not speech onsets. Two B1 windows
+  cut at segment starts (1.1 @78.7, 1.2 @97.6) carried 0.4–2s of dead
+  pre-speech pause; Qwen read the hole as static/jump. Fix: snap every
+  window to speech onset with silencedetect (1.1 →79.0, 1.2 →99.6),
+  re-cut, re-verify. Rule: segments locate the neighborhood, silence
+  detection sets the in-point.
+- M28. Wrong preset for partial proofs. A `verify` pass on a bare two-B1
+  pilot confabulated a TTS narrator that doesn't exist (verify assumes
+  full beats with card TTS). Discarded per the corroboration rule (model
+  claims content absent from the plan = pass failure, not build failure).
+  Rule: verify only full beats; scouting/pilots get qa.
+- M29. Sentence completion beats silence. A 1.6s pause sat mid-sentence
+  ("repeated | births") — cutting in it truncated the word. Rule: the
+  in-point snaps to speech onset (M27), the OUT-point snaps to sentence
+  completion; verify the last three words complete against the transcript
+  before accepting any window.
+- M30. 0-windows start on the sutra's frame word, word-verified. 1.1's B1
+  opened with "And" (discourse filler from the previous thought) — caught by
+  owner ear, not by me. Base word-timestamps put the boundary at 79.8
+  ("Sutra"); segment starts are not word starts. Rule: every 0 in-point gets
+  word-level verification; fillers ("and/so/now") belong to the previous
+  thought and never open 0.
+- M31. 0-B1 = the sutra's words only, book-verified. Framing ("Sutra is",
+  sandhi demos, previous-sutra context) is explanation, not text — it lives
+  in A, never in 0. Verify each B1 against the Aphorisms form before cutting.
+- M32. xverse_scan.py mixes files in its report (hits shown under the wrong
+  verse with another file's timestamps — e.g. 3.38's statement reported at
+  3.3's 85.3s). Cause not yet isolated; treat ALL its locations as
+  unverified until each is confirmed by direct transcript read. The
+  scan's *existence* findings still need per-file confirmation.
+- M33. Qwen hallucinates a "synthetic narrator"/TTS in TTS-free builds (1.19,
+  2.7, 3.21 joints passes + 3.7/3.22 qa). Pattern: Lakshmanjoo's clipped
+  English delivery + room change mislabeled as synthetic. Rule: any pass
+  reporting synthetic speech where none exists is discounted on ALL voice
+  claims; its structural findings (cut locations, joints) count only with
+  a second corroborating pass.
+- M33 (confirmed twice): Qwen hallucinates a "synthetic narrator"/TTS voice in
+  builds with zero TTS, AND misreads natural pauses as cut-offs (3.17 A:
+  claimed mid-word cut at a verified 5s pause; independent whisper
+  transcription shows coherent continuous speech). Rule: model voice labels
+  are never evidence on single-voice files; structural claims need
+  transcript-or-measurement corroboration before any rebuild.
+- M34. Wrong-audio-file cut (silent killer). Cut ss4-08's window from
+  sLD0aeV1d3o.mp3 (ss3's file) by assuming MANIFEST order == ssN order.
+  The cut "succeeded", levels passed, QA described wrong content. Rule:
+  resolve every sess->mp3 through tools/build_manifests.py's MP3 map,
+  never by position; spot-check each cut's first words against the unit
+  quote before assembly.
+- M33b (tooling twin of M33): invisible Unicode lookalikes in code (fullwidth
+  chars mimicking `__main__`) pass every eyeball and grep-like review yet break
+  execution — `grep -c` returned 0 while `tail` displayed the line. Rule: when
+  a script behaves impossibly (clean exit, no output, valid-looking source),
+  verify at byte level (`python -c` count on rb-read bytes); rewrite the file
+  clean instead of patching it.

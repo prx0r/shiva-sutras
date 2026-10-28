@@ -101,3 +101,30 @@ c4/c2 split points, S1-head 22-count trim). NO-FLOW items: none.
   - c6 "what" is interrogative (self-contained Q&A). Clean.
 - Repetition = T+P gospel pairs + bells/pads only (structural, intended). Order = Q precedes answer in every beat (sheet-verified); head cards state answers first BY DESIGN (seed planted, question re-opens — recorded, not a flaw).
 - Remaining ear-only items: acoustic seam quality (c1/c2 crossfades), drag feel (c2 42s, c4 28s), TTS naturalness, confusion. Everything else is now asserted in code or text.
+
+## Pass log, continued (2026-10-26)
+- afade+seek bug found by measurement (volumedetect): every seeked cut
+  was digital silence (mean -90dB); master was bells + TTS + dead air.
+  Fixed with explicit st= bounds; audibility gate added to
+  validate_sheet (fail under -45 dBFS max). All prior "confabulation"
+  verdicts on model passes REVERSED where they described the broken mix.
+- c4 chant corrected 1.12 → 1.11 ([318.9→322.9] → [312.5→317.9]),
+  verified in-clip ("tritaya bhokta viresa"). Lesson recorded (M25
+  follow-up): dips are syllables, sutra identity is textual.
+- Standing: every structural fix verified twice (measurement + model);
+  open items remain the 3 ear FLAGs only.
+
+## Pass log, continued (2026-10-26, anti-echo rebuild)
+- c1 concat 10s+6s → 0.4s equal-power crossfade: model asked point-blank
+  about the "subject object / this is consciousness" join → CLEAN.
+  (Custom prompt omitted the excerpt-edge rule and the model flagged my
+  own slice boundaries as defects — evidence FOR the rule, not against
+  the build. All inline custom prompts must carry it; listen.py presets do.)
+- CF whisper transcript of the full master: independent engine confirms
+  no repeated card sentences (anti-echo rule holds in audio, not just on
+  paper), c2 antecedent adjacency, c4 intact. CF *dropped* a 24s span
+  (c2 tail → c3 T) that energy measurement + targeted Qwen both confirm
+  present and correct — transcribers need coverage checks too; a gap in a
+  transcript is not a gap in the audio until levels say so.
+- Verdict stands: FLOW. No new flags. Remaining items are the 3 ear
+  FLAGs, unchanged.

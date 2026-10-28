@@ -14,22 +14,33 @@ from every custom-compilation artifact by law).
 2. **Readout text**: Dyczkowski front-listing per Light (22/10/45 keys;
    page-wrap artifacts patched: S2-4 rejoined, trailing spillover
    trimmed, blank numbers left as FLAG fill-from-commentary — never
-   invented).
-3. **Chant windows**: section runs located in the chant recording (here:
-   Sharma S1 267–382 s, S2 392–442 s, S3 453–684 s), per-verse splits
-   proportional inside runs. PROVISIONAL by construction — snap every
-   boundary to the nearest pause at cut, then replace proportional with
-   measured in the manifest.
-4. **B3 slots**: anchors only where the corpus already proves them (here:
-   the 6 essay-0 cells mapped to their sūtras). All other verses carry
-   their section pool + "assign at cut" — assignment happens with audio
-   present, reading the join, never from text order alone.
+   invented). HELD AS TEXT: on-screen card, translation check, print-verify
+   anchor. NOT voiced in the Standard — B2 is his own adjacent gloss
+   (same voice as B1); voicing a second translation would break the
+   one-voice continuity for nothing.
+3. **Chant windows (v2, canonical 2026-10-27): Lakshmanjoo-measured, never
+   proportional.** Per-verse B1 = his sūtra statement located in its own
+   study-set file, window content-verified against the text (dips mark
+   syllables, lecture flow doubly so — identity is textual). Sharma runs
+   are NOT cut per-verse. File heads often review the previous sūtra —
+   the locate must skip review and land on the verse's own statement.
+   Sanskrit-heavy openings that defeat base transcription get a large-model
+   re-pass before locating. Provisional Sharma splits (v1) stay in the
+   storyboard as history, superseded.
+4. **B3 slots (v2: Lakshmanjoo primary):** his English on the verse,
+   verbatim excerpts cut tight — the same voice as B1, no timbre jump.
+   Baumer anchors stay in essay-0/Custom only; no verse is dual-voiced
+   in the Standard. Assignment happens with audio present, reading the
+   join, never from text order alone.
 5. **B4 slots**: third voices mapped where they strike the verse directly
    (here: Osho discourses D1/D3/D4/D5/D6, Hareesh ep78 at the S1
    doorway, Sharma overview at section heads). Relevance sentence
    mandatory per insertion ("this widens the same verse"); failures
    stay out. Rights per `audio/SOURCES.md` — cut-only sources never
    redistribute.
+6. **Coda (v2): Sharma's complete run after the last verse** — mangala
+   [182s→250s] + 77 sūtras [267s→688s] + closing [688s→711s], ≈9 min,
+   lightly cleaned. The full text heard whole; the seal of the Standard.
 
 ## Spacing (flow consideration, not taste)
 Verses flow without bells between them: chant (~6 s) → 1.2 s → T+P

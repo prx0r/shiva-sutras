@@ -1,5 +1,34 @@
 # TRACK F STORYBOARD — 77 verses, four blocks each (separate from Track S)
 
+## STANDARD v2 — voice swap (canonical 2026-10-27; Custom untouched)
+
+B1 = Lakshmanjoo statement, measured per-verse (file → seconds in file).
+B1b = AI voice reads Dyczkowski's translation verbatim (the trusted wording).
+B2 = HIS adjacent English gloss, verbatim (same voice as B1).
+0 = B1 → B1b → B2, nothing else. A = 0 + one compressed explanation
+passage, total ≈1 min/verse; whole of A ≈ 1 hour.
+Coda = Sharma complete run after S3-45. Old Sharma-proportional B1 rows below
+are history (superseded, not deleted). Custom/essay-0/spine artifacts frozen.
+
+### v2 B1 table — transcribed verses (11 measured, 3 flagged)
+
+| verse | file | B1 window (s) | dur | note |
+|---|---|---|---|---|
+| 1.1 | Shiva Sutras 1.1.mp3 | 80.5→81.8 | 1.3s | sutra only, book-verified caitanyamatma (Aphorisms l.735); B2 82.4→98.3 |
+| 1.2 | Shiva Sutras 1.2.mp3 | 99.6→121.0 | 21s | BOTH splits voiced — keep whole; onset snapped (was 97.6, 2s dead head) |
+| 1.11 | Shiva Sutras 1.11.mp3 | 76.1→82.5 | 6s | "He just said, in this sutra" lead-in kept |
+| 1.12 | Shiva Sutras 1.12.mp3 | 45.7→63.4 | 18s | statement + gloss, keep whole |
+| 1.13 | Shiva Sutras 1.13.mp3 | 15.4→26.5 | 11s | embedded mid-flow, clean |
+| 1.15 | Shiva Sutras 1.15.mp3 | 47.1→65.5 | 18s | head 0→15 is previous-verse bridge — skipped |
+| 1.16 | Shiva Sutras 1.16.mp3 | 22.1→31.6 | 10s | clean |
+| 1.17 | Shiva Sutras 1.17.mp3 | 16.8→33.2 | 16s | dated intro before — cut for B1 |
+| 1.18 | Shiva Sutras 1.18.mp3 | 0.7→9.7 | 9s | opens with statement, clean |
+| 1.20 | Shiva Sutras 1.20.mp3 | FLAG | — | own statement later in file (head = review); locate pending |
+| 1.21 | Shiva Sutras 1.21.mp3 | FLAG | — | own statement later in file (head = review); locate pending |
+| 1.22 | Shiva Sutras 1.22.mp3 | FLAG | — | file = last-sutra + awakening wrap; map vs book pending |
+| 1.14 | Shiva Sutras 1.14.mp3 | FLAG | — | Sanskrit opening garbled in base transcript; large-model re-pass, then locate |
+| 1.19 | Shiva Sutras 1.19.mp3 | FLAG provisional 64.6→79.6 | 15s | English-padma statement; Sanskrit in garbled head — re-pass, then confirm |
+
 Law: sūtra order, no selectivity. Per verse: **B1 chant → B2 readout → B3 explanation → B4 elaboration**. Gaps flagged, never padded. Chant windows = proportional splits inside Sharma section runs (PROVISIONAL — snap at cut). T = Dyczkowski front-listing; blank = FLAG fill-from-commentary. B3 beyond anchors = section pool, assign at cut. Track S artifacts never referenced.
 
 Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (TTS ~10s) → 1.2s → B3 clip(s) → B4? → 2.5s water → next verse. Section heads carry bell + question + card (from BEATS); section closers land the payoff (FLAG per section).
@@ -177,7 +206,7 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 ## S3 — 45 sūtras — chant run [453s → 684s] (5.1s/sūtra proportional)
 
 ### S3-HEAD · opener: bell 880Hz/2.5s → Sharma intro [444s → 449s] ("Third is ānavopāya") → card S+T+P → water
-### S3-TAIL · closer: last sūtra S3-45 + Sharma closing Om [684s → 690s] → terminal water 6s (no climax — stilling, not resolution)
+### S3-TAIL · closer: last sūtra S3-45 + Sharma closing Om [684s → 690s] → water 2.5s → **CODA (v2): Sharma complete run** mangala [182s→250s] + 77 sūtras [267s→688s] + closing [688s→711s] ≈ 9 min, lightly cleaned → terminal water 6s (no climax — stilling, not resolution). The full text heard whole.
 
 ### S3-1 · `Atma cittam` · chant [453.0s → 458.1s]
 - B2 readout: T: "The mind is the Self."

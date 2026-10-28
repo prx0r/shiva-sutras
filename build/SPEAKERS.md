@@ -1,4 +1,14 @@
-# SPEAKERS — who speaks what (v1 state)
+# SPEAKERS — who speaks what (v1 state + Standard v2 2026-10-27)
+
+## Standard v2 (canonical — Custom rows below unchanged)
+
+| role | voice | owns | v2 status |
+|---|---|---|---|
+| **LAKSHMANJOO** | archive (`/home/ubuntu/shiva-study-set/`, 79 files, outside repo) | Standard B1 (sūtra statements, measured per-verse) + B3 (English, verbatim excerpts) | locating (11/14 measured, pilot 1.1+1.2 verified) |
+| **SHARMA** | archive (`audio/chant/sharma_siva_sutras_2009.mp3`) | Standard coda only (mangala + 77 sūtras + closing ≈ 9 min) | located, uncut |
+| **READOUT** | his adjacent gloss, verbatim | Standard B2 per verse (same take as B1 where adjacent) | locating with B1 windows |
+
+## Custom v1 (frozen — untouched by v2 work)
 
 | role | voice | owns | v1 status |
 |---|---|---|---|

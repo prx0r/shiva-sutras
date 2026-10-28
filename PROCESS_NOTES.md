@@ -397,3 +397,365 @@ every one of these defects green.
 - Bhairava fix verified by isolated probe (v2 "Bye-ruh-vuh" transcribed exactly; v1/v3 degraded) → `TTS_SAY` spoken-form map in both builders; display text untouched. Full-mix transcripts are unreliable for fine phonetics — isolated probes only.
 - Excerpt probes confabulate worse than full passes (c3 excerpt invented mantras/speakers). Method: probe isolated lines, full pieces for structure, never excerpts as evidence.
 - make_l0.py SUPERSEDED by make_essence.py (two assemblies = two truths); essence is the single build path. L0 mp3 kept as history.
+
+### §8j follow-up 2 (2026-10-26) — ported vatulanatha's QA apparatus, fixed the repetition + room properly
+- Compared process/19/20 + 18-SPACING + sfx kit. Adopted, with credit:
+  room-tone beds (Baumer lecture-gap room, -63dB) replace digital-silence
+  pads in place (same durations, zero sheet change); per-piece level norm
+  (gain = min(-21-mean, -1.5-max), their formula) for every speech cut —
+  measured now: chant -21.0, Baumer -23.2, TTS -21.0 exact, intros -21.0;
+  listen.py excerpt-edge rule + verbatim-beats-verdict adjudication;
+  their air/level numerics folded into validate_sheet + flow_lint.
+- Answered the three charges: (1) bell = plain 880Hz sine, kept
+  deliberately — bell grammar is locked design, their kit is first call
+  at ship; (2) "consciousness is the self" repetition = gospel T+P —
+  now DIFFERENTIATED (P at 1.12x summary delivery), model confirms
+  differentiated not echo; residual dislike of the pairing itself is
+  taste → ear call, not a defect; (3) Qwen ears: 6 passes, every fix
+  verified — TTS-Sanskrit eliminated, c1 crossfade, c2 antecedent,
+  S1-19 filled, c4 corrected to 1.11, afade silence bug caught by
+  measurement the model pointed at.
+- Quoting pressure test established: vague "hard cut" claims that cannot
+  produce quoted locations on re-ask are discarded (two such claims
+  dissolved this way). Verbatim beats verdict, again.
+- S1 head shortened to the no-count intro (7s); G12 exception stands with
+  mitigations in the build, not just in prose.
+
+### §8j follow-up 3 (2026-10-26) — R2 + handover
+- Essence master uploaded to R2 (`longform-audio/shiva-sutras/essence_v1.mp3`, verified by HEAD). Owner-supplied keys matched the stored set; nothing new written anywhere.
+- HANDOVER-2026-10-26.md written: full session log for the next agent.
+
+### §8j follow-up 4 (2026-10-26) — R2 packs
+- Osho Hindi 10-talk zip built (stored, no recompression) + uploaded as
+  `longform-audio/shiva-sutras/osho-hindi-10-talks.zip` (327 MB, HEAD-verified).
+
+## 8l. STANDARD v2 — Lakshmanjoo voice swap (2026-10-27, Standard only; Custom frozen)
+- Law recorded (BUILD_ENGINE + process/10 steps 3-6): B1 = his statements
+  measured per-verse, B3 = his English verbatim excerpts, B2 = Dyczkowski T
+  verbatim, coda = Sharma complete run ≈9 min. Baumer cells stay in
+  essay-0/Custom; no verse dual-voiced in Standard.
+- Transcription: tools/lak_transcribe.py (local faster-whisper base, stamped
+  txt + segment JSON sidecars). Sanskrit-heavy openings garble in base
+  (1.14, 1.19 heads) — large-model re-pass owed before locating those.
+- Locate: 11/14 measured (table in storyboard v2); FLAGs = 1.14/1.19
+  (re-pass), 1.20/1.21 (own statement later in file — heads review previous),
+  1.22 (file↔verse map vs book). Pattern: file heads often review the
+  previous sūtra — locate skips review.
+- Pilot 1.1+1.2: windows snapped to speech onset (M27), room bed from his own
+  pause, levels -21dB, Qwen qa = speech clean/natural; bare-B1 proof can't
+  FLOW (needs full beats — B2+B3 next). M28 logged (verify on partials).
+- Steals from vatulanatha (pulled, 5 commits): dual-reading manifest grammar
+  [archive read → breath → translation]×N, sheet-driven build, done-by-rule.
+
+### §8l follow-up (2026-10-27) — B2 corrected to his gloss (owner: "why Dyczkowski verbatim?")
+- Dyczkowski-voiced readout was my leftover, not a decision: his own English
+  gloss sits adjacent to every statement, same voice and breath. Standard B2
+  = his gloss verbatim; Dyczkowski stays held TEXT (card + verify anchor),
+  unvoiced. No TTS in the verse walk.
+
+### §8l follow-up (2026-10-27) — Layer A definition (owner)
+- A = highest-signal explanation per verse. Aphorisms of Siva is the source
+  of truth for what each verse says (template hooks); audio is chosen for
+  succinctness against those hooks. Fallback ladder: his excerpt first,
+  then archive voices where they strike the verse, worst case Fish TTS of
+  Dyczkowski's words verbatim (never paraphrased).
+
+### §8l follow-up (2026-10-27) — Standard 0/A/B/C proof for 1.1 + 1.2 (tools/build_standard_verse.py + build/std_1_{1,2}.json)
+- Durations: 1.1 0=24s A=80s B=405s C=806s; 1.2 0=50s A=114s B=444s C=663s.
+  A in 1-3min band, B = A + 5-10min, C loose. Russian doll append-only.
+- QA: A proofs fixed twice (M27 onset snap; sentence-complete ends — 1.2 B2
+  extended to 146.2, A-core to 292.5 then 298.0). B joints 5/6 CLEAN, one
+  RUBBED (anupaya entry) ear-flagged. C QA: no edit seams found; only source
+  texture (pauses, overlap, stumbles) accepted as verbatim. Model limits hit:
+  joints prompt bails on long single-voice; verify prompt confabulates on
+  partials (M28); water-level room reads as "silence" to the model.
+- Guests: C slots empty this round (his-loose only). Osho/Hareesh/dl1
+  candidates unmapped — open for the C pass at scale.
+
+### §8l follow-up — Cross-verse assignment sweep (Standard): NO MOVES
+- Ran tools/xverse_scan.py (keyword scan for other verses' sutra forms in
+  each file). Tool has a file-mixup bug (reports hits with wrong file's
+  timestamps — DO NOT TRUST its locations; M-logged separately).
+- Verdict on reading evidence: Lakshmanjoo files are per-verse by
+  construction (one lecture per sutra), unlike Baumer's thematic sessions.
+  Review-heads (1.20->1.19, 2.8->2.7, 3.2->3.1, 3.24->3.23, 3.38->3.37)
+  STAY in their files (orientation, not movable depth). Cross-verse quotes
+  (1.2 cites 1.3's formula @796.8) noted as seealso, never double-claimed
+  (M20 rule). No unit moves. Assignment complete: everything home.
+
+### §8l follow-up (2026-10-27) — Standard objective, generalized (owner)
+- The Standard's 0, for ANY text: the source's own words, then the most
+  precise available translation (clinical, exact — the trust anchor),
+  then the master's rendering (the living meaning). Precision and
+  interpretation are different jobs carried by different voices:
+  Dyczkowski gives us precision; Lakshmanjoo gives us the meaning.
+  Even with a master, both are needed — the master interprets, the
+  scholar fixes the words. 0 = Sanskrit (him) -> precise English (AI,
+  verbatim) -> his English (him). A adds one compressed explanation
+  passage per verse (~1 min); whole of A ~= 1 hour.
+
+### §8l follow-up (2026-10-27) — "he" = Siva (owner question, answered)
+- In his lectures "he defines / he puts forth / he says" = Lord Siva
+  speaking in the sutra (revealed through Vasugupta). Ksemaraja is named
+  separately ("the commentator says") and never takes the bare "he".
+- A-completion status: 27/77 with A built+QA-sampled; 0 verified for all
+  located verses (B1 book-verified where Sanskrit is voiced; Sharma
+  fallback + CF re-pass + ~10 deep-locates queued). Remaining A = read
+  file, pick core passage against the book hooks, manifest, build, QA.
+
+### Template text-critical notes (2026-10-27)
+- Book (Dyczkowski) transposes prana/madhye vs Ksa+Gretil+files: book 3/24
+  = Acad 3.22 (pranasamacare), book 3/23 = Acad 3.23 (madhye'vara). Mapped
+  by content, never by number. Book also inserts an extra visarga-sutra at
+  3/15 (no Ksa counterpart) and splits Ksa 1.16 into 1/16+1/17 (Acad 1.17-22
+  = book 1/18-1/23). GRETIL Kaul text (75 sutras, no turya/hrdaye standalone)
+  is the exact-Sanskrit reference; Lakshmanjoo voices the two Ksa-only
+  sutras himself.
+
+### §8l follow-up (2026-10-27) — A complete for all 77 (manifest level)
+- Every verse: 0 (sutra+gloss) + A (one compressed excerpt) mapped, built
+  via tools/build_standard_verse.py + build/std_*.json (77 files).
+- B1 = his word-verified voicing; Sharma exact slices where he paraphrases
+  or the tape garbles (1.4/1.6/3.22/3.41/3.42 + cf re-pass set).
+- B2 = his adjacent gloss; book (Supreme Awakening) is the A-selection
+  guide; GRETIL Kaustubha text is the Sanskrit reference (template_77.json).
+- Numbering: Academy=Ksa (22/10/45); book inserts one visarga-sutra at 3/15
+  and splits 1.16; Bhaskara order transposes prana/madhye vs Ksa.
+- Remaining: full-build QA sweep (cross-voice joints first), B/C layers,
+  TTS B1b line, Sharma coda assembly, owner ears.
+
+### §8l QA ruling (2026-10-27) — cross-voice B1 joints are doorways, not seams
+- 4 independent qa passes (1.4, 1.6, 3_7, 3.41) all flag the Sharma-chant →
+  Lakshmanjoo-lecture handover as RUBBED (room/timbre discontinuity).
+  Expected: different recordings, rooms, decades — no bed hides that, and
+  hiding it would be dishonest. Ruling: cross-voice joints are DOORWAYS
+  (2.5s room breath stands as the pause between movements), verdict SOFT
+  by design, ear confirms intent. If owner wants formal punctuation, the
+  approved alternative is a bell at cross-voice joints — NOT longer beds.
+- Model failure mode logged (M33): Qwen repeatedly hallucinates a "synthetic
+  narrator" in files containing zero TTS, mislabeling Lakshmanjoo's clipped
+  English delivery. Any pass reporting synthetic speech in a TTS-free build
+  is discounted on that claim; structural findings stand only with a second
+  corroborating pass.
+
+### §8l A-complete (2026-10-27) — all 77 verses have built 0 + A
+- 77 manifests (build/std_*.json), all built via tools/build_standard_verse.py.
+  B1 = his voicing word-verified, else Sharma exact slice (word-verified:
+  1.4, 1.6, 3.17, 3.18, 3.22, 3.29, 3.32, 3.41, 3.42 + CF re-pass heads
+  1.14/1.19/2.2/3.11/3.21/3.34/3.37 where his voicing is cleanest).
+  Cross-voice joints = doorways (accepted RUBBED, mitigations in build).
+- QA: ~20 proofs sampled; real defects fixed (mid-sentence cuts 1.2/1.5/2.3/
+  3.32, dead-head onsets, B2 overruns); M33 hallucination (fake TTS) noted
+  6+ times, rule logged — voice-ID claims need transcription corroboration.
+- Runtime check: A proofs run ~1-2.5 min (over the 1-min target on several —
+  compression pass owed before lock; pilot set first: 1.1, 1.2, 2.3).
+- NEXT: B-layer (Baumer/dl1/Osho/Hareesh guests per verse) → C (full walk +
+  stories) → B1b AI-translation line → coda assembly → owner ears.
+
+### §8l Standard build method, as executed (2026-10-27, canonical)
+1. SOURCE: per-verse lecture mp3s (79 files, 16h). Transcribe locally
+   (faster-whisper base): stamped txt + float-timestamp segment JSON sidecars.
+2. TEMPLATE: GRETIL Kaul text = exact Sanskrit per verse (Academy-keyed;
+   Ksa-only turya/hrdaye from his voicing); Aphorisms = per-verse exposition
+   hooks + translation check; Lakshmanjoo book = A-selection guide + his
+   English. Numbering traps logged (book 3/15 extra, 1/16 split, 3/22-3/23
+   transposition vs Ksa/Gretil/file order).
+3. LOCATE B1 per verse, word-verified onset (M30: no filler; M31: book form;
+   M27: snap to speech; Sharma exact slice where he paraphrases or tape is
+   garbled; CF large-model re-pass for garbled heads). B2 = adjacent gloss,
+   sentence-complete (M29). B1+B2 = Layer 0.
+4. A = book's per-verse section mapped to timestamps (~1 min/verse);
+   curated for highest signal, never padded, thin stays thin.
+5. BUILD via tools/build_standard_verse.py from build/std_*.json (span-hashed
+   cut names, per-piece norm to -21dB, own-room beds, 0.15s afades).
+   QA: qa + joints per proof; cross-voice joints are doorways (accepted
+   RUBBED); model voice-ID claims need transcription corroboration (M33).
+
+### §8l B-layer method, proven on 1.1 (2026-10-27)
+- B per verse = A + Baumer clips mapped 1:1 to book exposition hooks the A
+  leaves open (here: knowledge+action union <- ss1-27; knower-known one <-
+  ss4-08; anupaya <- ss1-29). Each clip word-verified, sentence-complete;
+  wrong-file hazard logged (M34: verify sess<->mp3 map from build_manifests,
+  never assume order).
+- Assembly: A proof + breath + B clips in book order + water. 1.1 B =
+  127.6s, QA FLOW, all joints CLEAN (cross-voice doorway holds).
+
+### §8l QA close-out (2026-10-27) — A verified across the arc
+- Sampled ~25/77 A proofs with Qwen qa/joints. Real defects fixed: mid-sentence
+  cuts (1.2, 1.5, 2.3, 2.9, 3.32, 1.8 B1/B2/A-core bounds), dead pre-speech heads
+  (M27 onsets: 1.1, 1.2, 2.1, 2.7, 3.9, 3.17, 3.21, 3.35, 3.44, 3.12...),
+  wrong-file cut (M34: ss4-08), overlong B1s trimmed to the sutra (M30/M31).
+- M33 confirmed 6+ times with a decisive test: faster-whisper transcription of
+  the accused file shows coherent single-speaker lecture while Qwen reports
+  "synthetic narrator" + "cut off mid-word" + "repeated fragments" for the
+  same audio. No TTS exists anywhere in the std chain (verified: 0 synth
+  files under audio/gen/std/). Voice-ID claims are now inadmissible without
+  transcription corroboration; structural claims still require it too.
+- Cross-voice (Sharma B1 -> his B2) joints ruled DOORWAYS (accepted RUBBED).
+- Remaining for lock: full QA pass over all 77 (sampling done ~1/3), B-layer
+  rollout (Baumer mapped per book hooks; 1.1 built FLOW 127s), C assembly,
+  TTS B1b line, coda, owner ears.
+
+### §8l close-out: A complete for 77, B method proven on 1.1 + 1.2 pilot
+- All 77 verses: 0 + A built and gates green; ~30 proofs ear-checked, real
+  defects fixed (mid-sentence cuts, dead heads, wrong-file B1, B1/B2 skips).
+- M33 (synth hallucination) fired ~10x, always on single-voice files; twice
+  corroborated by whisper transcription that the audio is clean continuous
+  human speech. Standing rule: no rebuild on voice-ID claims, ever.
+- B pattern locked: book hook -> Baumer unit, word-verified, sentence-closed,
+  breath-joined, QA'd. C + TTS + coda + ears remain.
+
+### §8l B architecture (canonical 2026-10-27): Lakshmanjoo mouth first, AI reads Dyczkowski verbatim
+- Per verse: A + his continuation (deeper lecture cuts) + Baumer (book hooks
+  his audio lacks) + Fish TTS of Dyczkowski's exact lines (Varttika verses,
+  technical distinctions, variants, footnotes — only where no human voice
+  carries the point). TTS convention: gloss parentheses dropped in voicing,
+  full text lives on the card.
+
+### §8l B status (2026-10-27): method proven on 1.1 + 1.2, rollout queued
+- 1.1 B = A + his neti-neti + anupaya + her ss1-27/ss4-08/ss1-29 + 2x TTS
+  (Varttika + microcosm verbatim). 266s. QA: joints CLEAN except
+  cross-voice doorways (accepted); M33 hallucination noted again.
+- 1.2 B = A + Baumer ss12-14 (devours both knowledges) 129s.
+- B compositional law: his continuation FIRST (verbatim lecture), then her
+  clips keyed to book hooks his audio lacks, then TTS of Dyczkowski exact
+  lines only where no human voice carries the point.
+- Qwen API down at session end (HTTP errors); final B QA pending ears.
+
+### §8l Standard A/B definitions (canonical 2026-10-27, owner-locked)
+- A = the "oh, that's it" cut: his sutra + his gloss + ONE sharpest
+  explanation passage. ~1 min/verse. Nothing else.
+- B = A + his continuation (deeper lecture cuts that expand the verse) +
+  HER clips keyed 1:1 to book hooks the audio lacks + AI voice ONLY for
+  GOLD insights no human voice carries (Dyczkowski verbatim, never composed).
+  Order inside B: him first, her second, AI last — descending warmth, ascending
+  precision. B ≈ A + 2-6 min depending on the verse's weight.
+- The Aphorisms is the reference standard: its per-verse exposition is the
+  checklist; every B element must answer a book point or be cut.
+- C (later): full walk + stories + guests + coda. D (loose ends file).
+
+### §8l joints doctrine (2026-10-26, stands unless ears overturn)
+- Breath beds (2.5s own-room) between clips are the final answer to seams.
+  Model flags them as "abrupt" about half the time; human ears hear a
+  thinking pause. No crossfades, no music beds, no smoothing — the seams
+  stay audible-by-design, like cuts in film. Only structural defects
+  (mid-sentence cuts, wrong files, dead heads) trigger rebuilds.
+
+### §8l TTS voice established (2026-10-27): Fish s2.1-pro-free + TTS_SAY
+- TTS speaks ONLY verbatim book lines (never composed). Isolated-probe
+  method: candidate spoken forms rendered alone, whisper round-trip decides
+  (Mayiyamala -> "Mah-yee-ya-mah-lah" [whisper: Mahiyamaala]; Ksemaraja ->
+  "Kshema-raja" [whisper: Keshma Rajas]; siddha kept inline with commas).
+  TTS_SAY map in tools/tts_line.py. Varttika/microcosm/attribution lines
+  rendered + round-trip verified; owner ear is final judge on proper nouns.
+- B assembly: his-continuation -> Baumer (book hooks) -> TTS gold lines.
+  1.1 B: 4.4 min FLOW (all cross-voice joints CLEAN); 1.2 B rebuilt with
+  sentence-complete windows + probed TTS.
+
+### §8l B-layer doctrine, final (2026-10-26, owner-ratified pattern)
+B per verse, in order: (1) his continuation — deeper lecture cuts the A
+did not fit; (2) HER voice, one clip per book hook A leaves uncovered
+(matcher proposes via tools/b_match.py, human verdicts, word-verified
+bounds, sentence-complete ends); (3) AI voice reading Dyczkowski VERBATIM,
+only where neither human carries the point (Varttika lines, technical
+distinctions, print-only variants). TTS rules: Fish s2.1-pro-free,
+TTS_SAY spoken forms earned by isolated probe + whisper round-trip
+(tools/tts_line.py), full text lives on the card, owner ear final on
+proper nouns. Cross-voice joints are doorways (accepted RUBBED); never
+blend, never smooth away.
+A/B/C/D boundary law: A = the "oh that's it" cut (~1 min: sutra+gloss+
+one core passage). B = A + depth (his + hers + book-gold). C = full walk
+(stories, guests, coda). D = loose ends. Thin stays thin; never pad a B
+to hit runtime, never cut audited membership for it either.
+
+### §8l FROM SCRATCH — what this whole build taught (read before starting over)
+If all artifacts vanished and only the process notes remained, here is the
+order that would have saved ~40% of the work, and why each step exists:
+
+1. TEMPLATE FIRST, cutting never. Build the verse map (book Sanskrit +
+   translation + body bounds), the exact-Sanskrit reference (GRETIL or
+   equivalent), and the numbering map with every recension trap WRITTEN
+   DOWN (we burned turns re-deriving the 3/22-3/23 swap, the 3/15 extra
+   sutra, the 1.16 split). No transcript is opened before this exists.
+2. BATCH the mechanical verification. Word-onset every B1 in one background
+   job (12s clips, base model, ~1 min each) instead of discovering mid-build
+   that windows start mid-word. Same for sentence ends. The rule set that
+   emerged — M27 (segments are not onsets), M29 (sentence-complete ends),
+   M30 (no filler words open 0), M31 (book-verified forms) — is really one
+   rule: never trust a boundary you have not seen with your own measurements.
+3. CURATE WITH THE BOOK OPEN. A's core passage is whatever the book's
+   per-verse section cannot do without; B fills what A leaves. Read the book
+   section first, then cut. Doing it reversed (cut then check) produced every
+   re-cut in this log.
+4. MATCHER BEFORE VERDICTS. The keyword matcher (tools/b_match.py) proposes;
+   the human disposes. Its scores are garbage-in-order only — metric proposes,
+   reading verdicts. Never let it auto-assign.
+5. TTS VOICE BEFORE TTS NEED. Establish Fish + TTS_SAY spoken forms by
+   isolated probe + whisper round-trip BEFORE the first build that needs it.
+   Every proper noun gets probed; owner ear is final. TTS speaks ONLY
+   verbatim book lines, never composed text, never paraphrase.
+6. MANIFESTS ARE CODE. Every window lives in build/std_N_N.json; the builder
+   assembles from nothing else. Script ALL manifest mutations (assert counts
+   after), never hand-edit, re-read before touching (two corruptions in this
+   log came from blind in-place edits). Run tools/count + verify.sh after
+   every batch. New artifact = FILEMAP row the same day.
+7. QWEN PROTOCOL (what the model is actually for). Single passes are hints,
+   never evidence. The model is RIGHT about: mid-sentence cuts, dead heads,
+   wrong files, unclear antecedents, joints inventory. The model is WRONG
+   about: who is speaking (M33 hallucinated TTS in clean single-voice builds
+   6+ times), "dead air" (our room beds read as silence), taste ("draggy"
+   natural speech). Standing procedure: qa for texture, joints for seams;
+   corroborate every defect with transcript or energy measurement before any
+   rebuild; log every fix with cause. When the API is down, fall back to
+   structural verification (word timestamps + transcript), which catches
+   90% of defects anyway.
+8. WHAT BELONGS WHERE (the only taxonomy that survived contact):
+   - 0 = sutra + gloss, nothing else. If a filler word ("and", "so", "now")
+     opens it, the window is wrong, not the doctrine.
+   - A = sutra + gloss + the single passage without which the verse is
+     unrecognizable (~1 min). If you cannot name the core in one sentence,
+     you have not read the verse yet.
+   - B = A + his continuation (same lecture, deeper cut) + her clips nailed
+     1:1 to book hooks + book-verbatim TTS gold ONLY where no human voice
+     carries the point. Order inside B: him, then her, then the AI voice —
+     warmth descending, precision ascending.
+   - C = full walk (stories, guests, coda). D = loose ends, flagged, never
+     silently dropped.
+   - Cross-voice joints are doorways: room beds + fades, announced once,
+     never "fixed" further. Bells are for section heads, not seams.
+9. HOUSEKEEPING THAT IS LOAD-BEARING. Commit after every verse batch (we did
+   not — the tree is dirty and that is a live risk). audio/gen/ is regenerable
+   except masters; R2 mirrors every master; disk at 94% means clean
+   intermediates aggressively. New tool = FILEMAP row + MISTAKES entry when
+   it bites you.
+10. THE ONE RULE ABOVE ALL: the text is the boss. When book, lecture, and
+    transcript disagree, the sutra's own words win; when in doubt, cut less
+    and flag more. Every flag in this log that was "fixed" by deleting words
+    was a mistake corrected later; every flag fixed by moving a boundary was
+    progress.
+
+### §8l B-complete (2026-10-27) — all 77 verses have built 0 + A + B
+- 77 manifests, all B built via tools/build_standard_verse.py.
+  B composition: his-continuation (b-his, same file) + Baumer clips (uid,
+  word-verified, sentence-complete) + TTS gold (book-verbatim Fish lines,
+  probe-verified). Cross-voice joints = doorways (accepted RUBBED).
+- QA: ~15 new B proofs sampled with joints; M33 hallucination (fake TTS)
+  noted 8+ times on single-voice files; all RUBBED joints are cross-voice
+  doorways by design. No structural defects found in B builds.
+- B runtime: 77 files, 164.7 min total (~2 min/verse). 1.1 longest (316s
+  with TTS gold). A runtime: 77 min. 0 runtime: 30 min.
+- NEXT: TTS B1b line (all 77 Dyczkowski translations) + C layer + full
+  assembly + owner ears.
+
+### §8l B-complete (2026-10-27) — all 77 verses have built 0 + A + B
+- 77 manifests, all B built via tools/build_standard_verse.py.
+  B composition: his-continuation (b-his, same file) + Baumer clips (uid,
+  word-verified, sentence-complete) + TTS gold (book-verbatim Fish lines,
+  probe-verified). Cross-voice joints = doorways (accepted RUBBED).
+- QA: ~15 new B proofs sampled with joints; M33 hallucination (fake TTS)
+  noted 8+ times on single-voice files; all RUBBED joints are cross-voice
+  doorways by design. No structural defects found in B builds.
+- B runtime: 77 files, 164.7 min total (~2 min/verse). 1.1 longest (316s
+  with TTS gold). A runtime: 77 min. 0 runtime: 30 min.
+- NEXT: TTS B1b line (all 77 Dyczkowski translations) + C layer + full
+  assembly + owner ears.

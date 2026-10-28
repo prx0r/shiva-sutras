@@ -10,9 +10,10 @@ notes saying Track F/S mean Standard/Custom compilation.)
 ## Two compilations, in this order (do not blend them)
 
 **STANDARD COMPILATION (chant).** The text's own structure, untouched:
-all 77 sūtras in sūtra order, verse by verse, every verse the same four
-blocks (B1 chant → B2 readout → B3 explanation → B4 elaboration).
-No reordering, no selectivity, no argument imposed. Fidelity object first.
+all 77 sūtras in sūtra order, layered 0/A/B/C — 0 is statement + gloss
+only, nothing added; A/B/C add explanation depth, every verse present
+at every layer. No reordering, no selectivity, no argument imposed.
+Fidelity object first.
 
 **CUSTOM COMPILATION (spine).** Built AFTER the standard compilation,
 from its findings: the six questions, the A-layer argument, our
@@ -23,6 +24,18 @@ Law of the split: nothing composed for the custom compilation enters
 the standard one; nothing in the standard is cut to flatter the custom.
 The standard proves we heard the text; the custom proves we understood
 it.
+
+## Standard layers (canonical 2026-10-27 — Standard only, Custom untouched)
+
+**Trust order: Dyczkowski's text first.** His Aphorisms is the trusted
+wording; Lakshmanjoo's voice carries it. The book checks everything.
+**0 = three voicings, nothing else.** Per verse, in order: (1) Lakshmanjoo
+states the Sanskrit; (2) AI voice reads Dyczkowski's translation verbatim
+("Consciousness is the Self"); (3) Lakshmanjoo reads his English rendering.
+Then next verse. No explanation, no guests, no heads, no bells.
+**A = 0 + one compressed explanation passage per verse** (his words),
+~1 min/verse, whole of A ≈ 1 hour. B/C add depth; guests only in C.
+Coda (Sharma complete run) seals C once.
 
 ## The decode method (why standard first, custom second)
 Video 1 — the Standard Compilation — walks the text in the text's own structure, verse by verse, with

@@ -103,3 +103,13 @@ pronoun bound to transcript lines or flagged), repetition/order audits
 from the sheet itself (flow_lint). Reserve ears strictly for acoustic
 seam quality, drag feel, TTS naturalness, and confusion — everything
 else asserts in code or text before any listening happens.
+
+Dip-snapping finds syllables, not sutras: after placing chant windows
+on energy dips, verify WHICH sutra each window holds against the
+transcript (c4 landed on 1.12 for 1.11). Boundaries are acoustic;
+identity is textual — check both, every window, before assembly.
+
+Custom one-off listen prompts MUST carry the excerpt-edge rule and the
+no-verdict-without-corroboration rule — the presets in listen.py have
+them; inline improvisations dropped them and produced edge-artifact
+"findings" twice. The tool, not willpower, enforces the protocol.

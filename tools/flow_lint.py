@@ -49,7 +49,7 @@ def main():
     cur_v, cur_d, cur_a, cur_b = None, 0.0, 0, 0
     for c in cues:
         v = c["v"]
-        if v in ("", "—"):
+        if v in ("", "—") or c["f"] in ("(silence)", "(plain row)"):
             if cur_d > best[1]:
                 best = (cur_v, cur_d, cur_a, cur_b)
             cur_v, cur_d = None, 0.0
@@ -90,6 +90,8 @@ def main():
     for c in cues:
         locs[c["f"]].append((c["n"], c["t"]))
     for f, ll in sorted(locs.items()):
+        if f in ("(silence)", "(plain row)"):
+            continue  # structural by design, not repetition
         if len(ll) > 1:
             gaps = [f"{(b[1]-a[1])/60:.1f}m" for a, b in zip(ll, ll[1:])]
             print(f"  {f}: {len(ll)}x at cues {[x[0] for x in ll]} (gaps {', '.join(gaps)})")

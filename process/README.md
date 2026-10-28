@@ -65,3 +65,9 @@ read before touching tools), `REPRODUCE.md` (exact rerun), `FILES.md`
   are views. The standard compilation holds 100% of the text's order.
 - Flow is read, not assumed: essay-0 read aloud, every join verdicted,
   every B-row hold-up tested, ears sign off before anything ships.
+
+## Standard Compilation track (separate; Custom untouched)
+The Standard has its own complete manual, independent of stages 00-10:
+`process/STANDARD.md` (build law + full pipeline) and
+`process/STANDARD-PORTING.md` (text-independent engine + per-text config,
+with a worked Yoga Sutras port). Start new texts there.

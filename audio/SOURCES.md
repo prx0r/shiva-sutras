@@ -31,8 +31,20 @@ podcast where it fits**.
 - `l0_essay0.wav/.mp3` — L0 prototype 3:15, built 2026-10-26 by `tools/make_l0.py`: Q(espeak) → breath → Sharma chant → T+P(espeak) → Baumer cell, ×6, bell-headed, loudnormed. **Placeholder voices**: espeak (edge-tts egress-blocked, Fish key outstanding) + proportional Sharma splits (ear-check). Swap engines, rerun.
 - `l0_cuts/` — per-cell intermediates.
 
-## TTS position (2026-10-26)
-edge-tts 403-blocked from this box; Fish needs owner key; espeak proves assembly only. Osho-English-over-Hindi waits on the same key decision.
+## TTS position (2026-10-26, updated same day)
+Fish s2.1-pro-free default voice is live for all TTS (owner-supplied key, env-only). espeak retired to fallback-only. TTS_SAY map covers spoken-form fixes (Bhairava verified by isolated probe).
 
 ## Already in `audio/` root (the Baumer + dl1 corpus)
 14 mp3s (~1.4G): 13 Baumer sessions + `Shiva_Sutra_Introduction.mp3` (dl1). See MANIFEST.json for id→session map.
+
+## R2 packs (keys in ~/figgsite/.env, never in repo)
+- `longform-audio/shiva-sutras/essence_v1.mp3` (3.2 MB) — the essence master, HEAD-verified on upload.
+- `longform-audio/shiva-sutras/osho-hindi-10-talks.zip` (327 MB) — all 10 Osho Hindi discourses, HEAD-verified on upload.
+
+## Third-party study set (verified 2026-10-26, other session's upload)
+- `powpowpow-warehouse/shiva-sutras-study-set.zip` (447,966,762 bytes, exact) — archive as-is.
+- `powpowpow-warehouse/shiva-sutras-study-set/` — 79 files extracted, 464,519,969 bytes total (uncompressed > zip, as expected).
+
+## Lakshmanjoo study set (imported 2026-10-26, lives OUTSIDE repo)
+- Local: `/home/ubuntu/shiva-study-set/` — 79 per-verse files ("Shiva Sutras 1.1.mp3" …), 464,519,969 bytes, byte-identical to R2 (`powpowpow-warehouse/shiva-sutras-study-set/`). Verified voice: Lakshmanjoo himself lecturing in English, states each Sanskrit sutra (spot-check 1.1: Nara-Ishvara-bheda refutation → "the sutra is Chaitanya Mahatma"). The missing second archive voice WITH sutra voicing — candidate for B1 Sanskrit + B3 explanation upgrades (rights: Academy material, attribute; check license before shipping cuts).
+- Disk note: box at 94% — this set + audio/ = ~2.4 GB local. Do not duplicate into the repo.

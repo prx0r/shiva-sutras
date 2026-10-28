@@ -21,6 +21,15 @@ def dur(p):
                        capture_output=True, text=True)
     return float(r.stdout.strip())
 
+def maxvol(p):
+    # M25: duration gates passed a silent master. Every cue file must
+    # contain actual signal: max volume above -45 dBFS.
+    r = subprocess.run(["ffmpeg", "-nostats", "-v", "info", "-i", p,
+                        "-af", "volumedetect", "-f", "null", "-"],
+                       capture_output=True, text=True)
+    m = re.search(r"max_volume: ([\-\d.]+) dB", r.stderr)
+    return float(m.group(1)) if m else -999.0
+
 def main():
     sheet = sys.argv[1]
     cuts = sys.argv[2] if len(sys.argv) > 2 else "audio/gen/l0_cuts"
@@ -31,8 +40,8 @@ def main():
         print("FAIL: no cue rows parsed"); sys.exit(1)
     events = []
     for n, t, d, f, v, note in rows:
-        if f == "(silence)":
-            continue  # handled by sil parse (durations live there)
+        if f in ("(silence)", "(plain row)"):
+            continue  # text-only rows: silence beds (durations live in sil parse), unspoken plains (manifest/on-screen only)
         events.append((int(n), float(t), f, v.strip(), note.strip()))
     for n, t, d in sil:
         events.append((int(n), float(t), None, "", "silence"))
@@ -66,8 +75,21 @@ def main():
     print(f"cues: {len(events)} · runtime: {t_expect:.1f}s · FLAGs open: {len(flags)}")
     for f in flags:
         print(f"  OPEN {f.strip()}")
+    # audibility: every non-silence cue must carry signal (M25)
+    _PADS = {"gap.wav", "water.wav", "breath.wav",
+             "breath3.wav", "tbeat.wav", "xl5.wav", "xl6.wav"}
+    for n, t, f, v, note in sorted(events):
+        if f is None or f in _PADS:
+            continue
+        pth = f if os.path.isabs(f) else os.path.join(cuts, f)
+        if not os.path.exists(pth):
+            continue  # already failed above
+        mv = maxvol(pth)
+        if mv < -45.0:
+            print(f"FAIL cue {n}: {f} is SILENT (max {mv:.1f} dB) — M25")
+            fail = 1
     if fail:
-        print("SHEET NOT READY — fix and re-run")
+        print("SHEET NOT READY — fix and re-render")
         sys.exit(1)
     print("SHEET READY ✓ (render is final-final — separate gate, owner ears)")
 

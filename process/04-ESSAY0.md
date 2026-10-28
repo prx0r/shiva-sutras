@@ -7,7 +7,7 @@ pick: cutting audit (thread present across sessions?), completion test
 the strongest cold-listener objection and meet it in the cell or flag
 it for B-depth). Keep alternates (they're cheap, re-picks are not).
 
-## The stack (`build/ESSAY0_OUTPUT.md` — corrected format, M3)
+## The stack (`custom/ESSAY0_OUTPUT.md` — corrected format, M3)
 Per cell, in fixed order: **Q** (2 breaths) → **SANSKRIT** (text's own
 answer, held form, line-ref) → **TRANSLATION** (existing exact rendering:
 lecturer > critical > gloss, never composed) → **PLAIN** (mechanical key
@@ -22,10 +22,10 @@ sign-off). Regenerate + rehash at key sign-off (`plain_filter.py`),
 never hand-edit. Sanskrit restoration (diacritics) happens ONLY at the
 print-verify step against a print source, then card rows freeze.
 
-## Flow test (`build/ESSAY0_FLOW_READ.md` — read aloud, the gate artifact)
+## Flow test (`custom/ESSAY0_FLOW_READ.md` — read aloud, the gate artifact)
 Read straight through, no analysis. Then record honestly: does each
 answer plant the next question? Is there one hidden argument underneath?
 Name the weakest join — it gets stress-tested first in the audio
-flow-read. Lock stays DRAFT (`build/essay0_lock.json`): no audio
+flow-read. Lock stays DRAFT (`custom/essay0/essay0_lock.json`): no audio
 rendered, owner ear pending. G12-equivalent per cell: unit A ✓ · window
 in gold ✓ · ≤25s ✓ · completes question ✓ · verified ✓ · ear PENDING.

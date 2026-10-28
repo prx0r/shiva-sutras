@@ -14,7 +14,7 @@ def fold(s):
     return s.replace("h", "")
 
 
-tpl = {t["verse"]: t for t in json.load(open(BASE + "/build/template_77.json"))}
+tpl = {t["verse"]: t for t in json.load(open(BASE + "/standard/template_77.json"))}
 keys = {}
 # M32-isolated: exact forms all share exposition headers (sivasutra, unmesa,
 # prathama/dvitiya/trtiya) — these match EVERY file's own statement and

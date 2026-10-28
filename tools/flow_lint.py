@@ -15,7 +15,7 @@ Checks:
  8. DENSITY — words-per-minute per spoken cue (espeak/mp3: estimated from
     filename only when .txt sidecars exist; skipped otherwise).
 
-Usage: python3 tools/flow_lint.py build/TRACK_F_PRODUCTION.md
+Usage: python3 tools/flow_lint.py custom/TRACK_F_PRODUCTION.md
 Exit 0 = lint clean (warnings listed, never failed — ears decide).
 """
 import re, subprocess, sys, os
@@ -33,7 +33,7 @@ PRON = re.compile(r"\b(he|she|it|they|them|his|her|its|their|this|that|these|tho
 
 def main():
     sheet = sys.argv[1]
-    cuts = sys.argv[2] if len(sys.argv) > 2 else "audio/gen/l0_cuts"
+    cuts = sys.argv[2] if len(sys.argv) > 2 else "audio/gen/custom/l0_cuts"
     txt = open(sheet).read()
     rows = re.findall(r"^\|\s*(\d+)\s*\|\s*([\d.]+)\s*\|\s*([\d.\-—]+)\s*\|\s*`([^`]+)`\s*\|\s*([^|]*)\|\s*([^|]*)\|", txt, re.M)
     cues = []

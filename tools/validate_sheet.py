@@ -10,7 +10,7 @@ Checks:
  4. Required sections present: handover audit + FX/pause vocabulary.
  5. Reports FLAGs (ear-session decisions) — listed, never failed.
 
-Usage: python3 tools/validate_sheet.py build/TRACK_F_PRODUCTION.md [cuts_dir]
+Usage: python3 tools/validate_sheet.py custom/TRACK_F_PRODUCTION.md [cuts_dir]
 Exit 0 = sheet is production-ready. Render is final-final and out of scope.
 """
 import os, re, subprocess, sys
@@ -32,7 +32,7 @@ def maxvol(p):
 
 def main():
     sheet = sys.argv[1]
-    cuts = sys.argv[2] if len(sys.argv) > 2 else "audio/gen/l0_cuts"
+    cuts = sys.argv[2] if len(sys.argv) > 2 else "audio/gen/custom/l0_cuts"
     txt = open(sheet).read()
     rows = re.findall(r"^\|\s*(\d+)\s*\|\s*([\d.]+)\s*\|\s*([\d.\-—]+)\s*\|\s*`([^`]+)`\s*\|\s*([^|]*)\|\s*([^|]*)\|", txt, re.M)
     sil = re.findall(r"^\|\s*(\d+)\s*\|\s*([\d.]+)\s*\|\s*([\d.]+)\s*\|\s*`\(silence\)`\s*\|", txt, re.M)

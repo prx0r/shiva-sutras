@@ -5,7 +5,7 @@ so every --apply moves the edges again (45 changed, then 18 more, never zero).
 Use tools/recut_sentence.py instead (anchors to immutable unit windows +
 transcript sentences, then measures; re-run converges to zero changes).
 Kept so the failure mode stays visible; running it will silently drift every
-cut in build/manifest_s*_A.json."""
+cut in custom/manifests/manifest_s*_A.json."""
 
 """M40 implementation: set A-clip edges from MEASURED word times, never interpolated
 transcript stamps. Per beat: whisper-transcribe source around the window with word
@@ -68,7 +68,7 @@ def main():
     model = WhisperModel("base", device="cpu", compute_type="int8")
     units = parse_units()
     changed, flags, same = 0, [], 0
-    for f in sorted(glob.glob(BASE + "/build/manifest_s*_A.json")):
+    for f in sorted(glob.glob(BASE + "/custom/manifests/manifest_s*_A.json")):
         d = json.load(open(f))
         dirty = False
         for b in d["beats"]:

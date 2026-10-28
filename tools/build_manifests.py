@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build per-section A/B manifests with tight cut stamps (quote-located, not window edges).
 
-Usage: python3 tools/build_manifests.py        (writes build/manifest_sN_{A,B}.json)
+Usage: python3 tools/build_manifests.py        (writes custom/manifests/manifest_sN_{A,B}.json)
 Order law: SECTION_ARGUMENTS order is canonical for its 71 A-clips (join-audited);
 units missing from it (pass-1 A's) insert by (session, timestamp); B-keeps merge
 by the same key. Asserts: every unit's grade/section matches SPINE_ASSIGN,
@@ -120,7 +120,7 @@ def sesskey(sess, tin):
 
 def sa_order():
     """SECTION_ARGUMENTS uid order per section (join-audited canonical)."""
-    txt = open('build/SECTION_ARGUMENTS.md', encoding='utf-8').read()
+    txt = open('custom/SECTION_ARGUMENTS.md', encoding='utf-8').read()
     secs = {}
     cur = None
     for line in txt.splitlines():
@@ -136,7 +136,7 @@ CELLS = {'ss3-10':1,'ss4-15':2,'ss12-16':3,'ss7-06':4,'ss11-05':5,'ss13-09':6}
 
 def main():
     units = parse_units(); assign = parse_assign(); sa = sa_order()
-    V = json.load(open('build/holdup_verdicts.json'))['verdicts']
+    V = json.load(open('custom/holdup_verdicts.json'))['verdicts']
     keeps = {u for u,v in V.items() if v == 'KEEP-B'}
     # grades/sections sanity vs TSV
     for u,d in units.items():
@@ -245,13 +245,13 @@ def main():
     for sec in range(1,7):
         for layer in ('A','B','C'):
             m = build(sec, layer)
-            p = f"build/manifest_s{sec}_{layer}.json"
+            p = f"custom/manifests/manifest_s{sec}_{layer}.json"
             json.dump(m, open(p,'w'), indent=1, ensure_ascii=False)
             out[f'S{sec}{layer}'] = (m['clip_count'], m['window_runtime'])
     print(f"{'':6} {'clips':>6} {'window-rt':>10}")
     for layer in ('A','B','C'):
-        ta = sum(json.load(open(f'build/manifest_s{s}_{layer}.json'))['window_seconds'] for s in range(1,7))
-        n = sum(json.load(open(f'build/manifest_s{s}_{layer}.json'))['clip_count'] for s in range(1,7))
+        ta = sum(json.load(open(f'custom/manifests/manifest_s{s}_{layer}.json'))['window_seconds'] for s in range(1,7))
+        n = sum(json.load(open(f'custom/manifests/manifest_s{s}_{layer}.json'))['clip_count'] for s in range(1,7))
         print(f"LAYER {layer}: {n} clips, {ta/60:.1f}m windows")
     for sec in range(1,7):
         a = out[f'S{sec}A']; b = out[f'S{sec}B']; c = out[f'S{sec}C']

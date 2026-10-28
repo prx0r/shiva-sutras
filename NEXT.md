@@ -12,9 +12,9 @@ bridges, 2 soft spots · pushed to github.com/prx0r/shiva-sutras (main).
 Read first: README → PROCESS_NOTES (esp. §8m session log + §8l FROM SCRATCH) → MISTAKES (M1–M38).
 
 ## A. OWNER-BLOCKED (cannot be done by an agent — request and wait)
-1. **HEAD ear-pass** — listen `build/essay0_lock.json`'s stack via a cut mp3; if yes →
+1. **HEAD ear-pass** — listen `custom/essay0/essay0_lock.json`'s stack via a cut mp3; if yes →
    set status LOCKED. Until then nothing freezes.
-2. **Key sign-off** — `build/key_ss1_proposal.json` (currently 1 entry, plain rows are
+2. **Key sign-off** — `custom/essay0/key_ss1_proposal.json` (currently 1 entry, plain rows are
    honest no-ops). Propose section keys first (B7) for an informed decision.
 3. **Coverage-standard decision** (PROCESS §8e-1): (a) span-ledger à la vatula,
    (b) full line-coverage à la dyczkowski, or (c) build-time ingestion. Agent may

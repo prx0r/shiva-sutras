@@ -1,6 +1,6 @@
 # 06 — AUDIT. Prove nesting holds, then sweep B at lock.
 
-## UNFOLDING (`build/UNFOLDING_AUDIT.md` — run 1 vs DRAFT, run 2 vs LOCK)
+## UNFOLDING (`custom/UNFOLDING_AUDIT.md` — run 1 vs DRAFT, run 2 vs LOCK)
 For each section, judge every grade-A clip against the locked-shape seed:
 **E** expands the seed-sentence · **Q** expands the section-question
 (legitimate space, seed stays anchor) · **B** bridge/frame (minimal,
@@ -10,8 +10,8 @@ fails. Watch-list (loosest links, Q-clusters, demote-levers) carries to
 collate + audio; none are mandatory pre-lock. Re-run at LOCK — cells may
 sharpen at ear/key, and verdicts are provisional until then.
 
-## HOLDUP sweep (`build/HOLDUP_SHEET.md`, `build/B_SWEEP.md`,
-`build/holdup_verdicts.json` — RUN at lock, provisional before)
+## HOLDUP sweep (`custom/HOLDUP_SHEET.md`, `custom/B_SWEEP.md`,
+`custom/holdup_verdicts.json` — RUN at lock, provisional before)
 The B-membership instrument: every B-row answers ONE question against
 the locked seed — does this clip DEEPEN the seed's answer beyond what A
 gives? → **KEEP-B** (plays at depth, one-line reason recorded) /

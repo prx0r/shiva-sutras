@@ -10,11 +10,11 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
 1. `PROCESS_NOTES.md` — full session history (§0 inputs → §8g handover state).
 2. `MISTAKES.md` — everything wrong, with cause+fix+rule (read BEFORE touching tools).
 3. `excavations/SPINE.md` — the six sections-as-questions, gospel law, fit-check, build rules.
-4. `build/ESSAY0_OUTPUT.md` — essay-0 + six spine cells (four-layer, verified).
-5. `build/ESSAY0_FLOW_READ.md` — the spoken pass (read aloud before any build).
-6. `build/SECTION_ARGUMENTS.md` — Essay A as text: all 71 A-clips in order per section
+4. `custom/ESSAY0_OUTPUT.md` — essay-0 + six spine cells (four-layer, verified).
+5. `custom/ESSAY0_FLOW_READ.md` — the spoken pass (read aloud before any build).
+6. `custom/SECTION_ARGUMENTS.md` — Essay A as text: all 71 A-clips in order per section
    with flow verdicts (read for argument coherence).
-7. `build/JOIN_AUDIT.md` — line-by-line join audit: all 65 adjacent pairs verdicted
+7. `custom/JOIN_AUDIT.md` — line-by-line join audit: all 65 adjacent pairs verdicted
    (55 OK / 9 SOFT / 0 WEAK), quote-integrity 71/0, cross-section joints.
 8. `excavations/COVERAGE.md` + `tools/coverage_measure.py` — coverage truth + the
    pass-1 ledger state (ledger = `excavations/COVERAGE_LEDGER.tsv`, 678 rows).
@@ -45,11 +45,11 @@ finish the text* — questions → pause → four-layer cell → her/his voice.
 ```
 excavations/   ss1..ss13 + dl1 unit files · SPINE.md · SPINE_PREVIEW (superseded) ·
                CATALOGUE.md · SPINE_ASSIGN.tsv
-build/         ESSAY0_OUTPUT.md · ESSAY0_FLOW_READ.md · SECTION_ARGUMENTS.md ·
-               JOIN_AUDIT.md · essay0_lock.json (DRAFT) ·
-               plain_essay0.json + key_ss1_proposal.json (PROPOSAL) · filters ·
-               std_*.json (77 Standard manifests) · template_77.json ·
-               QA_SWEEP_2026-10-28.json · TRACK_F_PRODUCTION.md (SHEET READY)
+standard/      manifests/ (77 std_*.json) · template_77.json · TRACK_F_STORYBOARD.md ·
+               QA_SWEEP_2026-10-28.json · BOOK_COVERAGE_* (book-vs-Standard verdicts)
+custom/        essay0/ (OUTPUT · FLOW_READ · lock.json DRAFT · key/plain PROPOSAL) ·
+               manifests/ (18 manifest_s*) · SECTION_ARGUMENTS · JOIN/HOLDUP/UNFOLDING
+               audits · BEATS · SPEAKERS · LA/TRACK_F production sheets
 reference/     aphorisms-of-siva (GITIGNORED — never commit, copyright) ·
                gretil_sivasutra.json (vendored exact-Sanskrit forms)
 audio/         mp3s (GITIGNORED — local only)     text/  stamped transcripts (14 + 79 lak)

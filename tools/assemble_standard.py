@@ -16,7 +16,7 @@ layer = sys.argv[1] if len(sys.argv) > 1 else "B"
 ch = sys.argv[2] if len(sys.argv) > 2 else "all"
 assert layer in ("0", "A", "B", "C"), layer
 
-tpl = json.load(open(BASE + "/build/template_77.json"))
+tpl = json.load(open(BASE + "/standard/template_77.json"))
 verses = [t["verse"] for t in tpl]
 if ch != "all":
     verses = [v for v in verses if v.split(".")[0] == ch]

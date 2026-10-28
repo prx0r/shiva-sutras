@@ -37,7 +37,7 @@ podcast where it fits**.
 
 ## `audio/gen/` — build outputs (regenerable, gitignored)
 - `l0_essay0.wav/.mp3` — L0 prototype 3:15, built 2026-10-26 by `tools/make_l0.py`: Q(espeak) → breath → Sharma chant → T+P(espeak) → Baumer cell, ×6, bell-headed, loudnormed. **Placeholder voices**: espeak (edge-tts egress-blocked, Fish key outstanding) + proportional Sharma splits (ear-check). Swap engines, rerun.
-- `l0_cuts/` — per-cell intermediates.
+- `audio/gen/custom/l0_cuts/` — per-cell intermediates.
 
 ## TTS position (2026-10-26, updated same day)
 Fish s2.1-pro-free default voice is live for all TTS (owner-supplied key, env-only). espeak retired to fallback-only. TTS_SAY map covers spoken-form fixes (Bhairava verified by isolated probe).

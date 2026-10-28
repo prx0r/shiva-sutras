@@ -9,14 +9,14 @@ Baumer windows from ESSAY0_OUTPUT,
 and the sheet's timecodes are measured from the actual intermediates.
 Re-run regenerates audio AND sheet together (never edit one without the other).
 
-Cuts live in audio/gen/l0_cuts/ (all WAV — never concat heterogeneous
+Cuts live in audio/gen/custom/l0_cuts/ (all WAV — never concat heterogeneous
 containers: espeak-derived mp3s drop silently). Master: essence_v1.wav/mp3.
-Sheet: build/TRACK_F_PRODUCTION.md.
+Sheet: custom/TRACK_F_PRODUCTION.md.
 """
 import os, subprocess, sys
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CUTS = os.path.join(BASE, "audio", "gen", "l0_cuts")
+CUTS = os.path.join(BASE, "audio", "gen", "custom", "l0_cuts")
 os.makedirs(CUTS, exist_ok=True)
 
 def sh(cmd):
@@ -259,9 +259,9 @@ def main():
     open(f"{CUTS}/essence.txt", "w").write("".join(f"file '{f}'\n" for f in seq))
     sh(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0",
         "-i", f"{CUTS}/essence.txt", "-af", "loudnorm=I=-16:TP=-1.5:LRA=11",
-        f"{BASE}/audio/gen/essence_v1.wav"])
-    sh(["ffmpeg", "-v", "error", "-y", "-i", f"{BASE}/audio/gen/essence_v1.wav",
-        "-codec:a", "libmp3lame", "-q:a", "2", f"{BASE}/audio/gen/essence_v1.mp3"])
+        f"{BASE}/audio/gen/custom/essence_v1.wav"])
+    sh(["ffmpeg", "-v", "error", "-y", "-i", f"{BASE}/audio/gen/custom/essence_v1.wav",
+        "-codec:a", "libmp3lame", "-q:a", "2", f"{BASE}/audio/gen/custom/essence_v1.mp3"])
 
     # production sheet with MEASURED timecodes (mirrors seq exactly)
     L = []
@@ -320,9 +320,9 @@ def main():
         "- XL terminal 6s (tail). zoom-bell 220Hz/6.0s: NOT in essence cut (single layer).",
     ]:
         L.append(line)
-    open(f"{BASE}/build/TRACK_F_PRODUCTION.md", "w").write("\n".join(L) + "\n")
+    open(f"{BASE}/custom/TRACK_F_PRODUCTION.md", "w").write("\n".join(L) + "\n")
 
-    master = dur(f"{BASE}/audio/gen/essence_v1.mp3")
+    master = dur(f"{BASE}/audio/gen/custom/essence_v1.mp3")
     print(f"essence: {n} cues, sheet {t:.0f}s, master {master:.1f}s", flush=True)
     assert abs(t - master) < 1.0, f"SHEET/MASTER DIVERGED: {t:.1f} vs {master:.1f}"
     print("SHEET == MASTER ✓", flush=True)

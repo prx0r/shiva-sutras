@@ -5,7 +5,7 @@ makes the hearing repeatable: a fixed question series where every answer
 must cite evidence (cue numbers, timecodes, quoted words). An answer
 without a citation is an opinion and doesn't count. Run after
 `validate_sheet.py` passes, before any ear session. Record findings in
-`build/FLOW_REVIEW_<cut>.md`.
+`custom/FLOW_REVIEW_<cut>.md`.
 
 ## The question series (all ten, every review)
 1. **Completion test, per beat.** Does the voice complete the question as

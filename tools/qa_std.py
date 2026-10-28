@@ -12,7 +12,7 @@ Per verse, per piece, asserts the fix classes from the session log:
   F6 schema: b1_status in enum, roles non-empty, TTS pieces have real files
      (M28: verify-preset confabulation on partials — structural only here)
 Usage: python3 tools/qa_std.py [verse ...]  (default: all 77)
-Output: build/QA_SWEEP_<date>.json + summary lines. FAIL = rebuild, FLAG =
+Output: standard/QA_SWEEP_<date>.json + summary lines. FAIL = rebuild, FLAG =
 human verdict at the ear session. Transcript-backed only; ears decide the rest.
 """
 import json, glob, os, re, subprocess, sys, datetime
@@ -183,11 +183,11 @@ def check_verse(v, man, units):
 def main():
     units = parse_units()
     want = sys.argv[1:] or [t["verse"] for t in
-                             json.load(open(BASE + "/build/template_77.json"))]
+                             json.load(open(BASE + "/standard/template_77.json"))]
     report = {}
     nf = ng = 0
     for v in want:
-        f = BASE + "/build/std_%s.json" % v.replace(".", "_")
+        f = BASE + "/standard/manifests/std_%s.json" % v.replace(".", "_")
         if not os.path.exists(f):
             report[v] = {"fails": ["F6 manifest missing"], "flags": []}
             nf += 1
@@ -202,7 +202,7 @@ def main():
             for x in fails + flags:
                 print("   ", x[:160])
     day = datetime.date.today().isoformat()
-    out = BASE + "/build/QA_SWEEP_%s.json" % day
+    out = BASE + "/standard/QA_SWEEP_%s.json" % day
     json.dump(report, open(out, "w"), ensure_ascii=False, indent=1)
     print("verses=%d with-fails=%d with-flags=%d -> %s" % (len(want), nf, ng, out))
 

@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Deterministic TEXT -> PLAIN filter (port of vatulanatha build/fish_filter_vatula.py).
 Same algorithm, this project's key. Edit the KEY, never the output (07 ownership rule).
-Usage: python3 tools/plain_filter.py            # writes build/plain_essay0.json + hash
+Usage: python3 tools/plain_filter.py            # writes custom/essay0/plain_essay0.json + hash
        python3 tools/plain_filter.py --check    # rerun + verify hash
 """
 import json, re, hashlib, sys, os
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-KEY = json.load(open(f"{D}/build/key_ss1_proposal.json"))
-LOAN = set(json.load(open(f"{D}/build/loanwords_ss1.json")))
+KEY = json.load(open(f"{D}/custom/essay0/key_ss1_proposal.json"))
+LOAN = set(json.load(open(f"{D}/custom/essay0/loanwords_ss1.json")))
 
 def apply_dict(text):
     out = text
@@ -36,14 +36,14 @@ def plain_of(text):
 if __name__ == '__main__':
     import glob
     out = {}
-    for p in sorted(glob.glob(f"{D}/build/t_*.txt")):
+    for p in sorted(glob.glob(f"{D}/custom/essay0/t_*.txt")):
         t = open(p).read().strip()
         out[os.path.basename(p)] = {"text": t, "plain": plain_of(t)}
     h = hashlib.sha256(json.dumps(out, sort_keys=True).encode()).hexdigest()[:16]
-    man = {"inputs": sorted(os.path.basename(p) for p in glob.glob(f"{D}/build/t_*.txt")),
+    man = {"inputs": sorted(os.path.basename(p) for p in glob.glob(f"{D}/custom/essay0/t_*.txt")),
            "outputs": out, "hash": h}
     if '--check' in sys.argv:
-        old = json.load(open(f"{D}/build/plain_essay0.json"))
+        old = json.load(open(f"{D}/custom/essay0/plain_essay0.json"))
         print('MATCH' if old['hash'] == h else 'MISMATCH'); sys.exit(0 if old['hash'] == h else 1)
-    json.dump(man, open(f"{D}/build/plain_essay0.json", 'w'), indent=1, ensure_ascii=False)
+    json.dump(man, open(f"{D}/custom/essay0/plain_essay0.json", 'w'), indent=1, ensure_ascii=False)
     print(f'wrote plain_essay0.json hash={h}')

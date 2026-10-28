@@ -30,7 +30,7 @@ STOP = set(("the and his with from that this which have will what when "
 "does done made makes make many much more most very can cannot could "
 "would should may might must will shall").split())
 
-tpl = {t["verse"]: t for t in json.load(open(BASE + "/build/template_77.json"))}
+tpl = {t["verse"]: t for t in json.load(open(BASE + "/standard/template_77.json"))}
 
 units = []
 for f in sorted(glob.glob(BASE + "/excavations/ss*.md") + [BASE + "/excavations/dl1.md"]):
@@ -64,7 +64,7 @@ def candidates(v, top=8):
     anchor = " ".join([t.get("translation", ""), t.get("book_sanskrit", "")])
     doc = t.get("body", "")[:6000] + " " + anchor
     atext = ""
-    mp = BASE + "/build/std_" + v.replace(".", "_") + ".json"
+    mp = BASE + "/standard/manifests/std_" + v.replace(".", "_") + ".json"
     segs = []
     sp = BASE + "/transcripts/lak_" + v.replace(".", "_") + ".segments.json"
     if os.path.exists(sp):

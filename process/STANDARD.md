@@ -27,6 +27,19 @@ root doc, fix this file the same day.
   (4) Lakshmanjoo book = what each verse's explanation must cover;
   (5) his lectures = the voice. Disputes resolve upward (text wins).
 
+## 0b. The goal (owner doctrine, 2026-10-28 — the sentence that governs everything below)
+
+Get Dyczkowski's sharp points across: the Aphorisms is the template, our lecture
+audio is the main bulk. Every book-gold point is VOICED in Standard by a human
+(Lakshmanjoo, Baumer, Hareesh) or — where no human carries it — by Fish TTS
+reading Dyczkowski verbatim (B1b 77/77 is the precedent). TTS speaks book lines
+only, never composed; TTS_SAY probe discipline per line. Long exposition that is
+reference rather than listening goes on the card (no audio), never through TTS.
+Thin stays thin — the doctrine voices gold, never pads. Completion: every
+non-APPARATUS verdict point resolves to COVERED-by-human, COVERED-by-TTS, or
+card note (ledger: `standard/BOOK_COVERAGE_VERDICTS.md`). Human/TTS ratios reported
+honestly per chapter; human clips are never padded to protect the bulk story.
+
 ## 1. Inputs & provenance
 
 | input | location | rule |
@@ -34,7 +47,7 @@ root doc, fix this file the same day.
 | Lakshmanjoo per-verse mp3s (79 files, ~16h) | `/home/ubuntu/shiva-study-set/` (OUTSIDE repo, never copy in) | read-only masters; never edit, never commit |
 | Sharma complete chant (26:35) | `audio/chant/sharma_siva_sutras_2009.mp3` (+ whisper locate txt/json) | B1 fallback + coda source |
 | Dyczkowski Aphorisms (held) | `reference/` (gitignored, copyright) | quote line-refs only, never the text |
-| Lakshmanjoo book (Supreme Awakening) | `/tmp/opencode/lakshmanjoo_book.txt` (extracted) + `build/template_77.json` | A-selection guide, his English reference |
+| Lakshmanjoo book (Supreme Awakening) | `/tmp/opencode/lakshmanjoo_book.txt` (extracted) + `standard/template_77.json` | A-selection guide, his English reference |
 | GRETIL Kaul Sanskrit | patalacheckpoints corpus `sivasutra.txt` | exact Sanskrit forms |
 | CF whisper (large) | `tools/cf_transcribe.py` (creds env-only) | garbled-head re-pass only |
 
@@ -49,7 +62,7 @@ is reliable enough for finding, never for publishing.
 
 ## 3. Stage 2 — Template (the cornerstone)
 
-`build/template_77.json`: one entry per verse — Academy key, GRETIL exact
+`standard/template_77.json`: one entry per verse — Academy key, GRETIL exact
 Sanskrit (`sanskrit_exact`), Dyczkowski translation + book line-refs,
 Lakshmanjoo's English (`lakshmanjoo_T`), book page, exposition body.
 Built by `tools/build_template.py` + `tools/fix_template_l3.py`.
@@ -73,7 +86,7 @@ speech onsets; M30: no filler words — and/so/now belong to the previous
 thought, never open 0); (4) extend B2 to the sentence end.
 Fallbacks, in order: his voicing (default) → Cloudflare large-model
 re-pass for garbled heads → Sharma exact slice, word-verified (mark
-`b1_status: sharma`). Record every window in `build/std_N_N.json`
+`b1_status: sharma`). Record every window in `standard/manifests/std_N_N.json`
 (`src`, `room_t` from a measured pause ≥1.2s in the SAME file, `b1_status`).
 `b1_status` is a CLOSED enum, asserted by the builder (M36): `his-verified`
 (his statement, word-verified onset + book/GRETIL form) · `his-prov`
@@ -104,7 +117,7 @@ diff 0.00); full-walk assembly only after every verse passes QA.
 
 ## 6. Stage 5 — Build
 
-`python3 tools/build_standard_verse.py build/std_X_Y.json` → per-layer
+`python3 tools/build_standard_verse.py standard/manifests/std_X_Y.json` → per-layer
 wav+mp3 in `audio/gen/std/`. Engine rules (violations fail the build):
 span-hashed cut names (never bare indices, M24); explicit afade bounds
 (st=, M25-silence lesson); per-piece level norm (gain = min(-21-mean,

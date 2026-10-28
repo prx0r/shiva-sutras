@@ -88,7 +88,7 @@ add("3.36", ["3.36"])
 for n in range(37, 46):
     add("3.%d" % n, ["3.%d" % (n + 1)])
 print(collections.Counter(t["verse"].split(".")[0] for t in tpl), len(tpl))
-json.dump(tpl, open(BASE + "/build/template_77.json", "w"),
+json.dump(tpl, open(BASE + "/standard/template_77.json", "w"),
           ensure_ascii=False, indent=1)
 print("saved")
 for t in tpl[15:18]:

@@ -784,3 +784,18 @@ Then worked TODO.md top-down, committing + pushing per item:
 8. **Docs synced.** TODO 10-item rewrite, NEXT Standard-frontier, README state,
    FILEMAP rows for all new artifacts, this §8m entry.
 Remaining: C layer → assembly → ears (TODO #4–6); owner message (TODO #10).
+
+### §8n OWNER DOCTRINE (2026-10-28) — transcribe freeze + voiced-gold coverage
+- Retranscription killed by owner: `text/` + `transcripts/` are frozen finding aids,
+  never the verification path; garble zones verify by ear vs book/GRETIL. VERDICTS
+  Action List item 1 struck and replaced; UNVERIFIED = ear task. (Pushed history not
+  rewritten: the 51188f4 message over-claim — "retranscribe garbled lak files" with
+  zero retranscribed files in the stat — stands corrected here, not in the log.)
+- Coverage doctrine (book side, decided): every Aphorisms gold point VOICED in
+  Standard by a human (Lakshmanjoo, Baumer, Hareesh) or TTS reading Dyczkowski
+  verbatim where no human carries it. B1b (77/77 Fish lines) is the precedent;
+  TTS_SAY probe discipline per line, verbatim-only. Completion rule for the VERDICTS
+  B-expand queue: each point ends COVERED-by-human or COVERED-by-TTS; APPARATUS and
+  thin-accept stand as declared. Thin stays thin — the doctrine voices gold, never pads.
+- Scope note: this decides BOOK coverage in Standard. Baumer-walk standard (§8e-1:
+  ledger vs line-pass vs build-time) stays open.

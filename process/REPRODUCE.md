@@ -12,7 +12,7 @@ gap, text pipeline unaffected) + `text/` + `transcripts/`/`cf/`.
 3. Converge: `python3 tools/s2_cluster.py` (REPORT ONLY — never
    `--apply` post-pass-1) → check totals reconcile. Override list lives
    in the tool. `python3 tools/validate_questions.py` → all-pass.
-4. Essay-0: cells in `build/ESSAY0_OUTPUT.md`; flow-read artifact;
+4. Essay-0: cells in `custom/ESSAY0_OUTPUT.md`; flow-read artifact;
    lock stays DRAFT until ear. Plain: edit `key_*.json`, run
    `plain_filter.py`, `--check` must MATCH.
 5. Argue: SECTION_ARGUMENTS order is canonical; JOIN_AUDIT re-verifies

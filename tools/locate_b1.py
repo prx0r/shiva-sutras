@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Scan each lak transcript for its verse's Sanskrit statement.
-Keywords from build/template_77.json Sanskrit forms (folded).
+Keywords from standard/template_77.json Sanskrit forms (folded).
 Output: candidate segments per verse with timestamps for human verdict."""
 import json, re, unicodedata, glob, os
 
@@ -13,7 +13,7 @@ def fold(s):
     return s.replace("h", "")  # chaitanya/caitanya, shiva/siva converge
 
 
-tpl = {t["verse"]: t for t in json.load(open(BASE + "/build/template_77.json"))}
+tpl = {t["verse"]: t for t in json.load(open(BASE + "/standard/template_77.json"))}
 
 fmap = {"1_8_10": ["1.8", "1.9", "1.10"], "2_7_p1": ["2.7"], "2_7_p2": ["2.7"]}
 for f in glob.glob(BASE + "/text/lak_*.txt"):

@@ -86,7 +86,7 @@ def main():
             if core == "3. Introduction": return "lak_3_intro"
             return "lak_" + core.replace(".", "_")
         byslug = defaultdict(list)
-        for mf in glob.glob('build/std_*.json'):
+        for mf in glob.glob('standard/manifests/std_*.json'):
             man = json.load(open(mf))
             for pcs in man.get("layers", {}).values():
                 for p in pcs:

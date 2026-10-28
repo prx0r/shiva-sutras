@@ -32,7 +32,7 @@
 
 ### Agent work — Custom close-out (after owner calls land)
 7. **Re-run HOLDUP + UNFOLDING at lock.** Against LOCKED cells (RUN-1 was
-   vs DRAFT): `build/HOLDUP_SHEET.md` re-sweep → `holdup_verdicts.json` →
+   vs DRAFT): `custom/HOLDUP_SHEET.md` re-sweep → `holdup_verdicts.json` →
    `sync_counts` + all gates; UNFOLDING run-2 expects 0 N.
 8. **Export units to essay-corpus** (`shivasutras:` prefix) after #2 locks.
 9. **BHU-Tantraloka ownership** one-liner (vatulanatha vs tantraessays).

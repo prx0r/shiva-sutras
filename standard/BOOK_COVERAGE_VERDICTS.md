@@ -11,8 +11,9 @@ Legend: COVERED = claim present. SOFT = core present, sub-point thin (acceptable
 minor B-add). GAP[REAL] = missing Level-1/2 point (with transcript location if found =
 B-candidate, else ABSENT = no source found). GAP[APPARATUS] = commentary detail
 (variant readings, enumerations, parallels, similes) = C material or intentional
-thinness. UNVERIFIED = transcript garbled at the relevant timestamps, cannot verify
-from text (re-transcribe with language=en, then re-verify).
+thinness. UNVERIFIED = transcript garbled at the relevant timestamps: verify BY EAR
+against the book point (transcripts are frozen finding aids; no retranscription —
+owner ruling 2026-10-28, see ACTION LIST item 1).
 
 ## CHAPTER 1
 
@@ -163,8 +164,8 @@ from text (re-transcribe with language=en, then re-verify).
 - **3.11** PARTIAL — translation covers sutra line only; exposition claims (free/awake;
   senses-by-power; light metaphysics; aesthetic delight/Khecari) largely absent.
   STATUS: UNVERIFIED (transcript garbled 00:00-00:03+; CF transcript equally garbled).
-  ACTION: re-transcribe lak_3_11 (language=en), then locate B1/A verify + gap-fill.
-  Do NOT verdict further until text is readable.
+  ACTION (per voiced-gold doctrine 2026-10-28): ear-verify B1/A windows against the
+  book points, then gap-fill each uncovered point with a human clip or TTS line.
 - **3.12** COVERED core (B1b + A intellect). P2/P3/P5 (intellect-determines-objects;
   pre-sensory purity; becoming-sattva): SOFT — check B.
 - **3.13** SOFT. Core (absolute independence; A; B) present.
@@ -341,7 +342,7 @@ from text (re-transcribe with language=en, then re-verify).
   RECOMMEND B-expand (guru units exist; needs owner line on BHU-ownership first? No —
   guru units are Baumer's, fine to use; pick 1–2).
 - **2.7** SOFT — VERIFY FIRST (transcript garbled at head; B1 at [16s] may sit in
-  garble). Re-transcribe lak_2_7 (both parts) then re-verify B1/A + gap-fill.
+  garble). Ear-verify B1/A against the book points, then gap-fill (human clip or TTS).
 - **2.8** COVERED (overturned: ss12-12 + ss1-14 directly carry oblation-into-fire).
 - **2.9** COVERED core (food=knowledge; digestion). P3–P5 SOFT (S5-adjacent).
 - **2.10** SOFT (dream-crisis A + B present; withdrawal mechanism + prabuddhatavrtti
@@ -355,9 +356,14 @@ REAL: 1.19, 3.4, 3.16, 3.19, 3.41, 3.24(fixed), 3.3? No — 3.3 is apparatus.
   +3.23 P1 overturned to COVERED (distributed across A-core/b1b/B).
 
 ## ACTION LIST (in priority order)
-1. Re-transcribe garbled lak files with language=en (list: 1_14, 1_19-minor, 1_8_10,
-   2_2, 2_7 both, 3_9, 3_11, 3_17, 3_21, 3_34, 3_37-head, 3_42-head, 3_16-verify-clean;
-   lak_1_19/1_14 DONE 2026-10-28). Then re-run qa_std + re-verify affected B1/A windows.
+1. STRUCK 2026-10-28 (owner) — no retranscription, ever: transcripts are frozen
+   finding aids, never the verification path; garble zones verify BY EAR against
+   book/GRETIL. Standing rule replacing it (owner voiced-gold doctrine, same day):
+   every book-gold point is VOICED in Standard by a human (Lakshmanjoo, Baumer,
+   Hareesh) or — where no human carries it — by Fish TTS reading Dyczkowski
+   verbatim (B1b 77/77 is the precedent; TTS speaks book lines only, never composed,
+   TTS_SAY probe discipline per line). UNVERIFIED verdicts above resolve by ear
+   session; qa_std FLAGs in garble zones are ear calls on the audio as-cut.
 2. B-expand (his-continuation + Baumer, per existing B doctrine) for: 1.9, 3.4
    (kala taxonomy mapped), 3.19 (bija/yoni/mothers mapped), 2.6 (guru units),
    3.16 (breath — Baumer only; specific terms → card note), 1.13, 1.22 (2nd pass),

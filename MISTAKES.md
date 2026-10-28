@@ -374,3 +374,16 @@ real — fix it, don't philosophize about it.
   mtime/content matches the edit. (d) Check the file before the theory: 30 minutes
   spent "proving" transcript-vs-audio drift using the wrong mp3 (ss1 content probed
   in ss4's file). sess→mp3 via the MP3 map FIRST, always.
+- M43. Absolute symlinks dangle when directories move (2026-10-28, the
+  standard/custom reorg). `custom_a_cuts/` carries 47 absolute symlinks into
+  `l0_cuts/` (v6 single-dir-validation workaround); moving `l0_cuts/` dangled all
+  47 — caught only because sheet validation was re-run after the move (the builder
+  prefers CUTS so the master was never at risk, but single-dir validation silently
+  lost half its files; a `stat` size-read on a symlink misled the diagnosis for
+  ten minutes — sizes lie, `test -e` tells the truth). Repaired by repointing.
+  Rules: (1) re-run every gate after ANY move, not just after edits — moves break
+  what greps cannot see (symlinks, absolute paths in sheets/logs); (2) prefer
+  relative symlinks for in-repo wiring so sibling directories move together;
+  (3) sed misses comma-form paths (`os.path.join(BASE, "audio", "gen",
+  "custom_a_cuts")` survived a slash-form rewrite — grep both forms, plus globs,
+  after any path migration).

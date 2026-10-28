@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Write 0-layer manifests for all located verses. B1 = word-verified (or
 provisional, marked), B2 = adjacent gloss from transcript segments.
-Run: python3 tools/write_zeros.py. Writes build/std_<v>.json (0 only,
+Run: python3 tools/write_zeros.py. Writes standard/manifests/std_<v>.json (0 only,
 or preserves existing A/B/C and updates 0)."""
 import json, os, re, unicodedata
 

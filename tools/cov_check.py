@@ -86,11 +86,11 @@ def terms(text):
     return [w for w in re.findall(r"[a-z]{5,}", fold(text)) if w not in STOP]
 
 
-tpl = {t["verse"]: t for t in json.load(open(BASE + "/build/template_77.json"))}
+tpl = {t["verse"]: t for t in json.load(open(BASE + "/standard/template_77.json"))}
 
 
 def audio_text(v):
-    man = json.load(open(BASE + "/build/std_%s.json" % v.replace(".", "_")))
+    man = json.load(open(BASE + "/standard/manifests/std_%s.json" % v.replace(".", "_")))
     segsf = BASE + "/transcripts/lak_" + v.replace(".", "_") + ".segments.json"
     segs = json.load(open(segsf))["segments"] if os.path.exists(segsf) else []
     out = []
@@ -122,7 +122,7 @@ def audit(v, top=25):
 if __name__ == "__main__":
     verses = [a for a in sys.argv[1:] if not a.startswith("-")]
     if not verses:
-        verses = [t["verse"] for t in json.load(open(BASE + "/build/template_77.json"))]
+        verses = [t["verse"] for t in json.load(open(BASE + "/standard/template_77.json"))]
     for v in verses:
         print("=" * 10, v)
         gaps = []

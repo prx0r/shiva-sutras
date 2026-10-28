@@ -24,7 +24,7 @@ deliberately insultingly explicit so no future agent has to be told twice.
 - **Custom/essays:** NO chant at all. Source: vatulanatha `FORMULA.md` rule 3
   ("chant runs ... stay in source, never in essay") — adopted as our rule.
 - What the agent did wrong: put Sharma seed chants after every Custom question
-  (Q → chant → T), because `build/BEATS.md` + the existing `l0_cuts/` intermediates
+  (Q → chant → T), because `custom/BEATS.md` + the existing `audio/gen/custom/l0_cuts/` intermediates
   already contained them and he never cross-checked the two chant rules above.
   The beat grammar is NOT the whole law. Content rules live across documents.
 - Corollary (M39): no clip may promise what the build doesn't deliver within earshot

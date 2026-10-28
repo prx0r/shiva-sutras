@@ -38,8 +38,8 @@ echo "$missing"
 echo "$missing" | grep -q "; 0 missing" || fail=1
 
 echo "== file presence (manifests, keys, sheets) =="
-for f in build/manifest_s1_A.json build/manifest_s6_C.json build/holdup_verdicts.json \
-         build/key_ss1_proposal.json build/plain_essay0.json excavations/SPINE_ASSIGN.tsv; do
+for f in custom/manifests/manifest_s1_A.json custom/manifests/manifest_s6_C.json custom/holdup_verdicts.json \
+         custom/essay0/key_ss1_proposal.json custom/essay0/plain_essay0.json excavations/SPINE_ASSIGN.tsv; do
   [ -f "$f" ] || { echo "ABSENT: $f"; fail=1; }
 done
 

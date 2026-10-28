@@ -6,7 +6,7 @@ lines immediately before the cut so a human can bind or FLAG each one.
 Machine surfaces, human verdicts (FLOW_REVIEW Q4 cites this output).
 
 Usage: python3 tools/deictic_check.py
-Reads build/TRACK_F_PRODUCTION.md (Baumer cues) + excavations unit files
+Reads custom/TRACK_F_PRODUCTION.md (Baumer cues) + excavations unit files
 for quotes + text/ transcripts.
 """
 import re, glob, os
@@ -50,7 +50,7 @@ def ts2s(t):
 
 def main():
     units = load_units()
-    sheet = open("build/TRACK_F_PRODUCTION.md").read()
+    sheet = open("custom/TRACK_F_PRODUCTION.md").read()
     for m in re.finditer(r"`(c\d+)_b\d_\d+-\d+\.wav`", sheet):
         pass  # filenames carry spans; resolve via make_essence instead
     import sys

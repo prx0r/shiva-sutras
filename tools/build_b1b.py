@@ -34,7 +34,7 @@ def sanskrit_tokens():
     for node in ast.walk(tree):
         if isinstance(node, ast.Assign) and getattr(node.targets[0], "id", "") == "SANSKRIT":
             toks.update(e.value for e in node.value.elts)
-    tpl = json.load(open(BASE + "/build/template_77.json"))
+    tpl = json.load(open(BASE + "/standard/template_77.json"))
     for t in tpl:
         toks.update(re.findall(r"[A-Za-z]{4,}", fold(t.get("book_sanskrit", ""))))
     return {fold(w) for w in toks}
@@ -63,7 +63,7 @@ def audit(v, s, skt):
 
 
 def main():
-    tpl = json.load(open(BASE + "/build/template_77.json"))
+    tpl = json.load(open(BASE + "/standard/template_77.json"))
     skt = sanskrit_tokens()
     want = sys.argv[1:] or [t["verse"] for t in tpl]
     deferred, done = [], 0

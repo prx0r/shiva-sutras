@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Standard-verse builder (russian doll): manifest -> cut -> assemble -> sheet.
-Manifest: build/std_<verse>.json {verse, src, room_src, room_t, layers:
+Manifest: standard/manifests/std_<verse>.json {verse, src, room_src, room_t, layers:
   {\"0\": [...], \"A\": [...], \"B\": [...], \"C\": [...]}} pieces append-only
   (B lists A's pieces + more). Each piece {t_in, t_out, role}.
 Pads from the verse's own room tone (never digital silence, never brown noise).
-Usage: python3 tools/build_standard_verse.py build/std_1_1.json"""
+Usage: python3 tools/build_standard_verse.py standard/manifests/std_1_1.json"""
 import json, os, re, subprocess, sys
 
 BASE = "/home/ubuntu/shiva-sutras"

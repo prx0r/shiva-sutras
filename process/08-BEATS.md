@@ -1,6 +1,6 @@
 # 08 — BEATS. Run-order, bell grammar, speakers, ear-check list.
 
-## Run-order (`build/BEATS.md` — the build instrument for audio)
+## Run-order (`custom/BEATS.md` — the build instrument for audio)
 `[BELL] 0 → [BELL] A → [BELL] B → [BELL] C`: seed heard 4×, A ⊂ B ⊂ C,
 append-only, machinery (question/card/plain/bell) lives INSIDE the
 layers as section openers. L0 = essay-0 only; LA/LB/LC = essay-0 +
@@ -22,7 +22,7 @@ masking. Pads v1 = digital silence (1.2 s beat-gap / 2.5 s water and
 breaths); at ship = room-tone breaths from lecture gaps. Pause-snap
 (±0.3 s to nearest silence) is an audio-QA pass, not optional.
 
-## Speakers (`build/SPEAKERS.md`) + ear-check (`build/EAR_CHECK.md`)
+## Speakers (`custom/SPEAKERS.md`) + ear-check (`custom/EAR_CHECK.md`)
 Archive voices carry all source language (chant, verses, commentary);
 TTS carries questions/plains/cards at v1 (placeholder until human
 records + key signs); human owns questions at ship + marked bridges.

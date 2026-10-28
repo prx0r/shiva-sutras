@@ -43,7 +43,7 @@ def block(idx, nxt):
     return trans, sk, body
 
 
-tpl = json.load(open(BASE + "/build/template_77.json"))
+tpl = json.load(open(BASE + "/standard/template_77.json"))
 byv = {t["verse"]: t for t in tpl}
 for n in range(15, 29):
     idx, nxt = info[("3", n + 1)]
@@ -55,6 +55,6 @@ for n in range(15, 29):
     t["body_chars"] = len(body)
     t["body"] = body
     print(t["verse"], t["book"], "|", trans[:60])
-json.dump(tpl, open(BASE + "/build/template_77.json", "w"), ensure_ascii=False,
+json.dump(tpl, open(BASE + "/standard/template_77.json", "w"), ensure_ascii=False,
           indent=1)
 print("saved")

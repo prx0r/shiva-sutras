@@ -114,11 +114,11 @@ def main():
     LINES = {}
     # global neighbour map (across sections: same mp3 may serve many sections)
     ALLB = []
-    for _f in sorted(glob.glob(BASE + "/build/manifest_s*_A.json")):
+    for _f in sorted(glob.glob(BASE + "/custom/manifests/manifest_s*_A.json")):
         _d = json.load(open(_f))
         for _b in _d["beats"]:
             ALLB.append(_b)
-    for f in sorted(glob.glob(BASE + "/build/manifest_s*_A.json")):
+    for f in sorted(glob.glob(BASE + "/custom/manifests/manifest_s*_A.json")):
         d = json.load(open(f))
         for b in d["beats"]:
             mp3 = b["mp3"]

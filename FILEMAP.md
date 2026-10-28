@@ -32,7 +32,7 @@ the long-form queue with context.)
 | `process/STANDARD.md` | Standard build manual (self-contained: inputs → locate → curate → build → QA → assemble → ship) | the Standard law; conflicts resolve here first |
 | `process/STANDARD-PORTING.md` | text-independent engine + per-text config (worked Yoga Sūtras port) | start new texts here |
 | `process/10-FORMAL-CHANT.md` | Standard Compilation method: tagging, spacing, what it never does | build the chant storyboard per corpus |
-| `build/TRACK_F_STORYBOARD.md` | 77 verse rows (S1-19 filled 2026-10-26): B1 chant window + B2 readout + B3 slot + B4 slot | Standard Compilation assembly source (separate from custom manifests by law) |
+| `standard/TRACK_F_STORYBOARD.md` | 77 verse rows (S1-19 filled 2026-10-26): B1 chant window + B2 readout + B3 slot + B4 slot | Standard Compilation assembly source (separate from custom manifests by law) |
 | `NEXT.md` | full queue with context/threads (superset of TODO) | what & why, longer horizon |
 | `PROCESS_NOTES.md` | §0–8m session history + pass-1-complete block + BUILD ORDER LAW + FROM SCRATCH | the project's memory — state claims live here |
 | `MISTAKES.md` | M1–M38: mistake → cause → rule | **read BEFORE touching tools**; each rule is load-bearing |
@@ -53,26 +53,40 @@ the long-form queue with context.)
 | `ESSAY0.md` | the essay-0 pick record (7-step run, sharpened-question audit) | why the question/seed is what it is |
 | `SPINE_PREVIEW.md` | superseded S2 design record | kept deliberately as history — never edit, never cite as current |
 
-## `build/` — outputs toward the essay (docs + machine-state)
+## `standard/` — the chant compilation (verse order, fidelity object)
 
 | file | what | why |
 |---|---|---|
-| `ESSAY0_OUTPUT.md` | **the seed**: HEAD + six four-layer cells (S→T→plain→Bäumer), enquiry chain | essay-0 = the bīja everything expands from; DRAFT until `essay0_lock` flips |
-| `essay0_lock.json` | lock machine-state | flip only on owner ear (then run TODO #6/#7) |
-| `ESSAY0_FLOW_READ.md` | spoken pass of the seed/chain | read-aloud verification before any build |
+| `manifests/std_*.json` (77) | Standard per-verse manifests (0/A/B/C, `b1_status` enum) | the cut lists — manifests are code; `qa_std.py` pre-commit |
+| `template_77.json` | verse map: book bodies + translations + GRETIL exact + numbering traps | A-selection guide + B1b speech source + B-hook anchor |
+| `TRACK_F_STORYBOARD.md` | 77 verse rows: B1 chant window + B2 readout + B3 slot + B4 slot | Standard assembly source (separate from custom manifests by law) |
+| `QA_SWEEP_*.json` | structural sweep reports (FAIL/FLAG per verse) | evidence of verification, not verdicts |
+| `BOOK_COVERAGE_2026-10-28.md` + `BOOK_COVERAGE_VERDICTS.md` + `BOOK_GAPS_PROPOSAL.tsv` | book-vs-Standard audit: 428 machine proposals, all 77 hand-verdict | the voiced-gold work queue (owner doctrine §8n) |
+
+## `custom/` — the spine remix (selection + argument, never blended with Standard)
+
+| file | what | why |
+|---|---|---|
+| `essay0/ESSAY0_OUTPUT.md` | **the seed**: HEAD + six four-layer cells (S→T→plain→Bäumer), enquiry chain | essay-0 = the bīja everything expands from; DRAFT until `essay0_lock` flips |
+| `essay0/essay0_lock.json` | lock machine-state | flip only on owner ear (then run TODO #6/#7) |
+| `essay0/ESSAY0_FLOW_READ.md` | spoken pass of the seed/chain | read-aloud verification before any build |
+| `essay0/key_ss1_proposal.json`, `essay0/plain_essay0.json`, `essay0/loanwords_ss1.json`, `essay0/t_essay0.txt` | key/plain pipeline states (PROPOSAL) + transcript-side input | plain rows are mechanical filter-output — regenerate+rehash at key sign-off, **never hand-edit** |
+| `manifests/manifest_s{1..6}_{A,B,C}.json` | 18 manifests: ordered clips w/ quote-located t_in/t_out, card+question | the cut lists for every layer — built by `tools/build_manifests.py` |
 | `SECTION_ARGUMENTS.md` | Essay A as text — 71 clips in order per section + flow verdicts | the A-collate draft; *missing the 10 newer A's (audit noted)* |
 | `JOIN_AUDIT.md` | 65 clip-joins verdicted (55/9/0) | proof the arguments flow, not random statements |
 | `UNFOLDING_AUDIT.md` | 81 A judged vs seeds (62E/11Q/5B/3W/**0N**) | proof no A swaps the seed; watch-list = ss4-02, ss8-06/07, ss10-03, S5-guru, ss7-16 |
 | `HOLDUP_SHEET.md` | 219 B-rows, **RUN-1 verdicts written** (83 KEEP/134 DEMOTE/1 LEDGER/1 PROMOTED) | the B-membership sweep — run-1 done 2026-10-26 against DRAFT; re-run at lock |
 | `B_SWEEP.md` + `holdup_verdicts.json` | sweep log (keep-reasons, budgets, defects M22/M23) + machine verdicts | what played at B and why — regenerate sheet from units, verdicts = single source |
-| `manifest_s{1..6}_{A,B,C}.json` | 18 manifests: ordered clips w/ quote-located t_in/t_out, card+question | the cut lists for every layer — built by `tools/build_manifests.py` |
 | `C_WALK.md` | the C layer as a doc (300 clips, her order) | readable texture walk; manifest_sc_C.json = machine source |
 | `BEATS.md` | run-order, opener grammar, bell spec, assembly pipeline, runtimes | THE build instrument for audio (v1) |
-| `VISUAL_ENGINE_SPEC.md` | left-2/3 timeline (verse/quote/diagram/question) + right-1/3 ambient deity loop + build recipe | the video spec (v1 prototypes rendered, templates/diagrams open) |
 | `SPEAKERS.md` | voice map (archive vs human vs TTS) + v1 placeholder rulings | who speaks what |
 | `EAR_CHECK.md` | 32 ASR suspects (uid+window+expected) | verify at audio QA; `naruto` sits in an A-quote |
-| `key_ss1_proposal.json`, `plain_essay0.json`, `loanwords_ss1.json`, `t_essay0.txt` | key/plain pipeline states (PROPOSAL) | plain rows are mechanical filter-output — regenerate+rehash at key sign-off, **never hand-edit** |
-| `t_essay0.txt` | transcript-side text of essay-0 | input to filters |
+| `LA_PRODUCTION.md` | Essay-A production sheet (measured timecodes, asserts sheet==master) | SHEET READY; validate with BOTH cut dirs (l0 symlinks live in `custom_a_cuts/`) |
+| `TRACK_F_PRODUCTION.md` | essence production sheet (measured timecodes, asserts sheet==master) | SHEET READY 2026-10-28; the sheet is the product (essence = Custom-side seeds) |
+| `LISTEN_audit_essence_v1.json` + `FLOW_REVIEW_essence_v1.md` | machine audit + recorded flow verdicts | evidence, not verdicts |
+| `VISUAL_ENGINE_SPEC.md` | left-2/3 timeline (verse/quote/diagram/question) + right-1/3 ambient deity loop + build recipe | the video spec (v1 prototypes rendered, templates/diagrams open) |
+
+Shared inputs both compilations pull (paths frozen — never move without re-running every gate, M43): `text/` · `transcripts/` · `cf/` · `audio/` (sources + `gen/std/` + `gen/custom/` + shared `gen/tts/` + `gen/sfx/`) · `reference/` · `excavations/` · `tools/` · `process/` (law above both).
 
 ## `tools/` — verifiers & pipelines (each gate has one)
 
@@ -86,8 +100,8 @@ the long-form queue with context.)
 | `sync_counts.py` | recomputes counts → rewrites every doc line that states them | run after ANY unit add/demote; **its NEXT-state template was fixed 2026-10-25 — don't regress it** |
 | `build_manifests.py` | A/B/C manifests: quote→line-run→word-rate cut stamps, SA-order | the cut lists (re-run after any grade/order change) |
 | `make_l0.py` | SUPERSEDED by make_essence (history) | do not build from this |
-| `make_essence.py` | essence build + production sheet from measured cuts (single source; asserts sheet==master) | standard-compilation essence + `TRACK_F_PRODUCTION.md` |
-| `make_custom_a.py` | Essay-A master (essay-0 cells + section openers + 76 A clips; asserts sheet==master) | Custom LA + `LA_PRODUCTION.md` (SHEET READY) |
+| `make_essence.py` | essence build + production sheet from measured cuts (single source; asserts sheet==master) | Custom-side seeds + `custom/TRACK_F_PRODUCTION.md` |
+| `make_custom_a.py` | Essay-A master (essay-0 cells + section openers + 76 A clips; asserts sheet==master) | Custom LA + `custom/LA_PRODUCTION.md` (SHEET READY) |
 | `validate_sheet.py` | validates ANY production sheet (standard or custom): files exist, durations match, timecodes accumulate, total matches, audit+FX sections present | the sheet is the product — run before any render talk |
 | `flow_lint.py` | deterministic flow checks (runs, joints, longs, repetition, deictic slots, pause inventory) | machine half of peer review — ears decide, never the linter |
 | `validate_sheet.py` | validates ANY production sheet | the sheet is the product — run before any render talk |
@@ -113,6 +127,13 @@ the long-form queue with context.)
 | `locate_b1.py`, `word_onset.py`, `onset_batch*.py` | B1 locate + word-level onset snapping | M27/M30: segments are not onsets |
 | `lak_transcribe.py` | local faster-whisper base → stamped txt + segment JSONs | Standard transcript acquisition (idempotent) |
 | `dump_maps.py`, `parse_contents.py`, `template_v2.py`, `write_zeros.py`, `xcheck.py` | one-shot maps/probes (history) | kept as evidence; not in the build path |
+| `retranscribe_fix.py` | one-shot lang=en re-pass for garbled lak heads | FROZEN with the transcribe layer (owner §8n) — do not run; kept as evidence |
+
+Reorg note (2026-10-28): `build/` is gone — split into `standard/` + `custom/` (essay-0 lives in
+`custom/essay0/`, manifests in per-track `manifests/`, `audio/gen/` split into `std/` +
+`custom/` with shared `tts/` + `sfx/`). Shared primary (`text/`, `transcripts/`, `audio/`
+sources, `reference/`, `excavations/`, `tools/`) keeps frozen paths per M43. Handovers +
+MISTAKES history intentionally still cite `build/` — they describe the past.
 
 ## DATA (mostly gitignored on purpose)
 
@@ -122,13 +143,9 @@ the long-form queue with context.)
 | `text/lak_*.txt` (79) | Lakshmanjoo stamped transcripts (verse files + intros/conclusion) | committed 2026-10-26; Standard locate inputs + `lak` coverage scope |
 | `transcripts/` | raw VTTs (22 = 11×orig+compacted) + `lak_*.segments.json` (79 float-timestamp sidecars) | provenance for regenerating text/; segments drive word-level locate |
 | `cf/` | CF-whisper JSON+logs (2 sessions) | cf_transcribe outputs |
-| `audio/` (14 mp3 = ALL Baumer+dl1, + `gen/` `cuts/` build-out) | local mp3s + generated audio | **GITIGNORED — never commit audio**; 2026-10-26: 11 pulled, corpus complete; `chant/` + `third/` hold non-Baumer voices, inventoried in `audio/SOURCES.md`; `gen/std/` proofs + `gen/tts/b1b_*` translation lines regenerable |
+| `audio/` (14 mp3 = ALL Baumer+dl1, + `gen/` `cuts/` build-out) | local mp3s + generated audio | **GITIGNORED — never commit audio**; 2026-10-26: 11 pulled, corpus complete; `chant/` + `third/` hold non-Baumer voices, inventoried in `audio/SOURCES.md`; `gen/std/` proofs + `gen/tts/b1b_*` translation lines regenerable; `gen/custom/` holds LA/essence masters + cuts (`l0_cuts/` shared opener stacks; `custom_a_cuts/` carries 47 symlinks into `l0_cuts/` for single-dir sheet validation — M43) |
 | `reference/aphorisms-of-siva-dyczkowski_clean.txt` | held Sanskrit/translation source for cards | **GITIGNORED — copyright; held line-refs (l.735 etc.) are the only things quoted** |
 | `reference/gretil_sivasutra.json` | vendored GRETIL Kaul exact-Sanskrit forms (75 + 2 Ksa-only) | committed (ancient text, no rights issue); feeds `sanskrit_exact` |
-| `build/std_*.json` (77) | Standard per-verse manifests (0/A/B/C/D, `b1_status` enum) | the cut lists — manifests are code; `qa_std.py` pre-commit |
-| `build/template_77.json` | verse map: book bodies + translations + GRETIL exact + numbering traps | A-selection guide + B1b speech source + B-hook anchor |
-| `build/QA_SWEEP_*.json` | structural sweep reports (FAIL/FLAG per verse) | evidence of verification, not verdicts |
-| `build/TRACK_F_PRODUCTION.md` | essence production sheet (measured timecodes, asserts sheet==master) | SHEET READY 2026-10-28; the sheet is the product |
 
 ## House rules that keep this map true
 

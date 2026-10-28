@@ -3,7 +3,7 @@
 The Standard Compilation is the fidelity object: every sūtra in sūtra
 order, same four blocks each. It is built, not argued — structure comes
 from the text, voices seat by the speaker law, gaps stay flagged.
-Artifact: `build/TRACK_F_STORYBOARD.md` (one row per verse; separate
+Artifact: `standard/TRACK_F_STORYBOARD.md` (one row per verse; separate
 from every custom-compilation artifact by law).
 
 ## Tagging (how the 77 rows were derived — repeat per corpus)

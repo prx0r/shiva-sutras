@@ -9,7 +9,7 @@ import json
 
 BASE = "/home/ubuntu/shiva-sutras"
 g = json.load(open(BASE + "/reference/gretil_sivasutra.json"))
-tpl = json.load(open(BASE + "/build/template_77.json"))
+tpl = json.load(open(BASE + "/standard/template_77.json"))
 
 # Academy -> GRETIL key (None = Ksa-only, use his voicing)
 amap = {}
@@ -46,6 +46,6 @@ missing = [t["verse"] for t in tpl if not t["sanskrit_exact"]]
 assert len(tpl) == 77, "template must hold 77 verses, got %d" % len(tpl)
 assert not missing, "sanskrit_exact missing for %s" % missing
 print("entries:", len(tpl), "missing:", missing)
-json.dump(tpl, open(BASE + "/build/template_77.json", "w"),
+json.dump(tpl, open(BASE + "/standard/template_77.json", "w"),
           ensure_ascii=False, indent=1)
 print("saved")

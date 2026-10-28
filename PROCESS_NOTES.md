@@ -809,3 +809,10 @@ Hareesh dup (byte-identical to audio/third primary). /home/ubuntu/analayo-nibban
 other repo — nothing pushed). npm cache cleaned. Left alone: huggingface weights
 (B1 verification still needs whisper base), playwright/electron/chrome caches
 (regenerable but slow — owner call), all other projects' dirs. Gates re-run green.
+
+### §8p FULL WALKS ASSEMBLED (2026-10-28) — voiced-gold close-out
+0/A/B walks concatenated verse-order, master==sum exact (0: 38min/18MB, A: 86min/41MB,
+B: 184min/88MB), decode-clean, mirrored to R2 (walk_chall_{0,A,B}.mp3).
+B-head qa: joints CLEAN; NO-FLOW verdict DISCOUNTED (essay criteria misapplied to a
+fidelity walk — M28-class wrong-yardstick; no structural defect corroborated, no rebuild).
+Deictic notes ride to the ear session. Full walks await owner ears (the only lock).

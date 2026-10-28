@@ -48,7 +48,28 @@
     "why": "2.1 double-gloss: mind is mantra or mantra is mind"
    }
   ],
-  "C": []
+  "C": [
+   {
+    "role": "c-story",
+    "t_in": 741.0,
+    "t_out": 855.0,
+    "why": "lip-mantras are not mantra; Tantrasadbhava life-of-mantras; autumn-clouds seal — scriptural anchor for the mantra-essence 0/A states"
+   },
+   {
+    "role": "c-simile",
+    "t_in": 940.0,
+    "t_out": 985.0,
+    "why": "push/ball simile + Kramamudra — the practice image for pranava two-way rise"
+   },
+   {
+    "role": "c-guest",
+    "uid": "ss11-20",
+    "t_in": 3042.0,
+    "t_out": 3134.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "her three-merge (mind/deity/mantra) — Baumer voicing of the same essence his lecture states (extends unit to sentence completion 00:52:14)"
+   }
+  ]
  },
  "b1_status": "his-prov"
 }

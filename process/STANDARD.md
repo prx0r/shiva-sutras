@@ -88,7 +88,19 @@ total with 0; whole of A ≈ 1 h). Read the book section, find where he
 speaks those points in the lecture, cut tight, never pad, thin stays thin.
 B = +doctrine depth (citations, practice, +5–10 min/verse). C = +stories,
 tangents, guest voices (only here). Guests: Baumer, dl1, Osho, Hareesh —
-relevance sentence mandatory per insertion; rights per SOURCES.
+relevance sentence mandatory per insertion (record in the piece `why`);
+rights per SOURCES. His-story cuts end sentence-complete (M29 — read the
+transcript past the unit window; the unit window may strand a sentence, the
+C cut must not). Guest windows are quote-located via `locate()` and
+transcription-verified (`qa_std.py` F1/F2); essay-0 cell clips never enter
+(SEED-CAP holds across both compilations). Pilot: 2.1 (c-story 741–855,
+c-simile 940–985, c-guest ss11-20 extended to sentence completion 3042–3134).
+Coda = Sharma complete run mangala [182,250] + 77 [267,688] + closing
+[688,711] (≈8.5 min), `audio/gen/std/coda_sharma.mp3` (cut 2026-10-28,
+-21dB, content-verified head). Assembly: `tools/assemble_standard.py`
+(verse order, coda appended on C walks, master==sum assert within 2s).
+Pilot assemblies are `pilot_`-labeled tooling checks (ch1 B pilot 55.5 min,
+diff 0.00); full-walk assembly only after every verse passes QA.
 
 ## 6. Stage 5 — Build
 

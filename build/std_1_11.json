@@ -1,0 +1,46 @@
+{
+ "verse": "1.11",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.11.mp3",
+ "room_t": 70.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 80.5,
+    "t_out": 82.5
+   },
+   {
+    "role": "b2",
+    "t_in": 82.5,
+    "t_out": 98.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 119.3,
+    "t_out": 168.0
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss7-11",
+    "t_in": 2789.0,
+    "t_out": 2828.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "virya-bhokta master enjoys"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-core",
+    "t_in": 719.9,
+    "t_out": 815.0
+   }
+  ],
+  "D": []
+ },
+ "b1_status": "prov"
+}

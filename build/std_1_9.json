@@ -1,0 +1,57 @@
+{
+ "verse": "1.9",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.8-10.mp3",
+ "room_t": 10.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 31.2,
+    "t_out": 32.2
+   },
+   {
+    "role": "b2",
+    "t_in": 32.2,
+    "t_out": 40.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 40.0,
+    "t_out": 60.0
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 120.3,
+    "t_out": 136.7,
+    "why": "vikalpa perception exposition"
+   },
+   {
+    "role": "b-his",
+    "t_in": 120.3,
+    "t_out": 136.7,
+    "why": "vikalpa-predominance exposition"
+   },
+   {
+    "role": "b",
+    "t_in": 1653.0,
+    "t_out": 1670.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "ss7-07 vikalpa-key"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-core",
+    "t_in": 337.9,
+    "t_out": 374.4
+   }
+  ],
+  "D": []
+ },
+ "b1_status": "prov"
+}

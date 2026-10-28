@@ -1,0 +1,59 @@
+{
+ "verse": "1.4",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.4.mp3",
+ "room_t": 60.0,
+ "guests": [],
+ "b1_status": "word",
+ "b1_src": "sharma",
+ "b2_src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.4.mp3",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 49.5,
+    "t_out": 52.9
+   },
+   {
+    "role": "b2",
+    "t_in": 53.2,
+    "t_out": 73.5
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 74.8,
+    "t_out": 110.0
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 137.7,
+    "t_out": 177.8,
+    "why": "correct/incorrect knowing transforms Shakti"
+   },
+   {
+    "role": "b",
+    "uid": "ss5-25",
+    "t_in": 3239.0,
+    "t_out": 3262.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "verbalizing binds via language"
+   },
+   {
+    "role": "b2-his",
+    "t_in": 1050.0,
+    "t_out": 1091.0,
+    "why": "father-died letters demo"
+   },
+   {
+    "role": "b-his",
+    "t_in": 1217.0,
+    "t_out": 1326.0,
+    "why": "four energies kissed + fruits"
+   }
+  ],
+  "C": []
+ }
+}

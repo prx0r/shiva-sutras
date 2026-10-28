@@ -1,0 +1,64 @@
+{
+ "verse": "1.7",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.7.mp3",
+ "room_t": 13.2,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 0.0,
+    "t_out": 4.1
+   },
+   {
+    "role": "b2",
+    "t_in": 4.1,
+    "t_out": 14.7
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 37.2,
+    "t_out": 46.2
+   },
+   {
+    "role": "a-means",
+    "t_in": 70.6,
+    "t_out": 103.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 106.6,
+    "t_out": 134.6,
+    "why": "active vs passive meditation critique"
+   },
+   {
+    "role": "b",
+    "uid": "ss7-29",
+    "t_in": 2960.0,
+    "t_out": 2988.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "Lakshmanjoo translation read"
+   },
+   {
+    "role": "b",
+    "uid": "ss1-31",
+    "t_in": 4002.0,
+    "t_out": 4014.0,
+    "src": "audio/c1l1RgloZBs.mp3",
+    "why": "turya pervades all three"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-core",
+    "t_in": 280.9,
+    "t_out": 338.5
+   }
+  ]
+ },
+ "b1_status": "repass"
+}

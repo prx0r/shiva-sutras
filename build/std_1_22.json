@@ -1,0 +1,39 @@
+{
+ "verse": "1.22",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.22.mp3",
+ "room_t": 35.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 46.1,
+    "t_out": 51.6
+   },
+   {
+    "role": "b2",
+    "t_in": 51.6,
+    "t_out": 63.4
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 9.0,
+    "t_out": 29.8
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss6-24",
+    "t_in": 2790.0,
+    "t_out": 2821.0,
+    "src": "audio/Q-nwDCMripc.mp3",
+    "why": "senses = phases of divine energy"
+   }
+  ],
+  "C": []
+ }
+}

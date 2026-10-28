@@ -1,0 +1,47 @@
+{
+ "verse": "1.14",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.14.mp3",
+ "room_t": 40.0,
+ "guests": [],
+ "b1_status": "cf",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 7.0,
+    "t_out": 11.6
+   },
+   {
+    "role": "b2",
+    "t_in": 11.6,
+    "t_out": 19.7
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 44.8,
+    "t_out": 61.9
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss3-19",
+    "t_in": 4984.0,
+    "t_out": 5010.0,
+    "src": "audio/sLD0aeV1d3o.mp3",
+    "why": "nothing exists outside consciousness range"
+   },
+   {
+    "role": "b",
+    "uid": "ss13-12",
+    "t_in": 767.0,
+    "t_out": 782.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "nothing left out of yoga"
+   }
+  ],
+  "C": []
+ }
+}

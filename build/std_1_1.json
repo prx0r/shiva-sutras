@@ -1,0 +1,118 @@
+{
+ "verse": "1.1",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.1.mp3",
+ "room_t": 14.4,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 80.5,
+    "t_out": 81.8
+   },
+   {
+    "role": "b2",
+    "t_in": 82.4,
+    "t_out": 98.3
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 167.3,
+    "t_out": 199.0
+   },
+   {
+    "role": "a-cap",
+    "t_in": 826.9,
+    "t_out": 847.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 118.9,
+    "t_out": 148.0,
+    "why": "sarvasamanya: same act in conscious/unconscious"
+   },
+   {
+    "role": "b-his",
+    "t_in": 855.8,
+    "t_out": 916.0,
+    "why": "neti-neti master-disciple"
+   },
+   {
+    "role": "b-his",
+    "t_in": 1391.1,
+    "t_out": 1443.0,
+    "why": "anupaya no-means"
+   },
+   {
+    "role": "b",
+    "uid": "ss1-27",
+    "t_in": 1585.0,
+    "t_out": 1604.5,
+    "src": "audio/c1l1RgloZBs.mp3",
+    "why": "action not excluded (knowledge+action union)"
+   },
+   {
+    "role": "b",
+    "uid": "ss4-08",
+    "t_in": 1156.0,
+    "t_out": 1166.0,
+    "src": "audio/KSpk4KO0JY4.mp3",
+    "why": "knower-known one (microcosm)"
+   },
+   {
+    "role": "b",
+    "uid": "ss1-29",
+    "t_in": 3516.0,
+    "t_out": 3524.0,
+    "src": "audio/c1l1RgloZBs.mp3",
+    "why": "anupaya already-given (her seal)"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/1_1_varttika.wav",
+    "why": "Varttika siddha/unobscured (book-only wording)"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/1_1_microcosm.wav",
+    "why": "Ksemaraja microcosm definition (book-only wording)"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-mahamudu",
+    "t_in": 727.8,
+    "t_out": 803.6
+   },
+   {
+    "role": "c-milkbird",
+    "t_in": 1211.9,
+    "t_out": 1310.1
+   },
+   {
+    "role": "c-divine",
+    "t_in": 1350.9,
+    "t_out": 1363.6
+   },
+   {
+    "role": "c-shadow",
+    "t_in": 1510.4,
+    "t_out": 1629.3
+   },
+   {
+    "role": "c-spanda-close",
+    "t_in": 1629.6,
+    "t_out": 1711.7
+   }
+  ]
+ },
+ "b1_status": "ok"
+}

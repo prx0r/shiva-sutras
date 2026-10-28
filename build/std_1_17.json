@@ -1,0 +1,52 @@
+{
+ "verse": "1.17",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.17.mp3",
+ "room_t": 8.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 16.8,
+    "t_out": 25.0
+   },
+   {
+    "role": "b2",
+    "t_in": 25.0,
+    "t_out": 33.2
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 53.7,
+    "t_out": 72.8
+   },
+   {
+    "role": "a-core2",
+    "t_in": 199.5,
+    "t_out": 209.5
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss10-03",
+    "t_in": 1125.0,
+    "t_out": 1176.0,
+    "src": "audio/lfWQfoG23cY.mp3",
+    "why": "real posture = supreme energy"
+   },
+   {
+    "role": "b",
+    "uid": "dl1-07",
+    "t_in": 501.0,
+    "t_out": 516.0,
+    "src": "audio/Shiva_Sutra_Introduction.mp3",
+    "why": "supreme grace unfolds insight"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

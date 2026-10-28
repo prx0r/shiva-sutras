@@ -1,0 +1,39 @@
+{
+ "verse": "1.21",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.21.mp3",
+ "room_t": 60.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 71.6,
+    "t_out": 80.0
+   },
+   {
+    "role": "b2",
+    "t_in": 80.0,
+    "t_out": 96.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 100.3,
+    "t_out": 125.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss10-09",
+    "t_in": 3645.0,
+    "t_out": 3669.0,
+    "src": "audio/lfWQfoG23cY.mp3",
+    "why": "yogi joy = bliss for whole universe"
+   }
+  ],
+  "C": []
+ }
+}

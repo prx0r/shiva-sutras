@@ -1,0 +1,39 @@
+{
+ "verse": "1.12",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.12.mp3",
+ "room_t": 15.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 45.7,
+    "t_out": 63.4
+   },
+   {
+    "role": "b2",
+    "t_in": 63.4,
+    "t_out": 78.4
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 81.5,
+    "t_out": 119.3
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss7-14",
+    "t_in": 3503.0,
+    "t_out": 3532.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "wonder = authenticity test"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

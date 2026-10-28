@@ -1,0 +1,59 @@
+{
+ "verse": "1.8",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.8-10.mp3",
+ "room_t": 10.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 15.0,
+    "t_out": 16.1
+   },
+   {
+    "role": "b2",
+    "t_in": 16.5,
+    "t_out": 30.5
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 60.9,
+    "t_out": 80.2
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 227.9,
+    "t_out": 259.7,
+    "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.8-10.mp3",
+    "why": "three-states-in-each"
+   },
+   {
+    "role": "b",
+    "t_in": 815.0,
+    "t_out": 855.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "ss7-04 ordinary-vs-yogic"
+   },
+   {
+    "role": "b",
+    "t_in": 4105.0,
+    "t_out": 4136.0,
+    "src": "audio/Q-nwDCMripc.mp3",
+    "why": "ss6-23 awareness-continues"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-core",
+    "t_in": 227.6,
+    "t_out": 259.7
+   }
+  ],
+  "D": []
+ },
+ "b1_status": "prov"
+}

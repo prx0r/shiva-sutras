@@ -1,0 +1,51 @@
+{
+ "verse": "1.5",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.5.mp3",
+ "room_t": 15.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 50.7,
+    "t_out": 51.7
+   },
+   {
+    "role": "b2",
+    "t_in": 51.7,
+    "t_out": 96.9
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 120.6,
+    "t_out": 164.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "dl1-07",
+    "t_in": 501.0,
+    "t_out": 516.0,
+    "src": "audio/Shiva_Sutra_Introduction.mp3",
+    "why": "grace unfolds (unmade effort)"
+   },
+   {
+    "role": "b-his",
+    "t_in": 234.3,
+    "t_out": 294.0,
+    "why": "guru penetrating samavesa as grace mechanism"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-core",
+    "t_in": 363.8,
+    "t_out": 459.9
+   }
+  ]
+ },
+ "b1_status": "ok"
+}

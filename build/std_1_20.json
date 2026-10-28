@@ -1,0 +1,39 @@
+{
+ "verse": "1.20",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.20.mp3",
+ "room_t": 15.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 24.4,
+    "t_out": 29.4
+   },
+   {
+    "role": "b2",
+    "t_in": 29.4,
+    "t_out": 39.5
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 39.5,
+    "t_out": 70.4
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss10-21",
+    "t_in": 2670.0,
+    "t_out": 2683.0,
+    "src": "audio/lfWQfoG23cY.mp3",
+    "why": "contemplate body+universe as consciousness"
+   }
+  ],
+  "C": []
+ }
+}

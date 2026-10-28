@@ -1,0 +1,54 @@
+{
+ "verse": "1.13",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.13.mp3",
+ "room_t": 8.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 15.4,
+    "t_out": 20.5
+   },
+   {
+    "role": "b2",
+    "t_in": 20.5,
+    "t_out": 26.5
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 26.5,
+    "t_out": 58.5
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss7-37",
+    "t_in": 4624.0,
+    "t_out": 4647.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "kumari never an object"
+   },
+   {
+    "role": "b",
+    "uid": "dl1-08",
+    "t_in": 688.0,
+    "t_out": 707.0,
+    "src": "audio/Shiva_Sutra_Introduction.mp3",
+    "why": "one consciousness shines as all"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-core",
+    "t_in": 270.6,
+    "t_out": 371.7
+   }
+  ],
+  "D": []
+ },
+ "b1_status": "prov"
+}

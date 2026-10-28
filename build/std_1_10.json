@@ -1,0 +1,60 @@
+{
+ "verse": "1.10",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.8-10.mp3",
+ "room_t": 57.6,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 49.0,
+    "t_out": 52.0
+   },
+   {
+    "role": "b2",
+    "t_in": 52.0,
+    "t_out": 57.5
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 146.7,
+    "t_out": 168.9
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 168.9,
+    "t_out": 211.7,
+    "why": "maya/delusion unawareness passage"
+   },
+   {
+    "role": "b",
+    "uid": "ss7-08",
+    "t_in": 2112.0,
+    "t_out": 2156.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "sleep-entry door"
+   },
+   {
+    "role": "b",
+    "uid": "ss8-09",
+    "t_in": 1194.0,
+    "t_out": 1220.5,
+    "src": "audio/arJORd6eRXI.mp3",
+    "why": "individual vs universal void"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-core",
+    "t_in": 350.9,
+    "t_out": 430.1
+   }
+  ],
+  "D": []
+ },
+ "b1_status": "prov"
+}

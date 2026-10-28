@@ -1,0 +1,52 @@
+{
+ "verse": "1.15",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.15.mp3",
+ "room_t": 40.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 47.1,
+    "t_out": 57.0
+   },
+   {
+    "role": "b2",
+    "t_in": 57.0,
+    "t_out": 65.5
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 136.6,
+    "t_out": 174.7
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 147.9,
+    "t_out": 258.1,
+    "why": "his continuation (deep lecture passage)"
+   },
+   {
+    "role": "b",
+    "uid": "ss10-03",
+    "t_in": 1125.0,
+    "t_out": 1176.0,
+    "src": "audio/lfWQfoG23cY.mp3",
+    "why": "real posture = supreme energy of awareness"
+   }
+  ],
+  "C": [
+   {
+    "role": "c-core",
+    "t_in": 526.4,
+    "t_out": 648.2
+   }
+  ],
+  "D": []
+ },
+ "b1_status": "prov"
+}

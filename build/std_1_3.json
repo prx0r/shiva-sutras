@@ -1,0 +1,50 @@
+{
+ "verse": "1.3",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.3.mp3",
+ "room_t": 28.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 16.8,
+    "t_out": 19.0
+   },
+   {
+    "role": "b2",
+    "t_in": 19.0,
+    "t_out": 24.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 24.0,
+    "t_out": 68.7
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 104.3,
+    "t_out": 141.7,
+    "why": "Yoni=cause, sakshat/parampara classes"
+   },
+   {
+    "role": "b",
+    "t_in": 1121.0,
+    "t_out": 1146.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "ss5-03 kala"
+   },
+   {
+    "role": "b-his",
+    "t_in": 350.9,
+    "t_out": 380.0,
+    "why": "Spanda 1.9 by-own-freedom-incapable"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

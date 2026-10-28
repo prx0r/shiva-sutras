@@ -1,0 +1,44 @@
+{
+ "verse": "1.19",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.19.mp3",
+ "room_t": 30.0,
+ "guests": [],
+ "b1_status": "cf",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 33.8,
+    "t_out": 36.9
+   },
+   {
+    "role": "b2",
+    "t_in": 76.9,
+    "t_out": 102.6
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 64.3,
+    "t_out": 76.9
+   },
+   {
+    "role": "a-core2",
+    "t_in": 81.6,
+    "t_out": 95.0
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss11-12",
+    "t_in": 1232.0,
+    "t_out": 1277.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "ceaseless inward identity -> supreme mantra"
+   }
+  ],
+  "C": []
+ }
+}

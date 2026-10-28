@@ -1,8 +1,15 @@
 #!/usr/bin/env python3
 """TTS a line verbatim via Fish (Dyczkowski exact wording only).
-Usage: python3 tools/tts_line.py "<text>" out.wav [speed]
+Usage: python3 tools/tts_line.py "<text>" out.wav [speed] [voice-id]
 TTS_SAY spoken forms apply; display text never changes (we keep the book text
-as the record; the wav is the rendering)."""
+as the record; the wav is the rendering).
+Voices (owner-locked 2026-10-28): Dyczkowski seat = voice THREE
+(ef9c79b62ef34530bf452c0e50e3c260, deep/serious male); Sanskrit seat = canonical
+trio below — PRIMARY Sadhguru, Osho + Gurudeep approved alternates (owner ears:
+all three perfect; Qwen cast 5+5/4/5+5 across two shootouts, whisper corroborates).
+  SANSKRIT_PRIMARY = "37a8fbc200e74961bee0597c3b4e4041"   # Sadhguru
+  SANSKRIT_ALT_Osho = "06134e9a49cb4a36997b75402c8a0621"   # Rajnish Osho
+  SANSKRIT_ALT_Gurudeep = "82926c3143bc4d259fa9834b96897fad"  # guru deep-resonant
 import json
 import os
 import re
@@ -43,13 +50,14 @@ def _fish_key():
 def main():
     text, dst = sys.argv[1], sys.argv[2]
     speed = float(sys.argv[3]) if len(sys.argv) > 3 else 1.0
+    voice = sys.argv[4] if len(sys.argv) > 4 else ""
     for _w, _s in TTS_SAY.items():
         text = text.replace(_w, _s)
     key = _fish_key()
     assert key, "no FISH_API_KEY"
-    body = json.dumps({"model": "fish-audio/s2.1-pro-free",
-                       "input": text, "voice": "",
-                       "response_format": "wav", "speed": speed}).encode()
+    body = json.dumps({"model": "fish-audio/s2.1-pro-free", "input": text,
+                       "voice": voice, "response_format": "wav",
+                       "speed": speed}).encode()
     req = urllib.request.Request(
         "https://api.fish.audio/compat/v1/audio/speech", data=body,
         headers={"Authorization": f"Bearer {key}",

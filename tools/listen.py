@@ -9,7 +9,7 @@ working option (retired omni-turbo line replaced; OpenRouter gpt-audio-mini
 kept as fallback, ~$0.003/pass).
 
 Usage: python3 tools/listen.py <mp3> [prompt-name] [--fallback]
-Prompts: qa, joints, deictics, verify, critic (ratings + advice + verdict).
+Prompts: qa, joints, deictics, verify, critic (ratings + advice + verdict), cast (voice-casting for TTS seats).
 """
 import re, json, urllib.request, urllib.error, base64, sys, os
 
@@ -25,6 +25,7 @@ PROMPTS = {
 "chantcheck": "Transcript sketch first (one line per voice segment: voice + first 8 words). Then flag EVERY moment where a speaker announces they are about to chant, recite, read, sing, or say a verse/text AND the announced thing does not happen within 15 seconds — quote the announcement and describe what actually follows. Also flag any chant/recitation appearing WITHOUT introduction at an odd place (e.g. stranded at the very end). End with NONE if clean.",
 "surgery": "This is ONE isolated clip; judge ONLY its two edges and voice. Report exactly: 1. FIRST3: the first 3 words you hear. 2. LAST3: the last 3 words you hear. 3. HEAD: CLEAN onset / MID-WORD cut / dead air before speech (rough ms). 4. TAIL: COMPLETE sentence / MID-WORD cut / MID-SENTENCE strand / abrupt digital cutoff vs natural decay. 5. VOICE: one line — speaker type, room (dry/close vs hall/reverb), delivery note. 6. VERDICT: CLEAN or CUT (if CUT: extend head by X words/ms and/or tail by X words/ms — be exact). Only what you HEAR; never infer beyond the clip.",
 "critic": "You are the critic. Listen to the whole piece (bells, spoken intros, human Sanskrit chant, synthetic English narration, human lecture clips, pauses). Return EXACTLY: A. Per-section ratings — for the opening, each question-answer cell, each section head: FLOW 1-5 plus one quoted reason. B. TOP 3 FLAWS — quoted location, what is wrong, suggested fix. C. ADVICE — one paragraph: the single change that improves this most. D. VERDICT: FLOW / NO-FLOW with blocking quotes.",
+"cast": "This is ONE isolated TTS sample for voice-casting (single Sanskrit verse, one synthetic voice). Judge ONLY what you hear: 1. HEARD: transcribe it in plain roman letters exactly as spoken. 2. CLARITY 1-5: are the Sanskrit sounds distinct (separate syllables, clean consonants, even pace) or slurred/mumbled/absent? Quote the clearest and the muddiest word. 3. CHARACTER: one line — impression of age/gender and steadiness (noisy/theatrical vs plain). 4. VERDICT: CAST or PASS with the quoted reason. Never infer beyond the clip.",
 }
 
 def _env(key):

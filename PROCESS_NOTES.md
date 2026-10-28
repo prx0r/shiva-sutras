@@ -836,3 +836,27 @@ Content-complete at 0/A/B; owner ears remain the only lock.
 - A-walk (86min): https://h.uguu.se/mpanPjww.mp3 (R2 walk_chall_A.mp3, 41281000 B)
 - B-walk (3h04): https://n.uguu.se/igaadhnX.mp3 (R2 walk_chall_B.mp3, 88429716 B)
 Sizes match disk+R2 byte-for-byte. uguu links expire; R2 copies durable.
+
+### §8p follow-up — voice doctrine (owner ears 2026-10-28)
+Dyczkowski (B1b + TTS gold): voice THREE (Fish ef9c79b62e, deep/serious male) — owner
+picked from 4-sample reel; default voice retired as too female. Sanskrit clarity line:
+SEPARATE voice (round-trips prove Three mangles Sanskrit) — Adrian leads the shootout,
+One backs up; owner ear decides. Intro+bells to be built on walks after voice lock.
+
+### §8p follow-up — Sanskrit shootout round 2 (Qwen cast protocol, 2026-10-28)
+9 voices tested, Qwen cast-ranked per sample + whisper cross-check. Kanha (Hindi male)
+5+5 on both verses ("kaitanyam flawlessly separated"; "tritaya bhokta vire sa" nearest
+to target) — RECOMMENDED. Pandit runner-up (5+4, only one to voice ch- correctly).
+Sadhguru collapsed on the hard verse (5→3, muddy retroflexes). Conversational is
+female (out on owner constraint). Slax/Three/Hindi/Gurudeep/Guruphilo out.
+CALIBRATION: Qwen gave Alex 5/5 yet owner ears reject it as unclear — model clarity
+scores OVERRATE; treat Qwen CAST as shortlist, owner ear as verdict. Verse-1 full-0
+demo built in Kanha (provisional): bowls+bell+intro(voice3)+B1s+B1b+B2.
+
+### §8p follow-up — Sanskrit long-read shootout (Qwen cast ×4, 2026-10-28)
+Four verses per voice. Sadhguru 5/5 (full-transcript near-perfect, deep resonant
+scholarly); Gurudeep 5/5 (every syllable distinct, recitative steadiness); Osho 4/5
+(trail-off ending); Kanha 4/5 (shortened long vowels — drops from short-form 5).
+Qwen cumulative: Sadhguru 5+5 most consistent; Gurudeep 4+5 close second with the
+most chant-like delivery. RECOMMENDED: Sadhguru (owner already likes him), Gurudeep
+backup. Owner ear decides.

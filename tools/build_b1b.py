@@ -8,10 +8,12 @@ Sanskrit-voicing audit: every capitalized non-English token must resolve to
 TTS_SAY or a probed-acceptable form (Maya, Siva), else the verse is DEFERRED.
 Usage: python3 tools/build_b1b.py [verse ...]  (default: all 77)
 Output: audio/gen/tts/b1b_<tag>.wav (-21dB via tts_line.py).
+Voice: owner-locked Dyczkowski seat = voice THREE (tts_line.py header).
 Manifest insertion is separate (insert_b1b step below)."""
 import json, os, re, subprocess, sys
 
 BASE = "/home/ubuntu/shiva-sutras"
+THREE = "ef9c79b62ef34530bf452c0e50e3c260"  # owner-locked Dyczkowski voice (Fish)
 os.chdir(BASE)
 sys.path.insert(0, BASE + "/tools")
 from tts_line import TTS_SAY  # noqa
@@ -77,7 +79,8 @@ def main():
             deferred.append((v, bad, s))
             continue
         dst = BASE + "/audio/gen/tts/b1b_%s.wav" % v.replace(".", "_")
-        r = subprocess.run(["python3", BASE + "/tools/tts_line.py", s, dst],
+        r = subprocess.run(["python3", BASE + "/tools/tts_line.py", s, dst,
+                            "1.0", THREE],
                            capture_output=True, text=True)
         if r.returncode != 0 or not os.path.exists(dst):
             deferred.append((v, ["TTS-FAIL"], s))

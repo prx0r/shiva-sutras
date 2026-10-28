@@ -12,6 +12,13 @@
     "t_out": 20.2
    },
    {
+    "role": "b1b",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/b1b_3_16.wav",
+    "why": "Dyczkowski translation verbatim (Fish)"
+   },
+   {
     "role": "b2",
     "t_in": 20.2,
     "t_out": 32.0

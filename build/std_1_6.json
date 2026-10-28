@@ -15,6 +15,13 @@
     "src": "audio/chant/sharma_siva_sutras_2009.mp3"
    },
    {
+    "role": "b1b",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/b1b_1_6.wav",
+    "why": "Dyczkowski translation verbatim (Fish)"
+   },
+   {
     "role": "b2",
     "t_in": 59.0,
     "t_out": 81.0,

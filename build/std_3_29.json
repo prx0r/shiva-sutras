@@ -13,6 +13,13 @@
     "src": "/home/ubuntu/shiva-sutras/audio/chant/sharma_siva_sutras_2009.mp3"
    },
    {
+    "role": "b1b",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/b1b_3_29.wav",
+    "why": "Dyczkowski translation verbatim (Fish)"
+   },
+   {
     "role": "b2",
     "t_in": 139.2,
     "t_out": 177.5

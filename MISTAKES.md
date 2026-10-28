@@ -294,3 +294,15 @@ real — fix it, don't philosophize about it.
   FLAG, not FAIL; ear session decides). Rule: no B window ships without a
   machine window-vs-unit overlap check (qa_std.py runs in the pre-commit
   path now); "built" means located + verified, never manifested.
+- M38. Template translation extraction was lossy and nobody read the column.
+  block() grabbed adjacent held-text lines as "the translation": 2.3 shipped
+  the single word "Knowledge." for a full-sentence rendering, 1.4/1.21/3.5
+  shipped tails without heads, 3.2 carried a Sanskrit debris head ("jnanatn",
+  itself typo'd) into a field TTS must never voice raw, 3.3 split "Maya" as
+  "May a", 2.5 carried the book's own "ofi" OCR typo (front-listing l.228 has
+  "of"). Found 2026-10-28 by reading all 77 spoken B1b lines cold before
+  rendering. Fixed 7 strings against front-listing/body evidence (scripted,
+  count-asserted); B1b voicing rule recorded in tools/build_b1b.py (paren
+  marks stripped, words kept; "/" cadenced; TTS_SAY + audited-loan gate per
+  line, assert no deferrals). Rule: any column a voice will speak gets a cold
+  read before the first render — extraction heuristics are guilty until read.

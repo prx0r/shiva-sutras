@@ -27,7 +27,7 @@
   "fails": [],
   "flags": [
    "F4 1.4/0#0(b1) ends mid-segment (9.2s stranded): 'thika, to this he puts on Sir, Mathika is the point, Mathika'",
-   "F4 1.4/0#1(b2) ends mid-segment (1.3s stranded): 's Gyanath, Mathika is the chief conductor of this knowledge,'",
+   "F4 1.4/0#2(b2) ends mid-segment (1.3s stranded): 's Gyanath, Mathika is the chief conductor of this knowledge,'",
    "F4 1.4/A#0(a-core) ends mid-segment (14.0s stranded): 'iversal energy is known in a correct way, it is found, it is'"
   ]
  },
@@ -44,7 +44,7 @@
   "status": "sharma",
   "fails": [],
   "flags": [
-   "F3 1.6/0#1(b2) opens on filler 'then' @59.0 (seg 60.0)"
+   "F3 1.6/0#2(b2) opens on filler 'then' @59.0 (seg 60.0)"
   ]
  },
  "1.7": {
@@ -93,7 +93,7 @@
   "fails": [],
   "flags": [
    "F4 1.14/0#0(b1) ends mid-segment (9.4s stranded): 'ایجروراد کسیوڑ ہے'",
-   "F4 1.14/0#1(b2) ends mid-segment (1.3s stranded): 'ایجروراد کسیوڑ ہے'",
+   "F4 1.14/0#2(b2) ends mid-segment (1.3s stranded): 'ایجروراد کسیوڑ ہے'",
    "F4 1.14/A#0(a-core) ends mid-segment (1.6s stranded): 'لیکن تغرز و حقاہ ج interruptions'"
   ]
  },
@@ -101,7 +101,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 1.15/0#1(b2) ends mid-segment (10.0s stranded): 'ind are diverted to the heart, heart means the center of God'"
+   "F4 1.15/0#2(b2) ends mid-segment (10.0s stranded): 'ind are diverted to the heart, heart means the center of God'"
   ]
  },
  "1.16": {
@@ -109,7 +109,7 @@
   "fails": [],
   "flags": [
    "F4 1.16/0#0(b1) ends mid-segment (11.0s stranded): 'f Shiva, or by aiming at pure element of Shiva. Then you aim'",
-   "F4 1.16/0#1(b2) ends mid-segment (18.3s stranded): 'nda, huh? Not established, aiming. When you point, pointing,'",
+   "F4 1.16/0#2(b2) ends mid-segment (18.3s stranded): 'nda, huh? Not established, aiming. When you point, pointing,'",
    "F3 1.16/D#0(d-tangent) opens on filler 'then' @311.2 (seg 311.2)"
   ]
  },
@@ -145,7 +145,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F3 1.22/0#1(b2) opens on filler 'then' @51.6 (seg 51.6)"
+   "F3 1.22/0#2(b2) opens on filler 'then' @51.6 (seg 51.6)"
   ]
  },
  "2.1": {
@@ -165,7 +165,7 @@
   "fails": [],
   "flags": [
    "F4 2.3/0#0(b1) ends mid-segment (7.3s stranded): 'Rehasyam, the secret essence of Mantra, Mantra Rehasyam, the'",
-   "F4 2.3/0#1(b2) ends mid-segment (8.5s stranded): 'stablishment in the body of knowledge of Oneness, Vidyashiri'"
+   "F4 2.3/0#2(b2) ends mid-segment (8.5s stranded): 'stablishment in the body of knowledge of Oneness, Vidyashiri'"
   ]
  },
  "2.4": {
@@ -186,7 +186,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 2.6/0#1(b2) ends mid-segment (19.4s stranded): 'm his disciples, the one who makes his disciples work in his'",
+   "F4 2.6/0#2(b2) ends mid-segment (19.4s stranded): 'm his disciples, the one who makes his disciples work in his'",
    "F3 2.6/A#0(a-core) opens on filler 'so' @71.1 (seg 71.1)",
    "F4 2.6/A#0(a-core) ends mid-segment (8.0s stranded): 't is coated in maal ne Vijatantra, Sagarur, Madsama, Prokto,'"
   ]
@@ -201,7 +201,7 @@
   "fails": [],
   "flags": [
    "F4 2.8/0#0(b1) ends mid-segment (10.7s stranded): 'hakra, matrika-chakra-samboda-wata, for him Shirdi-ram-havi,'",
-   "F4 2.8/0#1(b2) ends mid-segment (4.1s stranded): 'hakra, matrika-chakra-samboda-wata, for him Shirdi-ram-havi,'",
+   "F4 2.8/0#2(b2) ends mid-segment (4.1s stranded): 'hakra, matrika-chakra-samboda-wata, for him Shirdi-ram-havi,'",
    "F4 2.8/A#0(a-core) ends mid-segment (9.0s stranded): 'ness in them, you should establish, remove eye consciousness'"
   ]
  },
@@ -235,7 +235,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F3 3.3/0#1(b2) opens on filler 'then' @207.5 (seg 207.5)"
+   "F3 3.3/0#2(b2) opens on filler 'then' @207.5 (seg 207.5)"
   ]
  },
  "3.4": {
@@ -253,14 +253,14 @@
   "fails": [],
   "flags": [
    "F4 3.6/0#0(b1) ends mid-segment (20.8s stranded): \"hen a yogi's consciousness is covered by the energy of Maya,\"",
-   "F4 3.6/0#1(b2) ends mid-segment (4.8s stranded): \"hen a yogi's consciousness is covered by the energy of Maya,\""
+   "F4 3.6/0#2(b2) ends mid-segment (4.8s stranded): \"hen a yogi's consciousness is covered by the energy of Maya,\""
   ]
  },
  "3.7": {
   "status": "sharma",
   "fails": [],
   "flags": [
-   "F3 3.7/0#1(b2) opens on filler 'then' @391.9 (seg 391.9)"
+   "F3 3.7/0#2(b2) opens on filler 'then' @391.9 (seg 391.9)"
   ]
  },
  "3.8": {
@@ -287,7 +287,7 @@
   "fails": [],
   "flags": [
    "F4 3.11/0#0(b1) ends mid-segment (4.4s stranded): 'نیتperformance سکتیس ارغیم sprayingteni'",
-   "F4 3.11/0#1(b2) ends mid-segment (7.4s stranded): 'ی unsere رایات کرعہی میکنی میکنی میکنی mیکنی ت znajزٍ و Over'"
+   "F4 3.11/0#2(b2) ends mid-segment (7.4s stranded): 'ی unsere رایات کرعہی میکنی میکنی میکنی mیکنی ت znajزٍ و Over'"
   ]
  },
  "3.12": {
@@ -320,7 +320,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.16/0#1(b2) ends mid-segment (5.9s stranded): 'Actually postures, which are explained in yogdarshana,'"
+   "F4 3.16/0#2(b2) ends mid-segment (5.9s stranded): 'Actually postures, which are explained in yogdarshana,'"
   ]
  },
  "3.17": {
@@ -338,7 +338,7 @@
   "fails": [],
   "flags": [
    "F3 3.19/0#0(b1) opens on filler 'then' @15.0 (seg 15.3)",
-   "F3 3.19/0#1(b2) opens on filler 'then' @24.0 (seg 24.5)",
+   "F3 3.19/0#2(b2) opens on filler 'then' @24.0 (seg 24.5)",
    "F4 3.19/A#0(a-core) ends mid-segment (3.2s stranded): 'how that supreme energy of sātantar shaktīr,'"
   ]
  },
@@ -346,7 +346,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.20/0#1(b2) ends mid-segment (5.2s stranded): 'hi, also, in wakefulness, in dreaming state and in dreamless'"
+   "F4 3.20/0#2(b2) ends mid-segment (5.2s stranded): 'hi, also, in wakefulness, in dreaming state and in dreamless'"
   ]
  },
  "3.21": {
@@ -364,7 +364,7 @@
   "fails": [],
   "flags": [
    "F4 3.23/0#0(b1) ends mid-segment (6.3s stranded): 'tkara-mathreva-santrashanasthi, on the contrary, who remains'",
-   "F4 3.23/0#1(b2) ends mid-segment (5.2s stranded): 'at Turya-rasa, which is held or experienced in the entry and'",
+   "F4 3.23/0#2(b2) ends mid-segment (5.2s stranded): 'at Turya-rasa, which is held or experienced in the entry and'",
    "F4 3.23/A#0(a-core) ends mid-segment (8.6s stranded): 'ng state just as we do. He experiences in dreaming state and'"
   ]
  },
@@ -397,7 +397,7 @@
   "status": "sharma",
   "fails": [],
   "flags": [
-   "F3 3.29/0#1(b2) opens on filler 'but' @139.2 (seg 139.2)"
+   "F3 3.29/0#2(b2) opens on filler 'but' @139.2 (seg 139.2)"
   ]
  },
  "3.30": {
@@ -405,7 +405,7 @@
   "fails": [],
   "flags": [
    "F4 3.30/0#0(b1) ends mid-segment (7.3s stranded): ' for him. I say for him sushakti pratyahya. Sumu. Sumu means'",
-   "F4 3.30/0#1(b2) ends mid-segment (5.7s stranded): 'ivity of his own energies. All collective energies are found'",
+   "F4 3.30/0#2(b2) ends mid-segment (5.7s stranded): 'ivity of his own energies. All collective energies are found'",
    "F3 3.30/A#0(a-core) opens on filler 'so' @56.5 (seg 56.5)"
   ]
  },
@@ -423,7 +423,7 @@
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F4 3.33/0#1(b2) ends mid-segment (1.5s stranded): 'In the state of pleasure and in the state of pain,'"
+   "F4 3.33/0#2(b2) ends mid-segment (1.5s stranded): 'In the state of pleasure and in the state of pain,'"
   ]
  },
  "3.34": {
@@ -444,7 +444,7 @@
   "fails": [],
   "flags": [
    "F4 3.36/0#0(b1) ends mid-segment (4.5s stranded): 'again. Then what happens to him? Be the Tiraskare, Sargantar'",
-   "F4 3.36/0#1(b2) ends mid-segment (4.2s stranded): 'll the field of different differentiated perceptions. Be the'"
+   "F4 3.36/0#2(b2) ends mid-segment (4.2s stranded): 'll the field of different differentiated perceptions. Be the'"
   ]
  },
  "3.37": {
@@ -456,7 +456,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.38/0#1(b2) ends mid-segment (5.9s stranded): 'you just insert the absolute bliss of that Turya state,'"
+   "F4 3.38/0#2(b2) ends mid-segment (5.9s stranded): 'you just insert the absolute bliss of that Turya state,'"
   ]
  },
  "3.39": {

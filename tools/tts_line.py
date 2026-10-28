@@ -12,7 +12,10 @@ import urllib.request
 
 BASE = "/home/ubuntu/shiva-sutras"
 TTS_SAY = {"Bhairava": "Bye-ruh-vuh", "bhairava": "bye-ruh-vuh", "Mayiyamala": "Mah-yee-ya-mah-lah", "Ksemaraja": "Kshema-raja", "Kṣemarāja": "Kshema-raja",
-           "caitanya": "chaitanya", "jnanam": "gyanam"}
+           "caitanya": "chaitanya", "jnanam": "gyanam",
+           # B1b probes 2026-10-28 (carrier-sentence + whisper round-trip):
+           # Matrka->"matricca", Kala->"Kala" exact, Susumna->"sushiumna".
+           "Matrka": "Matrika", "Kala": "Kah-lah", "Susumna": "Sushumna"}
 
 
 def _fish_key():

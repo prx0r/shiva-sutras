@@ -264,3 +264,14 @@ real — fix it, don't philosophize about it.
   a script behaves impossibly (clean exit, no output, valid-looking source),
   verify at byte level (`python -c` count on rb-read bytes); rewrite the file
   clean instead of patching it.
+- M36. Hand-set enum without validation drifts silently (b1_status shipped 7
+  spellings for 5 meanings: ok/word/word-verified/prov/sharma/cf/repass).
+  Normalized 2026-10-28 (his-verified/his-prov/sharma/cf-done/cf-owed;
+  cf-set matched the re-pass-done list exactly, so cf→cf-done, lone
+  repass→cf-owed). Same pass caught 4 Standard-B Baumer clips with file+window
+  but no uid (M34-class provenance gap) — all 4 windows verdict CORRECT
+  against their named units (3 exact, 1 containing) with files matching the
+  MP3 map, so uid backfilled instead of relabeled. Rule: enums live in ONE
+  place, asserted at write AND at build (builder now asserts b1_status);
+  cross-file clips without uid are guilty until proven innocent — verdict
+  the window against the unit before adding the uid, never the reverse.

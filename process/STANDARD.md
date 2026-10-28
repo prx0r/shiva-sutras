@@ -75,6 +75,11 @@ Fallbacks, in order: his voicing (default) → Cloudflare large-model
 re-pass for garbled heads → Sharma exact slice, word-verified (mark
 `b1_status: sharma`). Record every window in `build/std_N_N.json`
 (`src`, `room_t` from a measured pause ≥1.2s in the SAME file, `b1_status`).
+`b1_status` is a CLOSED enum, asserted by the builder (M36): `his-verified`
+(his statement, word-verified onset + book/GRETIL form) · `his-prov`
+(located, verification pending) · `sharma` (Sharma exact-slice fallback) ·
+`cf-done` (CF re-pass transcribed, his voicing cleanest there) · `cf-owed`
+(garbled head, re-pass still owed).
 
 ## 5. Stage 4 — Curate (A, then B, then C)
 

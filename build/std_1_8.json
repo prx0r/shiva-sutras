@@ -36,14 +36,16 @@
     "t_in": 815.0,
     "t_out": 855.0,
     "src": "audio/s2cqHsBcsd4.mp3",
-    "why": "ss7-04 ordinary-vs-yogic"
+    "why": "ss7-04 ordinary-vs-yogic",
+    "uid": "ss7-04"
    },
    {
     "role": "b",
     "t_in": 4105.0,
     "t_out": 4136.0,
     "src": "audio/Q-nwDCMripc.mp3",
-    "why": "ss6-23 awareness-continues"
+    "why": "ss6-23 awareness-continues",
+    "uid": "ss6-23"
    }
   ],
   "C": [
@@ -55,5 +57,5 @@
   ],
   "D": []
  },
- "b1_status": "prov"
+ "b1_status": "his-prov"
 }

@@ -85,6 +85,7 @@ the long-form queue with context.)
 | `build_manifests.py` | A/B/C manifests: quote→line-run→word-rate cut stamps, SA-order | the cut lists (re-run after any grade/order change) |
 | `make_l0.py` | SUPERSEDED by make_essence (history) | do not build from this |
 | `make_essence.py` | essence build + production sheet from measured cuts (single source; asserts sheet==master) | standard-compilation essence + `TRACK_F_PRODUCTION.md` |
+| `make_custom_a.py` | Essay-A master (essay-0 cells + section openers + 76 A clips; asserts sheet==master) | Custom LA + `LA_PRODUCTION.md` (SHEET READY) |
 | `validate_sheet.py` | validates ANY production sheet (standard or custom): files exist, durations match, timecodes accumulate, total matches, audit+FX sections present | the sheet is the product — run before any render talk |
 | `flow_lint.py` | deterministic flow checks (runs, joints, longs, repetition, deictic slots, pause inventory) | machine half of peer review — ears decide, never the linter |
 | `validate_sheet.py` | validates ANY production sheet | the sheet is the product — run before any render talk |

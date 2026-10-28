@@ -53,8 +53,8 @@ def audit(v, s, skt):
     """Flag any raw-Sanskrit token reaching TTS without a TTS_SAY spoken form."""
     covered = {fold(k) for k in TTS_SAY}
     # Audited loans: Fish voices these acceptably raw (carrier-probe +
-    # whisper round-trip 2026-10-28: Maya->"Maya", Siva->"Siva").
-    loan = {fold(w) for w in ("Maya", "Siva")}
+    # whisper round-trip 2026-10-28: Maya->"Maya", Siva->"Siva", karma->"karma").
+    loan = {fold(w) for w in ("Maya", "Siva", "karma")}
     bad = []
     for w in re.findall(r"[A-Za-z]{4,}", s):
         if fold(w) in skt and fold(w) not in covered and fold(w) not in loan:

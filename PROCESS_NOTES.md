@@ -816,3 +816,17 @@ B: 184min/88MB), decode-clean, mirrored to R2 (walk_chall_{0,A,B}.mp3).
 B-head qa: joints CLEAN; NO-FLOW verdict DISCOUNTED (essay criteria misapplied to a
 fidelity walk — M28-class wrong-yardstick; no structural defect corroborated, no rebuild).
 Deictic notes ride to the ear session. Full walks await owner ears (the only lock).
+
+### §8p follow-up — cold read: 1.1 + 1.2 0/A/B (2026-10-28, full-proof transcripts)
+1.1 FLOWS: 0 (sutra→translation→gloss, textbook) → A (independence-as-uniting-agency
++ one-in-many cap — the "oh that's it" cut, genuine) → B (sarvasamanya → neti-neti →
+anupaya → her three seals → TTS Varttika+microcosm close). Each block answers the last
+one's implicit question. One texture nit (kept, verbatim): bare "Complete Independence."
+header mid-flow in A-core.
+1.2 FLOWS: 0 (sutra→translation→two-readings gloss) → A (mala-not-dirt, samsara-sprout —
+answers the obstacle question directly) → B (anavamala two ways → devours-both →
+Matrka mechanism → attribution gold → stop-grasping release). Order law holds
+(warmth→precision); 1.1-echo inside B2 ("Chaitanya Mahatma") self-resolves in 5s.
+EAR FLAGS (not rebuilds): (a) 1.2's climax (release instruction) lands in synth voice —
+does it land or deflate? (b) 1.1-echo moment for cold listeners.
+Content-complete at 0/A/B; owner ears remain the only lock.

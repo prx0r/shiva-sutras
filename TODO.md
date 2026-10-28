@@ -18,10 +18,9 @@
    against Muktabodha/KSTS or Jaideva Singh scan; diacritics restored ONLY here.
 
 ### Agent work — Standard C + assembly (no owner input needed)
-4. **C layer per verse.** Full walk: stories + guests (Osho/Hareesh/dl1 with
-   one-line relevance each) + coda (Sharma 267–711s). Order inside C: him,
-   then her, then guests; TTS gold only where no human carries the point.
-   Thin stays thin; rights per `audio/SOURCES.md` (cut-only never redistributes).
+4. **C layer — DROPPED by owner 2026-10-28.** Standard ships as 0/A/B + Sharma coda.
+   (Coda stays: Sharma complete run after the last verse. C-layer manifests already
+   present in 12 verses stay as built, no extension.)
 5. **Full assembly.** Per-verse proofs → 0, then A, then B, C concatenations
    in verse order (0/0A assessments first); sheet asserts sheet==master every
    render (M24); R2 mirror + HEAD-verify; disk at 98% — clean intermediates

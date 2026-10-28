@@ -387,3 +387,11 @@ real — fix it, don't philosophize about it.
   (3) sed misses comma-form paths (`os.path.join(BASE, "audio", "gen",
   "custom_a_cuts")` survived a slash-form rewrite — grep both forms, plus globs,
   after any path migration).
+- M44. Template carried a DUPLICATE translation (3.35 voiced 3.36's line). `block()`
+  grabbed adjacent held-text lines as "the translation" and nobody diffed the column
+  for uniqueness — the M38 cold read caught 7 defects but not this one (it read lines,
+  never compared them). Caught 2026-10-28 by a token-audit for TTS Sanskrit exposure
+  (the only unresolved token, karma, sat in the duplicated line). Fixed vs held
+  front-listing l.4977, B1b re-rendered + proof rebuilt. Rules: (1) uniqueness check
+  belongs wherever extraction fills a column (dup scan after every template rebuild);
+  (2) token-audits pull double duty — they catch content bugs, not just voice bugs.

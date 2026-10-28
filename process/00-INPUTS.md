@@ -25,6 +25,10 @@
   14 files, ~13.6k lines). YT rolling-cue dupes merged at build
   (extend-on-prefix, skip-on-contained); CF-whisper JSONs for sessions
   without captions (`cf/`, PID-unique temps, 600 s chunks).
+- Word-level timing is REQUIRED, not optional (M40): line stamps lag or lead
+  speech by seconds, and every downstream cut inherits the error. Transcribe
+  (or re-align) with word timestamps from the start; interpolation is an
+  estimate and never a cut point.
 - IDs + transcript status per session in `MANIFEST.json`. Regenerating
   anything starts there.
 

@@ -5,6 +5,14 @@ knows what is here, where it came from, and what it is FOR. Order of the
 voice stack (Video 1 → Video 2): **chant → card/TTS → Baumer → Dyczkowski +
 podcast where it fits**.
 
+## gen/sfx/ — signal kit (ported 2026-10-28 from vatulanatha/sfx/, royalty-free sources)
+| file | what | use |
+|---|---|---|
+| `bowls_intro.wav` | singing-bowl swell→strike→decay 12.76s (mono re-encode of kit stereo) | program open |
+| `long_break_bell.wav` | section bell, 4.7s strike+decay (mono) | section motto + close |
+| `room_*.wav` | lecture-room tone pads (cut from Baumer lecture gaps, same durations as v1 digital) | breath/gap/tbeat/water/xl — no digital silence anywhere |
+| kit spares (`bell_ding`, `block_*`) | copied, unused | future emphasis marks |
+
 ## chant/ — Sanskrit recitation sources
 | file | what | provenance | rights | use |
 |---|---|---|---|---|

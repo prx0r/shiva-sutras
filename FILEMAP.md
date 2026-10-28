@@ -89,7 +89,8 @@ the long-form queue with context.)
 | `validate_sheet.py` | validates ANY production sheet (standard or custom): files exist, durations match, timecodes accumulate, total matches, audit+FX sections present | the sheet is the product — run before any render talk |
 | `flow_lint.py` | deterministic flow checks (runs, joints, longs, repetition, deictic slots, pause inventory) | machine half of peer review — ears decide, never the linter |
 | `validate_sheet.py` | validates ANY production sheet | the sheet is the product — run before any render talk |
-| `listen.py` | Qwen omni ears (qa/critic/joints/deictic/verify/audit modes) | model QA per LISTENING.md — findings need corroboration |
+| `recut_sentence.py` | sentence-complete + silence-snapped re-cut of A windows (expansion-only, containment asserts) | run after ANY manifest touch, before rebuild (M39) |
+| `listen.py` | Qwen omni ears (qa/critic/joints/deictic/verify/audit/surgery/chantcheck modes) | model QA per LISTENING.md — findings need corroboration |
 | `tts_scan.py` | no raw Sanskrit through TTS (stoplist + spoken-form map) | run after any TTS line/key change |
 | `deictic_check.py` | antecedent surfacing from transcript text | FLOW_REVIEW Q4 evidence, per cut |
 | `visual_prototype_v0.py` | static split-screen prototype (S1-1 card left + 01-stages right, 1920×1080) | layout-lock reference (R2 `journey/shiva-s1-1-v0.mp4`) |

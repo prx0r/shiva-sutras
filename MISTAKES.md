@@ -306,3 +306,41 @@ real — fix it, don't philosophize about it.
   marks stripped, words kept; "/" cadenced; TTS_SAY + audited-loan gate per
   line, assert no deferrals). Rule: any column a voice will speak gets a cold
   read before the first render — extraction heuristics are guilty until read.
+- M39. Quote-tight is not ear-tight; shipped a listen master with zero ear passes.
+  Manifest windows locate quotes (minimal span, word-rate time) — correct for
+  STAGE 7, wrong as final cuts. The pipeline went manifest → render with no
+  sentence-complete/silence-snap pass (the "pause-snap" step existed on paper,
+  never ran as a batch), and the agent uploaded without listening once —
+  violating AXIOM 10 ("ears sign off or it doesn't ship"). Owner ear verdict:
+  terrible — flat sine bell, a head clip promising chant it doesn't deliver,
+  ~20 mid-sentence cut-offs in section 1 alone (Qwen qa: NO-FLOW). Repaired:
+  `tools/recut_sentence.py` (quote-anchored run → sentence boundaries →
+  silencedetect snap, expansion-only with containment asserts) over all 76 A
+  clips; vatulanatha sfx kit ported (bowls/long_break_bell/block, room-tone
+  pads, no digital silence); promise-clips removed from listen masters; Fish-only
+  TTS (espeak fallback deleted — outages fail loud instead of shipping robot
+  voices). Rules, now load-bearing: (1) no master uploads without a listen pass
+  on the assembled audio (per-section joints minimum; qa sample before any link
+  goes out); (2) any manifest touch re-runs the re-cut before rebuild;
+  (3) no clip may promise what the build doesn't deliver within earshot
+  (checked by the chantcheck preset); (4) TTS engine is Fish-only, no fallback
+  voices — a silent engine swap is a defect, not resilience.
+- M40. Transcript timestamps are not speech timestamps (the 2–4s caption lag).
+  Words were right; times were wrong: YT rolling captions stamp appearance, not
+  speech (dedup keeps first-seen stamps); whisper-base segments are 15–30s chunks
+  and `locate()` interpolates words at a flat 2.7 wps (real speech: 1.5–4 wps +
+  pauses, error compounds). Silence-snap then "corrected" to the wrong pause
+  (rhetorical mid-sentence pause instead of the sentence end 4s later), and no
+  gate ever checked a cut against audio — surgery found heads/tails off by whole
+  words on quote-verbatim units (c1_cell missing its thesis sentence for two
+  shipped versions). Transcription was never the problem; unmeasured timing was.
+  Rules: (1) transcribe with word timestamps from the start (`word_timestamps`,
+  or whisperx/align for drift) — cut on MEASURED word boundaries, never
+  interpolated ones (interpolation is an estimate: SKILLS locate, M12 family);
+  (2) every build runs automated cut-verification (transcribe each cut's edges,
+  assert first/last words == unit quote; the hand spot-check is now a gate,
+  not a favour); (3) the surgery preset (`tools/listen.py`) is the standard ear
+  protocol — per-clip FIRST3/LAST3/HEAD/TAIL/VERDICT, corroborate every CUT
+  against transcript+waveform before rebuilding, re-verify after. ~99% comes
+  from measured timing + machine verification; ears close the last mile (taste,
+  room, pacing). Never claim more.

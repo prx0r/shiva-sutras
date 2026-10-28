@@ -101,21 +101,21 @@ def _fish_tts(text, dst, speed=1.0):
 TTS_SAY_SPEED = 1.0  # default; P lines use 1.12 (brisker summary delivery)
 
 def tts(text, dst, speed=1.0):
-    if os.path.exists(dst):
+    # Fish-only (owner rule 2026-10-28): no fallback voices. A Fish outage
+    # fails loud instead of shipping robot voices into the build.
+    # Text-hash sidecar defeats stale-cache reuse (M24): same file + new text = re-render.
+    tag = os.path.join(os.path.dirname(dst), "." + os.path.basename(dst) + ".txt")
+    if os.path.exists(dst) and os.path.exists(tag) and open(tag).read() == text:
         return
-    if _fish_tts(text, dst, speed):
-        mean, mx = _levels(dst)  # uniform -21dB mean on ALL speech (Fish speed shifts energy)
-        if mean is not None:
-            g = max(-12.0, min(12.0, min(-21.0 - mean, -1.5 - mx)))
-            sh(["ffmpeg", "-v", "error", "-y", "-i", dst,
-                "-af", f"volume={g:.1f}dB", dst + ".n.wav"])
-            os.replace(dst + ".n.wav", dst)
-        return
-    raw = dst + ".raw.wav"
-    sh(["espeak", "-v", "en", "-s", "150", "-w", raw, text])
-    sh(["ffmpeg", "-v", "error", "-y", "-i", raw,
-        "-af", "aresample=44100,aformat=channel_layouts=mono", dst])
-    os.remove(raw)
+    assert _fish_tts(text, dst, speed), "Fish TTS failed for: %s" % text[:60]
+    open(tag, "w").write(text)
+    mean, mx = _levels(dst)  # uniform -21dB mean on ALL speech (Fish speed shifts energy)
+    if mean is not None:
+        g = max(-12.0, min(12.0, min(-21.0 - mean, -1.5 - mx)))
+        sh(["ffmpeg", "-v", "error", "-y", "-i", dst,
+            "-af", f"volume={g:.1f}dB", dst + ".n.wav"])
+        os.replace(dst + ".n.wav", dst)
+    return
 
 def silence(d, dst):
     if os.path.exists(dst):
@@ -155,10 +155,10 @@ def hms(h, m, s):
 
 # (chant_in, chant_out, baumer_sess, [(in,out)], Q, T, P, cell_note)
 CELLS = [
-    (266.4, 270.4, "ss3", [(hms(1,19,45), hms(1,19,55)), (hms(1,20,26), hms(1,20,32))],
+    (266.4, 270.4, "ss3", [(hms(1,19,41), hms(1,19,55)), (hms(1,20,26), 4829.3)],
      "What is consciousness?", "Consciousness is the Self.", "consciousness is the self",
      "universal/not-doing"),
-    (270.4, 275.9, "ss4", [(hms(0,33,5), hms(0,33,18)), (hms(0,33,36), hms(0,34,6))],
+    (270.4, 275.9, "ss4", [(hms(0,33,5), hms(0,33,18)), (hms(0,33,36), 2047.0)],
      "What keeps consciousness from being realised?", "Knowledge is bondage.", "knowledge is bondage",
      "[FLAG] G12 exception STANDS (42s single clip): keep-whole words; antecedent adjacent; crossfaded; no-split decision 2026-10-26 — split would add water without shortening the part and widen dead-air surface; drag is ear-territory"),
     (282.7, 287.1, "ss12", [(hms(0,20,18), hms(0,20,30))],
@@ -238,16 +238,15 @@ def main():
                 ["-filter_complex", filt, "-map", "[aout]", cp])
             cell_files.append(cp)
 
-    # program order
-    seq = ["bell880.wav", "xl5.wav"]
+    # program order (SFX grammar v2, 2026-10-28: vatulanatha kit —
+    # bowls open, long_break_bell section doorways, bell+stilling close.
+    # Spoken Sharma heads REMOVED from listen path (M39: head promised chant
+    # the build doesn't deliver within earshot); doorway = bell + water.
+    # Room-tone pads replaced digital silence in place (same durations).
+    seq = ["bowls_intro.wav"]
     order = [("S1", [0, 1, 2, 3]), ("S2", [4]), ("S3", [5])]
     for sec, idxs in order:
-        s = sec.lower()
-        # heads are DOORWAYS (bell + human frame + water) — never cards.
-        # Card T/P live in cells where the question primes them; head cards
-        # duplicated the cell cards ~15s later (Qwen pass: "same sentence
-        # twice"). Seed chant plays once per verse, in its cell.
-        seq += ["bell880.wav", f"head_{s}_intro.wav", "water.wav"]
+        seq += ["long_break_bell.wav", "water.wav"]
         for k in idxs:
             tag = f"c{k+1}"
             br = "breath3.wav" if tag in ("c4", "c5") else "breath.wav"
@@ -256,7 +255,7 @@ def main():
             seq += [f"{tag}_q.wav", br, f"{tag}_chant.wav",
                     f"{tag}_t.wav", "tbeat.wav"] + _pp + ["gap.wav",
                     os.path.basename(cell_files[k]), "water.wav"]
-    seq += ["xl6.wav"]
+    seq += ["long_break_bell.wav", "xl6.wav"]
     open(f"{CUTS}/essence.txt", "w").write("".join(f"file '{f}'\n" for f in seq))
     sh(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0",
         "-i", f"{CUTS}/essence.txt", "-af", "loudnorm=I=-16:TP=-1.5:LRA=11",
@@ -264,96 +263,61 @@ def main():
     sh(["ffmpeg", "-v", "error", "-y", "-i", f"{BASE}/audio/gen/essence_v1.wav",
         "-codec:a", "libmp3lame", "-q:a", "2", f"{BASE}/audio/gen/essence_v1.mp3"])
 
-    # production sheet with MEASURED timecodes
+    # production sheet with MEASURED timecodes (mirrors seq exactly)
     L = []
     L.append("# TRACK F — PRODUCTION SHEET (essence cut: 3 Lights, 6 seeds)")
     L.append("")
-    L.append("Generated by `tools/make_essence.py` — timecodes measured from the actual intermediates. Re-run regenerates audio AND sheet together. [COM] = internal direction, [FX] = sound effect, [XL] = extra-long pause, [FLAG] = ear-session decision. G12: cells ≤25s.")
+    L.append("Generated by `tools/make_essence.py` — timecodes measured from the actual intermediates. Re-run regenerates audio AND sheet together. SFX grammar v2 (vatulanatha kit): bowls open, long_break_bell section doorways, bell+stilling close. Room-tone pads (same durations as v1 digital). [FLAG] = ear-session decision. G12: cells ≤25s.")
     L.append("")
     L.append("| # | t_in | dur | cue | voice | notes |")
     L.append("|---|---|---|---|---|---|")
     t = 0.0
     n = 0
     notes = {
-        "bell880.wav": ("—", "motto"),
-        "xl5.wav": ("—", "[XL] settle-in pause"),
+        "bowls_intro.wav": ("—", "program open; singing-bowl swell→strike→decay (vatulanatha kit)"),
+        "long_break_bell.wav": ("—", "section doorway bell, 4.7s strike+decay (vatulanatha kit)"),
         "xl6.wav": ("—", "[XL] terminal stilling, no climax"),
-        "breath.wav": ("—", "2-breath 2.5s; SOFT joint after Q (tongue-switch) — do not lengthen"),
-        "breath3.wav": ("—", "3-breath 3.0s for long Qs (c4 S4, c5 S5) — parse time before card"),
+        "breath.wav": ("—", "2-breath 2.5s room tone; SOFT joint after Q (tongue-switch) — do not lengthen"),
+        "breath3.wav": ("—", "3-breath 3.0s room tone for long Qs (c4 S4, c5 S5) — parse time before card"),
         "tbeat.wav": ("—", "1s T-landing beat; translation lands before plain"),
-        "gap.wav": ("—", "1.2s; SOFT joint: robot→human next — fades + room-tone at ship"),
-        "water.wav": ("—", "section water"),
+        "gap.wav": ("—", "1.2s room tone; SOFT joint: TTS→human next"),
+        "water.wav": ("—", "section water (room tone)"),
     }
-    def cue(f, voice=None, note=None):
-        nonlocal t, n
+    VOICE = {"_q.wav": "TTS", "_chant.wav": "Sharma", "_t.wav": "TTS", "_p.wav": "TTS"}
+    for f in seq:
         n += 1
         d = dur(os.path.join(CUTS, f))
-        v, nn = notes.get(f, (voice or "", note or ""))
-        if voice:
-            v = voice
-        if note:
-            nn = note
+        v, nn = notes.get(f, ("", ""))
+        for suf, vv in VOICE.items():
+            if f.endswith(suf):
+                v = vv
+                break
+        if f.startswith("c") and "_b" in f or f.startswith("c") and f.endswith("cell.wav"):
+            v, nn = "Baumer", "seed cell"
         L.append(f"| {n} | {t:07.2f} | {d:5.2f} | `{f}` | {v} | {nn} |")
         t += d
-    cnotes = [
-        (None, None, "program open; [FX] downbeat TBD under tail"),
-        (None, None, None),
-    ]
-    # open
-    n += 1; d = dur(f"{CUTS}/bell880.wav")
-    L.append(f"| {n} | {t:07.2f} | {d:5.2f} | `bell880.wav` | — | program open; [FX] downbeat TBD under tail |"); t += d
-    n += 1; d = dur(f"{CUTS}/xl5.wav")
-    L.append(f"| {n} | {t:07.2f} | {d:5.2f} | `(silence)` | — | [XL] settle-in pause |"); t += d
-    sec_of = {0: "S1", 1: "S1", 2: "S1", 3: "S1", 4: "S2", 5: "S3"}
-    order2 = [("S1", [0, 1, 2, 3]), ("S2", [4]), ("S3", [5])]
-    for sec, idxs in order2:
-        s = sec.lower()
-        cue("bell880.wav", "—", f"{sec} head motto")
-        cue(f"head_{s}_intro.wav", "Sharma", "section frame, human voice — the doorway (no card here; cards live in cells where Q primes them)")
-        n += 1
-        L.append(f"| {n} | {t:07.2f} | — | card rows S→T→P | text only | head carries no card audio — bell+intro+water only (anti-echo rule); full card lives in manifests + on screen + in each cell |")
-        cue("water.wav", "—", "head water")
-        for k in idxs:
-            tag = f"c{k+1}"
-            cue(f"{tag}_q.wav", "TTS", "spine question")
-            cue("breath3.wav" if tag in ("c4", "c5") else "breath.wav")
-            cue(f"{tag}_chant.wav", "Sharma", "[FX] downbeat TBD at start; chant")
-            cue(f"{tag}_t.wav", "TTS", "comprehension landing — OK joint")
-            cue("tbeat.wav", "—", "1s landing beat; translation lands before plain")
-            _ct, _cp = CELLS[k][5], CELLS[k][6]
-            if _plays_p(_ct, _cp):
-                cue(f"{tag}_p.wav", "TTS", "plain ADDS meaning — spoken")
-            else:
-                n += 1
-                L.append(f"| {n} | {t:07.2f} | — | `(plain row)` | text only | P=T verbatim — single voicing (anti-echo rule); row lives in manifest + on screen, never spoken |")
-            cue("gap.wav")
-            cue(os.path.basename(cell_files[k]), "Baumer", CELLS[k][7])
-            cue("water.wav")
-    n += 1; d = dur(f"{CUTS}/xl6.wav")
-    L.append(f"| {n} | {t:07.2f} | {d:5.2f} | `(silence)` | — | [XL] terminal stilling, no climax |"); t += d
     L.append("")
     L.append(f"**Total runtime: {t/60:.1f} min ({t:.0f}s). Rendered master must match within 1s.**")
     L.append("")
     L.append("## Handover audit (voice-to-voice joints)")
     for line in [
-        "- bell→Q/intro: OK (motto grammar).",
-        "- Q→breath→chant: SOFT — English question answered in Sanskrit; breath 2.5s (3.0s for long Qs c4/c5), comprehension lands at T. Never lengthen beyond spec or the question strands.",
+        "- bowls→cells: OK (swell→strike→decay settles before Q; no promise made).",
+        "- bell→Q: OK (motto grammar; long_break_bell 4.7s strike+decay).",
+        "- Q→breath→chant: SOFT — English question answered in Sanskrit; room-tone breath 2.5s (3.0s for long Qs c4/c5), comprehension lands at T. Never lengthen beyond spec or the question strands.",
         "- chant→T: OK — same verse, two tongues; the translation moment.",
         "- T→P: OK — one card, one voice.",
-        "- P→gap→Baumer: SOFT — timbre + room jump (espeak dry → lecture room); 1.2s gap + 0.15s fades now, room-tone beds at ship.",
+        "- P→gap→Baumer: SOFT — timbre + room jump (Fish studio → lecture room); 1.2s room-tone gap + 0.15s fades.",
         '- c1 internal two-span concat (31s source gap removed): OK-text (flow-read passed, ends on "is there"); ear-verify.',
         "- Baumer→water→next: OK except flagged long-cells.",
-        "- Sharma intro→card: OK — human frames, TTS lands the card.",
     ]:
         L.append(line)
     L.append("")
-    L.append("## FX + pause vocabulary (samples TBD — vatulanatha sfx kit first call)")
+    L.append("## FX + pause vocabulary (vatulanatha kit, copied to audio/gen/sfx/ — credit SOURCES)")
     for line in [
-        "- motto-bell 880Hz/2.5s: program + Light heads (cut, in hand).",
-        "- downbeat TBD: low wood-block under first Sanskrit word of each chant (6 placements).",
-        "- breath 2.5s / breath3 3.0s / tbeat 1.0s / gap 1.2s / water 2.5s (cuts, in hand).",
-        "- XL settle 5s (program open), XL terminal 6s (S3 tail).",
-        "- zoom-bell 220Hz/6.0s: NOT in essence cut (single layer) — layers build only.",
+        "- bowls_intro 12.76s: program open (swell→strike 6.5s→decay).",
+        "- long_break_bell 4.7s: section doorways (strongest strike, 4.6s decay).",
+        "- breath 2.5s / breath3 3.0s / tbeat 1.0s / gap 1.2s / water 2.5s: room-tone pads (same durations as v1 digital).",
+        "- XL terminal 6s (tail). zoom-bell 220Hz/6.0s: NOT in essence cut (single layer).",
     ]:
         L.append(line)
     open(f"{BASE}/build/TRACK_F_PRODUCTION.md", "w").write("\n".join(L) + "\n")

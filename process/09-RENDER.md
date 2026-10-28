@@ -7,9 +7,13 @@ both compilations. TTS placeholders → cuts → concat → loudnorm → listen.
 
 ## Preconditions (all verified before a single cut)
 Text gates green (verify N/0, G0, plain MATCH, totals reconcile);
-manifests cut with every stamp located; TTS lines scanned (no dead air,
-no orphaned punctuation, English-first, traceable to card/key/bridge);
-every cut file exists; pause-snap done; EAR_CHECK list ready.
+manifests cut with every stamp located; re-cut to sentence-complete,
+silence-snapped bounds after ANY manifest touch (`tools/recut_sentence.py`,
+M39); automated cut-verification green (cut edges transcribed, first/last
+words == unit quote, M40); TTS lines scanned (no dead air, no orphaned
+punctuation, English-first, traceable to card/key/bridge); every cut file
+exists; pause-snap done; EAR_CHECK list ready. Fish-only TTS (no fallback
+engine — outages fail loud, M39).
 
 ## Assembly (`tools/make_audio.py` pattern; prototype: `tools/make_l0.py`)
 1. TTS once: questions, Sanskrit lines, translations, plains → `gen/`.
@@ -31,3 +35,8 @@ closure tests (does each section land where its question expects?),
 cough cover (micro-cut ±0.3 s or breath bed — hunt, don't sweep).
 Ears sign off or it doesn't ship. TTS engine swaps (placeholder → Fish →
 human) change files, never layout: block order is engine-independent.
+No master uploads without a listen pass on the assembled audio (per-section
+joints minimum; qa sample before any link goes out — M39). The surgery
+preset (`tools/listen.py`: FIRST3/LAST3/HEAD/TAIL/VOICE/VERDICT) is the
+standard per-clip protocol: corroborate every CUT against transcript +
+waveform, fix, re-verify the fixed clip before rebuilding the master.

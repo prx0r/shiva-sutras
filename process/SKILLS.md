@@ -7,6 +7,12 @@ word-index → time at ~2.7 wps anchored to real stamps; completeness +
 padding bounds (tin + W/3.6 + 0.4 ≤ tout ≤ tin + W/2.0 + 5.5). Skips
 caption-lag dead zones by starting the search at the unit window −120 s.
 Reference: `tools/build_manifests.py` `locate()`.
+M40: interpolation is an ESTIMATE, never a cut point. Transcript stamps lag
+or lead speech by seconds (rolling captions stamp appearance; whisper-base
+segments span 15–30s; real rate is 1.5–4 wps + pauses). Transcribe with word
+timestamps from the start and cut on MEASURED word boundaries; every build
+then runs automated cut-verification (cut edges transcribed, first/last
+words == unit quote) before any ear pass is even scheduled.
 
 ## Dual normalization (verifier must match the source's format)
 YT/CF captions keep punctuation → strip it both sides. SRT-style

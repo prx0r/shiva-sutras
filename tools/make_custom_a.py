@@ -23,7 +23,7 @@ def main():
     CUTS = E.CUTS
     A = os.path.join(BASE, "audio", "gen", "custom_a_cuts")
     os.makedirs(A, exist_ok=True)
-    seq = ["bell880.wav", "xl5.wav"]
+    seq = ["bowls_intro.wav"]
     sheet = []
     t = 0.0
     n = 0
@@ -53,7 +53,7 @@ def main():
             # single-span cells keep the span file (no _cell built)
             bi, bo = CELLS[s - 1][3][0]
             cp = f"{tag}_b0_{int(bi)}-{int(bo)}.wav"
-        seq += ["bell880.wav", f"{tag}_q.wav", br, f"{tag}_chant.wav",
+        seq += ["long_break_bell.wav", f"{tag}_q.wav", br, f"{tag}_chant.wav",
                 f"{tag}_t.wav", "tbeat.wav"]
         pp = [f"{tag}_p.wav"] if plays_p(tr, pl) else []
         seq += pp + ["gap.wav", cp, "water.wav"]
@@ -68,7 +68,7 @@ def main():
             E.cut(src, b["t_in"], b["t_out"], dst)
             seq += [os.path.basename(dst), "gap.wav"] if i < len(beats) - 1 else [os.path.basename(dst)]
         seq += ["water.wav"]
-    seq += ["xl6.wav"]
+    seq += ["long_break_bell.wav", "xl6.wav"]
 
     # resolve to CUTS-relative or absolute for concat
     Ux = []
@@ -114,7 +114,7 @@ def main():
              % (tt / 60, tt))
     L.append("")
     L.append("## Handover audit (voice-to-voice joints)")
-    L.append("- bell→Q: OK (motto grammar). Q→breath→chant: SOFT (tongue-switch).")
+    L.append("- bell→Q: OK (long_break_bell motto). Q→breath→chant: SOFT (tongue-switch).")
     L.append("- chant→T: OK (same verse, two tongues). T→P: OK or single-voiced (anti-echo rule).")
     L.append("- P→gap→archive voice: SOFT (timbre jump; fades + gap at ship).")
     L.append("- Archive→archive joins: audited in JOIN_AUDIT (55 OK / 9 SOFT / 0 WEAK at text level).")
@@ -122,7 +122,7 @@ def main():
     L.append("  S2 Brahma-anchor glue; S4 iccha lever (demote candidate); S6 weight watch.")
     L.append("")
     L.append("## FX + pause vocabulary")
-    L.append("- motto-bell 880Hz/2.5s per section; breath 2.5s (3.0s c4/c5); tbeat 1.0s;")
+    L.append("- long_break_bell 4.7s section motto; breath 2.5s (3.0s c4/c5); tbeat 1.0s;")
     L.append("  gap 1.2s; water 2.5s; XL settle 5.0s open, terminal 6.0s close.")
     L.append("")
     L.append("## FLAGs (open, ear-session)")

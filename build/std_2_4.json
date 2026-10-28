@@ -1,0 +1,47 @@
+{
+ "verse": "2.4",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 2.4.mp3",
+ "room_t": 12.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 20.2,
+    "t_out": 28.0
+   },
+   {
+    "role": "b2",
+    "t_in": 28.0,
+    "t_out": 41.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 41.8,
+    "t_out": 76.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss11-20",
+    "t_in": 3042.0,
+    "t_out": 3103.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "three merge: mind, deity, mantra"
+   },
+   {
+    "role": "b",
+    "uid": "ss12-22",
+    "t_in": 2618.0,
+    "t_out": 2634.0,
+    "src": "audio/r5wTwUNVYOo.mp3",
+    "why": "mudravirya: final expression of mantra power"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

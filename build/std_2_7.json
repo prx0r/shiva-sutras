@@ -1,0 +1,47 @@
+{
+ "verse": "2.7",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 2.7 part 2.mp3",
+ "room_t": 2660.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 2671.4,
+    "t_out": 2675.4
+   },
+   {
+    "role": "b2",
+    "t_in": 2682.0,
+    "t_out": 2691.2
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 2732.6,
+    "t_out": 2753.1
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss11-11",
+    "t_in": 880.0,
+    "t_out": 908.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "mantra-power from awareness of consciousness"
+   },
+   {
+    "role": "b",
+    "uid": "ss11-07",
+    "t_in": 2717.0,
+    "t_out": 2752.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "realized yogi utterance becomes mantra"
+   }
+  ],
+  "C": []
+ }
+}

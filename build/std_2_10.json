@@ -1,0 +1,47 @@
+{
+ "verse": "2.10",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 2.10.mp3",
+ "room_t": 12.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 0.0,
+    "t_out": 3.1
+   },
+   {
+    "role": "b2",
+    "t_in": 3.1,
+    "t_out": 10.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 47.6,
+    "t_out": 80.1
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss7-04",
+    "t_in": 815.0,
+    "t_out": 855.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "ordinary vs yogic: same states, different level"
+   },
+   {
+    "role": "b",
+    "uid": "ss11-12",
+    "t_in": 1232.0,
+    "t_out": 1277.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "ceaseless inward identity -> supreme mantra"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

@@ -1,0 +1,45 @@
+{
+ "verse": "2.9",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 2.9.mp3",
+ "room_t": 10.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 3.4,
+    "t_out": 4.6
+   },
+   {
+    "role": "b2",
+    "t_in": 4.6,
+    "t_out": 8.2
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 12.7,
+    "t_out": 27.7
+   }
+  ],
+  "B": [
+   {
+    "role": "b-his",
+    "t_in": 136.9,
+    "t_out": 171.3,
+    "why": "his continuation (deep lecture passage)"
+   },
+   {
+    "role": "b",
+    "uid": "ss5-25",
+    "t_in": 3239.0,
+    "t_out": 3262.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "verbalizing = limited knowledge (language binds)"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

@@ -1,0 +1,47 @@
+{
+ "verse": "2.1",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 2.1.mp3",
+ "room_t": 120.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 207.1,
+    "t_out": 213.0
+   },
+   {
+    "role": "b2",
+    "t_in": 213.0,
+    "t_out": 229.1
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 148.5,
+    "t_out": 181.4
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss11-26",
+    "t_in": 2957.0,
+    "t_out": 2977.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "citta itself is mantra, reflecting agency"
+   },
+   {
+    "role": "b",
+    "uid": "ss11-16",
+    "t_in": 2605.0,
+    "t_out": 2687.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "2.1 double-gloss: mind is mantra or mantra is mind"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

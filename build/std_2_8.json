@@ -1,0 +1,52 @@
+{
+ "verse": "2.8",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 2.8.mp3",
+ "room_t": 40.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 1.4,
+    "t_out": 6.4
+   },
+   {
+    "role": "b2",
+    "t_in": 6.4,
+    "t_out": 13.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 63.5,
+    "t_out": 81.5
+   },
+   {
+    "role": "a-core2",
+    "t_in": 100.8,
+    "t_out": 125.8
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss12-12",
+    "t_in": 3661.0,
+    "t_out": 3683.0,
+    "src": "audio/r5wTwUNVYOo.mp3",
+    "why": "offer body into fire; ego needs support"
+   },
+   {
+    "role": "b",
+    "uid": "ss1-14",
+    "t_in": 1490.0,
+    "t_out": 1511.0,
+    "src": "audio/c1l1RgloZBs.mp3",
+    "why": "awareness is the sacrificial ladle"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

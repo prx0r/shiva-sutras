@@ -1,0 +1,47 @@
+{
+ "verse": "2.2",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 2.2.mp3",
+ "room_t": 38.0,
+ "guests": [],
+ "b1_status": "cf",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 1.0,
+    "t_out": 5.0
+   },
+   {
+    "role": "b2",
+    "t_in": 5.0,
+    "t_out": 22.3
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 65.5,
+    "t_out": 87.9
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss11-05",
+    "t_in": 3023.0,
+    "t_out": 3038.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "devotee mind becomes mantra"
+   },
+   {
+    "role": "b",
+    "uid": "ss5-27",
+    "t_in": 2670.0,
+    "t_out": 2683.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "vishvanti: moment of rest overcomes binding power"
+   }
+  ],
+  "C": []
+ }
+}

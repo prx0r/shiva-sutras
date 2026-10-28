@@ -3,13 +3,14 @@
  "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.11.mp3",
  "room_t": 30.0,
  "guests": [],
- "b1_status": "cf-done",
+ "b1_status": "sharma",
  "layers": {
   "0": [
    {
     "role": "b1",
-    "t_in": 16.4,
-    "t_out": 25.0
+    "t_in": 501.8,
+    "t_out": 504.8,
+    "src": "audio/chant/sharma_siva_sutras_2009.mp3"
    },
    {
     "role": "b1b",

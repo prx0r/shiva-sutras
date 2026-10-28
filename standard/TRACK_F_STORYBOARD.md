@@ -258,12 +258,12 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: —
 
-### S3-11 · `Preksakani indriyani` · chant [504.3s → 509.5s]
+### S3-11 · `Preksakani indriyani` · chant [501.8s → 504.8s] (Sharma exact slice, word-measured 2026-10-28; v1 [504.3→509.5] HELD 3.11-tail + 3.12 — corrected)
 - B2 readout: T: "The spectators are the senses."
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: —
 
-### S3-12 · `Dhivasat Sattvasiddhih` · chant [509.5s → 514.6s]
+### S3-12 · `Dhivasat Sattvasiddhih` · chant [505.5s → 508.7s] (measured 2026-10-28 alongside S3-11 fix; v1 [509.5→514.6] HELD later material — re-verify at 3.12 pass)
 - B2 readout: T: "The pure state is achieved by the power of the (illumined) intellect. (Once this has been achieved) freedom is achieved. As it is here, so is it elsewhere. The nature (of consciousness) is emission and so that which is not external abides as such. Constant attention to the seed."
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: —

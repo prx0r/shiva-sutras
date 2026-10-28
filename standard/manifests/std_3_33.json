@@ -32,6 +32,12 @@
   ],
   "B": [
    {
+    "role": "b-his",
+    "t_in": 141.3,
+    "t_out": 157.8,
+    "why": "pleasure/pain definitions by ostension (stove/object analogy → experiences it) — P1/P2 human"
+   },
+   {
     "role": "b",
     "uid": "ss13-21",
     "t_in": 2946.0,

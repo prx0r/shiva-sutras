@@ -19,7 +19,14 @@ TTS_SAY = {"Bhairava": "Bye-ruh-vuh", "bhairava": "bye-ruh-vuh", "Mayiyamala": "
            # 1.8-triad probes 2026-10-28: isolated probes non-discriminating (base ASR
            # garbles all short foreign tokens — M37 short-clip rule); carrier-context
            # round-trip, (a) wins over (b) on both slots; owner ear final on proper nouns.
-           "cidatman": "chid-aht-mun", "sphurati": "sfoorati"}
+           "cidatman": "chid-aht-mun", "sphurati": "sfoorati",
+           # ch3 probes 2026-10-28 (carrier-context round-trips; raw fails noted):
+           # vrtti->"vrti" eaten (-t), vritti->"vrti" kept: map book form to vritti.
+           # atmavesa->"atmaphosa" mangled; aatmavesha->exact.
+           # Parasiva->"Harasiva"/"Patrashiva" (3 rounds incl hyphen splits); "Para Shiva"->exact.
+           # tucchikarana->"to Chikarana"; tuchikarana->"tooch karana" (closest, ear FLAG).
+           "vrtti": "vri-tee", "atmavesa": "aatmavesha",
+           "Parasiva": "Para-Shiva", "tucchikarana": "tuchikarana"}
 
 
 def _fish_key():

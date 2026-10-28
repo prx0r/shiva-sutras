@@ -47,6 +47,13 @@
     "t_out": 551.0,
     "src": "audio/Q-nwDCMripc.mp3",
     "why": "sudden enlightenment, Zen correspondence"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/3_6_phases.wav",
+    "why": "GOLD: attend arising/passing phases of feeling (P3/P5 practice, book-only); vritti foreign-mangled, ear FLAG"
    }
   ],
   "C": []

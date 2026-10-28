@@ -47,6 +47,13 @@
     "t_out": 1524.0,
     "src": "audio/Q-nwDCMripc.mp3",
     "why": "ss6-20"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/3_37_uncreated.wav",
+    "why": "GOLD: senses create via uncreated power + atmavesa source (P1/P2, book-only); atmavesa foreign-mangled, ear FLAG"
    }
   ],
   "C": []

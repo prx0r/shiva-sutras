@@ -46,6 +46,20 @@
     "t_out": 782.0,
     "src": "audio/xseTpOwSx9M.mp3",
     "why": "ss13-12"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/3_44_twelve.wav",
+    "why": "GOLD: nose = inner Twelve-finger Space (P1 definition, book-only; B1b omits it)"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/3_44_heart.wav",
+    "why": "GOLD: breath set aside, mind absorbed, Supreme Arising (P3, book-only; 'there' lands on P1)"
    }
   ],
   "C": []

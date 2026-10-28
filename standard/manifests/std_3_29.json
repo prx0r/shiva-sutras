@@ -48,6 +48,13 @@
     "t_out": 707.0,
     "src": "audio/Shiva_Sutra_Introduction.mp3",
     "why": "dl1-08"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/3_29_tucchikara.wav",
+    "why": "GOLD: tucchikara reduction operation (P2, book-only); Parasiva exact via split form, tucchikara ear FLAG"
    }
   ],
   "C": []

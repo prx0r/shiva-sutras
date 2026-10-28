@@ -207,9 +207,16 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
   clause) — check own lecture/B for siddhi-manifestation content; else thin-accept.
   P2–P5/P7 (manas/sankalpa mechanics; introspection; contraction): SOFT —
   mantra-psychology Level-2, thin at verse level.
+  → RESOLVED 2026-10-28: lecture read fully — no siddhi-manifestation content
+  (P6 thin-accept, honest); P2–P4 voiced by his lecture (b-his [123.2,176.0]
+  nishchai→sankalpa moments, continuing exactly where A-core ends — measured edges).
+  B1/B2 boundary fixed ([0,2.5]+[2.5,12]; was shaving the chant tail), form = sutra
+  proper (header excluded per M31). qa 0 FAIL, no new FLAGs.
 - **3.2** SOFT. Core (empirical bondage; B ss4-12) present.
   P2–P4 (rajas/tamas distraction; detachment practice; manifestation blocked):
   SOFT — bondage-mechanics Level-2; partially covered S2-adjacent.
+  → ACCEPTED 2026-10-28 (M20: bondage mechanics voiced at S2 homes — 1.2/2.x carry
+  them; B ss4-12 anchors the verse).
 - **3.3** COVERED core (tattva "map" via B1 + B2 color-cosmology).
   P2–P7 (kala/vidya/guna/buddhi catalogues; pure principles; non-contamination):
   GAP[APPARATUS] — enumeration; C material (full walk), not B.
@@ -221,141 +228,219 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
   lecture ends in Shiva-identity ("you are one with Shiva") without the bodhadeha term;
   card-level at most. P4 (ullanghana single-act): GAP[APPARATUS] (alternative method).
   P5 (reversal of manifestation): SOFT (covered implicitly by involution practice).
+  → RESOLVED 2026-10-28: P1 voiced by his lecture (b-his [78.2,204.8] five-kala
+  taxonomy with ranges, measured edges); B1 re-cut to chant-only [18.8,22.0]
+  (was opening on gloss-tail + cutting chant mid-word), form vs GRETIL exact.
+  P3 stays SOFT (card-level at most), P4 apparatus stands. qa 0 FAIL, no new FLAGs.
 - **3.5** SOFT. Core (withdrawal/conquest/freedoms; B1 + A) present.
   P3 (renouncing powers for unconditioned freedom): Level-2 ethic — B-candidate if
   lecture has it (check). P5 (altering phenomena): Level-2 siddhi — C material unless
   lecture-demonstrated.
+  → RESOLVED 2026-10-28: P3 voiced by TTS book-verbatim (`tts/3_5_renounce.wav`,
+  round-trip clean); P5 stands as C-material (undemonstrated). qa 0 FAIL, no FLAGs.
 - **3.6** SOFT. Core (delusion-veil; A; Baumer ss6-16-adjacent? verify) present.
   P2 (delusion blocks omniscience/omnipotence): SOFT. P3/P5 (attend to arising/passing
   of emotions): Level-2 practice — REAL if lecture covers it (check lak_3_6);
   classic Kashmir attention-practice, likely present.
+  → RESOLVED 2026-10-28: lecture lacks it (readable file, no hit) → TTS book-verbatim
+  (`tts/3_6_phases.wav`, vritti→vri-tee via map, ear FLAG); P2 stands SOFT. qa 0 FAIL.
 - **3.7** COVERED core (verdict stands: B1b + A Anantabogat + B ss12-14/ss7-26).
   P5/P6 (sivavyapti; supramental omniscience): APPARATUS-leaning-SOFT.
+  → ACCEPTED 2026-10-28 (apparatus-leaning stands; nothing to voice).
 - **3.8** SOFT. Core (wakefulness; A-core; B ss7-32-adjacent? verify) present.
   P3 (gather senses into unity): B-candidate. P5 (samvesa repose): SOFT.
+  → ACCEPTED 2026-10-28: checked — B's ss13-15 (non-meditable) doesn't voice gathering;
+  P3 thin at verse, P5 stands SOFT.
 - **3.9** COVERED core (actor; A; B ss13-21/ss13-10). P4 (no desire/aversion in roles):
   SOFT — the verse's karma-yoga clause; check B (may be covered by dancer material).
+  → ACCEPTED 2026-10-28: checked — ss13-21 voices established-acting, not the
+  desire/aversion clause → P4 thin (posture voiced, clause thin).
 - **3.10** SOFT. Core (stage; B ss13-09; senses-spectators) present.
   P4 (forms per subtle bodies) / P8 (five cosmic acts): Level-2 — check B; five-acts
   likely APPARATUS (cosmology enumeration).
+  → ACCEPTED 2026-10-28: checked — ss13-09/10 voice stage/spectator definitions,
+  not subtle-body forms → P4 thin; P8 apparatus stands.
 - **3.11** PARTIAL — translation covers sutra line only; exposition claims (free/awake;
   senses-by-power; light metaphysics; aesthetic delight/Khecari) largely absent.
   STATUS: UNVERIFIED (transcript garbled 00:00-00:03+; CF transcript equally garbled).
   ACTION (per voiced-gold doctrine 2026-10-28): ear-verify B1/A windows against the
   book points, then gap-fill each uncovered point with a human clip or TTS line.
+  → RESOLVED 2026-10-28: audio head is ENGLISH stage-exposition (reviewing 3.10) —
+  old B1 [16.4,25.0] was wrong content, not the sutra → B1 = Sharma exact slice
+  [501.8,504.8] ('preksakani indriyani', word-measured, status sharma). Exposition
+  claims (P-free/awake/senses/light/delight) stay open for C-layer voices; sutra
+  line now carried. Storyboard v1 windows corrected (S3-11 held 3.12; S3-12 re-measured
+  [505.5,508.7]). qa 0 FAIL, no new FLAGs.
 - **3.12** COVERED core (B1b + A intellect). P2/P3/P5 (intellect-determines-objects;
   pre-sensory purity; becoming-sattva): SOFT — check B.
+  → ACCEPTED 2026-10-28 (thin at verse; B's breath-verse clip doesn't carry intellect points).
 - **3.13** SOFT. Core (absolute independence; A; B) present.
   P3 (innate capacity), P4 (sustaining/manifesting), P5 (alchemical gold),
   P6 (sanctification): mixed SOFT/APPARATUS — check each against B; gold-analogy
   likely APPARATUS (illustration).
+  → ACCEPTED 2026-10-28 (P5 apparatus stands; rest thin at verse).
 - **3.14** SOFT. Core (omniscience/free action; B1b) present. P2 (other-body
   omniscience): SOFT. P3 (Bhaskara paraphrase): APPARATUS (commentarial).
   P4 (Ksemaraja 6-7/spanda-everywhere): Level-2 — B-candidate if lecture cites it.
+  → ACCEPTED 2026-10-28: checked — lecture never cites the Stanzas here → thin.
   P5/P6 (unaffected-abiding; affected-by-qualities): SOFT.
+  (3.16 P1 card-parked 2026-10-28 below.)
 - **3.15** SOFT. Core (seed/contemplation; B1b + A) present. P3/P4 (delusion's end;
   ego-dropping): SOFT — practice-consequence Level-2.
+  → ACCEPTED 2026-10-28 (consequence, not point — no audio for entailments).
 - **3.16** GAP[REAL]: P1 (upward breath = Matsyavalana/Purifying Fire/Radiance/Wrath)
   — ABSENT from own lecture (asana/posture topic instead) and from all Baumer units
   (term never appears). No audio source found. RECOMMEND: card note (term on text card)
   + thin-accept; do NOT compose. Rest COVERED (lake-sinking; supreme-posture A;
   Baumer breath via ss10-03/ss13-14). P5–P7 (concentration destroys passion;
   udana/susumna mechanics): SOFT — breath-cluster Level-2; partially via Baumer.
+  → CARD-PARKED 2026-10-28 (no audio; doctrine-respecting): card carries the equation
+  (asana = Movement of the Fish / Matsyavalana = Central upward-moving Breath =
+  Purifying Fire + Radiance + Wrath) with UNCERTAINTY FLAG — print-verify settles
+  forms before any card renders. P5–P7 stand as marked.
 - **3.17** SOFT. Core (fashions by mother; B1b + A independence) present.
   P1 (Shakti as inner strength/vitality/mother): SOFT (implied). P5 (yogi contemplation
   practice): SOFT. P7 (manifesting/reshaping): Level-2 siddhi — C unless demonstrated.
+  → ACCEPTED 2026-10-28 (P1/P5 thin at verse; P7 stands as C-material).
 - **3.18** COVERED core (avidya destroyed/rebirth ends; B1b + A + B ss5-25-adjacent).
   P2 (Bhairavamudkha vitalization): SOFT. P3 (Bhairava-nature manifestation): SOFT.
   P4 (thought-free attention): SOFT — mantra-cluster adjacent.
+  → ACCEPTED 2026-10-28 (P2/P3/P4 thin at verse; mantra-cluster carries the neighborhood).
 - **3.19** GAP[REAL]: P1 sabdarasi binding power + P2 bija/yoni structure + P4 Ghora
   triad + P5 Matrka-discursive mechanism — own lecture COVERS bija/yoni/mothers
   extensively (lak_3_19 00:10:12+; matribhava; eight mothers) → B CANDIDATES
   (his-continuation cuts, same file; verify windows). P3 (mothers in consonants):
   COVERED (b1/b1b). P6 (masters' wonder vs fettered fall): SOFT — check B.
+  → RESOLVED 2026-10-28: b-his bija/yoni kernel [645.6,661.5] (germ=Shiva, sakti its
+  yoni-basis) + b-his mothers [662.9,687.6] (eight vargas, eight mothers over pashu),
+  measured edges; B1 re-cut to chant-only [16.6,22.7] (was opening on 'Then' filler),
+  form vs GRETIL exact. P6 stays SOFT. qa 0 FAIL, no new FLAGs.
 - **3.20** COVERED (all five points incl. B ss7-32 + A turya-spread).
   P5 (constant siddhi): SOFT (one-line consequence).
+  → ACCEPTED 2026-10-28 (consequence, not point — no audio for entailments).
 - **3.21** SOFT. Core (mantra vitality; B1 + A + B) present.
   P2 (phoneme-immersion/fire-into-coals): Level-2 image — B-candidate if lecture has it.
+  → ACCEPTED 2026-10-28 (file garbled — cannot source-check from text; image Level-2,
+  thin at verse; ear session can still rule).
   P3 (Bhairavamudra vitalization): SOFT. P4 (Siva/Bhairava-nature manifestation): SOFT.
   P5 (withdrawing vrtti): SOFT — mantra-cluster adjacent.
+  → ACCEPTED 2026-10-28 (mantra-cluster carries the neighborhood).
 - **3.22** COVERED core (equal vision; A fragrance; B1b). P3/P4 (turiya-in-activity;
   distinctions dissolve): SOFT — vyutthana-adjacent (S3/S5 territory).
+  → ACCEPTED 2026-10-28 (M20: voiced at S3/S5 homes).
+  → ACCEPTED 2026-10-28 (M20: voiced at S3/S5 homes).
 - **3.23** COVERED (overturned: A-core covers beginning/end; b1b covers centre;
   B ss7-32 + b1 Turya-rasa cover P4-P6). P1 three-part definition: distributed
   across clips (beginning/end/centre) — COVERED in aggregate; note as distributed
-  (no single clip states all three — acceptable).
+  (no single clip states all three — acceptable). (Confirmed 2026-10-28.)
 - **3.24** SOFT. Core (unifying awareness; B1b + B1 + A) present — B1 relocated
   2026-10-28 to the true statement. P1 (kala→matra mapping): definitional SOFT.
   P3 (re-manifestation via penetration): SOFT. P4 (conscious agency/sovereignty):
   SOFT — check B.
+  → RESOLVED 2026-10-28: checked — ss5-15 voices it in effect (removal → omniscience
+  follows as result = agency restored; quote-read); sovereignty flavor stays thin.
+  P1/P3 stand SOFT.
 - **3.25** SOFT. Core (like-Siva-while-embodied; A; B) present.
   P3 (jivanmukti while acting): SOFT (implied). P4 (videhamukti identity): SOFT —
   eschatology-adjacent; thin-accept likely.
+  → ACCEPTED 2026-10-28 (implied carries P3; P4 eschatology stays thin).
 - **3.26** SOFT. Core (virtuous conduct; A; B ss11-07/ss6-23) present.
   P2 (five insignias), P3 (ashes/threads), P5 (banner/ornaments): APPARATUS
   (emblem catalogue; C material or drop). P4 (mudra): COVERED (B).
+  → CONFIRMED 2026-10-28 (apparatus stands; nothing to voice).
 - **3.27** SOFT. Core (katha=japa; B1b + B2) present.
   P2–P5 (four japa types): APPARATUS (technical catalogue; C material).
   P6 (re-descending to world): SOFT — vyutthana-adjacent.
+  → ACCEPTED 2026-10-28 (M20: voiced at S3/S5 homes).
 - **3.28** SOFT. Core (grace/knowledge-gift; B1b + A + B) present.
   P4/P5 (tvarat-saktipata; initiation severing bonds): SOFT — guru-cluster Level-2;
   B-candidates from guru units if fitting.
+  → ACCEPTED 2026-10-28: B's dl1-07 voices grace generally, not the specific
+  intensities — specifics stay thin (guru-cluster present in spirit).
 - **3.29** MIXED (model vacillated; hand-verdict): COVERED: P1 (source/universe),
   P3 (awakening others — b2/TTS-adjacent), P4 (wheel — b2/A), P6 (one consciousness —
   B dl1-08). GAP[REAL]: P2 (tucchikara reduction of abandonables — the verse's
   distinctive operation; check own lecture for the term) + P5 (powers as worshipping
   rays — check lecture; likely APPARATUS if absent).
+  → RESOLVED 2026-10-28: lecture lacks both (readable file, no hits) → P2 voiced by
+  TTS (`tts/3_29_tucchikara.wav`, Parasiva exact via split form, ear FLAG on
+  tucchikara); P5 apparatus stands. qa 0 FAIL, no FLAGs.
 - **3.30** COVERED core (aggregate of powers; A; B ss5-25/ss10-25).
   P3/P4 (expansion/repose dynamics): SOFT — spanda-adjacent.
+  → ACCEPTED 2026-10-28 (spanda-adjacent; dynamics thin at verse).
 - **3.31** COVERED (overturned: A-core covers sthiti; B covers universal ground +
   turya continuity). No gaps.
 - **3.32** SOFT. Core (unlost subject; B1 + A) present.
   P3 (witness of transience): SOFT (implied). P4 (unchanged through states): SOFT.
+  → ACCEPTED 2026-10-28 (implication carries both; no audio).
 - **3.33** PARTIAL. P1/P2 (pleasure/pain DEFINITIONS — the verse's core content):
   GAP[REAL] — A covers the detached *attitude*, not the definitions themselves.
   Check own lecture for the definitions (likely present — classroom text).
   P3 (pain taxonomy): APPARATUS (list; C or drop). P4/P5 COVERED.
+  → RESOLVED 2026-10-28: lecture CARRIES them — b-his [141.3,157.8] definitions by
+  ostension (stove/object analogy → 'Or this is pleasure? ... This is pain' →
+  'He experiences it'), measured edges. P3 apparatus stands. qa 0 FAIL, no FLAGs.
 - **3.34** SOFT. Core (seclusion/eye-consciousness; A; B ss13-21-adjacent) present.
   P3 (subjective-center establishment): SOFT. P4 (vibhava retention): SOFT.
   P5 (abandoning non-integral objects): SOFT — practice Level-2.
+  → ACCEPTED 2026-10-28 (P3/P4/P5 practice Level-2, thin at verse).
 - **3.35** SOFT. Core (B1b + A) present. P2 (body-identification→duality/rebirth):
   SOFT. P3 (creating via grace): Level-2 siddhi — C unless demonstrated.
   P4 (non-dual abiding): SOFT.
+  → ACCEPTED 2026-10-28 (P2/P4 thin at verse; P3 stands as C-material).
 - **3.36** SOFT (same family as 3.35; A/B carry non-attachment).
   P3 (bheda-transcendence): SOFT. P4 (controlled senses): SOFT.
+  → ACCEPTED 2026-10-28 (non-attachment family carries both; no audio).
 - **3.37** GAP[REAL]: P1/P2 (senses create via uncreated power; atmavesa source) —
   the verse's mechanism; check own lecture for atmavesa/creation passages. P3
   (Lord grants phenomena): Level-2. P4–P7 (yogic-power illustrations, louse,
   gardens, dreams): APPARATUS (illustrations; C or drop).
+  → RESOLVED 2026-10-28: P1/P2 voiced by TTS (`tts/3_37_uncreated.wav`, atmavesa
+  foreign-mangled, ear FLAG); P3 stands Level-2; P4–P7 apparatus stands. qa 0 FAIL.
 - **3.38** SOFT. Core (Turiya vitalizes; A + B1b) present.
   P3 (lightning-flash phenomenology): APPARATUS (signature image — C material or
   card note; do not expect in lecture audio verbatim). P4 (pleasure-from-within):
   SOFT. P5 (fix attention at wonder-moment): Level-2 practice — B-candidate if
   lecture gives the instruction.
+  → ACCEPTED 2026-10-28: checked — lecture's flash-moments are entry, not the
+  attention instruction → thin (A/B carry vitality core).
 - **3.39** SOFT. Core (mind→senses→world pervasion; A + B1b) present.
   P3 (purity despite embodiment): SOFT. P4 (rasa delight): SOFT. P5 (condensation
   mechanism): SOFT — check B.
+  → ACCEPTED 2026-10-28 (thin at verse; B clips don't voice the mechanism — ear
+  session can still rule on the heard B).
 - **3.40** SOFT. Core (craving transports; A + B1b) present.
   P4 (abandoning own nature): SOFT (implied). P5 (sense-driven delusion): SOFT.
+  → ACCEPTED 2026-10-28 (implied carries P4; P5 thin at verse).
 - **3.41** GAP[REAL]: P1 (perceiving subject as domain of desire where yogis abide)
   — lecture covers desire's END (craving destroyed, individuality finished) but
   the *domain-of-subject* framing needs checking (read lak_3_41 fully; file is
   short). P3 (craving destroyed = karma/birth end): SOFT (covered in effect).
   P4 (grace → pure subjectivity): SOFT. P5 (Khecari manifestation): APPARATUS.
+  → RESOLVED 2026-10-28: P1 voiced by his lecture (b-his [265.2,285.0]: yogi puts
+  awareness on the world as subjective consciousness, becomes one with it —
+  measured edges); P3/P4 stand as marked, P5 apparatus stands. qa 0 FAIL, no FLAGs.
 - **3.42** SOFT. Core (B1b) present. P2 (desire-destruction→bliss): SOFT
   (S3-adjacent). P3 (embodied-yet-free): SOFT. P4 (guru glance initiation):
   guru-cluster — B-candidate or thin-accept.
+  → ACCEPTED 2026-10-28 (P2 S3-adjacent per M20; P3 thin; P4 thin-accept — neither
+  B clip is guru-glance).
 - **3.43** SOFT. Core (vital link; B1b + A breath) present.
   P2 (consciousness as body-sustaining force): SOFT. P3–P5 (karma/rebirth/ladder):
   APPARATUS-leaning (doctrinal background; thin-accept).
+  → ACCEPTED 2026-10-28 (P2 thin at verse; background stays background).
 - **3.44** PARTIAL. P2 (attention→merging→svatmasthiti) COVERED (A). P4 (channels
   useless) COVERED (B1b). GAP[REAL]: P1 (nose = inner Twelve-finger Space —
   the verse's central definition; B1b omits it) + P3 (mental absorption into
   Supreme Self via Heart) + P5 (breath bestows all perfections). P1/P3 need
   B or card; P5 thin-accept.
+  → RESOLVED 2026-10-28: P1+P3 voiced by TTS (`tts/3_44_twelve.wav` definition +
+  `tts/3_44_heart.wav` absorption, P3 'there' lands on P1, both round-trip clean);
+  P5 thin-accept stands. qa 0 FAIL, no FLAGs.
 - **3.45** SOFT. Core (universe-from-consciousness; A; B) present; coda (B ss13-29)
   present. P3/P4 (Pure Path/Pralaya; Mayapramatr worldling): APPARATUS
   (cosmology). P5 (never-lost powers): SOFT.
+  → ACCEPTED 2026-10-28 (P3/P4 apparatus stands; P5 thin at verse).
 
 ## CHAPTER 1 (verdicts; audit detail in /tmp/opencode/audit2_ch1.txt)
 
@@ -397,6 +482,7 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
 - **1.14** SOFT (verify after re-transcription; B1/A sit in garbled zone 00:00-00:40).
   Card carries sutra; pervasion covered by B ss3-19; seed-cause likely in B1's
   Sanskrit voicing (ear-verify at QA).
+  → RESOLVED 2026-10-28 (see ch1 section: Sharma B1 + TTS seed; v1 window corrected).
 - **1.15** SOFT. Core (heart-entry; A) present. P2 (emptiness IS Heart): definitional —
   check B. P3–P6 SOFT-to-APPARATUS.
   → ACCEPTED 2026-10-28 (see ch1 section: checked, equation never stated).
@@ -412,6 +498,7 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
   own lecture (vibhuti/will topic) and all Baumer units (searched). No audio source
   found. RECOMMEND: card note (names on text card) + owner call on cross-verse
   B-mining; do NOT invent. Rest COVERED.
+  → CARD-PARKED 2026-10-28 (see ch1 section: names + uncertainty flag, no audio).
 - **1.20** SOFT (core + application + B ss10-21 present; element↔power map thin).
   → ACCEPTED 2026-10-28 (see ch1 section: fruit voiced, map thin).
 - **1.21** COVERED (P1–P4 all present incl. B2 Chakraeshwara).
@@ -465,8 +552,12 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
 COVERED: 1.22(fixed), 2.1, 2.8, 3.7, 3.23, 3.31 (6 overturned or fixed).
 SOFT: 1.14, 1.20, 2.4, 2.10, 3.11*, 3.33, 3.37, 3.44 (8; core carried, specifics thin).
 REAL: 1.19, 3.4, 3.16, 3.19, 3.41, 3.24(fixed), 3.3? No — 3.3 is apparatus.
-  (*3.11 P1 pending re-transcription; counted SOFT provisionally on card+Baumer.)
+  (*3.11 P1 was pending re-transcription; resolved instead by Sharma B1 — no
+  retranscription per owner freeze.)
   +3.23 P1 overturned to COVERED (distributed across A-core/b1b/B).
+  CLOSED 2026-10-28: every REAL above is now voiced (human/TTS) or card-parked —
+  1.19 card, 3.4 b-his kala map, 3.16 card, 3.19 2× b-his, 3.41 b-his, 3.11 Sharma B1;
+  3.3 apparatus stands. Zero open verse entries repo-wide (machine-checked).
 
 ## ACTION LIST (in priority order)
 1. STRUCK 2026-10-28 (owner) — no retranscription, ever: transcripts are frozen

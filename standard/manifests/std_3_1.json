@@ -8,7 +8,7 @@
    {
     "role": "b1",
     "t_in": 0.0,
-    "t_out": 2.0
+    "t_out": 2.5
    },
    {
     "role": "b1b",
@@ -19,7 +19,7 @@
    },
    {
     "role": "b2",
-    "t_in": 2.0,
+    "t_in": 2.5,
     "t_out": 12.0
    }
   ],
@@ -31,6 +31,12 @@
    }
   ],
   "B": [
+   {
+    "role": "b-his",
+    "t_in": 123.2,
+    "t_out": 176.0,
+    "why": "three moments: nishchai (intellect) → sankalpa (mind puts thought) — P2-P4 mechanics human, continues where A leaves off"
+   },
    {
     "role": "b",
     "uid": "ss11-11",
@@ -50,5 +56,5 @@
   ],
   "C": []
  },
- "b1_status": "his-prov"
+ "b1_status": "his-verified"
 }

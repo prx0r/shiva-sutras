@@ -3,13 +3,13 @@
  "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.19.mp3",
  "room_t": 10.0,
  "guests": [],
- "b1_status": "his-prov",
+ "b1_status": "his-verified",
  "layers": {
   "0": [
    {
     "role": "b1",
-    "t_in": 15.0,
-    "t_out": 24.0
+    "t_in": 16.6,
+    "t_out": 22.7
    },
    {
     "role": "b1b",
@@ -32,6 +32,18 @@
    }
   ],
   "B": [
+   {
+    "role": "b-his",
+    "t_in": 645.6,
+    "t_out": 661.5,
+    "why": "bija=germ=Shiva himself, sakti=swatantrya as its yoni-basis (P2 human)"
+   },
+   {
+    "role": "b-his",
+    "t_in": 662.9,
+    "t_out": 687.6,
+    "why": "eight vargas ruled by eight mothers over pashu/beasts (P1/P4 human)"
+   },
    {
     "role": "b",
     "uid": "ss10-25",

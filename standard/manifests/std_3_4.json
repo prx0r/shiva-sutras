@@ -7,8 +7,8 @@
   "0": [
    {
     "role": "b1",
-    "t_in": 17.0,
-    "t_out": 20.5
+    "t_in": 18.8,
+    "t_out": 22.0
    },
    {
     "role": "b1b",
@@ -32,6 +32,12 @@
   ],
   "B": [
    {
+    "role": "b-his",
+    "t_in": 78.2,
+    "t_out": 204.8,
+    "why": "five-kala taxonomy with element ranges (Nivrtti/Pratistha/Vidya/Santa/Santatita) — P1 human"
+   },
+   {
     "role": "b",
     "uid": "ss10-03",
     "t_in": 1125.0,
@@ -42,5 +48,5 @@
   ],
   "C": []
  },
- "b1_status": "his-prov"
+ "b1_status": "his-verified"
 }

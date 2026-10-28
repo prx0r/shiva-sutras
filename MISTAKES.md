@@ -325,8 +325,7 @@ real — fix it, don't philosophize about it.
   (3) no clip may promise what the build doesn't deliver within earshot
   (checked by the chantcheck preset); (4) TTS engine is Fish-only, no fallback
   voices — a silent engine swap is a defect, not resilience.
-- M40. Transcript timestamps are not speech timestamps (the 2–4s caption lag).
-  Words were right; times were wrong: YT rolling captions stamp appearance, not
+- M40. Transcript timestamps are not speech timestamps (the 2–4s caption lag).  Words were right; times were wrong: YT rolling captions stamp appearance, not
   speech (dedup keeps first-seen stamps); whisper-base segments are 15–30s chunks
   and `locate()` interpolates words at a flat 2.7 wps (real speech: 1.5–4 wps +
   pauses, error compounds). Silence-snap then "corrected" to the wrong pause
@@ -344,3 +343,34 @@ real — fix it, don't philosophize about it.
   against transcript+waveform before rebuilding, re-verify after. ~99% comes
   from measured timing + machine verification; ears close the last mile (taste,
   room, pacing). Never claim more.
+- M41. Built the wrong track for a day, shipped chant against two written rules.
+  (2026-10-28, owner-caught, full day lost.) Agent read BEATS.md + existing
+  Custom intermediates and built LA/essence masters, never checking for a track
+  mandate (none written at root) and never cross-checking the chant rules in
+  `process/10-FORMAL-CHANT.md` §6 (Sharma complete run AFTER the last verse) and
+  vatulanatha FORMULA rule 3 (chant runs never enter an essay). Shipped Sharma
+  seed chants after every Custom question plus a head clip promising chant the
+  build never delivered. Rules, now load-bearing and restated where a new agent
+  cannot miss them (`READ-THIS-FIRST.md` + AGENTS.md rule zero): (1) confirm the
+  track in writing before building anything — "essay" = Custom, "0/A/B layers" =
+  Standard, ambiguity = ask; (2) content rules live ACROSS documents — a beat
+  grammar never overrides a content exclusion, check STANDARD.md + FORMULA chant
+  handling before placing any chant; (3) Custom masters on disk/R2 from this date
+  are DRAFTS against violated rules — do not ship, demo, or extend them without
+  explicit owner re-activation.
+- M42. Tools that drift + ears that flip: verify the verifier. (2026-10-28.)
+  (a) `tools/align_cuts.py` derived its search region from the current manifest,
+  so every --apply moved windows again (45 changed, then 18 more, no convergence).
+  Iterative tools must be anchored to immutable inputs (unit windows, transcripts)
+  and must prove convergence (re-run → zero changes) before use; the fixed version
+  does both. The drifting version is kept for history — DO NOT RUN IT.
+  (b) Qwen surgery verdicts flipped on IDENTICAL bytes across runs (CLEAN then CUT:
+  ss4-08 and others). A single model verdict is a hint, never evidence and never
+  a gate. Corroborate with transcript + whisper word timings; when transcript and
+  whisper agree the clip is complete, the model is overruled — log it and move on,
+  do not re-run the model. (c) `int()`-truncated cut filenames collide on sub-second
+  edits: the builder skipped re-cutting and validated STALE audio as new. After any
+  sub-second manifest edit, delete the cut file to force a re-cut, then verify
+  mtime/content matches the edit. (d) Check the file before the theory: 30 minutes
+  spent "proving" transcript-vs-audio drift using the wrong mp3 (ss1 content probed
+  in ss4's file). sess→mp3 via the MP3 map FIRST, always.

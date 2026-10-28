@@ -75,11 +75,49 @@ def snap(mp3, target, side):
     return round(target, 1), "no-silence-near-%.1f" % target
 
 
+WMODEL = None
+WCACHE = {}
+
+
+def _words(mp3, lo, hi):
+    """Whisper word timestamps for [lo,hi] (cached per file+span)."""
+    global WMODEL
+    if WMODEL is None:
+        from faster_whisper import WhisperModel  # noqa (lazy: heavy import)
+        WMODEL = WhisperModel("base", device="cpu", compute_type="int8")
+    key = (mp3, round(lo, 1), round(hi, 1))
+    if key not in WCACHE:
+        import tempfile
+        with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tf:
+            tmp = tf.name
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(max(0, lo)),
+                        "-to", str(hi), "-i", os.path.join(BASE, mp3), tmp], check=True)
+        segs, _ = WMODEL.transcribe(tmp, beam_size=1, language="en", word_timestamps=True)
+        out = []
+        for s in segs:
+            for w in (s.words or []):
+                ww = norm(w.word.strip(".,!?\"' "))
+                if ww:
+                    out.append((round(lo + w.start, 2), round(lo + w.end, 2), ww))
+        WCACHE[key] = out
+        try:
+            os.remove(tmp)
+        except OSError:
+            pass
+    return WCACHE[key]
+
+
 def main():
     apply = "--apply" in sys.argv
     units = parse_units()
     changed, flags = 0, []
     LINES = {}
+    # global neighbour map (across sections: same mp3 may serve many sections)
+    ALLB = []
+    for _f in sorted(glob.glob(BASE + "/build/manifest_s*_A.json")):
+        _d = json.load(open(_f))
+        for _b in _d["beats"]:
+            ALLB.append(_b)
     for f in sorted(glob.glob(BASE + "/build/manifest_s*_A.json")):
         d = json.load(open(f))
         for b in d["beats"]:
@@ -130,14 +168,37 @@ def main():
                 if lines[i1 + 1][0] - t1 > 12:
                     break
                 i1 += 1
-            # neighbour guard: never cross adjacent beat windows (same mp3)
-            sibs = sorted([x for x in d["beats"] if x["mp3"] == mp3 and x is not b],
+            # neighbour guard: never cross adjacent beat windows (same mp3, any section)
+            sibs = sorted([x for x in ALLB if x["mp3"] == mp3 and x is not b],
                           key=lambda x: x["t_in"])
             pre = max([x["t_out"] for x in sibs if x["t_out"] <= a] or [0])
             nxt = min([x["t_in"] for x in sibs if x["t_in"] >= bb] or [9e9])
-            nt_in = max(lines[i0][0] if i0 < len(lines) else a, pre + 0.5)
-            # sentence end time ~= next line start
-            nt_out = min(lines[i1 + 1][0] if i1 + 1 < len(lines) else bb, nxt - 0.5)
+            # M41: anchor edges to MEASURED word times, not transcript stamps.
+            # Transcript defines WHAT (sentence span i0..i1); whisper says WHEN.
+            w_first = norm(lines[i0][1]).split()
+            w_last = norm(lines[i1][1]).split()
+            if not w_first or not w_last:
+                flags.append((b["uid"], "empty-boundary-line"))
+                continue
+            wf, wl = w_first[0], w_last[-1]
+            lo = max(0.0, lines[i0][0] - 5)
+            hi = (lines[i1 + 1][0] if i1 + 1 < len(lines) else lines[i1][0] + 10) + 5
+            try:
+                wds = _words(os.path.join(BASE, mp3), lo, hi)
+            except Exception as e:
+                flags.append((b["uid"], "whisper-fail %s" % str(e)[:40]))
+                continue
+            fi = next((i for i, w in enumerate(wds) if w[2] == wf and w[0] - lo < 12), None)
+            li = None
+            for i in range(len(wds) - 1, -1, -1):
+                if wds[i][2] == wl and hi - wds[i][0] < 20:
+                    li = i
+                    break
+            if fi is None or li is None or li <= fi:
+                flags.append((b["uid"], "boundary-not-found %s..%s" % (wf, wl)))
+                continue
+            nt_in = max(wds[fi][0] - 0.3, pre + 0.5)
+            nt_out = min(wds[li][1] + 0.4, nxt - 0.5)
             if nt_out <= nt_in + 1:
                 flags.append((b["uid"], "guard-collapse, kept"))
                 continue

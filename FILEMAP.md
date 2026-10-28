@@ -10,6 +10,8 @@ the long-form queue with context.)
 | file | what | why it exists |
 |---|---|---|
 | `README.md` | front door: state snapshot, read-order, repro commands, repo map | first 5 minutes |
+| `READ-THIS-FIRST.md` | the 2026-10-28 failure log, written to be unmissable: wrong track, chant law, no unlistened masters, tool lies | read BEFORE AGENTS.md — it outranks everything for orientation |
+| `HANDOVER-2026-10-28.md` | the Custom-audio day: what broke, what's verified, links (v4), Standard queue | current-state screen for whoever picks this up |
 | `HANDOVER-2026-10-25.md` | the pass-1 day + structure-pass narrative, gotchas, M19–M21 | how Custom got text-complete, which errors repeat |
 | `HANDOVER-2026-10-26.md` | ears + voice-build day (Qwen, Fish, anti-echo, silence bug M25) | voice/tooling decisions with causes |
 | `HANDOVER-STANDARD-2026-10-27.md` | Standard B-rollout method + open queue | the current frontier doc |
@@ -90,6 +92,7 @@ the long-form queue with context.)
 | `flow_lint.py` | deterministic flow checks (runs, joints, longs, repetition, deictic slots, pause inventory) | machine half of peer review — ears decide, never the linter |
 | `validate_sheet.py` | validates ANY production sheet | the sheet is the product — run before any render talk |
 | `recut_sentence.py` | sentence-complete + silence-snapped re-cut of A windows (expansion-only, containment asserts) | run after ANY manifest touch, before rebuild (M39) |
+| `align_cuts.py` | whisper word-timestamp re-edger — DO NOT RUN (non-convergent v1 kept for history, M41/M42) | superseded by recut_sentence's whisper-anchored edges |
 | `listen.py` | Qwen omni ears (qa/critic/joints/deictic/verify/audit/surgery/chantcheck modes) | model QA per LISTENING.md — findings need corroboration |
 | `tts_scan.py` | no raw Sanskrit through TTS (stoplist + spoken-form map) | run after any TTS line/key change |
 | `deictic_check.py` | antecedent surfacing from transcript text | FLOW_REVIEW Q4 evidence, per cut |

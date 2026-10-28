@@ -53,7 +53,7 @@ def main():
             # single-span cells keep the span file (no _cell built)
             bi, bo = CELLS[s - 1][3][0]
             cp = f"{tag}_b0_{int(bi)}-{int(bo)}.wav"
-        seq += ["long_break_bell.wav", f"{tag}_q.wav", br, f"{tag}_chant.wav",
+        seq += ["long_break_bell.wav", f"{tag}_q.wav", br,
                 f"{tag}_t.wav", "tbeat.wav"]
         pp = [f"{tag}_p.wav"] if plays_p(tr, pl) else []
         seq += pp + ["gap.wav", cp, "water.wav"]
@@ -114,8 +114,8 @@ def main():
              % (tt / 60, tt))
     L.append("")
     L.append("## Handover audit (voice-to-voice joints)")
-    L.append("- bell→Q: OK (long_break_bell motto). Q→breath→chant: SOFT (tongue-switch).")
-    L.append("- chant→T: OK (same verse, two tongues). T→P: OK or single-voiced (anti-echo rule).")
+    L.append("- bell→Q: OK (long_break_bell motto). Q→breath→T: question lands directly on translation (no chant in Custom — vatulanatha rule).")
+    L.append("- T→P: OK (same verse, two tongues in translation; single-voiced per anti-echo rule).")
     L.append("- P→gap→archive voice: SOFT (timbre jump; fades + gap at ship).")
     L.append("- Archive→archive joins: audited in JOIN_AUDIT (55 OK / 9 SOFT / 0 WEAK at text level).")
     L.append("- Named bridges/soft spots (from JOIN_AUDIT): S1 thesis→speech-levels bridge;")

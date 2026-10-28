@@ -252,7 +252,7 @@ def main():
             br = "breath3.wav" if tag in ("c4", "c5") else "breath.wav"
             _ct, _cp = CELLS[k][5], CELLS[k][6]
             _pp = [f"{tag}_p.wav"] if _plays_p(_ct, _cp) else []
-            seq += [f"{tag}_q.wav", br, f"{tag}_chant.wav",
+            seq += [f"{tag}_q.wav", br,
                     f"{tag}_t.wav", "tbeat.wav"] + _pp + ["gap.wav",
                     os.path.basename(cell_files[k]), "water.wav"]
     seq += ["long_break_bell.wav", "xl6.wav"]
@@ -303,8 +303,8 @@ def main():
     for line in [
         "- bowls→cells: OK (swell→strike→decay settles before Q; no promise made).",
         "- bell→Q: OK (motto grammar; long_break_bell 4.7s strike+decay).",
-        "- Q→breath→chant: SOFT — English question answered in Sanskrit; room-tone breath 2.5s (3.0s for long Qs c4/c5), comprehension lands at T. Never lengthen beyond spec or the question strands.",
-        "- chant→T: OK — same verse, two tongues; the translation moment.",
+        "- Q→breath→T: question lands directly on translation (no chant in Custom — vatulanatha rule: chant runs never enter the essay; Standard holds the coda at the end).",
+        "- (No chant in Custom masters — removed 2026-10-28 per chant-placement law; Sanskrit lives on the cards.)",
         "- T→P: OK — one card, one voice.",
         "- P→gap→Baumer: SOFT — timbre + room jump (Fish studio → lecture room); 1.2s room-tone gap + 0.15s fades.",
         '- c1 internal two-span concat (31s source gap removed): OK-text (flow-read passed, ends on "is there"); ear-verify.',

@@ -1,5 +1,12 @@
 # AGENTS.md — how to work in this repo (read this first, then FILEMAP).
 
+## Rule zero (added 2026-10-28 after a full wasted day — no exceptions)
+Read `READ-THIS-FIRST.md` (root) IN FULL before anything else. Then confirm
+which track you are on (Standard vs Custom) — if the mandate is not written
+down and dated, ASK THE OWNER; never infer it from file names ("essay" =
+Custom, "0/A/B layers" = Standard). Building the wrong track is the most
+expensive mistake in this repo and it has already happened once.
+
 ## The one behaviour that matters
 Take responsibility: read the thing cold and verdict it in your own
 voice. Summarizing artifacts is not reviewing them. When asked whether

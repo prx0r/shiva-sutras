@@ -161,11 +161,9 @@
   "flags": []
  },
  "2.2": {
-  "status": "cf-done",
+  "status": "his-verified",
   "fails": [],
-  "flags": [
-   "F4 2.2/0#0(b1) ends mid-segment (1.5s stranded): 'فر سچے یوگی کنتنیور افرٹ'"
-  ]
+  "flags": []
  },
  "2.3": {
   "status": "his-prov",
@@ -199,7 +197,7 @@
   ]
  },
  "2.7": {
-  "status": "his-prov",
+  "status": "his-verified",
   "fails": [],
   "flags": [
    "F4 2.7/0#2(b2) ends mid-segment (8.6s stranded): 'ation is vividly and broadly explained by our great masters,'"
@@ -225,7 +223,8 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F3 2.10/A#0(a-core) opens on filler 'then' @47.6 (seg 47.6)"
+   "F3 2.10/A#0(a-core) opens on filler 'then' @47.6 (seg 47.6)",
+   "F3 2.10/B#0(b-his) opens on filler 'so' @930.0 (seg 930.3)"
   ]
  },
  "3.1": {

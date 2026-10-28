@@ -157,34 +157,48 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
 - **2.1** COVERED (overturned model GAP: ss11-26's non-difference from Paramesvara IS
   "mind is Siva, unconditioned subject"). P2–P7 (grace gradations, mantra mechanics):
   SOFT — mantra-essence carried by A/B; samani vs mantra mechanics thin at verse level.
+  → ACCEPTED 2026-10-28 (thin at verse; mechanics ride later ch2 verses).
 - **2.2** SOFT. Core (effort=means; B1b) present. P2–P5 (penetration/cessation/one-pointedness/
   initial-moment practices): Level-2 practices, thin — B candidates from own lecture
   (verify; file re-transcribed, now readable).
+  → RESOLVED 2026-10-28: lecture CARRIES both practices — b-his bird [167.8,196.5] +
+  arrow [227.2,250.0], measured edges; B1 re-cut whole [0.0,3.1] vs GRETIL exact.
+  qa 0 FAIL, no new FLAGs.
 - **2.3** SOFT. Core (secret=Being of mantra-body; two readings; Baumer ss6-24)
   present. P3 (unmesa/sahasa expansion): terminology thin. P4 (Bindu→Vaikhari
   mechanism): SOFT — mantra-unfolding discussed S5-adjacent. P5 (Kundalini/Matrka):
   APPARATUS (variant mapping).
+  → ACCEPTED 2026-10-28 (P3/P4 thin at verse; P5 apparatus stands).
 - **2.4** SOFT. Core (garbha; A-core; B ss11-20 samarasya) present incl. translation.
   "Intensely content/supreme state" flavor thin — acceptable (tone, not doctrine).
+  → ACCEPTED 2026-10-28 (flavor, not a point).
 - **2.5** COVERED (B1b full translation incl. corrected "of"). P2–P4 (Mudra expansion,
   Khecari identity, mantra/mudra difference): SOFT — mantra-cluster territory (S5);
   acceptable thinness at verse level, flag for B if S5-adjacent material fits.
+  → ACCEPTED 2026-10-28 (M20: voiced at S5 homes).
 - **2.6** SOFT. Core (Master is means; B1b) present. P2–P6 (grace protects/guides,
   teacher-testing, identity-infusion): guru-cluster Level-2, thin at verse level.
   RECOMMEND B-expand (guru-cluster units exist: ss3-03/04, ss4-21/22, ss6-11/18,
   ss10-07, ss12-08/09/10 — pick 1–2 for 2.6).
+  → RESOLVED 2026-10-28: ss6-11 added (unit window, sentence-complete); rebuilt,
+  qa 0 FAIL, joints structural-clean.
 - **2.7** SOFT (verify after re-transcription — file garbled at head; B1 at [16s]
   may sit in garble zone — ear-verify). Core via Baumer ss11-07 (whatever word
   is mantra). P2–P6 (Matrka/svabhavika/awakenings/stages/paths): Level-2/3 —
   largely APPARATUS (technical enumeration) + SOFT (awakening mechanism).
+  → RESOLVED 2026-10-28: B1 is at 2671 (part-2), restatement climax, edges measured
+  [2671.3,2675.3] vs GRETIL exact, verified as-cut; P2–P6 stand as marked.
 - **2.8** COVERED (overturned: ss12-12 + ss1-14 directly carry oblation-into-fire).
 - **2.9** COVERED core (food=knowledge; digestion B-his). P3 (non-dual satisfying
   awareness): SOFT. P4 (craving-free abiding): SOFT. P5 (alert-actor/places):
   SOFT — S5-adjacent.
+  → ACCEPTED 2026-10-28 (M20: voiced at S5 homes).
 - **2.10** SOFT. Core (dream-vision; A crisis narrative; B ss7-04/ss11-12) present.
   P1 (common-knowledge withdrawal mechanism): SOFT. P3 (prabuddhatavrtti freedom/
   contentment): SOFT (S4-adjacent). P4 (suddhavidya/I-am-this): SOFT. P6 (siddhi
   distraction): SOFT — actually Level-2 warning; B-candidate if lecture has it.
+  → RESOLVED 2026-10-28: lecture HAS it — b-his [930.0,941.5] non-attachment warning,
+  measured edges; P1/P3/P4 stand as marked. qa 0 FAIL, no new FLAGs.
 
 ## CHAPTER 3
 
@@ -412,21 +426,40 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
 
 - **2.1** COVERED (overturned model GAP: ss11-26's non-difference from Paramesvara
   IS "mind is Siva"). P2–P7 SOFT (grace gradations; mantra mechanics thin at verse).
+  → ACCEPTED 2026-10-28 (thin at verse; mantra mechanics ride ch2's later verses).
 - **2.2** SOFT (core present; practice Level-2s thin — B candidates; file re-transcribed,
   now readable; VERIFY 0/A/B windows against new text).
+  → RESOLVED 2026-10-28: head re-measured directly (transcript still garbled at 0–14s,
+  verdict note overstated readability) — B1 re-cut to whole chant [0.0,3.1]
+  ('prayatnah sadhakah' + onset speech, closes pre-gloss), form vs GRETIL exact;
+  old F4 cleared by the fix. Practice Level-2s stay SOFT-accept (thin at verse).
 - **2.3** SOFT (core + two readings + Baumer present). P3/P4 (unmesa expansion;
   Bindu→Vaikhari): SOFT. P5 (Kundalini/Matrka mapping): APPARATUS.
+  → ACCEPTED 2026-10-28 (P3/P4 thin at verse; P5 apparatus stands).
 - **2.4** SOFT (core + samarasya present; "intensely content" flavor thin).
+  → ACCEPTED 2026-10-28 (flavor, not a point — no audio for adjectives).
 - **2.5** COVERED (B1b full translation, corrected "of"). P2–P4 SOFT (S5-adjacent).
+  → ACCEPTED 2026-10-28 (M20: voiced at S5 homes, no duplicates).
 - **2.6** SOFT (core present). P2–P6 guru-cluster Level-2 thin at verse level.
   RECOMMEND B-expand (guru units exist; needs owner line on BHU-ownership first? No —
   guru units are Baumer's, fine to use; pick 1–2).
+  → RESOLVED 2026-10-28: ss6-11 added (both-readings honesty: master bestows OR
+  intensity substitutes — unit window, sentence-complete edges); rebuilt, qa 0 FAIL,
+  joints structural-clean (RUBBEDs are cross-voice doorways; model TTS labels on
+  human content discounted per M33).
 - **2.7** SOFT — VERIFY FIRST (transcript garbled at head; B1 at [16s] may sit in
   garble). Ear-verify B1/A against the book points, then gap-fill (human clip or TTS).
+  → RESOLVED 2026-10-28: manifest B1 is at 2671 (part-2 file; verdict '[16s]' stale) —
+  his restatement climax 'That is the Sambodha, Matrka Chakra Sambodha', edges
+  word-measured [2671.3,2675.3], form vs GRETIL exact; verified as-cut (restatement
+  pattern, frame minimal — recorded, ear can still rule). No gap-fill owed (core + B
+  carry the verse).
 - **2.8** COVERED (overturned: ss12-12 + ss1-14 directly carry oblation-into-fire).
 - **2.9** COVERED core (food=knowledge; digestion). P3–P5 SOFT (S5-adjacent).
+  → ACCEPTED 2026-10-28 (M20: voiced at S5 homes, no duplicates).
 - **2.10** SOFT (dream-crisis A + B present; withdrawal mechanism + prabuddhatavrtti
   + siddhi-warning thin).
+  → ACCEPTED 2026-10-28 (mechanism thin at verse; siddhi-warning is S3's job).
 
 ## P1 SUMMARY (the 20 model-flagged core claims — all hand-verdict)
 COVERED: 1.22(fixed), 2.1, 2.8, 3.7, 3.23, 3.31 (6 overturned or fixed).

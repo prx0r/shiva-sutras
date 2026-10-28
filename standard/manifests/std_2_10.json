@@ -32,6 +32,12 @@
   ],
   "B": [
    {
+    "role": "b-his",
+    "t_in": 930.0,
+    "t_out": 941.5,
+    "why": "siddhi-warning: do not get attached to yogic powers, get detached (P6)"
+   },
+   {
     "role": "b",
     "uid": "ss7-04",
     "t_in": 815.0,

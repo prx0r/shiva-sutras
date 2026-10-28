@@ -3,13 +3,13 @@
  "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 2.2.mp3",
  "room_t": 38.0,
  "guests": [],
- "b1_status": "cf-done",
+ "b1_status": "his-verified",
  "layers": {
   "0": [
    {
     "role": "b1",
-    "t_in": 1.0,
-    "t_out": 5.0
+    "t_in": 0.0,
+    "t_out": 3.1
    },
    {
     "role": "b1b",
@@ -32,6 +32,18 @@
    }
   ],
   "B": [
+   {
+    "role": "b-his",
+    "t_in": 167.8,
+    "t_out": 196.5,
+    "why": "bird-of-prey practice: catch the initial moment with unartificial effort (P2)"
+   },
+   {
+    "role": "b-his",
+    "t_in": 227.2,
+    "t_out": 250.0,
+    "why": "arrow practice: force of awareness aimed at the point (P2-P5)"
+   },
    {
     "role": "b",
     "uid": "ss11-05",

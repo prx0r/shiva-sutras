@@ -7,7 +7,7 @@
   "0": [
    {
     "role": "b1",
-    "t_in": 15.0,
+    "t_in": 13.2,
     "t_out": 16.1
    },
    {
@@ -53,6 +53,13 @@
     "src": "audio/Q-nwDCMripc.mp3",
     "why": "ss6-23 awareness-continues",
     "uid": "ss6-23"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/1_8_triad.wav",
+    "why": "GOLD: triad form of waking manifestation (cognizing subject/means/object — book-only wording, Bhaskara 1/8); cidatman/sphurati probed, ear FLAG on proper nouns"
    }
   ],
   "C": [
@@ -64,5 +71,5 @@
   ],
   "D": []
  },
- "b1_status": "his-prov"
+ "b1_status": "his-verified"
 }

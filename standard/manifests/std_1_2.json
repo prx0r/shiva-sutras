@@ -59,6 +59,13 @@
     "t_out": 0,
     "file": "audio/gen/tts/1_2_bhaskara_mayiyamala.wav",
     "why": "GOLD: Bhaskara vs Ksemaraja attribution (book-only)"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/1_2_stop_grasping.wav",
+    "why": "GOLD: stop-grasping practice — spontaneity on release (P5, book-only wording, Ksemaraja 1/2)"
    }
   ],
   "C": [

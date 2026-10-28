@@ -103,7 +103,7 @@ Beat timing per verse: bell? no — verses flow: chant (~6s) → 1.2s → T+P (T
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: —
 
-### S1-14 · `Drsyam sariram` · chant [335.0s → 340.2s]
+### S1-14 · `Drsyam sariram` · chant [327.5s → 330.5s] (Sharma exact slice, word-measured 2026-10-28; v1 [335.0→340.2] HELD 1.15 — corrected)
 - B2 readout: T: "The perceptible is (His) body."
 - B3 explanation: B3: section pool, assign at cut
 - B4 elaboration: B4: —

@@ -15,7 +15,11 @@ TTS_SAY = {"Bhairava": "Bye-ruh-vuh", "bhairava": "bye-ruh-vuh", "Mayiyamala": "
            "caitanya": "chaitanya", "jnanam": "gyanam",
            # B1b probes 2026-10-28 (carrier-sentence + whisper round-trip):
            # Matrka->"matricca", Kala->"Kala" exact, Susumna->"sushiumna".
-           "Matrka": "Matrika", "Kala": "Kah-lah", "Susumna": "Sushumna"}
+           "Matrka": "Matrika", "Kala": "Kah-lah", "Susumna": "Sushumna",
+           # 1.8-triad probes 2026-10-28: isolated probes non-discriminating (base ASR
+           # garbles all short foreign tokens — M37 short-clip rule); carrier-context
+           # round-trip, (a) wins over (b) on both slots; owner ear final on proper nouns.
+           "cidatman": "chid-aht-mun", "sphurati": "sfoorati"}
 
 
 def _fish_key():

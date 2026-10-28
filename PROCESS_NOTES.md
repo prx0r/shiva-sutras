@@ -799,3 +799,13 @@ Remaining: C layer → assembly → ears (TODO #4–6); owner message (TODO #10)
   thin-accept stand as declared. Thin stays thin — the doctrine voices gold, never pads.
 - Scope note: this decides BOOK coverage in Standard. Baumer-walk standard (§8e-1:
   ledger vs line-pass vs build-time) stays open.
+
+### §8o DISK CLEANUP (2026-10-28) — 95G→88G used, 1.8G→8.5G free
+Deleted regenerable/renders only, primary untouched: custom WAV masters (mp3s
+md5-matched to R2 v6/v5 first — 86a215fc / 2e380ac8), std cut wavs + concat txts
+(proofs stay for assembly), tts_test stub, l0_essay0 superseded render, /tmp
+Hareesh dup (byte-identical to audio/third primary). /home/ubuntu/analayo-nibbana
+(3G) removed locally per owner (clean tree, in sync with origin, work lives in the
+other repo — nothing pushed). npm cache cleaned. Left alone: huggingface weights
+(B1 verification still needs whisper base), playwright/electron/chrome caches
+(regenerable but slow — owner call), all other projects' dirs. Gates re-run green.

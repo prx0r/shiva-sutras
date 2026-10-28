@@ -59,6 +59,13 @@
     "t_in": 1217.0,
     "t_out": 1326.0,
     "why": "four energies kissed + fruits"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/1_4_aghora.wav",
+    "why": "GOLD: Aghora unifying vs Ghorasakti veiling, names + functions (P3/P4, book-only wording, Bhaskara 1/4); raw forms round-trip recognizable, no map entry"
    }
   ],
   "C": []

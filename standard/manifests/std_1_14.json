@@ -3,13 +3,14 @@
  "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.14.mp3",
  "room_t": 40.0,
  "guests": [],
- "b1_status": "cf-done",
+ "b1_status": "sharma",
  "layers": {
   "0": [
    {
     "role": "b1",
-    "t_in": 7.0,
-    "t_out": 11.6
+    "t_in": 327.5,
+    "t_out": 330.5,
+    "src": "audio/chant/sharma_siva_sutras_2009.mp3"
    },
    {
     "role": "b1b",
@@ -47,6 +48,13 @@
     "t_out": 782.0,
     "src": "audio/xseTpOwSx9M.mp3",
     "why": "nothing left out of yoga"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/1_14_seed.wav",
+    "why": "GOLD: Lord as outpouring + seed-cause (P1, book-only wording, Bhaskara 1/14)"
    }
   ],
   "C": []

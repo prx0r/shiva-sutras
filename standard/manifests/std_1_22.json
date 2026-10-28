@@ -3,7 +3,7 @@
  "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.22.mp3",
  "room_t": 35.0,
  "guests": [],
- "b1_status": "his-prov",
+ "b1_status": "his-verified",
  "layers": {
   "0": [
    {
@@ -33,6 +33,12 @@
    }
   ],
   "B": [
+   {
+    "role": "b-his",
+    "t_in": 233.5,
+    "t_out": 266.8,
+    "why": "meditation on the ocean + introversion of the senses (not extroverted) — Kundalini/prana-adjacent B-expand"
+   },
    {
     "role": "b",
     "uid": "ss6-24",

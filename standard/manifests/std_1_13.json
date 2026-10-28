@@ -7,8 +7,8 @@
   "0": [
    {
     "role": "b1",
-    "t_in": 15.4,
-    "t_out": 20.5
+    "t_in": 17.9,
+    "t_out": 20.1
    },
    {
     "role": "b1b",
@@ -20,17 +20,23 @@
    {
     "role": "b2",
     "t_in": 20.5,
-    "t_out": 26.5
+    "t_out": 31.5
    }
   ],
   "A": [
    {
     "role": "a-core",
-    "t_in": 26.5,
+    "t_in": 31.8,
     "t_out": 58.5
    }
   ],
   "B": [
+   {
+    "role": "b-his",
+    "t_in": 226.4,
+    "t_out": 267.0,
+    "why": "kumari-destroys reading (ku=differentiated perception, marayati destroys it) — the verse payoff (P2)"
+   },
    {
     "role": "b",
     "uid": "ss7-37",
@@ -57,5 +63,5 @@
   ],
   "D": []
  },
- "b1_status": "his-prov"
+ "b1_status": "his-verified"
 }

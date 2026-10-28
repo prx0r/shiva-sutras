@@ -57,19 +57,23 @@
   ]
  },
  "1.8": {
-  "status": "his-prov",
+  "status": "his-verified",
   "fails": [],
   "flags": []
  },
  "1.9": {
-  "status": "his-prov",
+  "status": "his-verified",
   "fails": [],
-  "flags": []
+  "flags": [
+   "F3 1.9/B#2(b-his) opens on filler 'then' @613.8 (seg 614.3)"
+  ]
  },
  "1.10": {
-  "status": "his-prov",
+  "status": "his-verified",
   "fails": [],
-  "flags": []
+  "flags": [
+   "F3 1.10/B#1(b-his) opens on filler 'and' @468.4 (seg 468.9)"
+  ]
  },
  "1.11": {
   "status": "his-prov",
@@ -82,17 +86,18 @@
   "flags": []
  },
  "1.13": {
-  "status": "his-prov",
+  "status": "his-verified",
   "fails": [],
   "flags": [
-   "F4 1.13/0#0(b1) ends mid-segment (6.0s stranded): ' joy, to him, yichā shaktir umā-kumāri, his desire, his will'"
+   "F4 1.13/0#0(b1) ends mid-segment (6.4s stranded): ' joy, to him, yichā shaktir umā-kumāri, his desire, his will'",
+   "F4 1.13/0#2(b2) ends mid-segment (8.8s stranded): ' Not only energy, umā, his will is called umā, and his will,'",
+   "F4 1.13/B#0(b-his) ends mid-segment (3.6s stranded): \"ted perception in one's own nature. That is kumāri. There is\""
   ]
  },
  "1.14": {
-  "status": "cf-done",
+  "status": "sharma",
   "fails": [],
   "flags": [
-   "F4 1.14/0#0(b1) ends mid-segment (10.9s stranded): 'ved objective world is his own self. Dresham means perceived'",
    "F4 1.14/0#2(b2) ends mid-segment (2.8s stranded): 'ved objective world is his own self. Dresham means perceived'",
    "F4 1.14/A#0(a-core) ends mid-segment (1.8s stranded): ' has no ego for that body, body of his, so Shri Ram Dresham,'"
   ]
@@ -142,11 +147,12 @@
   ]
  },
  "1.22": {
-  "status": "his-prov",
+  "status": "his-verified",
   "fails": [],
   "flags": [
    "F3 1.22/0#2(b2) opens on filler 'then' @51.6 (seg 51.6)",
-   "F3 1.22/A#0(a-core) opens on filler 'and' @158.0 (seg 158.7)"
+   "F3 1.22/A#0(a-core) opens on filler 'and' @158.0 (seg 158.7)",
+   "F4 1.22/B#0(b-his) ends mid-segment (8.6s stranded): 'svara-atma-kparānta-vyumarsimaya-si-mantravirya-si-anubhava,'"
   ]
  },
  "2.1": {

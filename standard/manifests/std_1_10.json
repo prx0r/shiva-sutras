@@ -7,8 +7,8 @@
   "0": [
    {
     "role": "b1",
-    "t_in": 49.0,
-    "t_out": 52.0
+    "t_in": 46.2,
+    "t_out": 51.2
    },
    {
     "role": "b1b",
@@ -38,6 +38,12 @@
     "why": "maya/delusion unawareness passage"
    },
    {
+    "role": "b-his",
+    "t_in": 468.4,
+    "t_out": 507.5,
+    "why": "impressions persist unmanifest, morning-report proof (you slept, knew nothing, yet report it) — P3 human"
+   },
+   {
     "role": "b",
     "uid": "ss7-08",
     "t_in": 2112.0,
@@ -52,6 +58,13 @@
     "t_out": 1220.5,
     "src": "audio/arJORd6eRXI.mp3",
     "why": "individual vs universal void"
+   },
+   {
+    "role": "b-tts",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/1_10_sun_rays.wav",
+    "why": "GOLD: power withdraws rays as sun at night + net of darkness (book-only wording, Bhaskara 1/10)"
    }
   ],
   "C": [
@@ -63,5 +76,5 @@
   ],
   "D": []
  },
- "b1_status": "his-prov"
+ "b1_status": "his-verified"
 }

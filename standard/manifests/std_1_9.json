@@ -7,7 +7,7 @@
   "0": [
    {
     "role": "b1",
-    "t_in": 31.2,
+    "t_in": 31.0,
     "t_out": 32.2
    },
    {
@@ -38,6 +38,18 @@
     "why": "vikalpa perception exposition"
    },
    {
+    "role": "b-his",
+    "t_in": 305.6,
+    "t_out": 331.0,
+    "why": "lucid dreaming (feel you are dreaming; jagrat-in-dream) — P2 human"
+   },
+   {
+    "role": "b-his",
+    "t_in": 613.8,
+    "t_out": 636.0,
+    "why": "dhyana-continuity as supna, higher than jagrat — P5 human"
+   },
+   {
     "role": "b",
     "t_in": 1653.0,
     "t_out": 1670.0,
@@ -55,5 +67,5 @@
   ],
   "D": []
  },
- "b1_status": "his-prov"
+ "b1_status": "his-verified"
 }

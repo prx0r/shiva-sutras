@@ -1,0 +1,47 @@
+{
+ "verse": "3.6",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.6.mp3",
+ "room_t": 120.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 126.0,
+    "t_out": 134.0
+   },
+   {
+    "role": "b2",
+    "t_in": 134.0,
+    "t_out": 150.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 455.9,
+    "t_out": 498.7
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss5-22",
+    "t_in": 2411.0,
+    "t_out": 2429.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "agitation ceases, supreme state appears"
+   },
+   {
+    "role": "b",
+    "uid": "ss6-02",
+    "t_in": 507.0,
+    "t_out": 551.0,
+    "src": "audio/Q-nwDCMripc.mp3",
+    "why": "sudden enlightenment, Zen correspondence"
+   }
+  ],
+  "C": []
+ }
+}

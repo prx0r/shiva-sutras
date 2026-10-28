@@ -1,0 +1,47 @@
+{
+ "verse": "3.8",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.8.mp3",
+ "room_t": 10.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 13.0,
+    "t_out": 16.0
+   },
+   {
+    "role": "b2",
+    "t_in": 16.0,
+    "t_out": 30.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 158.3,
+    "t_out": 209.5
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss13-15",
+    "t_in": 2023.0,
+    "t_out": 2071.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "meditation on non-meditable"
+   },
+   {
+    "role": "b",
+    "uid": "ss7-29",
+    "t_in": 2960.0,
+    "t_out": 2988.0,
+    "src": "audio/s2cqHsBcsd4.mp3",
+    "why": "steeped in delight of the fourth"
+   }
+  ],
+  "C": []
+ }
+}

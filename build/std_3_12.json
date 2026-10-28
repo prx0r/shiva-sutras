@@ -1,0 +1,39 @@
+{
+ "verse": "3.12",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.12.mp3",
+ "room_t": 15.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 2.1,
+    "t_out": 4.1
+   },
+   {
+    "role": "b2",
+    "t_in": 4.1,
+    "t_out": 12.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 85.7,
+    "t_out": 118.1
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss10-03",
+    "t_in": 1125.0,
+    "t_out": 1176.0,
+    "src": "audio/lfWQfoG23cY.mp3",
+    "why": "real posture = supreme energy"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

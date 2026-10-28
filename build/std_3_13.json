@@ -1,0 +1,39 @@
+{
+ "verse": "3.13",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.13.mp3",
+ "room_t": 25.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 1.0,
+    "t_out": 8.0
+   },
+   {
+    "role": "b2",
+    "t_in": 8.0,
+    "t_out": 20.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 48.6,
+    "t_out": 73.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss5-30",
+    "t_in": 4890.0,
+    "t_out": 4903.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "bound to lord, pashu liberated"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

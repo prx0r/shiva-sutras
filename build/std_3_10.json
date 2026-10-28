@@ -1,0 +1,47 @@
+{
+ "verse": "3.10",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.10.mp3",
+ "room_t": 10.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 18.5,
+    "t_out": 21.0
+   },
+   {
+    "role": "b2",
+    "t_in": 21.0,
+    "t_out": 35.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 59.8,
+    "t_out": 108.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss13-09",
+    "t_in": 3778.0,
+    "t_out": 3789.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "inner soul is the stage"
+   },
+   {
+    "role": "b",
+    "uid": "ss13-10",
+    "t_in": 4123.0,
+    "t_out": 4151.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "senses are spectators"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

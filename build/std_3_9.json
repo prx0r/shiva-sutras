@@ -1,0 +1,47 @@
+{
+ "verse": "3.9",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.9.mp3",
+ "room_t": 20.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 33.2,
+    "t_out": 34.7
+   },
+   {
+    "role": "b2",
+    "t_in": 34.7,
+    "t_out": 45.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 42.9,
+    "t_out": 79.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss13-21",
+    "t_in": 2946.0,
+    "t_out": 2998.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "actor established in own nature, performs everything"
+   },
+   {
+    "role": "b",
+    "uid": "ss13-10",
+    "t_in": 4123.0,
+    "t_out": 4151.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "senses are spectators of inner drama"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "word-verified"
+}

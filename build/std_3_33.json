@@ -1,0 +1,47 @@
+{
+ "verse": "3.33",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.33.mp3",
+ "room_t": 15.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 3.4,
+    "t_out": 4.8
+   },
+   {
+    "role": "b2",
+    "t_in": 4.8,
+    "t_out": 15.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 182.8,
+    "t_out": 216.3
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss13-21",
+    "t_in": 2946.0,
+    "t_out": 2998.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "ss13-21"
+   },
+   {
+    "role": "b",
+    "uid": "ss12-19",
+    "t_in": 3000.0,
+    "t_out": 3030.0,
+    "src": "audio/r5wTwUNVYOo.mp3",
+    "why": "ss12-19"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "word-verified"
+}

@@ -1,0 +1,47 @@
+{
+ "verse": "3.3",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.3.mp3",
+ "room_t": 190.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 195.3,
+    "t_out": 207.5
+   },
+   {
+    "role": "b2",
+    "t_in": 207.5,
+    "t_out": 226.5
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 70.2,
+    "t_out": 121.2
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss5-20",
+    "t_in": 1992.0,
+    "t_out": 2029.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "individuality to universality journey"
+   },
+   {
+    "role": "b",
+    "uid": "ss5-15",
+    "t_in": 1831.0,
+    "t_out": 1850.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "remove limitation, divine quality follows"
+   }
+  ],
+  "C": []
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "verse": "3.18",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.18.mp3",
+ "room_t": 70.0,
+ "guests": [],
+ "b1_status": "sharma",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 530.0,
+    "t_out": 536.7,
+    "src": "/home/ubuntu/shiva-sutras/audio/chant/sharma_siva_sutras_2009.mp3"
+   },
+   {
+    "role": "b2",
+    "t_in": 80.5,
+    "t_out": 105.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 105.0,
+    "t_out": 137.7
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss5-27",
+    "t_in": 3875.0,
+    "t_out": 3957.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "ss5-27"
+   },
+   {
+    "role": "b",
+    "uid": "ss6-20",
+    "t_in": 300.0,
+    "t_out": 340.0,
+    "src": "audio/Q-nwDCMripc.mp3",
+    "why": "ss6-20"
+   }
+  ],
+  "C": []
+ }
+}

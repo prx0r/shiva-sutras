@@ -1,0 +1,39 @@
+{
+ "verse": "3.5",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.5.mp3",
+ "room_t": 45.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 53.0,
+    "t_out": 62.0
+   },
+   {
+    "role": "b2",
+    "t_in": 62.0,
+    "t_out": 75.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 71.5,
+    "t_out": 108.5
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss13-27",
+    "t_in": 767.0,
+    "t_out": 782.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "external drama = metaphor for inner drama"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

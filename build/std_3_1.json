@@ -1,0 +1,47 @@
+{
+ "verse": "3.1",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.1.mp3",
+ "room_t": 15.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 0.0,
+    "t_out": 2.0
+   },
+   {
+    "role": "b2",
+    "t_in": 2.0,
+    "t_out": 12.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 69.5,
+    "t_out": 107.2
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss11-11",
+    "t_in": 880.0,
+    "t_out": 908.0,
+    "src": "audio/Xo9aR9GNOio.mp3",
+    "why": "mantra-power from awareness of consciousness"
+   },
+   {
+    "role": "b",
+    "uid": "ss6-24",
+    "t_in": 2790.0,
+    "t_out": 2821.0,
+    "src": "audio/Q-nwDCMripc.mp3",
+    "why": "senses = phases of divine energy"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

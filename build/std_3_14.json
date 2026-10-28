@@ -1,0 +1,39 @@
+{
+ "verse": "3.14",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.14.mp3",
+ "room_t": 20.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 8.0,
+    "t_out": 13.3
+   },
+   {
+    "role": "b2",
+    "t_in": 13.3,
+    "t_out": 25.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 169.0,
+    "t_out": 220.7
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss3-14",
+    "t_in": 5489.0,
+    "t_out": 5513.0,
+    "src": "audio/sLD0aeV1d3o.mp3",
+    "why": "eternal things lack freedom, only consciousness free"
+   }
+  ],
+  "C": []
+ }
+}

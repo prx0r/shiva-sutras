@@ -1,0 +1,55 @@
+{
+ "verse": "3.2",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.2.mp3",
+ "room_t": 10.0,
+ "guests": [],
+ "b1_status": "prov",
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 17.1,
+    "t_out": 19.5
+   },
+   {
+    "role": "b2",
+    "t_in": 19.5,
+    "t_out": 31.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 94.1,
+    "t_out": 135.9
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss13-31",
+    "t_in": 611.0,
+    "t_out": 624.0,
+    "src": "audio/xseTpOwSx9M.mp3",
+    "why": "another level of bondage by knowledge"
+   },
+   {
+    "role": "b",
+    "uid": "ss5-25",
+    "t_in": 3239.0,
+    "t_out": 3262.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "verbalizing = limited knowledge"
+   },
+   {
+    "role": "b",
+    "uid": "ss4-12",
+    "t_in": 1758.0,
+    "t_out": 1780.0,
+    "src": "audio/KSpk4KO0JY4.mp3",
+    "why": "jnanam bandhah: shock against knowledge-liberates"
+   }
+  ],
+  "C": []
+ }
+}

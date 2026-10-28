@@ -1,0 +1,39 @@
+{
+ "verse": "3.15",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.15.mp3",
+ "room_t": 20.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 2.3,
+    "t_out": 9.0
+   },
+   {
+    "role": "b2",
+    "t_in": 9.0,
+    "t_out": 16.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 16.8,
+    "t_out": 44.6
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss5-24",
+    "t_in": 3123.0,
+    "t_out": 3150.0,
+    "src": "audio/ABQi35iUoyI.mp3",
+    "why": "language leads to freedom"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

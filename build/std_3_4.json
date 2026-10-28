@@ -1,0 +1,39 @@
+{
+ "verse": "3.4",
+ "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 3.4.mp3",
+ "room_t": 10.0,
+ "guests": [],
+ "layers": {
+  "0": [
+   {
+    "role": "b1",
+    "t_in": 17.0,
+    "t_out": 20.5
+   },
+   {
+    "role": "b2",
+    "t_in": 20.5,
+    "t_out": 35.0
+   }
+  ],
+  "A": [
+   {
+    "role": "a-core",
+    "t_in": 42.3,
+    "t_out": 82.5
+   }
+  ],
+  "B": [
+   {
+    "role": "b",
+    "uid": "ss10-03",
+    "t_in": 1125.0,
+    "t_out": 1176.0,
+    "src": "audio/lfWQfoG23cY.mp3",
+    "why": "real posture = supreme energy of awareness"
+   }
+  ],
+  "C": []
+ },
+ "b1_status": "prov"
+}

@@ -16,13 +16,17 @@ def fold(s):
 
 tpl = {t["verse"]: t for t in json.load(open(BASE + "/build/template_77.json"))}
 keys = {}
+# M32-isolated: exact forms all share exposition headers (sivasutra, unmesa,
+# prathama/dvitiya/trtiya) — these match EVERY file's own statement and
+# report as "foreign hits". Exclude them; only verse-distinctive roots count.
+HEADER_STOP = {"sivasut", "pratama", "dvitiya", "trtiya", "unmesa"}
 for v, t in tpl.items():
-    words = [w for w in re.findall(r"[^\W\d_]{5,}", fold(t["sanskrit_exact"]))]
-    keys[v] = [w[:7] for w in words if len(w) > 4][:4]
+    words = [w for w in re.findall(r"[^\W\d_]{5,}", fold(t.get("sanskrit_exact", "")))]
+    keys[v] = [w[:7] for w in words if len(w) > 4 and w[:7] not in HEADER_STOP][:4]
 
 out = []
 for f in sorted(glob.glob(BASE + "/text/lak_*.txt")):
-    slug = os.path.basename(f)[4:-5]
+    slug = os.path.basename(f)[4:-4]  # strip lak_ + .txt (M32: [4:-5] ate single-digit verse nos)
     if slug in ("intro", "conclusion"):
         continue
     home = {"1_8_10": ["1.8", "1.9", "1.10"],

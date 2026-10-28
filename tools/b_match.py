@@ -58,7 +58,10 @@ def terms(text):
 
 def candidates(v, top=8):
     t = tpl[v]
-    anchor = " ".join([t.get("translation", "")] + t.get("sanskrit", []))
+    # M35: t["sanskrit"] is build debris (up-to-4 raw lines above the book
+    # anchor, mostly English body text) — NEVER an anchor. book_sanskrit is
+    # the curated header form; sanskrit_exact the GRETIL reference.
+    anchor = " ".join([t.get("translation", ""), t.get("book_sanskrit", "")])
     doc = t.get("body", "")[:6000] + " " + anchor
     atext = ""
     mp = BASE + "/build/std_" + v.replace(".", "_") + ".json"

@@ -214,9 +214,32 @@ real — fix it, don't philosophize about it.
   in A, never in 0. Verify each B1 against the Aphorisms form before cutting.
 - M32. xverse_scan.py mixes files in its report (hits shown under the wrong
   verse with another file's timestamps — e.g. 3.38's statement reported at
-  3.3's 85.3s). Cause not yet isolated; treat ALL its locations as
-  unverified until each is confirmed by direct transcript read. The
-  scan's *existence* findings still need per-file confirmation.
+  3.3's 85.3s). **RESOLVED 2026-10-28, two compounding causes, both fixed:**
+  (1) off-by-one slug slice `[4:-5]` truncated the last digit of every
+  two-digit file (`lak_1_11.txt`→`1_1`, home `['1.1']`) — every 1_1X/2_X/3_XX
+  file reported under the single-digit verse's home with its own correct
+  timestamps, which reads exactly like a file mixup; fixed to `[4:-4]`
+  (`locate_b1.py` already had it right). (2) exact-form anchors shared
+  exposition headers (sivasutra/unmesa/prathama…) matching every file's own
+  statement — fixed with HEADER_STOP. The 3.3→3.38 example evaporated on
+  re-run; remaining hits are genuine cross-mentions (mostly 1.1/chaitanya
+  references, expected). Rule stands: scout proposes, reading verdicts —
+  no moves without a human read of the specific hit.
+- M35. Template carried three silent integration breaks at once (found
+  2026-10-28 auditing Standard consumers): (a) `sanskrit` field is build
+  debris — `block()` grabs up-to-4 raw lines above the book anchor, only
+  14/77 last-elements matching the curated `book_sanskrit`, the rest English
+  fragments/partial/OCR-variant forms — and `b_match.py` anchored on it;
+  (b) `sanskrit_exact`/`sanskrit_src` (added by `template_v2.py`) were lost
+  when the template was rebuilt by `build_template.py`+`fix_template_l3.py`
+  — two writers, last-write-wins, no assert; `xverse_scan.py` crashed
+  (KeyError) and `locate_b1.py` silently matched nothing. Fixed: GRETIL
+  forms vendored to `reference/gretil_sivasutra.json` (was /tmp-only),
+  `template_v2.py` reads the vendored path + asserts 77/77 non-empty,
+  re-ran (75 gretil + 2 ksa-voicing), `b_match.py` anchors on
+  `book_sanskrit`. Rule: any tool reading a template field must use
+  `.get()` with a loud fallback, and template rebuilds assert the full
+  field set — silent field loss is a pipeline bug (M12 family).
 - M33. Qwen hallucinates a "synthetic narrator"/TTS in TTS-free builds (1.19,
   2.7, 3.21 joints passes + 3.7/3.22 qa). Pattern: Lakshmanjoo's clipped
   English delivery + room change mislabeled as synthetic. Rule: any pass

@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Template v2: exact GRETIL Sanskrit mapped to Academy verses + book bodies.
-GRETIL Light-1 lacks Ksa 1.7 (turya) and 1.15 (hrdaye) as separate items."""
+GRETIL Light-1 lacks Ksa 1.7 (turya) and 1.15 (hrdaye) as separate items
+(its own 1.7/1.15 keys hold the NEXT sutra's text under GRETIL numbering).
+Idempotent: re-running refreshes sanskrit_exact/sanskrit_src only.
+Source: reference/gretil_sivasutra.json (vendored 2026-10-28 from
+/tmp/opencode/gretil.json; GRETIL Kaul text, ancient, no rights issue)."""
 import json
 
 BASE = "/home/ubuntu/shiva-sutras"
-g = json.load(open("/tmp/opencode/gretil.json"))
+g = json.load(open(BASE + "/reference/gretil_sivasutra.json"))
 tpl = json.load(open(BASE + "/build/template_77.json"))
 
 # Academy -> GRETIL key (None = Ksa-only, use his voicing)
@@ -39,6 +43,8 @@ for t in tpl:
         t["sanskrit_exact"] = ""
         t["sanskrit_src"] = "missing"
 missing = [t["verse"] for t in tpl if not t["sanskrit_exact"]]
+assert len(tpl) == 77, "template must hold 77 verses, got %d" % len(tpl)
+assert not missing, "sanskrit_exact missing for %s" % missing
 print("entries:", len(tpl), "missing:", missing)
 json.dump(tpl, open(BASE + "/build/template_77.json", "w"),
           ensure_ascii=False, indent=1)

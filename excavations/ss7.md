@@ -146,7 +146,7 @@ saṃhāra-collecting → icchā-precognitive-impulse → Umā/Kumāri → śiva
 - essay_use: the Umā file (Veda→Kāvya→Sūtra); deep background for śakti lectures
 
 ### ss7-18 — the yogi's will, one with supreme energy, is why siddhis work [C]
-- timestamp: [01:21:35]-->[01:21:55]
+- timestamp: [01:21:35]-->[01:22:10]
 - topics: praxis, doctrine
 - role: claim
 - layer: explain

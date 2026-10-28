@@ -275,3 +275,22 @@ real — fix it, don't philosophize about it.
   place, asserted at write AND at build (builder now asserts b1_status);
   cross-file clips without uid are guilty until proven innocent — verdict
   the window against the unit before adding the uid, never the reverse.
+- M37. Estimated B windows shipped as located (silent wrong-content at scale).
+  The "B-complete" claim covered 77 manifests, but 29 Baumer B windows were
+  hand-typed round numbers (3000/3030, 2000/2030…) with zero overlap against
+  their own units' windows — the built B proofs played wrong audio with the
+  right labels, and every gate stayed green (gates check text, not audio).
+  Found 2026-10-28 by tools/qa_std.py (new structural sweep: F1 file-map,
+  F2 window-vs-unit, F3 filler-onset, F4 mid-sentence, F5 bounds, F6 schema;
+  28 verses failed, all on B windows). Repaired: 29/29 re-located via
+  build_manifests.locate() (quote→line-run→word-rate), one fix-window unit
+  correction (ss7-18 tail 4915→4930 — quote outran its window), all 26 verses
+  rebuilt, transcription spot-check 25/29 direct + 4/4 confirmed via wider
+  context (8s-clip whisper garbles onsets; whole-sentence context transcribes
+  verbatim — short-clip ASR is not evidence of wrong audio). 3 sampled Qwen
+  joints passes, M33 hallucinated TTS in all 3 TTS-free proofs (tally ~13);
+  zero corroborated defects, zero rebuilds from model passes. Remaining 41
+  verses carry F3/F4 FLAGs (heuristic over-fires on long whisper segments —
+  FLAG, not FAIL; ear session decides). Rule: no B window ships without a
+  machine window-vs-unit overlap check (qa_std.py runs in the pre-commit
+  path now); "built" means located + verified, never manifested.

@@ -35,8 +35,8 @@
    {
     "role": "b",
     "uid": "ss7-22",
-    "t_in": 1800.0,
-    "t_out": 1830.0,
+    "t_in": 990.0,
+    "t_out": 1005.6,
     "src": "audio/s2cqHsBcsd4.mp3",
     "why": "ss7-22"
    }

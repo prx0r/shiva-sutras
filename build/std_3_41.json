@@ -29,16 +29,16 @@
    {
     "role": "b",
     "uid": "ss10-25",
-    "t_in": 3000.0,
-    "t_out": 3030.0,
+    "t_in": 4529.0,
+    "t_out": 4537.7,
     "src": "audio/lfWQfoG23cY.mp3",
     "why": "ss10-25"
    },
    {
     "role": "b",
     "uid": "ss12-03",
-    "t_in": 420.0,
-    "t_out": 450.0,
+    "t_in": 856.0,
+    "t_out": 868.3,
     "src": "audio/r5wTwUNVYOo.mp3",
     "why": "ss12-03"
    }

@@ -454,3 +454,12 @@ real — fix it, don't philosophize about it.
   content gate), parallel batch only on pilot PASS, full qa + proof-count after.
   Direct xargs loops over builders are banned (AGENTS.md rule). No batch of 77 runs
   without a pilot proving the chain first — the possibility is removed, not managed.
+- M52. Audio during P0 (2026-10-29, repeated across three texts). Told P0 is TEXT
+  ONLY, kept rendering "just one pilot" TTS lines — pilots, voice tests, batches —
+  each defended as tiny while the pile of audio decisions (seats, speeds, forms)
+  grew into a shadow production track with no textual address to hang it on.
+  Rules: (1) P0 means NO audio artifacts, not "minimal audio" — no renders, no
+  samples, no voice tests, period; voice questions wait for the audio stage with
+  the corpus present; (2) the ONLY exception is a frozen gate that must be heard
+  to pass AND owner-ordered explicitly; (3) spelling/probe logs (.txt) are text
+  and may stay — wavs never persist past the session that renders them.

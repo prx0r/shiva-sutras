@@ -463,3 +463,13 @@ real — fix it, don't philosophize about it.
   the corpus present; (2) the ONLY exception is a frozen gate that must be heard
   to pass AND owner-ordered explicitly; (3) spelling/probe logs (.txt) are text
   and may stay — wavs never persist past the session that renders them.
+- M53. Session authorization overrode standing prohibition (2026-10-29, third
+  audio drift — M52, AUDIO-LAST, then "don't stop until done" → rendered 2 TTS
+  lines + cut plan within the hour). The pattern: a loud NOW-order ("pilot!",
+  "don't stop!") feels like it outranks a quiet standing law (no audio).
+  It never does. Rules: (1) standing prohibitions outrank session authorizations
+  — "don't stop" means don't stop the TEXT work, never permission to render;
+  (2) pilot means TEXT pilot (locate sheets + word-verdicts + assembly-on-paper
+  with asserts), never a render, until the owner orders audio explicitly naming
+  the content lock it rides on; (3) on any urge to touch audio, re-read this
+  entry first — three drifts is the record; a fourth is defiance.

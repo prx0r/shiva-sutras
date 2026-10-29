@@ -882,3 +882,10 @@ missing anywhere). RUBBEDs are the designed doorway texture (room beds + fades,
 constant voice rotation by construction); intro joints CLEAN. Incidental corroboration:
 Qwen transcribes Sadhguru + his B1s lines cleanly in flow across all 22 ch1 verses.
 Full walks are agent-checked at every seam class; owner ears remain the only lock.
+
+### §8p follow-up — v6 ships: speed fixed, verified by transcription (2026-10-29)
+- 0 (43.6min): https://h.uguu.se/OrsAewLa.mp3 (R2 ship_chall_0_v6.mp3)
+- A (91min): https://h.uguu.se/ozZETlTK.mp3 (R2 ship_chall_A_v6.mp3)
+- B (3h10): https://d.uguu.se/nHgKkhUS.mp3 (R2 ship_chall_B_v6.mp3)
+True durations (sample-counted): 2614/5476/11371s. Old v2/v5 links SUPERSEDED
+(fast-forward defect). Qwen re-checks voices on request; owner ears are the lock.

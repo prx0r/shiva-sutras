@@ -164,6 +164,8 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
   → RESOLVED 2026-10-28: lecture CARRIES both practices — b-his bird [167.8,196.5] +
   arrow [227.2,250.0], measured edges; B1 re-cut whole [0.0,3.1] vs GRETIL exact.
   qa 0 FAIL, no new FLAGs.
+  → SEED-CAP FIX 2026-10-29: B's ss11-05 is S5's essay-0 cell — REPLACED by ss11-06
+  (failure law, same file, unit window); rebuilt, qa green, joints clean.
 - **2.3** SOFT. Core (secret=Being of mantra-body; two readings; Baumer ss6-24)
   present. P3 (unmesa/sahasa expansion): terminology thin. P4 (Bindu→Vaikhari
   mechanism): SOFT — mantra-unfolding discussed S5-adjacent. P5 (Kundalini/Matrka):
@@ -260,6 +262,8 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
   likely APPARATUS (cosmology enumeration).
   → ACCEPTED 2026-10-28: checked — ss13-09/10 voice stage/spectator definitions,
   not subtle-body forms → P4 thin; P8 apparatus stands.
+  → SEED-CAP FIX 2026-10-29: ss13-09 is S6's essay-0 cell — REMOVED from B (translation
+  +A carry stage); B = ss13-10 alone. Machine re-verified zero seed cells in Standard.
 - **3.11** PARTIAL — translation covers sutra line only; exposition claims (free/awake;
   senses-by-power; light metaphysics; aesthetic delight/Khecari) largely absent.
   STATUS: UNVERIFIED (transcript garbled 00:00-00:03+; CF transcript equally garbled).
@@ -520,6 +524,7 @@ owner ruling 2026-10-28, see ACTION LIST item 1).
   verdict note overstated readability) — B1 re-cut to whole chant [0.0,3.1]
   ('prayatnah sadhakah' + onset speech, closes pre-gloss), form vs GRETIL exact;
   old F4 cleared by the fix. Practice Level-2s stay SOFT-accept (thin at verse).
+  → SEED-CAP FIX 2026-10-29: ss11-05→ss11-06 (see detail).
 - **2.3** SOFT (core + two readings + Baumer present). P3/P4 (unmesa expansion;
   Bindu→Vaikhari): SOFT. P5 (Kundalini/Matrka mapping): APPARATUS.
   → ACCEPTED 2026-10-28 (P3/P4 thin at verse; P5 apparatus stands).

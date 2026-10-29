@@ -50,12 +50,17 @@ def main():
     v, src = man["verse"], man["src"]
     # M36: closed b1_status enum — hand-set variance broke queries silently.
     # his-verified = his statement, word-verified onset + book/GRETIL form;
-    # his-prov = located, verification pending; sharma = Sharma exact-slice
-    # fallback; cf-done = CF re-pass transcribed (his voicing cleanest there);
-    # cf-owed = garbled head, re-pass still owed.
+    # his-prov = located, verification pending; sharma = DEAD STATE (Sharma banned
+    # by owner 2026-10-29 — no manifest may carry it; kept in enum so old files
+    # fail loud, never silent); sadhguru = Sadhguru TTS carries the verse (his
+    # tape unusable, GRETIL-exact folded); cf-done = CF re-pass transcribed
+    # (his voicing cleanest there); cf-owed = garbled head, re-pass still owed.
     assert man.get("b1_status") in (
-        "his-verified", "his-prov", "sharma", "cf-done", "cf-owed"), \
+        "his-verified", "his-prov", "sharma", "sadhguru", "cf-done",
+        "cf-owed"), \
         "%s: b1_status %r not in enum" % (v, man.get("b1_status"))
+    if man.get("b1_status") == "sharma":
+        raise SystemExit("%s: Sharma banned — reassign B1 (owner 2026-10-28)" % v)
     os.makedirs(GEN, exist_ok=True)
     tag = v.replace(".", "_")
     room = os.path.join(GEN, f"{tag}_room15.wav")

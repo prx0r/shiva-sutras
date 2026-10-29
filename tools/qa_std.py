@@ -22,7 +22,7 @@ os.chdir(BASE)
 sys.path.insert(0, BASE + "/tools")
 from build_manifests import MP3, parse_units  # noqa
 
-ENUM = {"his-verified", "his-prov", "sharma", "cf-done", "cf-owed"}
+ENUM = {"his-verified", "his-prov", "sharma", "sadhguru", "cf-done", "cf-owed"}
 FILLER = {"and", "so", "now", "but", "then", "uh", "um", "well", "actually"}
 TERMINAL = set(".?!\"'")
 

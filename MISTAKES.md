@@ -403,3 +403,30 @@ real — fix it, don't philosophize about it.
   audio on base-whisper transcripts (extends M37/M40 into a new domain); gate on
   duration-band + Qwen spots + owner ears. A model that invents confident English
   from 1.4 seconds of chant is not a verifier.
+- M46. Essay-0 seed clips were inside Standard (SEED-CAP breach, 2026-10-28).
+  ss11-05 (S5 cell) voiced in 2.2's B, ss13-09 (S6 cell) in 3.10's B — built in
+  the 10-27 B rollout against standing SEED-CAP law, caught only by an explicit
+  cross-check during the reorg review (no gate covered it: qa checks text, not
+  membership across compilations). Fixed: ss11-05→ss11-06 (failure law, same file),
+  ss13-09 deleted without replacement (translation+A carry stage; thin stays thin);
+  both proofs rebuilt, qa green, machine re-verified ZERO seed cells in Standard.
+  Rule: cross-compilation membership gets its own gate (cell-uid set vs Standard
+  manifests) before every assembly — add the check, don't rely on reviews.
+- M47. Sharma everywhere, then banned everywhere (2026-10-28). Coda missing from
+  ships + Sharma slices mid-walk + v1 windows holding wrong sutras + B1s echo
+  confusion = the chant placement saga closed by owner fiat: NO SHARMA ANYWHERE
+  (no coda, no slices, no fallback; 10 verses re-pointed to Sadhguru, echo removed
+  where Sadhguru carries the verse). `sharma` status kept as a DEAD enum value so
+  old files fail loud. Rules: (1) a fallback ladder is load-bearing law — changing
+  it changes every verse that used it (here: 10); (2) proportional chant splits were
+  never measured — never trust a window nobody word-verified (M31 has no exceptions,
+  not even for chant).
+- M48. Malformed kit wavs silently truncate concats (2026-10-29). The vatulanatha
+  SFX wavs (bowls_intro/long_break_bell) throw PCM decode errors inside concat
+  demuxers: a 4-part re-encode produced 137s/267s/533s ships instead of
+  2650s/5500s/11400s — no error surfaced at -v error except the PCM spam, and the
+  files decoded "clean" (short, not corrupt). Caught only by checking DURATIONS
+  against expected sums. Rules: (1) every assembly asserts duration == sum(parts)
+  (like assemble_standard's master==sum) — never trust exit 0 + decodable output;
+  (2) re-encode suspect kit files to clean PCM before they enter any chain;
+  (3) mp3+mp3 -c copy concat is the safe path (proven: v2/v5 ships).

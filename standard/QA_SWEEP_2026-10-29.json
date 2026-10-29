@@ -41,10 +41,10 @@
   ]
  },
  "1.6": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F3 1.6/0#3(b2) opens on filler 'then' @59.0 (seg 60.0)"
+   "F3 1.6/0#2(b2) opens on filler 'then' @59.0 (seg 60.0)"
   ]
  },
  "1.7": {
@@ -95,10 +95,10 @@
   ]
  },
  "1.14": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F4 1.14/0#3(b2) ends mid-segment (2.8s stranded): 'ved objective world is his own self. Dresham means perceived'",
+   "F4 1.14/0#2(b2) ends mid-segment (2.8s stranded): 'ved objective world is his own self. Dresham means perceived'",
    "F4 1.14/A#0(a-core) ends mid-segment (1.8s stranded): ' has no ego for that body, body of his, so Shri Ram Dresham,'"
   ]
  },
@@ -265,10 +265,10 @@
   ]
  },
  "3.7": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F3 3.7/0#3(b2) opens on filler 'then' @391.9 (seg 391.9)"
+   "F3 3.7/0#2(b2) opens on filler 'then' @391.9 (seg 391.9)"
   ]
  },
  "3.8": {
@@ -291,10 +291,10 @@
   ]
  },
  "3.11": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F4 3.11/0#3(b2) ends mid-segment (7.4s stranded): 'ی unsere رایات کرعہی میکنی میکنی میکنی mیکنی ت znajزٍ و Over'"
+   "F4 3.11/0#2(b2) ends mid-segment (7.4s stranded): 'ی unsere رایات کرعہی میکنی میکنی میکنی mیکنی ت znajزٍ و Over'"
   ]
  },
  "3.12": {
@@ -336,7 +336,7 @@
   "flags": []
  },
  "3.18": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": []
  },
@@ -361,7 +361,7 @@
   "flags": []
  },
  "3.22": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": []
  },
@@ -400,10 +400,10 @@
   "flags": []
  },
  "3.29": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F3 3.29/0#3(b2) opens on filler 'but' @139.2 (seg 139.2)"
+   "F3 3.29/0#2(b2) opens on filler 'but' @139.2 (seg 139.2)"
   ]
  },
  "3.30": {
@@ -421,7 +421,7 @@
   "flags": []
  },
  "3.32": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": []
  },
@@ -476,12 +476,12 @@
   "flags": []
  },
  "3.41": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": []
  },
  "3.42": {
-  "status": "sharma",
+  "status": "sadhguru",
   "fails": [],
   "flags": []
  },

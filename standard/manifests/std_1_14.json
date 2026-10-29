@@ -3,21 +3,15 @@
  "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.14.mp3",
  "room_t": 40.0,
  "guests": [],
- "b1_status": "sharma",
+ "b1_status": "sadhguru",
  "layers": {
   "0": [
    {
     "role": "b1",
-    "t_in": 327.5,
-    "t_out": 330.5,
-    "src": "audio/chant/sharma_siva_sutras_2009.mp3"
-   },
-   {
-    "role": "b1s",
     "t_in": 0,
     "t_out": 0,
     "file": "audio/gen/tts/b1s_1_14.wav",
-    "why": "Sanskrit clarity line (Sadhguru, GRETIL-exact folded); duration-banded + Qwen-spotted"
+    "why": "his tape unusable here — Sadhguru carries the verse (Sharma banned, owner ruling)"
    },
    {
     "role": "b1b",

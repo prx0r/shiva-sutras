@@ -873,3 +873,12 @@ ears (no rebuilds): B1→B1s echo seam (breath between identical utterances — 
 to tbeat? ears decide), model gender-label vs owner pick on voice 3 (M33-class;
 owner overrules). TTS golds (12 legacy lines, old voice) still owed voice-3
 re-render + source-string recovery — the last old-voice TTS in Standard.
+
+### §8p follow-up — full-walk Qwen joints audit (2026-10-29)
+0-walk (full, 1 pass) + A-walk (2 halves) + B-walk (7 chunks — 48min chunks thin
+out to near-empty, re-split to ~24min which inventory fully; keep joints passes
+≤30min): ~285 handovers inventoried, 0 structural flags (no CUT/mid-word/wrong/
+missing anywhere). RUBBEDs are the designed doorway texture (room beds + fades,
+constant voice rotation by construction); intro joints CLEAN. Incidental corroboration:
+Qwen transcribes Sadhguru + his B1s lines cleanly in flow across all 22 ch1 verses.
+Full walks are agent-checked at every seam class; owner ears remain the only lock.

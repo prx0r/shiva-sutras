@@ -21,8 +21,8 @@ root doc, fix this file the same day.
   - **B** — A + doctrine depth. Guest voices enter here, sparse and
     relevance-gated.
   - **C** — B + full lecture weight, stories, tangents, all guests.
-  - **Coda** — Sharma's complete run after the last verse (mangala + 77
-    sūtras + closing, ≈9 min). The text heard whole.
+  - **Coda — STRUCK by owner 2026-10-28.** No closing run; walks end at 3.45.
+    (Was: Sharma complete run after the last verse. Sharma banned everywhere.)
 - **One-voice law:** 0 and A are Lakshmanjoo only (plus the AI translation
   line). No human guest speaks before B.
 - **Source hierarchy:** (1) the sutras themselves; (2) GRETIL Kaul text =
@@ -88,14 +88,16 @@ the word with `tools/word_onset.py` (M27: transcript segments are not
 speech onsets; M30: no filler words — and/so/now belong to the previous
 thought, never open 0); (4) extend B2 to the sentence end.
 Fallbacks, in order: his voicing (default) → Cloudflare large-model
-re-pass for garbled heads → Sharma exact slice, word-verified (mark
-`b1_status: sharma`). Record every window in `standard/manifests/std_N_N.json`
+re-pass for garbled heads → Sadhguru TTS of the GRETIL-exact form, folded
+(mark `b1_status: sadhguru`; his tape unusable). SHARMA IS BANNED (owner
+2026-10-28 — no coda, no slices, no fallback; the coda step below is STRUCK).
+Record every window in `standard/manifests/std_N_N.json`
 (`src`, `room_t` from a measured pause ≥1.2s in the SAME file, `b1_status`).
 `b1_status` is a CLOSED enum, asserted by the builder (M36): `his-verified`
 (his statement, word-verified onset + book/GRETIL form) · `his-prov`
-(located, verification pending) · `sharma` (Sharma exact-slice fallback) ·
-`cf-done` (CF re-pass transcribed, his voicing cleanest there) · `cf-owed`
-(garbled head, re-pass still owed).
+(located, verification pending) · `sharma` (DEAD — banned; asserts fail loud) ·
+`sadhguru` (Sadhguru carries the verse) · `cf-done` (CF re-pass transcribed,
+his voicing cleanest there) · `cf-owed` (garbled head, re-pass still owed).
 
 ## 5. Stage 4 — Curate (A, then B, then C)
 

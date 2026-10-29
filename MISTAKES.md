@@ -444,3 +444,13 @@ real — fix it, don't philosophize about it.
   leading non-speech: never open a verification window with 17s of bells — offset
   past the intro. (d) Concat inputs must share rate+layout BEFORE the concat
   (stereo kit + mono voice broke a filtergraph silently); normalize per-input first.
+- M51. The rebuild loop (2026-10-29): fix → rebuild all 77 → discover the fix broke
+  something else → rebuild all 77 again, four cycles. Every disaster in the loop
+  (a one-line syntax break walked past three times, a filename bug burning a whole
+  batch silently, stale cuts shipping as new, an unverified concat method) would
+  have died on ONE verse in one minute. Structural prevention, not willpower:
+  `tools/build_all.py` is now the ONLY batch path — preflight compile of every tool,
+  one pilot verse end-to-end (proof decodes + head transcribes to words, the M50
+  content gate), parallel batch only on pilot PASS, full qa + proof-count after.
+  Direct xargs loops over builders are banned (AGENTS.md rule). No batch of 77 runs
+  without a pilot proving the chain first — the possibility is removed, not managed.

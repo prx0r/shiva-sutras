@@ -7,26 +7,19 @@
  "layers": {
   "0": [
    {
-    "role": "b1",
-    "t_in": 0,
-    "t_out": 0,
-    "file": "audio/gen/tts/b1s_3_7.wav",
-    "why": "his tape unusable here — Sadhguru carries the verse (Sharma banned, owner ruling)"
-   },
-   {
     "role": "b1b",
     "t_in": 0,
     "t_out": 0,
     "file": "audio/gen/tts/b1b_3_7.wav",
     "why": "Dyczkowski translation verbatim (Fish)"
-   },
+   }
+  ],
+  "A": [
    {
     "role": "b2",
     "t_in": 391.9,
     "t_out": 405.0
-   }
-  ],
-  "A": [
+   },
    {
     "role": "a-core",
     "t_in": 55.2,

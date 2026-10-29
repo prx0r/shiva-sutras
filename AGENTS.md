@@ -35,3 +35,5 @@ and the bad behaviour it avoids (shipping defects inside passing gates).
    `audio/SOURCES.md`). New artifact → FILEMAP row the same day.
 6. Log every fix with cause in MISTAKES.md. The engine only changes by
    adding checks, never relaxing them.
+7. Batch builds run ONLY through `tools/build_all.py` (preflight → pilot verse
+   → parallel batch → full qa). Never xargs a builder directly (M51).

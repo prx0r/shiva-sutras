@@ -7,12 +7,6 @@
  "layers": {
   "0": [
    {
-    "role": "b1",
-    "t_in": 58.0,
-    "t_out": 73.0,
-    "why": "statement (was review-head 1-7)"
-   },
-   {
     "role": "b1s",
     "t_in": 0,
     "t_out": 0,
@@ -25,15 +19,15 @@
     "t_out": 0,
     "file": "audio/gen/tts/b1b_3_24.wav",
     "why": "Dyczkowski translation verbatim (Fish)"
-   },
+   }
+  ],
+  "A": [
    {
     "role": "b2",
     "t_in": 73.0,
     "t_out": 112.0,
     "why": "adjacent gloss, sentence-complete (was review-head 7-16)"
-   }
-  ],
-  "A": [
+   },
    {
     "role": "a-core",
     "t_in": 324.2,

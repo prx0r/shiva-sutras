@@ -7,11 +7,6 @@
  "layers": {
   "0": [
    {
-    "role": "b1",
-    "t_in": 0.0,
-    "t_out": 3.1
-   },
-   {
     "role": "b1s",
     "t_in": 0,
     "t_out": 0,
@@ -24,14 +19,14 @@
     "t_out": 0,
     "file": "audio/gen/tts/b1b_2_2.wav",
     "why": "Dyczkowski translation verbatim (Fish)"
-   },
+   }
+  ],
+  "A": [
    {
     "role": "b2",
     "t_in": 5.0,
     "t_out": 22.3
-   }
-  ],
-  "A": [
+   },
    {
     "role": "a-core",
     "t_in": 65.5,

@@ -9,27 +9,20 @@
  "layers": {
   "0": [
    {
-    "role": "b1",
-    "t_in": 0,
-    "t_out": 0,
-    "file": "audio/gen/tts/b1s_1_6.wav",
-    "why": "his tape unusable here — Sadhguru carries the verse (Sharma banned, owner ruling)"
-   },
-   {
     "role": "b1b",
     "t_in": 0,
     "t_out": 0,
     "file": "audio/gen/tts/b1b_1_6.wav",
     "why": "Dyczkowski translation verbatim (Fish)"
-   },
+   }
+  ],
+  "A": [
    {
     "role": "b2",
     "t_in": 59.0,
     "t_out": 81.0,
     "src": "/home/ubuntu/shiva-study-set/Shiva Sutras 1.6.mp3"
-   }
-  ],
-  "A": [
+   },
    {
     "role": "a-core",
     "t_in": 151.3,

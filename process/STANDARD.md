@@ -9,13 +9,15 @@ root doc, fix this file the same day.
 - **Fidelity object.** All 77 sūtras in sūtra order. Nothing skipped,
   nothing reordered, no argument imposed. Completeness is the product.
 - **Layers (russian doll, append-only):**
-  - **0** — verse + meaning only, per verse in order: (1) his Sanskrit
-    reading, (2) Sanskrit clarity line (Sadhguru TTS, GRETIL-exact folded —
-    owner ear-ruling 2026-10-28: his voicing first, TTS echo for clarity),
-    (3) AI voice reading Dyczkowski's translation verbatim (the trusted
-    wording — voice THREE, owner-locked), (4) his English rendering.
-    No explanation, no guests, no heads. Bells + spoken intro live on the
-    walk masters only (bowls + bell + title line), never inside verses.
+  - **0** — the TEXT only, two voicings (owner ruling 2026-10-29 — his voice is
+    out of the first run: choppy levels): (1) Sanskrit clarity line (Osho TTS,
+    slow, GRETIL-exact folded), (2) AI voice reading Dyczkowski's translation
+    verbatim (voice THREE). No explanation, no guests, no heads. Bells + spoken
+    intro live on the walk masters only (bowls + bell + title line), never
+    inside verses. (His B1/B2 windows stay recorded in git history; B2 gloss
+    rides at A head so no meaning is lost.)
+  - **A** — 0 + his gloss bridge (B2) + one compressed explanation passage per
+    verse (~1 min/verse, whole of A ≈ 1 hour). The "oh, that's it" cut.
   - **A** — 0 + one compressed explanation passage per verse (~1 min/verse,
     whole of A ≈ 1 hour). The "oh, that's it" cut.
   - **B** — A + doctrine depth. Guest voices enter here, sparse and
@@ -29,6 +31,12 @@ root doc, fix this file the same day.
   exact Sanskrit wording; (3) Dyczkowski = trusted English wording;
   (4) Lakshmanjoo book = what each verse's explanation must cover;
   (5) his lectures = the voice. Disputes resolve upward (text wins).
+- **Voice roster (canonical, with Fish IDs — owner-locked):**
+  Dyczkowski seat = `ef9c79b62ef34530bf452c0e50e3c260` (voice THREE, deep male);
+  Sanskrit seat = `06134e9a49cb4a36997b75402c8a0621` (Osho, slow 0.85).
+  Alternates (approved, unused): Sadhguru `37a8fbc200e74961bee0597c3b4e4041`,
+  Gurudeep `82926c3143bc4d259fa9834b96897fad`. His voice carries A/B depth
+  (the bulk) but never the first run.
 
 ## 0b. The goal (owner doctrine, 2026-10-28 — the sentence that governs everything below)
 

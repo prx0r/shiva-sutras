@@ -3,7 +3,7 @@
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F3 1.1/A#1(a-cap) opens on filler 'so' @826.9 (seg 826.9)",
+   "F3 1.1/A#2(a-cap) opens on filler 'so' @826.9 (seg 826.9)",
    "F3 1.1/B#0(b-his) opens on filler 'so' @118.9 (seg 118.9)",
    "F3 1.1/C#0(c-mahamudu) opens on filler 'now' @727.8 (seg 727.8)"
   ]
@@ -12,8 +12,8 @@
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F3 1.2/A#0(a-core) opens on filler 'so' @234.8 (seg 234.8)",
-   "F4 1.2/A#0(a-core) ends mid-segment (5.2s stranded): 'Tata, Sreshti, Samrati. By this differentiated knowledge and'",
+   "F3 1.2/A#1(a-core) opens on filler 'so' @234.8 (seg 234.8)",
+   "F4 1.2/A#1(a-core) ends mid-segment (5.2s stranded): 'Tata, Sreshti, Samrati. By this differentiated knowledge and'",
    "F3 1.2/B#0(b-his) opens on filler 'so' @887.3 (seg 887.3)"
   ]
  },
@@ -26,16 +26,15 @@
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F4 1.4/0#0(b1) ends mid-segment (9.2s stranded): 'thika, to this he puts on Sir, Mathika is the point, Mathika'",
-   "F4 1.4/0#3(b2) ends mid-segment (1.3s stranded): 's Gyanath, Mathika is the chief conductor of this knowledge,'",
-   "F4 1.4/A#0(a-core) ends mid-segment (14.0s stranded): 'iversal energy is known in a correct way, it is found, it is'"
+   "F4 1.4/A#0(b2) ends mid-segment (1.3s stranded): 's Gyanath, Mathika is the chief conductor of this knowledge,'",
+   "F4 1.4/A#1(a-core) ends mid-segment (14.0s stranded): 'iversal energy is known in a correct way, it is found, it is'"
   ]
  },
  "1.5": {
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F4 1.5/A#0(a-core) ends mid-segment (15.2s stranded): 'o the whole universe is filled with that sātantriya. And all'",
+   "F4 1.5/A#1(a-core) ends mid-segment (15.2s stranded): 'o the whole universe is filled with that sātantriya. And all'",
    "F4 1.5/B#1(b-his) ends mid-segment (5.4s stranded): '-desa. When one is capable of keeping away all the thoughts,'",
    "F4 1.5/C#0(c-core) ends mid-segment (11.7s stranded): 'a unmeśa satvīgaya suyantam upalakśeya. Take one thought. We'"
   ]
@@ -44,15 +43,14 @@
   "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F3 1.6/0#2(b2) opens on filler 'then' @59.0 (seg 60.0)"
+   "F3 1.6/A#0(b2) opens on filler 'then' @59.0 (seg 60.0)"
   ]
  },
  "1.7": {
   "status": "cf-owed",
   "fails": [],
   "flags": [
-   "F4 1.7/0#0(b1) ends mid-segment (9.6s stranded): 'ate of Sopna, and in the differentiated state of Sushopthya,'",
-   "F3 1.7/A#0(a-core) opens on filler 'so' @37.2 (seg 37.2)",
+   "F3 1.7/A#1(a-core) opens on filler 'so' @37.2 (seg 37.2)",
    "F4 1.7/C#0(c-core) ends mid-segment (6.0s stranded): 'me way, this great yogi, Mahayogi, Yadav, Pariyatete, Mahim,'"
   ]
  },
@@ -89,8 +87,7 @@
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F4 1.13/0#0(b1) ends mid-segment (6.4s stranded): ' joy, to him, yichā shaktir umā-kumāri, his desire, his will'",
-   "F4 1.13/0#3(b2) ends mid-segment (8.8s stranded): ' Not only energy, umā, his will is called umā, and his will,'",
+   "F4 1.13/A#0(b2) ends mid-segment (8.8s stranded): ' Not only energy, umā, his will is called umā, and his will,'",
    "F4 1.13/B#0(b-his) ends mid-segment (3.6s stranded): \"ted perception in one's own nature. That is kumāri. There is\""
   ]
  },
@@ -98,23 +95,22 @@
   "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F4 1.14/0#2(b2) ends mid-segment (2.8s stranded): 'ved objective world is his own self. Dresham means perceived'",
-   "F4 1.14/A#0(a-core) ends mid-segment (1.8s stranded): ' has no ego for that body, body of his, so Shri Ram Dresham,'"
+   "F4 1.14/A#0(b2) ends mid-segment (2.8s stranded): 'ved objective world is his own self. Dresham means perceived'",
+   "F4 1.14/A#1(a-core) ends mid-segment (1.8s stranded): ' has no ego for that body, body of his, so Shri Ram Dresham,'"
   ]
  },
  "1.15": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 1.15/0#3(b2) ends mid-segment (10.0s stranded): 'ind are diverted to the heart, heart means the center of God'"
+   "F4 1.15/A#0(b2) ends mid-segment (10.0s stranded): 'ind are diverted to the heart, heart means the center of God'"
   ]
  },
  "1.16": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 1.16/0#0(b1) ends mid-segment (11.0s stranded): 'f Shiva, or by aiming at pure element of Shiva. Then you aim'",
-   "F4 1.16/0#3(b2) ends mid-segment (18.3s stranded): 'nda, huh? Not established, aiming. When you point, pointing,'",
+   "F4 1.16/A#0(b2) ends mid-segment (18.3s stranded): 'nda, huh? Not established, aiming. When you point, pointing,'",
    "F3 1.16/D#0(d-tangent) opens on filler 'then' @311.2 (seg 311.2)"
   ]
  },
@@ -142,16 +138,15 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F3 1.21/0#0(b1) opens on filler 'then' @71.6 (seg 71.6)",
-   "F4 1.21/A#0(a-core) ends mid-segment (16.0s stranded): 'al being. He had not limitedness as some yogi will tell you,'"
+   "F4 1.21/A#1(a-core) ends mid-segment (16.0s stranded): 'al being. He had not limitedness as some yogi will tell you,'"
   ]
  },
  "1.22": {
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F3 1.22/0#3(b2) opens on filler 'then' @51.6 (seg 51.6)",
-   "F3 1.22/A#0(a-core) opens on filler 'and' @158.0 (seg 158.7)",
+   "F3 1.22/A#0(b2) opens on filler 'then' @51.6 (seg 51.6)",
+   "F3 1.22/A#1(a-core) opens on filler 'and' @158.0 (seg 158.7)",
    "F4 1.22/B#0(b-his) ends mid-segment (8.6s stranded): 'svara-atma-kparānta-vyumarsimaya-si-mantravirya-si-anubhava,'"
   ]
  },
@@ -169,61 +164,57 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 2.3/0#0(b1) ends mid-segment (7.3s stranded): 'Rehasyam, the secret essence of Mantra, Mantra Rehasyam, the'",
-   "F4 2.3/0#3(b2) ends mid-segment (8.5s stranded): 'stablishment in the body of knowledge of Oneness, Vidyashiri'"
+   "F4 2.3/A#0(b2) ends mid-segment (8.5s stranded): 'stablishment in the body of knowledge of Oneness, Vidyashiri'"
   ]
  },
  "2.4": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F3 2.4/A#0(a-core) opens on filler 'and' @41.8 (seg 41.8)"
+   "F3 2.4/A#1(a-core) opens on filler 'and' @41.8 (seg 41.8)"
   ]
  },
  "2.5": {
   "status": "his-prov",
   "fails": [],
-  "flags": [
-   "F4 2.5/0#0(b1) ends mid-segment (7.4s stranded): 'ike samutthane, saabhavike without any effort, shuddh vidya,'"
-  ]
+  "flags": []
  },
  "2.6": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 2.6/0#3(b2) ends mid-segment (19.4s stranded): 'm his disciples, the one who makes his disciples work in his'",
-   "F3 2.6/A#0(a-core) opens on filler 'so' @71.1 (seg 71.1)",
-   "F4 2.6/A#0(a-core) ends mid-segment (8.0s stranded): 't is coated in maal ne Vijatantra, Sagarur, Madsama, Prokto,'"
+   "F4 2.6/A#0(b2) ends mid-segment (19.4s stranded): 'm his disciples, the one who makes his disciples work in his'",
+   "F3 2.6/A#1(a-core) opens on filler 'so' @71.1 (seg 71.1)",
+   "F4 2.6/A#1(a-core) ends mid-segment (8.0s stranded): 't is coated in maal ne Vijatantra, Sagarur, Madsama, Prokto,'"
   ]
  },
  "2.7": {
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F4 2.7/0#3(b2) ends mid-segment (8.6s stranded): 'ation is vividly and broadly explained by our great masters,'"
+   "F4 2.7/A#0(b2) ends mid-segment (8.6s stranded): 'ation is vividly and broadly explained by our great masters,'"
   ]
  },
  "2.8": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 2.8/0#0(b1) ends mid-segment (10.7s stranded): 'hakra, matrika-chakra-samboda-wata, for him Shirdi-ram-havi,'",
-   "F4 2.8/0#3(b2) ends mid-segment (4.1s stranded): 'hakra, matrika-chakra-samboda-wata, for him Shirdi-ram-havi,'",
-   "F4 2.8/A#0(a-core) ends mid-segment (9.0s stranded): 'ness in them, you should establish, remove eye consciousness'"
+   "F4 2.8/A#0(b2) ends mid-segment (4.1s stranded): 'hakra, matrika-chakra-samboda-wata, for him Shirdi-ram-havi,'",
+   "F4 2.8/A#1(a-core) ends mid-segment (9.0s stranded): 'ness in them, you should establish, remove eye consciousness'"
   ]
  },
  "2.9": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 2.9/A#0(a-core) ends mid-segment (15.0s stranded): ' previously, in first awakening of Srutra, in second Srutra,'"
+   "F4 2.9/A#1(a-core) ends mid-segment (15.0s stranded): ' previously, in first awakening of Srutra, in second Srutra,'"
   ]
  },
  "2.10": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F3 2.10/A#0(a-core) opens on filler 'then' @47.6 (seg 47.6)",
+   "F3 2.10/A#1(a-core) opens on filler 'then' @47.6 (seg 47.6)",
    "F3 2.10/B#0(b-his) opens on filler 'so' @930.0 (seg 930.3)"
   ]
  },
@@ -235,15 +226,13 @@
  "3.2": {
   "status": "his-prov",
   "fails": [],
-  "flags": [
-   "F4 3.2/0#0(b1) ends mid-segment (11.6s stranded): 'mpressions of worldly pleasures, for him, Janam vandha, each'"
-  ]
+  "flags": []
  },
  "3.3": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F3 3.3/0#3(b2) opens on filler 'then' @207.5 (seg 207.5)"
+   "F3 3.3/A#0(b2) opens on filler 'then' @207.5 (seg 207.5)"
   ]
  },
  "3.4": {
@@ -260,22 +249,21 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.6/0#0(b1) ends mid-segment (20.8s stranded): \"hen a yogi's consciousness is covered by the energy of Maya,\"",
-   "F4 3.6/0#3(b2) ends mid-segment (4.8s stranded): \"hen a yogi's consciousness is covered by the energy of Maya,\""
+   "F4 3.6/A#0(b2) ends mid-segment (4.8s stranded): \"hen a yogi's consciousness is covered by the energy of Maya,\""
   ]
  },
  "3.7": {
   "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F3 3.7/0#2(b2) opens on filler 'then' @391.9 (seg 391.9)"
+   "F3 3.7/A#0(b2) opens on filler 'then' @391.9 (seg 391.9)"
   ]
  },
  "3.8": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.8/A#0(a-core) ends mid-segment (11.2s stranded): 'inness is found in equal same scale, the way it is the same,'"
+   "F4 3.8/A#1(a-core) ends mid-segment (11.2s stranded): 'inness is found in equal same scale, the way it is the same,'"
   ]
  },
  "3.9": {
@@ -286,31 +274,27 @@
  "3.10": {
   "status": "his-prov",
   "fails": [],
-  "flags": [
-   "F4 3.10/0#0(b1) ends mid-segment (15.0s stranded): 'angon Tarathma. Ranga means various ways of playing, various'"
-  ]
+  "flags": []
  },
  "3.11": {
   "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F4 3.11/0#2(b2) ends mid-segment (7.4s stranded): 'ی unsere رایات کرعہی میکنی میکنی میکنی mیکنی ت znajزٍ و Over'"
+   "F4 3.11/A#0(b2) ends mid-segment (7.4s stranded): 'ی unsere رایات کرعہی میکنی میکنی میکنی mیکنی ت znajزٍ و Over'"
   ]
  },
  "3.12": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.12/0#0(b1) ends mid-segment (8.2s stranded): 'ashāth sattu-siddhi, by conducting his reality of intellect,'",
-   "F3 3.12/A#0(a-core) opens on filler 'so' @85.7 (seg 85.7)"
+   "F3 3.12/A#1(a-core) opens on filler 'so' @85.7 (seg 85.7)"
   ]
  },
  "3.13": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F3 3.13/0#0(b1) opens on filler 'so' @1.0 (seg 1.6)",
-   "F3 3.13/A#0(a-core) opens on filler 'so' @48.6 (seg 48.6)"
+   "F3 3.13/A#1(a-core) opens on filler 'so' @48.6 (seg 48.6)"
   ]
  },
  "3.14": {
@@ -327,7 +311,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.16/0#3(b2) ends mid-segment (5.9s stranded): 'Actually postures, which are explained in yogdarshana,'"
+   "F4 3.16/A#0(b2) ends mid-segment (5.9s stranded): 'Actually postures, which are explained in yogdarshana,'"
   ]
  },
  "3.17": {
@@ -344,15 +328,15 @@
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F3 3.19/0#3(b2) opens on filler 'then' @24.0 (seg 24.5)",
-   "F4 3.19/A#0(a-core) ends mid-segment (3.2s stranded): 'how that supreme energy of sātantar shaktīr,'"
+   "F3 3.19/A#0(b2) opens on filler 'then' @24.0 (seg 24.5)",
+   "F4 3.19/A#1(a-core) ends mid-segment (3.2s stranded): 'how that supreme energy of sātantar shaktīr,'"
   ]
  },
  "3.20": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.20/0#3(b2) ends mid-segment (5.2s stranded): 'hi, also, in wakefulness, in dreaming state and in dreamless'"
+   "F4 3.20/A#0(b2) ends mid-segment (5.2s stranded): 'hi, also, in wakefulness, in dreaming state and in dreamless'"
   ]
  },
  "3.21": {
@@ -369,9 +353,8 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.23/0#0(b1) ends mid-segment (6.3s stranded): 'tkara-mathreva-santrashanasthi, on the contrary, who remains'",
-   "F4 3.23/0#3(b2) ends mid-segment (5.2s stranded): 'at Turya-rasa, which is held or experienced in the entry and'",
-   "F4 3.23/A#0(a-core) ends mid-segment (8.6s stranded): 'ng state just as we do. He experiences in dreaming state and'"
+   "F4 3.23/A#0(b2) ends mid-segment (5.2s stranded): 'at Turya-rasa, which is held or experienced in the entry and'",
+   "F4 3.23/A#1(a-core) ends mid-segment (8.6s stranded): 'ng state just as we do. He experiences in dreaming state and'"
   ]
  },
  "3.24": {
@@ -403,16 +386,15 @@
   "status": "sadhguru",
   "fails": [],
   "flags": [
-   "F3 3.29/0#2(b2) opens on filler 'but' @139.2 (seg 139.2)"
+   "F3 3.29/A#0(b2) opens on filler 'but' @139.2 (seg 139.2)"
   ]
  },
  "3.30": {
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.30/0#0(b1) ends mid-segment (7.3s stranded): ' for him. I say for him sushakti pratyahya. Sumu. Sumu means'",
-   "F4 3.30/0#3(b2) ends mid-segment (5.7s stranded): 'ivity of his own energies. All collective energies are found'",
-   "F3 3.30/A#0(a-core) opens on filler 'so' @56.5 (seg 56.5)"
+   "F4 3.30/A#0(b2) ends mid-segment (5.7s stranded): 'ivity of his own energies. All collective energies are found'",
+   "F3 3.30/A#1(a-core) opens on filler 'so' @56.5 (seg 56.5)"
   ]
  },
  "3.31": {
@@ -429,15 +411,15 @@
   "status": "his-verified",
   "fails": [],
   "flags": [
-   "F4 3.33/0#3(b2) ends mid-segment (1.5s stranded): 'In the state of pleasure and in the state of pain,'"
+   "F4 3.33/A#0(b2) ends mid-segment (1.5s stranded): 'In the state of pleasure and in the state of pain,'"
   ]
  },
  "3.34": {
   "status": "cf-done",
   "fails": [],
   "flags": [
-   "F3 3.34/A#0(a-core) opens on filler 'and' @57.7 (seg 58.2)",
-   "F4 3.34/A#0(a-core) ends mid-segment (2.5s stranded): 'When you are establishing eye consciousness,'"
+   "F3 3.34/A#1(a-core) opens on filler 'and' @57.7 (seg 58.2)",
+   "F4 3.34/A#1(a-core) ends mid-segment (2.5s stranded): 'When you are establishing eye consciousness,'"
   ]
  },
  "3.35": {
@@ -449,8 +431,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.36/0#0(b1) ends mid-segment (4.5s stranded): 'again. Then what happens to him? Be the Tiraskare, Sargantar'",
-   "F4 3.36/0#3(b2) ends mid-segment (4.2s stranded): 'll the field of different differentiated perceptions. Be the'"
+   "F4 3.36/A#0(b2) ends mid-segment (4.2s stranded): 'll the field of different differentiated perceptions. Be the'"
   ]
  },
  "3.37": {
@@ -462,7 +443,7 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.38/0#3(b2) ends mid-segment (5.9s stranded): 'you just insert the absolute bliss of that Turya state,'"
+   "F4 3.38/A#0(b2) ends mid-segment (5.9s stranded): 'you just insert the absolute bliss of that Turya state,'"
   ]
  },
  "3.39": {
@@ -494,15 +475,12 @@
   "status": "his-prov",
   "fails": [],
   "flags": [
-   "F4 3.44/0#0(b1) ends mid-segment (1.3s stranded): ' Pranam Sambande, yes, Tazarudha, Antrim Kalam, Mimarashtra,'",
-   "F4 3.44/A#0(a-core) ends mid-segment (8.2s stranded): 'n Pranam, if he travels in Apana, if he travels in Sushamna,'"
+   "F4 3.44/A#1(a-core) ends mid-segment (8.2s stranded): 'n Pranam, if he travels in Apana, if he travels in Sushamna,'"
   ]
  },
  "3.45": {
   "status": "his-prov",
   "fails": [],
-  "flags": [
-   "F4 3.45/0#0(b1) ends mid-segment (8.2s stranded): 'am. Buya-sya-pratmi-yalanam. Buya repeatedly, the yogi feels'"
-  ]
+  "flags": []
  }
 }

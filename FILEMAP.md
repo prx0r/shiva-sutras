@@ -118,6 +118,7 @@ Shared inputs both compilations pull (paths frozen — never move without re-run
 | `build_b1b.py` | Fish TTS of Dyczkowski translations verbatim (marks-stripped speech, Sanskrit audit, loan gate) | the B1b line; asserts no deferrals |
 | `b_match.py` | Baumer candidate ranker per verse (anchors on `book_sanskrit`, M35) | metric proposes, human verdicts |
 | `build_standard_verse.py` | manifest → cut → assemble → sheet per verse (asserts `b1_status` enum, M36) | the Standard builder; span-hashed cuts |
+| `build_all.py` | THE ONLY batch path: preflight compile → pilot verse (decode + head-words gates) → parallel 76 → full qa | direct builder loops banned (M51) |
 | `assemble_standard.py` | ordered concat of per-verse proofs (+ coda on C walks, master==sum assert) | pilot + full walks; pilots labeled `pilot_` |
 | `build_template.py`, `fix_template_l3.py`, `template_v2.py` | template builders (Academy keying → L3 fix → GRETIL exact forms) | writers of `template_77.json`; v2 asserts 77/77 exact |
 | `count_a.py` | 0/A presence per verse (77/77 with 0+A) | Standard completeness gate |

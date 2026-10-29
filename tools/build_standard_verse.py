@@ -86,6 +86,13 @@ def main():
                 print("prebuilt:", os.path.basename(p))
             else:
                 cut(pc.get("src", src), pc["t_in"], pc["t_out"], p)
+            # Voice-evening calibration (per-role measured means 2026-10-29: his cuts
+            # land ~5dB hot vs the -19 LUFS house line; TTS pre-leveled at file,
+            # Baumer lifted at walk stage by dynaudnorm): his-lecture cuts -5dB here.
+            if not pc.get("file") and not pc.get("uid"):
+                sh(["ffmpeg", "-v", "error", "-y", "-i", p,
+                    "-af", "volume=-5.0dB", p + ".g.wav"])
+                os.replace(p + ".g.wav", p)
             if i > 0:
                 seq.append(pads["tbeat"] if Clo[i-1].get("role") == "b2" else pads["breath"])
             seq.append(p)

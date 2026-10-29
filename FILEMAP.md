@@ -32,6 +32,9 @@ the long-form queue with context.)
 | `process/STANDARD.md` | Standard build manual (self-contained: inputs → locate → curate → build → QA → assemble → ship) | the Standard law; conflicts resolve here first |
 | `process/STANDARD-PORTING.md` | text-independent engine + per-text config (worked Yoga Sūtras port) | start new texts here |
 | `process/10-FORMAL-CHANT.md` | Standard Compilation method: tagging, spacing, what it never does | build the chant storyboard per corpus |
+| `process/11-VOICED-GOLD.md` | book-coverage completion method (ladder, TTS discipline, completion gate) | close a verse: human → TTS → card → accept, then record it |
+| `process/12-VOICE-SEATS.md` | voice roster with Fish IDs + casting method | fill a seat once; re-render on change |
+| `process/13-SHIP.md` | proofs → links without lying (samples, head-words, seams, mirror) | ship only through these gates |
 | `standard/TRACK_F_STORYBOARD.md` | 77 verse rows (S1-19 filled 2026-10-26): B1 chant window + B2 readout + B3 slot + B4 slot | Standard Compilation assembly source (separate from custom manifests by law) |
 | `NEXT.md` | full queue with context/threads (superset of TODO) | what & why, longer horizon |
 | `PROCESS_NOTES.md` | §0–8m session history + pass-1-complete block + BUILD ORDER LAW + FROM SCRATCH | the project's memory — state claims live here |

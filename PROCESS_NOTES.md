@@ -889,3 +889,12 @@ Full walks are agent-checked at every seam class; owner ears remain the only loc
 - B (3h10): https://d.uguu.se/nHgKkhUS.mp3 (R2 ship_chall_B_v6.mp3)
 True durations (sample-counted): 2614/5476/11371s. Old v2/v5 links SUPERSEDED
 (fast-forward defect). Qwen re-checks voices on request; owner ears are the lock.
+
+### §8q SESSION CLOSE — curation law captured, build pending (2026-10-29)
+This session's final curation is now law, not memory: `process/11-VOICED-GOLD.md`
+(gold ladder + TTS discipline + completion gate), `process/12-VOICE-SEATS.md`
+(roster with Fish IDs + casting method), `process/13-SHIP.md` (samples, head-words,
+seams, mirror/link discipline). M43–M51 logged. Honest open state: `build_all.py`
+repaired (subprocess gate + retry + -P2) but NOT re-run since repair — compile-only;
+std/ holds a partial mixed-state build; next action is the single final build through
+the gate, then walk mastering, ships, links. Nothing half-built ships.

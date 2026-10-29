@@ -11,6 +11,13 @@
     "t_out": 8.5
    },
    {
+    "role": "b1s",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/b1s_1_18.wav",
+    "why": "Sanskrit clarity line (Sadhguru, GRETIL-exact folded); duration-banded + Qwen-spotted"
+   },
+   {
     "role": "b1b",
     "t_in": 0,
     "t_out": 0,

@@ -13,6 +13,13 @@
     "src": "/home/ubuntu/shiva-sutras/audio/chant/sharma_siva_sutras_2009.mp3"
    },
    {
+    "role": "b1s",
+    "t_in": 0,
+    "t_out": 0,
+    "file": "audio/gen/tts/b1s_3_42.wav",
+    "why": "Sanskrit clarity line (Sadhguru, GRETIL-exact folded); duration-banded + Qwen-spotted"
+   },
+   {
     "role": "b1b",
     "t_in": 0,
     "t_out": 0,

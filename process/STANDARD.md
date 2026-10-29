@@ -10,9 +10,12 @@ root doc, fix this file the same day.
   nothing reordered, no argument imposed. Completeness is the product.
 - **Layers (russian doll, append-only):**
   - **0** — verse + meaning only, per verse in order: (1) his Sanskrit
-    reading, (2) AI voice reading Dyczkowski's translation verbatim (the
-    trusted wording), (3) his English rendering. No explanation, no
-    guests, no heads, no bells.
+    reading, (2) Sanskrit clarity line (Sadhguru TTS, GRETIL-exact folded —
+    owner ear-ruling 2026-10-28: his voicing first, TTS echo for clarity),
+    (3) AI voice reading Dyczkowski's translation verbatim (the trusted
+    wording — voice THREE, owner-locked), (4) his English rendering.
+    No explanation, no guests, no heads. Bells + spoken intro live on the
+    walk masters only (bowls + bell + title line), never inside verses.
   - **A** — 0 + one compressed explanation passage per verse (~1 min/verse,
     whole of A ≈ 1 hour). The "oh, that's it" cut.
   - **B** — A + doctrine depth. Guest voices enter here, sparse and

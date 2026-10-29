@@ -395,3 +395,11 @@ real — fix it, don't philosophize about it.
   front-listing l.4977, B1b re-rendered + proof rebuilt. Rules: (1) uniqueness check
   belongs wherever extraction fills a column (dup scan after every template rebuild);
   (2) token-audits pull double duty — they catch content bugs, not just voice bugs.
+- M45. Base-whisper round-trips are INVALID for short Sanskrit clips (2026-10-28).
+  77 Sadhguru sutra lines round-tripped: ~20 came back as fluent English YouTube
+  outros ("we'll see you in the next video", "Happy Saturday!") — impossible audio
+  proven by durations (1.0–1.7s files cannot hold those sentences). Qwen spot-checks
+  hear clean Sanskrit (4–5/5) in the same bytes. Rule: NEVER gate short Sanskrit
+  audio on base-whisper transcripts (extends M37/M40 into a new domain); gate on
+  duration-band + Qwen spots + owner ears. A model that invents confident English
+  from 1.4 seconds of chant is not a verifier.

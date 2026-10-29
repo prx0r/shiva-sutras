@@ -860,3 +860,16 @@ scholarly); Gurudeep 5/5 (every syllable distinct, recitative steadiness); Osho 
 Qwen cumulative: Sadhguru 5+5 most consistent; Gurudeep 4+5 close second with the
 most chant-like delivery. RECOMMENDED: Sadhguru (owner already likes him), Gurudeep
 backup. Owner ear decides.
+
+### §8p follow-up — v2 ships: four-voice 0, intro+bells, new walks (2026-10-28/29)
+Owner ear rulings applied: (1) walks open with bowls+bell+spoken title (intro_3,
+voice 3, wording provisional); (2) Dyczkowski seat = voice THREE, all 77 B1b
+re-rendered (0 deferrals); (3) Sanskrit clarity line (b1s, Sadhguru, GRETIL-folded)
+after every B1 — 77 rendered, duration-banded + Qwen-spotted (M45: base-whisper
+round-trips invalid for short Sanskrit, disproven by durations + Qwen).
+v2 walks (exact sums): 0 = 45.5min, A = 93min, B = 191.7min; R2 ship_chall_*_v2
+(byte-matched) + uguu listen links. Ship-head qa: intro joints CLEAN; flagged for
+ears (no rebuilds): B1→B1s echo seam (breath between identical utterances — tighten
+to tbeat? ears decide), model gender-label vs owner pick on voice 3 (M33-class;
+owner overrules). TTS golds (12 legacy lines, old voice) still owed voice-3
+re-render + source-string recovery — the last old-voice TTS in Standard.

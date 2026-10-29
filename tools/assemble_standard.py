@@ -29,9 +29,7 @@ assert not missing, missing
 
 lst = "/tmp/opencode/asm_%s_%s.txt" % (ch, layer)
 open(lst, "w").write("".join("file '%s/%s'\n" % (BASE, p) for p in parts))
-if layer == "C":
-    open(lst, "a").write("file '%s/audio/gen/std/coda_sharma.mp3'\n" % BASE)
-    parts = parts + ["audio/gen/std/coda_sharma.mp3"]
+# (Coda step STRUCK with the Sharma ban — walks end at the last verse.)
 
 out = sys.argv[3] if len(sys.argv) > 3 else \
     "audio/gen/std/%s_ch%s_%s.mp3" % ("pilot" if ch != "all" else "walk", ch, layer)
@@ -44,11 +42,23 @@ def dur(p):
     return float(r.stdout.strip())
 
 
+def nsamples(p):
+    r = subprocess.run(["ffmpeg", "-v", "error", "-i", p, "-ar", "44100",
+                        "-ac", "1", "-f", "s16le", "-acodec", "pcm_s16le",
+                        "-"], capture_output=True)
+    return len(r.stdout) // 2
+
+
 expect = sum(dur(p) for p in parts)
+# M50: NEVER -c copy mp3 concats (mixed-encode frames corrupt joints; headers
+# lie while playback fast-forwards). Decode everything, concat PCM, one encode.
 subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0",
-                "-i", lst, "-c", "copy", out], check=True)
-got = dur(out)
-print("parts=%d expect=%.1f master=%.1f diff=%.2f -> %s"
-      % (len(parts), expect, got, abs(expect - got), out))
-assert abs(expect - got) < 2.0, "assembly drift"
+                "-i", lst, "-ar", "44100", "-ac", "1",
+                "-codec:a", "libmp3lame", "-q:a", "2", out], check=True)
+# Ground-truth gate (headers lied under -c copy): decoded sample count must
+# match the summed parts within 1s.
+nsk = nsamples(out)
+nexp = sum(nsamples(p) for p in parts)
+print("samples: expect=%d got=%d diff=%.1fs" % (nexp, nsk, abs(nexp - nsk) / 44100))
+assert abs(nexp - nsk) < 44100, "SAMPLE DRIFT — concat corrupt, do not ship"
 print("ASSEMBLY OK")

@@ -430,3 +430,17 @@ real — fix it, don't philosophize about it.
   (like assemble_standard's master==sum) — never trust exit 0 + decodable output;
   (2) re-encode suspect kit files to clean PCM before they enter any chain;
   (3) mp3+mp3 -c copy concat is the safe path (proven: v2/v5 ships).
+- M50. mp3 -c-copy concats corrupt joints while headers lie (2026-10-29, THE speed
+  bug). assemble_standard joined proof-mp3s with `-c copy`: headers summed exactly
+  (2709.9, diff 0.00, green) while decoded PCM measured 2617.4s — 92s of phantom
+  duration; playback fast-forwarded through corrupt joints. Fixed: decode→concat
+  PCM→single encode + SAMPLE-count assert (115300757==115300757 on 0-walk).
+  (a) Duration metadata is not verification — any gate reading ffprobe durations
+  off a concat product is theater; count samples. (b) Model ears are BLIND to
+  global defects: ~10 Qwen joints passes + whisper transcripts all passed 2x audio
+  without noticing speed (one pass even rated its FLOW). Qwen hunts seams, never
+  speed/pitch/global wrongness — a content gate (transcribe the head, expect words)
+  runs on every master before any link goes out. (c) Whisper VAD quits on long
+  leading non-speech: never open a verification window with 17s of bells — offset
+  past the intro. (d) Concat inputs must share rate+layout BEFORE the concat
+  (stereo kit + mono voice broke a filtergraph silently); normalize per-input first.
